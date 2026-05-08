@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-08",
+  "generated_at_et": "2026-05-08 07:08:34 EDT",
+  "concept": "pitcher_hot_streaks_full",
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 519242,
+      "pitcher_name": "Chris Sale",
+      "pitcher_team": "Atlanta Braves",
+      "opposing_team": "Los Angeles Dodgers",
+      "active_qs_streak": 4,
+      "last_start_date": "2026-05-02",
+      "season_qs_total": 6,
+      "season_starts_total": 7,
+      "fip": 3.171,
+      "k_per_9": 10.5,
+      "game_pk": 823957,
+      "game_time_local": "10:10 PM ET",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "pitcher_mlbam_id": 656492,
+      "pitcher_name": "Foster Griffin",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Miami Marlins",
+      "active_qs_streak": 3,
+      "last_start_date": "2026-05-02",
+      "season_qs_total": 3,
+      "season_starts_total": 7,
+      "fip": 4.134,
+      "k_per_9": 7.487,
+      "game_pk": 823871,
+      "game_time_local": "7:10 PM ET",
+      "venue": "loanDepot park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "pitcher_mlbam_id": 666200,
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "pitcher_team": "Philadelphia Phillies",
+      "opposing_team": "Colorado Rockies",
+      "active_qs_streak": 2,
+      "last_start_date": "2026-05-03",
+      "season_qs_total": 3,
+      "season_starts_total": 7,
+      "fip": 2.534,
+      "k_per_9": 11.287,
+      "game_pk": 823466,
+      "game_time_local": "6:40 PM ET",
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "pitcher_mlbam_id": 680732,
+      "pitcher_name": "Sean Burke",
+      "pitcher_team": "Chicago White Sox",
+      "opposing_team": "Seattle Mariners",
+      "active_qs_streak": 2,
+      "last_start_date": "2026-05-02",
+      "season_qs_total": 2,
+      "season_starts_total": 5,
+      "fip": 3.075,
+      "k_per_9": 7.26,
+      "game_pk": 824607,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Rate Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680732/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "pitcher_mlbam_id": 676106,
+      "pitcher_name": "Emerson Hancock",
+      "pitcher_team": "Seattle Mariners",
+      "opposing_team": "Chicago White Sox",
+      "active_qs_streak": 2,
+      "last_start_date": "2026-05-02",
+      "season_qs_total": 5,
+      "season_starts_total": 7,
+      "fip": 3.508,
+      "k_per_9": 9.936,
+      "game_pk": 824607,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Rate Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 6,
+      "pitcher_mlbam_id": 700241,
+      "pitcher_name": "Michael McGreevy",
+      "pitcher_team": "St. Louis Cardinals",
+      "opposing_team": "San Diego Padres",
+      "active_qs_streak": 2,
+      "last_start_date": "2026-05-02",
+      "season_qs_total": 4,
+      "season_starts_total": 7,
+      "fip": 4.142,
+      "k_per_9": 5.492,
+      "game_pk": 823303,
+      "game_time_local": "9:45 PM ET",
+      "venue": "Petco Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700241/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    }
+  ]
+}

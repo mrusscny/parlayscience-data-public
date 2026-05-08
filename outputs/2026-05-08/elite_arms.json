@@ -1,0 +1,112 @@
+{
+  "date": "2026-05-08",
+  "generated_at_et": "2026-05-08 07:08:29 EDT",
+  "concept": "elite_arms",
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 693645,
+      "pitcher_name": "Cam Schlittler",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-05-09",
+      "opposing_team": "Milwaukee Brewers",
+      "fip": 1.706,
+      "era_proxy": 1.52,
+      "k_minus_bb_pct": 0.2431,
+      "k_per_9": 10.078,
+      "ip_total": 47.3,
+      "score": 0.7154,
+      "game_pk": 823792,
+      "venue": "American Family Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "pitcher_mlbam_id": 663436,
+      "pitcher_name": "Davis Martin",
+      "pitcher_team": "Chicago White Sox",
+      "next_start_date": "2026-05-10",
+      "opposing_team": "Seattle Mariners",
+      "fip": 2.282,
+      "era_proxy": 1.64,
+      "k_minus_bb_pct": 0.2071,
+      "k_per_9": 8.795,
+      "ip_total": 44.0,
+      "score": 0.6261,
+      "game_pk": 824605,
+      "venue": "Rate Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663436/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "pitcher_mlbam_id": 690997,
+      "pitcher_name": "Nolan McLean",
+      "pitcher_team": "New York Mets",
+      "next_start_date": "2026-05-08",
+      "opposing_team": "Arizona Diamondbacks",
+      "fip": 2.007,
+      "era_proxy": 2.97,
+      "k_minus_bb_pct": 0.2614,
+      "k_per_9": 11.67,
+      "ip_total": 39.3,
+      "score": 0.6226,
+      "game_pk": 825088,
+      "venue": "Chase Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-05-08",
+      "opposing_team": "New York Yankees",
+      "fip": 2.547,
+      "era_proxy": 2.84,
+      "k_minus_bb_pct": 0.2839,
+      "k_per_9": 13.974,
+      "ip_total": 38.0,
+      "score": 0.6097,
+      "game_pk": 823794,
+      "venue": "American Family Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "pitcher_mlbam_id": 656302,
+      "pitcher_name": "Dylan Cease",
+      "pitcher_team": "Toronto Blue Jays",
+      "next_start_date": "2026-05-08",
+      "opposing_team": "Los Angeles Angels",
+      "fip": 1.926,
+      "era_proxy": 3.05,
+      "k_minus_bb_pct": 0.2289,
+      "k_per_9": 13.148,
+      "ip_total": 38.3,
+      "score": 0.5918,
+      "game_pk": 822822,
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    }
+  ]
+}

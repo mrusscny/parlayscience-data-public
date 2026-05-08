@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-08",
+  "generated_at_et": "2026-05-08 07:07:53 EDT",
+  "concept": "zone_attack",
+  "items": [
+    {
+      "rank": 1,
+      "batter_mlbam_id": 808959,
+      "batter_name": "Munetaka Murakami",
+      "batter_team": "Chicago White Sox",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 676106,
+      "pitcher_name": "Emerson Hancock",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.708,
+      "batter_slg": 0.703,
+      "batter_woba_contact": 0.413,
+      "batter_ab_vs_pitch": 64,
+      "batter_barrel_pct": 22.1,
+      "batter_season_slg_overall": 0.565,
+      "matchup_strength": 0.4977,
+      "venue_name": "Rate Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "batter_mlbam_id": 592450,
+      "batter_name": "Aaron Judge",
+      "batter_team": "New York Yankees",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.614,
+      "batter_slg": 0.774,
+      "batter_woba_contact": 0.494,
+      "batter_ab_vs_pitch": 53,
+      "batter_barrel_pct": 27.9,
+      "batter_season_slg_overall": 0.642,
+      "matchup_strength": 0.4753,
+      "venue_name": "American Family Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "batter_mlbam_id": 682657,
+      "batter_name": "Angel Mart\u00ednez",
+      "batter_team": "Cleveland Guardians",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 687570,
+      "pitcher_name": "Connor Prielipp",
+      "pitcher_throws": "L",
+      "pitch_type": "Slider",
+      "pitcher_usage_pct": 0.397,
+      "batter_slg": 0.778,
+      "batter_woba_contact": 0.502,
+      "batter_ab_vs_pitch": 18,
+      "batter_barrel_pct": 8.9,
+      "batter_season_slg_overall": 0.468,
+      "matchup_strength": 0.3087,
+      "venue_name": "Progressive Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687570/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "batter_mlbam_id": 575929,
+      "batter_name": "Willson Contreras",
+      "batter_team": "Boston Red Sox",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 669947,
+      "pitcher_name": "Jesse Scholtens",
+      "pitcher_throws": "R",
+      "pitch_type": "Slider",
+      "pitcher_usage_pct": 0.355,
+      "batter_slg": 0.647,
+      "batter_woba_contact": 0.43,
+      "batter_ab_vs_pitch": 17,
+      "batter_barrel_pct": 18.4,
+      "batter_season_slg_overall": 0.474,
+      "matchup_strength": 0.2298,
+      "venue_name": "Fenway Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/575929/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669947/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    }
+  ]
+}

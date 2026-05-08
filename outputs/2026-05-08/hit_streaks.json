@@ -1,0 +1,122 @@
+{
+  "date": "2026-05-08",
+  "generated_at_et": "2026-05-08 07:05:57 EDT",
+  "concept": "hit_streaks",
+  "items": [
+    {
+      "rank": 1,
+      "mlbam_id": 800050,
+      "player_name": "Chase DeLauter",
+      "team": "Cleveland Guardians",
+      "bat_side": "L",
+      "opposing_pitcher": "Connor Prielipp",
+      "opposing_pitcher_id": 687570.0,
+      "pitcher_throws": "L",
+      "venue_name": "Progressive Field",
+      "streak_length": 11,
+      "streak_hits": 19,
+      "streak_at_bats": 39,
+      "streak_avg": 0.487,
+      "season_avg": 0.306,
+      "last_game_date": "2026-05-07",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800050/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687570/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 805779,
+      "player_name": "Jacob Wilson",
+      "team": "Athletics",
+      "bat_side": "R",
+      "opposing_pitcher": "Kyle Bradish",
+      "opposing_pitcher_id": 680694.0,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "streak_length": 11,
+      "streak_hits": 15,
+      "streak_at_bats": 43,
+      "streak_avg": 0.349,
+      "season_avg": 0.291,
+      "last_game_date": "2026-05-07",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805779/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680694/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 672640,
+      "player_name": "Otto Lopez",
+      "team": "Miami Marlins",
+      "bat_side": "R",
+      "opposing_pitcher": "Foster Griffin",
+      "opposing_pitcher_id": 656492.0,
+      "pitcher_throws": "L",
+      "venue_name": "loanDepot park",
+      "streak_length": 10,
+      "streak_hits": 17,
+      "streak_at_bats": 42,
+      "streak_avg": 0.405,
+      "season_avg": 0.34,
+      "last_game_date": "2026-05-07",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672640/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "mlbam_id": 668715,
+      "player_name": "Spencer Steer",
+      "team": "Cincinnati Reds",
+      "bat_side": "R",
+      "opposing_pitcher": "Mike Burrows",
+      "opposing_pitcher_id": 681347.0,
+      "pitcher_throws": "R",
+      "venue_name": "Great American Ball Park",
+      "streak_length": 10,
+      "streak_hits": 12,
+      "streak_at_bats": 34,
+      "streak_avg": 0.353,
+      "season_avg": 0.254,
+      "last_game_date": "2026-05-07",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668715/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 641355,
+      "player_name": "Cody Bellinger",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Jacob Misiorowski",
+      "opposing_pitcher_id": 694819.0,
+      "pitcher_throws": "R",
+      "venue_name": "American Family Field",
+      "streak_length": 9,
+      "streak_hits": 16,
+      "streak_at_bats": 34,
+      "streak_avg": 0.471,
+      "season_avg": 0.299,
+      "last_game_date": "2026-05-07",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641355/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    }
+  ]
+}

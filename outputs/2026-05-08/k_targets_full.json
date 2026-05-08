@@ -1,0 +1,407 @@
+{
+  "date": "2026-05-08",
+  "generated_at_et": "2026-05-08 07:08:20 EDT",
+  "concept": "k_targets_full",
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 656302,
+      "pitcher_name": "Dylan Cease",
+      "pitcher_team": "Toronto Blue Jays",
+      "opposing_team": "Los Angeles Angels",
+      "pitcher_k_per_9": 13.148,
+      "pitcher_k_minus_bb_pct": 0.2289,
+      "opp_k_rate": 0.2376,
+      "opp_games_sample": 26,
+      "score": 0.892,
+      "game_pk": 822822,
+      "game_time_local": "7:07 PM ET",
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "pitcher_mlbam_id": 666200,
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "pitcher_team": "Philadelphia Phillies",
+      "opposing_team": "Colorado Rockies",
+      "pitcher_k_per_9": 11.287,
+      "pitcher_k_minus_bb_pct": 0.2442,
+      "opp_k_rate": 0.2428,
+      "opp_games_sample": 27,
+      "score": 0.8178,
+      "game_pk": 823466,
+      "game_time_local": "6:40 PM ET",
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_team": "Milwaukee Brewers",
+      "opposing_team": "New York Yankees",
+      "pitcher_k_per_9": 13.974,
+      "pitcher_k_minus_bb_pct": 0.2839,
+      "opp_k_rate": 0.2154,
+      "opp_games_sample": 28,
+      "score": 0.7895,
+      "game_pk": 823794,
+      "game_time_local": "7:40 PM ET",
+      "venue": "American Family Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "pitcher_mlbam_id": 690997,
+      "pitcher_name": "Nolan McLean",
+      "pitcher_team": "New York Mets",
+      "opposing_team": "Arizona Diamondbacks",
+      "pitcher_k_per_9": 11.67,
+      "pitcher_k_minus_bb_pct": 0.2614,
+      "opp_k_rate": 0.2203,
+      "opp_games_sample": 25,
+      "score": 0.6871,
+      "game_pk": 825088,
+      "game_time_local": "9:40 PM ET",
+      "venue": "Chase Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "pitcher_mlbam_id": 681347,
+      "pitcher_name": "Mike Burrows",
+      "pitcher_team": "Houston Astros",
+      "opposing_team": "Cincinnati Reds",
+      "pitcher_k_per_9": 8.602,
+      "pitcher_k_minus_bb_pct": 0.1361,
+      "opp_k_rate": 0.2463,
+      "opp_games_sample": 27,
+      "score": 0.6833,
+      "game_pk": 824522,
+      "game_time_local": "6:10 PM ET",
+      "venue": "Great American Ball Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 6,
+      "pitcher_mlbam_id": 676106,
+      "pitcher_name": "Emerson Hancock",
+      "pitcher_team": "Seattle Mariners",
+      "opposing_team": "Chicago White Sox",
+      "pitcher_k_per_9": 9.936,
+      "pitcher_k_minus_bb_pct": 0.2516,
+      "opp_k_rate": 0.2272,
+      "opp_games_sample": 26,
+      "score": 0.6319,
+      "game_pk": 824607,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Rate Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "pitcher_mlbam_id": 669387,
+      "pitcher_name": "Carmen Mlodzinski",
+      "pitcher_team": "Pittsburgh Pirates",
+      "opposing_team": "San Francisco Giants",
+      "pitcher_k_per_9": 10.588,
+      "pitcher_k_minus_bb_pct": 0.1753,
+      "opp_k_rate": 0.2162,
+      "opp_games_sample": 25,
+      "score": 0.5954,
+      "game_pk": 823225,
+      "game_time_local": "10:15 PM ET",
+      "venue": "Oracle Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669387/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "pitcher_mlbam_id": 801403,
+      "pitcher_name": "Chase Dollander",
+      "pitcher_team": "Colorado Rockies",
+      "opposing_team": "Philadelphia Phillies",
+      "pitcher_k_per_9": 10.125,
+      "pitcher_k_minus_bb_pct": 0.1923,
+      "opp_k_rate": 0.2125,
+      "opp_games_sample": 27,
+      "score": 0.5429,
+      "game_pk": 823466,
+      "game_time_local": "6:40 PM ET",
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801403/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 9,
+      "pitcher_mlbam_id": 680732,
+      "pitcher_name": "Sean Burke",
+      "pitcher_team": "Chicago White Sox",
+      "opposing_team": "Seattle Mariners",
+      "pitcher_k_per_9": 7.26,
+      "pitcher_k_minus_bb_pct": 0.1538,
+      "opp_k_rate": 0.2364,
+      "opp_games_sample": 26,
+      "score": 0.5368,
+      "game_pk": 824607,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Rate Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680732/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 10,
+      "pitcher_mlbam_id": 519242,
+      "pitcher_name": "Chris Sale",
+      "pitcher_team": "Atlanta Braves",
+      "opposing_team": "Los Angeles Dodgers",
+      "pitcher_k_per_9": 10.5,
+      "pitcher_k_minus_bb_pct": 0.2256,
+      "opp_k_rate": 0.2042,
+      "opp_games_sample": 26,
+      "score": 0.5084,
+      "game_pk": 823957,
+      "game_time_local": "10:10 PM ET",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 11,
+      "pitcher_mlbam_id": 686218,
+      "pitcher_name": "Emmet Sheehan",
+      "pitcher_team": "Los Angeles Dodgers",
+      "opposing_team": "Atlanta Braves",
+      "pitcher_k_per_9": 10.452,
+      "pitcher_k_minus_bb_pct": 0.2045,
+      "opp_k_rate": 0.2032,
+      "opp_games_sample": 26,
+      "score": 0.4988,
+      "game_pk": 823957,
+      "game_time_local": "10:10 PM ET",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686218/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 12,
+      "pitcher_mlbam_id": 682052,
+      "pitcher_name": "Jacob Lopez",
+      "pitcher_team": "Athletics",
+      "opposing_team": "Baltimore Orioles",
+      "pitcher_k_per_9": 6.9,
+      "pitcher_k_minus_bb_pct": 0.0068,
+      "opp_k_rate": 0.2329,
+      "opp_games_sample": 27,
+      "score": 0.4917,
+      "game_pk": 824846,
+      "game_time_local": "7:05 PM ET",
+      "venue": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682052/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 13,
+      "pitcher_mlbam_id": 663460,
+      "pitcher_name": "Kris Bubic",
+      "pitcher_team": "Kansas City Royals",
+      "opposing_team": "Detroit Tigers",
+      "pitcher_k_per_9": 9.295,
+      "pitcher_k_minus_bb_pct": 0.1411,
+      "opp_k_rate": 0.2089,
+      "opp_games_sample": 27,
+      "score": 0.4694,
+      "game_pk": 824116,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Kauffman Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663460/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "rank": 14,
+      "pitcher_mlbam_id": 656492,
+      "pitcher_name": "Foster Griffin",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Miami Marlins",
+      "pitcher_k_per_9": 7.487,
+      "pitcher_k_minus_bb_pct": 0.1166,
+      "opp_k_rate": 0.2239,
+      "opp_games_sample": 27,
+      "score": 0.465,
+      "game_pk": 823871,
+      "game_time_local": "7:10 PM ET",
+      "venue": "loanDepot park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "rank": 15,
+      "pitcher_mlbam_id": 800048,
+      "pitcher_name": "Parker Messick",
+      "pitcher_team": "Cleveland Guardians",
+      "opposing_team": "Minnesota Twins",
+      "pitcher_k_per_9": 9.581,
+      "pitcher_k_minus_bb_pct": 0.2179,
+      "opp_k_rate": 0.2023,
+      "opp_games_sample": 27,
+      "score": 0.4413,
+      "game_pk": 824443,
+      "game_time_local": "7:15 PM ET",
+      "venue": "Progressive Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 16,
+      "pitcher_mlbam_id": 669194,
+      "pitcher_name": "Ryne Nelson",
+      "pitcher_team": "Arizona Diamondbacks",
+      "opposing_team": "New York Mets",
+      "pitcher_k_per_9": 8.043,
+      "pitcher_k_minus_bb_pct": 0.1049,
+      "opp_k_rate": 0.2112,
+      "opp_games_sample": 26,
+      "score": 0.4113,
+      "game_pk": 825088,
+      "game_time_local": "9:40 PM ET",
+      "venue": "Chase Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669194/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 17,
+      "pitcher_mlbam_id": 672456,
+      "pitcher_name": "Keider Montero",
+      "pitcher_team": "Detroit Tigers",
+      "opposing_team": "Kansas City Royals",
+      "pitcher_k_per_9": 6.683,
+      "pitcher_k_minus_bb_pct": 0.1353,
+      "opp_k_rate": 0.2221,
+      "opp_games_sample": 27,
+      "score": 0.4054,
+      "game_pk": 824116,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Kauffman Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672456/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
+      }
+    },
+    {
+      "rank": 18,
+      "pitcher_mlbam_id": 680694,
+      "pitcher_name": "Kyle Bradish",
+      "pitcher_team": "Baltimore Orioles",
+      "opposing_team": "Athletics",
+      "pitcher_k_per_9": 9.265,
+      "pitcher_k_minus_bb_pct": 0.0892,
+      "opp_k_rate": 0.1966,
+      "opp_games_sample": 27,
+      "score": 0.3839,
+      "game_pk": 824846,
+      "game_time_local": "7:05 PM ET",
+      "venue": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680694/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "pitcher_mlbam_id": 700241,
+      "pitcher_name": "Michael McGreevy",
+      "pitcher_team": "St. Louis Cardinals",
+      "opposing_team": "San Diego Padres",
+      "pitcher_k_per_9": 5.492,
+      "pitcher_k_minus_bb_pct": 0.1088,
+      "opp_k_rate": 0.2152,
+      "opp_games_sample": 26,
+      "score": 0.2881,
+      "game_pk": 823303,
+      "game_time_local": "9:45 PM ET",
+      "venue": "Petco Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700241/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "pitcher_mlbam_id": 672282,
+      "pitcher_name": "Reid Detmers",
+      "pitcher_team": "Los Angeles Angels",
+      "opposing_team": "Toronto Blue Jays",
+      "pitcher_k_per_9": 9.9,
+      "pitcher_k_minus_bb_pct": 0.2083,
+      "opp_k_rate": 0.1729,
+      "opp_games_sample": 26,
+      "score": 0.2598,
+      "game_pk": 822822,
+      "game_time_local": "7:07 PM ET",
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672282/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    }
+  ]
+}
