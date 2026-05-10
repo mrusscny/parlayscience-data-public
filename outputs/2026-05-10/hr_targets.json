@@ -1,37 +1,10 @@
 {
   "date": "2026-05-10",
-  "generated_at_et": "2026-05-10 06:54:39 EDT",
+  "generated_at_et": "2026-05-10 10:22:20 EDT",
   "concept": "hr_targets",
   "items": [
     {
       "rank": 1,
-      "mlbam_id": 808959,
-      "player_name": "Munetaka Murakami",
-      "team": "Chicago White Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "Logan Gilbert",
-      "opposing_pitcher_id": 669302,
-      "pitcher_throws": "R",
-      "venue_name": "Rate Field",
-      "barrel_pct": 22.2,
-      "iso_overall": 0.331,
-      "iso_split": 0.34,
-      "iso_blended": 0.336,
-      "hard_hit_pct": 63.0,
-      "fb_pct": 49.09,
-      "pitcher_hr_per_9": 1.636,
-      "weather_score": 0.5,
-      "park_factor": 1.08,
-      "composite_score": 0.878,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 2,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -47,9 +20,9 @@
       "hard_hit_pct": 48.4,
       "fb_pct": 33.33,
       "pitcher_hr_per_9": 1.459,
-      "weather_score": 0.735,
+      "weather_score": 0.699,
       "park_factor": 1.14,
-      "composite_score": 0.869,
+      "composite_score": 0.865,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -58,7 +31,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "mlbam_id": 668709,
       "player_name": "JJ Bleday",
       "team": "Cincinnati Reds",
@@ -74,9 +47,9 @@
       "hard_hit_pct": 54.5,
       "fb_pct": 45.45,
       "pitcher_hr_per_9": 1.174,
-      "weather_score": 0.529,
+      "weather_score": 0.505,
       "park_factor": 1.24,
-      "composite_score": 0.861,
+      "composite_score": 0.859,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668709/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -85,7 +58,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "mlbam_id": 608369,
       "player_name": "Corey Seager",
       "team": "Texas Rangers",
@@ -112,34 +85,34 @@
       }
     },
     {
-      "rank": 5,
-      "mlbam_id": 695657,
-      "player_name": "Colson Montgomery",
+      "rank": 4,
+      "mlbam_id": 808959,
+      "player_name": "Munetaka Murakami",
       "team": "Chicago White Sox",
       "bat_side": "L",
       "opposing_pitcher": "Logan Gilbert",
       "opposing_pitcher_id": 669302,
       "pitcher_throws": "R",
       "venue_name": "Rate Field",
-      "barrel_pct": 14.9,
-      "iso_overall": 0.269,
-      "iso_split": 0.247,
-      "iso_blended": 0.256,
-      "hard_hit_pct": 43.6,
-      "fb_pct": 37.88,
+      "barrel_pct": 22.2,
+      "iso_overall": 0.331,
+      "iso_split": 0.34,
+      "iso_blended": 0.336,
+      "hard_hit_pct": 63.0,
+      "fb_pct": 49.09,
       "pitcher_hr_per_9": 1.636,
-      "weather_score": 0.5,
+      "weather_score": 0.178,
       "park_factor": 1.08,
-      "composite_score": 0.853,
+      "composite_score": 0.845,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 547180,
       "player_name": "Bryce Harper",
       "team": "Philadelphia Phillies",
@@ -155,9 +128,9 @@
       "hard_hit_pct": 39.8,
       "fb_pct": 27.5,
       "pitcher_hr_per_9": 1.459,
-      "weather_score": 0.735,
+      "weather_score": 0.699,
       "park_factor": 1.14,
-      "composite_score": 0.845,
+      "composite_score": 0.842,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -182,14 +155,41 @@
       "hard_hit_pct": 52.4,
       "fb_pct": 34.07,
       "pitcher_hr_per_9": 1.116,
-      "weather_score": 0.529,
+      "weather_score": 0.505,
       "park_factor": 1.24,
-      "composite_score": 0.833,
+      "composite_score": 0.83,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671096/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 695657,
+      "player_name": "Colson Montgomery",
+      "team": "Chicago White Sox",
+      "bat_side": "L",
+      "opposing_pitcher": "Logan Gilbert",
+      "opposing_pitcher_id": 669302,
+      "pitcher_throws": "R",
+      "venue_name": "Rate Field",
+      "barrel_pct": 14.9,
+      "iso_overall": 0.269,
+      "iso_split": 0.247,
+      "iso_blended": 0.256,
+      "hard_hit_pct": 43.6,
+      "fb_pct": 37.88,
+      "pitcher_hr_per_9": 1.636,
+      "weather_score": 0.178,
+      "park_factor": 1.08,
+      "composite_score": 0.821,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     },
     {

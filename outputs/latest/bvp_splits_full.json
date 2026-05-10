@@ -1,6 +1,6 @@
 {
   "date": "2026-05-10",
-  "generated_at_et": "2026-05-10 06:57:43 EDT",
+  "generated_at_et": "2026-05-10 10:24:42 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -351,6 +351,29 @@
     {
       "rank": 6,
       "category": "\u2744\ufe0f COLD",
+      "mlbam_id": 682657,
+      "player_name": "Angel Mart\u00ednez",
+      "team": "Cleveland Guardians",
+      "bat_side": "S",
+      "opposing_pitcher": "Andrew Morris",
+      "opposing_pitcher_id": 702193,
+      "pitcher_throws": "R",
+      "venue_name": "Progressive Field",
+      "career_ab": 20,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.1,
+      "career_ops": 0.286,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702193/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "category": "\u2744\ufe0f COLD",
       "mlbam_id": 669004,
       "player_name": "MJ Melendez",
       "team": "New York Mets",
@@ -372,7 +395,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "category": "\u2744\ufe0f COLD",
       "mlbam_id": 641680,
       "player_name": "Jonah Heim",
@@ -395,7 +418,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "category": "\u2744\ufe0f COLD",
       "mlbam_id": 661388,
       "player_name": "William Contreras",
@@ -418,49 +441,26 @@
       }
     },
     {
-      "rank": 9,
-      "category": "\u2744\ufe0f COLD",
-      "mlbam_id": 621493,
-      "player_name": "Taylor Ward",
-      "team": "Baltimore Orioles",
-      "bat_side": "R",
-      "opposing_pitcher": "Luis Severino",
-      "opposing_pitcher_id": 622663,
-      "pitcher_throws": "R",
-      "venue_name": "Oriole Park at Camden Yards",
-      "career_ab": 9,
-      "career_h": 2,
-      "career_hr": 0,
-      "career_avg": 0.222,
-      "career_ops": 0.444,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621493/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622663/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
       "rank": 10,
       "category": "\u2744\ufe0f COLD",
-      "mlbam_id": 457705,
-      "player_name": "Andrew McCutchen",
-      "team": "Texas Rangers",
-      "bat_side": "R",
-      "opposing_pitcher": "Jameson Taillon",
-      "opposing_pitcher_id": 592791,
+      "mlbam_id": 700932,
+      "player_name": "Kyle Manzardo",
+      "team": "Cleveland Guardians",
+      "bat_side": "L",
+      "opposing_pitcher": "Andrew Morris",
+      "opposing_pitcher_id": 702193,
       "pitcher_throws": "R",
-      "venue_name": "Globe Life Field",
-      "career_ab": 14,
-      "career_h": 3,
+      "venue_name": "Progressive Field",
+      "career_ab": 24,
+      "career_h": 4,
       "career_hr": 0,
-      "career_avg": 0.214,
-      "career_ops": 0.464,
+      "career_avg": 0.167,
+      "career_ops": 0.408,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/457705/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592791/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700932/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702193/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]
