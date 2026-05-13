@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generated_at_et": "2026-05-13 07:58:12 EDT",
+  "generated_at_et": "2026-05-13 11:50:07 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -51,29 +51,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 694212,
-      "player_name": "Samuel Basallo",
-      "team": "Baltimore Orioles",
-      "bat_side": "L",
-      "opposing_pitcher": "Max Fried",
-      "opposing_pitcher_id": 608331,
-      "pitcher_throws": "L",
-      "venue_name": "Oriole Park at Camden Yards",
-      "streak_length": 7,
-      "streak_hits": 11,
-      "streak_at_bats": 25,
-      "streak_avg": 0.44,
-      "season_avg": 0.277,
-      "last_game_date": "2026-05-12",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694212/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 682985,
       "player_name": "Riley Greene",
       "team": "Detroit Tigers",
@@ -96,7 +73,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 669699,
       "player_name": "Braden Shewmake",
       "team": "Houston Astros",
@@ -119,7 +96,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 663743,
       "player_name": "Nick Fortes",
       "team": "Tampa Bay Rays",
@@ -142,7 +119,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 668227,
       "player_name": "Randy Arozarena",
       "team": "Seattle Mariners",
@@ -165,7 +142,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 672580,
       "player_name": "Maikel Garcia",
       "team": "Kansas City Royals",
@@ -188,7 +165,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -211,7 +188,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 687462,
       "player_name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
@@ -234,7 +211,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 677951,
       "player_name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
@@ -257,7 +234,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -280,7 +257,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 671218,
       "player_name": "Heliot Ramos",
       "team": "San Francisco Giants",
@@ -303,7 +280,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 695734,
       "player_name": "Daylen Lile",
       "team": "Washington Nationals",
@@ -326,7 +303,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 808982,
       "player_name": "Jung Hoo Lee",
       "team": "San Francisco Giants",
@@ -349,7 +326,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -372,7 +349,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 514888,
       "player_name": "Jose Altuve",
       "team": "Houston Astros",
@@ -395,7 +372,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 701398,
       "player_name": "Sal Stewart",
       "team": "Cincinnati Reds",
@@ -418,7 +395,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 606992,
       "player_name": "Eric Haase",
       "team": "San Francisco Giants",
@@ -441,7 +418,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 665833,
       "player_name": "Oneil Cruz",
       "team": "Pittsburgh Pirates",
@@ -461,6 +438,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/500779/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 671739,
+      "player_name": "Michael Harris II",
+      "team": "Atlanta Braves",
+      "bat_side": "L",
+      "opposing_pitcher": "Shota Imanaga",
+      "opposing_pitcher_id": 684007,
+      "pitcher_throws": "L",
+      "venue_name": "Truist Park",
+      "streak_length": 4,
+      "streak_hits": 7,
+      "streak_at_bats": 17,
+      "streak_avg": 0.412,
+      "season_avg": 0.311,
+      "last_game_date": "2026-05-12",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671739/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     }
   ]

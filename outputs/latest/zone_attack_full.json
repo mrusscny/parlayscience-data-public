@@ -1,6 +1,6 @@
 {
   "date": "2026-05-13",
-  "generated_at_et": "2026-05-13 08:00:13 EDT",
+  "generated_at_et": "2026-05-13 11:51:25 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -105,31 +105,6 @@
     },
     {
       "rank": 5,
-      "batter_mlbam_id": 694212,
-      "batter_name": "Samuel Basallo",
-      "batter_team": "Baltimore Orioles",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 608331,
-      "pitcher_name": "Max Fried",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.613,
-      "batter_slg": 0.667,
-      "batter_woba_contact": 0.437,
-      "batter_ab_vs_pitch": 57,
-      "batter_barrel_pct": 10.3,
-      "batter_season_slg_overall": 0.479,
-      "matchup_strength": 0.4089,
-      "venue_name": "Oriole Park at Camden Yards",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694212/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 6,
       "batter_mlbam_id": 701398,
       "batter_name": "Sal Stewart",
       "batter_team": "Cincinnati Reds",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "batter_mlbam_id": 802139,
       "batter_name": "JJ Wetherholt",
       "batter_team": "St. Louis Cardinals",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "batter_mlbam_id": 664040,
       "batter_name": "Brandon Lowe",
       "batter_team": "Pittsburgh Pirates",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 545121,
       "batter_name": "Ildemaro Vargas",
       "batter_team": "Arizona Diamondbacks",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 669016,
       "batter_name": "Brandon Marsh",
       "batter_team": "Philadelphia Phillies",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 808959,
       "batter_name": "Munetaka Murakami",
       "batter_team": "Chicago White Sox",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 695600,
       "batter_name": "Carter Jensen",
       "batter_team": "Kansas City Royals",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 592450,
       "batter_name": "Aaron Judge",
       "batter_team": "New York Yankees",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 677951,
       "batter_name": "Bobby Witt Jr.",
       "batter_team": "Kansas City Royals",
@@ -354,32 +329,7 @@
       }
     },
     {
-      "rank": 15,
-      "batter_mlbam_id": 502671,
-      "batter_name": "Paul Goldschmidt",
-      "batter_team": "New York Yankees",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 680694,
-      "pitcher_name": "Kyle Bradish",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.477,
-      "batter_slg": 0.75,
-      "batter_woba_contact": 0.46,
-      "batter_ab_vs_pitch": 36,
-      "batter_barrel_pct": 19.6,
-      "batter_season_slg_overall": 0.557,
-      "matchup_strength": 0.3576,
-      "venue_name": "Oriole Park at Camden Yards",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/502671/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680694/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "batter_mlbam_id": 571448,
       "batter_name": "Nolan Arenado",
       "batter_team": "Arizona Diamondbacks",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "batter_mlbam_id": 682829,
       "batter_name": "Elly De La Cruz",
       "batter_team": "Cincinnati Reds",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "batter_mlbam_id": 700250,
       "batter_name": "Ben Rice",
       "batter_team": "New York Yankees",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "batter_mlbam_id": 666160,
       "batter_name": "Mickey Moniak",
       "batter_team": "Colorado Rockies",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "batter_mlbam_id": 621566,
       "batter_name": "Matt Olson",
       "batter_team": "Atlanta Braves",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 669357,
+      "batter_name": "Nolan Gorman",
+      "batter_team": "St. Louis Cardinals",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 669372,
+      "pitcher_name": "J.T. Ginn",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.659,
+      "batter_slg": 0.529,
+      "batter_woba_contact": 0.352,
+      "batter_ab_vs_pitch": 70,
+      "batter_barrel_pct": 9.8,
+      "batter_season_slg_overall": 0.366,
+      "matchup_strength": 0.3484,
+      "venue_name": "Sutter Health Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669357/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 668939,
+      "batter_name": "Adley Rutschman",
+      "batter_team": "Baltimore Orioles",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 608331,
+      "pitcher_name": "Max Fried",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.613,
+      "batter_slg": 0.567,
+      "batter_woba_contact": 0.356,
+      "batter_ab_vs_pitch": 60,
+      "batter_barrel_pct": 9.5,
+      "batter_season_slg_overall": 0.53,
+      "matchup_strength": 0.3475,
+      "venue_name": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668939/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     }
   ]
