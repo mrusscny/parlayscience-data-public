@@ -1,6 +1,6 @@
 {
   "date": "2026-05-14",
-  "generated_at_et": "2026-05-14 07:34:12 EDT",
+  "generated_at_et": "2026-05-14 11:26:58 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -9,7 +9,7 @@
       "player_name": "Munetaka Murakami",
       "team": "Chicago White Sox",
       "opposing_pitcher": "Kris Bubic",
-      "opposing_pitcher_id": 663460.0,
+      "opposing_pitcher_id": 663460,
       "venue_name": "Rate Field",
       "barrel_pct": 23.0,
       "fb_pct": 50.88,
@@ -34,7 +34,7 @@
       "player_name": "JJ Bleday",
       "team": "Cincinnati Reds",
       "opposing_pitcher": "Foster Griffin",
-      "opposing_pitcher_id": 656492.0,
+      "opposing_pitcher_id": 656492,
       "venue_name": "Great American Ball Park",
       "barrel_pct": 15.4,
       "fb_pct": 41.03,
@@ -55,36 +55,11 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 701678,
-      "player_name": "Hao-Yu Lee",
-      "team": "Detroit Tigers",
-      "opposing_pitcher": "Nolan McLean",
-      "opposing_pitcher_id": 690997.0,
-      "venue_name": "Citi Field",
-      "barrel_pct": 15.6,
-      "fb_pct": 53.12,
-      "avg_exit_velo": 90.3,
-      "hard_hit_pct": 40.6,
-      "pitcher_hr_per_9": 0.596,
-      "threshold_count": 3,
-      "threshold_label": "3/3",
-      "base_score": 0.885,
-      "threshold_bonus": 0.1,
-      "final_score": 0.985,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701678/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
       "opposing_pitcher": "Chase Burns",
-      "opposing_pitcher_id": 695505.0,
+      "opposing_pitcher_id": 695505,
       "venue_name": "Great American Ball Park",
       "barrel_pct": 27.0,
       "fb_pct": 39.66,
@@ -104,12 +79,12 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 680777,
       "player_name": "Ryan Jeffers",
       "team": "Minnesota Twins",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
+      "opposing_pitcher": "Braxton Garrett",
+      "opposing_pitcher_id": 666129,
       "venue_name": "Target Field",
       "barrel_pct": 16.3,
       "fb_pct": 38.89,
@@ -123,16 +98,18 @@
       "final_score": 0.978,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680777/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666129/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 686681,
       "player_name": "Michael Massey",
       "team": "Kansas City Royals",
       "opposing_pitcher": "Anthony Kay",
-      "opposing_pitcher_id": 641743.0,
+      "opposing_pitcher_id": 641743,
       "venue_name": "Rate Field",
       "barrel_pct": 11.7,
       "fb_pct": 50.0,
@@ -152,12 +129,12 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
       "opposing_pitcher": "Keider Montero",
-      "opposing_pitcher_id": 672456.0,
+      "opposing_pitcher_id": 672456,
       "venue_name": "Citi Field",
       "barrel_pct": 18.3,
       "fb_pct": 42.11,
@@ -177,12 +154,12 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 691023,
       "player_name": "Jordan Walker",
       "team": "St. Louis Cardinals",
       "opposing_pitcher": "Jacob Lopez",
-      "opposing_pitcher_id": 682052.0,
+      "opposing_pitcher_id": 682052,
       "venue_name": "Sutter Health Park",
       "barrel_pct": 17.9,
       "fb_pct": 29.69,
@@ -202,12 +179,12 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
       "opposing_pitcher": "Mason Montgomery",
-      "opposing_pitcher_id": 682254.0,
+      "opposing_pitcher_id": 682254,
       "venue_name": "PNC Park",
       "barrel_pct": 14.9,
       "fb_pct": 41.07,
@@ -227,12 +204,12 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 670042,
       "player_name": "Luke Raley",
       "team": "Seattle Mariners",
       "opposing_pitcher": "Mike Burrows",
-      "opposing_pitcher_id": 681347.0,
+      "opposing_pitcher_id": 681347,
       "venue_name": "Daikin Park",
       "barrel_pct": 23.1,
       "fb_pct": 34.29,
@@ -252,12 +229,12 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 621439,
       "player_name": "Byron Buxton",
       "team": "Minnesota Twins",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
+      "opposing_pitcher": "Braxton Garrett",
+      "opposing_pitcher_id": 666129,
       "venue_name": "Target Field",
       "barrel_pct": 21.1,
       "fb_pct": 38.75,
@@ -271,41 +248,18 @@
       "final_score": 0.922,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666129/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
       }
     },
     {
-      "rank": 12,
-      "mlbam_id": 663728,
-      "player_name": "Cal Raleigh",
-      "team": "Seattle Mariners",
-      "opposing_pitcher": "Mike Burrows",
-      "opposing_pitcher_id": 681347.0,
-      "venue_name": "Daikin Park",
-      "barrel_pct": 12.3,
-      "fb_pct": 45.31,
-      "avg_exit_velo": 87.5,
-      "hard_hit_pct": 31.1,
-      "pitcher_hr_per_9": 1.612,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.86,
-      "threshold_bonus": 0.05,
-      "final_score": 0.91,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
-      }
-    },
-    {
-      "rank": 13,
+      "rank": 11,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
       "opposing_pitcher": "Luis Castillo",
-      "opposing_pitcher_id": 622491.0,
+      "opposing_pitcher_id": 622491,
       "venue_name": "Daikin Park",
       "barrel_pct": 17.4,
       "fb_pct": 30.12,
@@ -325,12 +279,12 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "mlbam_id": 695506,
       "player_name": "Jac Caglianone",
       "team": "Kansas City Royals",
       "opposing_pitcher": "Anthony Kay",
-      "opposing_pitcher_id": 641743.0,
+      "opposing_pitcher_id": 641743,
       "venue_name": "Rate Field",
       "barrel_pct": 16.5,
       "fb_pct": 27.78,
@@ -350,12 +304,12 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "mlbam_id": 668715,
       "player_name": "Spencer Steer",
       "team": "Cincinnati Reds",
       "opposing_pitcher": "Foster Griffin",
-      "opposing_pitcher_id": 656492.0,
+      "opposing_pitcher_id": 656492,
       "venue_name": "Great American Ball Park",
       "barrel_pct": 15.7,
       "fb_pct": 31.94,
@@ -375,12 +329,12 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "mlbam_id": 686527,
       "player_name": "Dominic Canzone",
       "team": "Seattle Mariners",
       "opposing_pitcher": "Mike Burrows",
-      "opposing_pitcher_id": 681347.0,
+      "opposing_pitcher_id": 681347,
       "venue_name": "Daikin Park",
       "barrel_pct": 15.2,
       "fb_pct": 23.08,
@@ -400,12 +354,12 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 575929,
       "player_name": "Willson Contreras",
       "team": "Boston Red Sox",
       "opposing_pitcher": "Jes\u00fas Luzardo",
-      "opposing_pitcher_id": 666200.0,
+      "opposing_pitcher_id": 666200,
       "venue_name": "Fenway Park",
       "barrel_pct": 17.0,
       "fb_pct": 32.14,
@@ -425,12 +379,12 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 669477,
       "player_name": "Casey Schmitt",
       "team": "San Francisco Giants",
       "opposing_pitcher": "Emmet Sheehan",
-      "opposing_pitcher_id": 686218.0,
+      "opposing_pitcher_id": 686218,
       "venue_name": "UNIQLO Field at Dodger Stadium",
       "barrel_pct": 14.6,
       "fb_pct": 37.66,
@@ -450,12 +404,12 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 669004,
       "player_name": "MJ Melendez",
       "team": "New York Mets",
       "opposing_pitcher": "Keider Montero",
-      "opposing_pitcher_id": 672456.0,
+      "opposing_pitcher_id": 672456,
       "venue_name": "Citi Field",
       "barrel_pct": 16.1,
       "fb_pct": 35.48,
@@ -475,12 +429,12 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 677951,
       "player_name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
       "opposing_pitcher": "Anthony Kay",
-      "opposing_pitcher_id": 641743.0,
+      "opposing_pitcher_id": 641743,
       "venue_name": "Rate Field",
       "barrel_pct": 13.7,
       "fb_pct": 29.67,
@@ -497,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641743/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 677800,
+      "player_name": "Wilyer Abreu",
+      "team": "Boston Red Sox",
+      "opposing_pitcher": "Jes\u00fas Luzardo",
+      "opposing_pitcher_id": 666200,
+      "venue_name": "Fenway Park",
+      "barrel_pct": 11.5,
+      "fb_pct": 39.19,
+      "avg_exit_velo": 90.5,
+      "hard_hit_pct": 47.5,
+      "pitcher_hr_per_9": 1.031,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.77,
+      "threshold_bonus": 0.1,
+      "final_score": 0.87,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677800/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 666160,
+      "player_name": "Mickey Moniak",
+      "team": "Colorado Rockies",
+      "opposing_pitcher": "Mason Montgomery",
+      "opposing_pitcher_id": 682254,
+      "venue_name": "PNC Park",
+      "barrel_pct": 15.4,
+      "fb_pct": 36.92,
+      "avg_exit_velo": 90.2,
+      "hard_hit_pct": 44.0,
+      "pitcher_hr_per_9": 0.574,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.818,
+      "threshold_bonus": 0.05,
+      "final_score": 0.868,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666160/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682254/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     }
   ]

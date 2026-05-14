@@ -1,35 +1,10 @@
 {
   "date": "2026-05-14",
-  "generated_at_et": "2026-05-14 07:36:18 EDT",
+  "generated_at_et": "2026-05-14 11:28:24 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
       "rank": 1,
-      "batter_mlbam_id": 664034,
-      "batter_name": "Ty France",
-      "batter_team": "San Diego Padres",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 690986,
-      "pitcher_name": "Kyle Harrison",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.826,
-      "batter_slg": 0.694,
-      "batter_woba_contact": 0.413,
-      "batter_ab_vs_pitch": 36,
-      "batter_barrel_pct": 14.0,
-      "batter_season_slg_overall": 0.514,
-      "matchup_strength": 0.5736,
-      "venue_name": "American Family Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664034/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 2,
       "batter_mlbam_id": 656941,
       "batter_name": "Kyle Schwarber",
       "batter_team": "Philadelphia Phillies",
@@ -54,7 +29,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "batter_mlbam_id": 666160,
       "batter_name": "Mickey Moniak",
       "batter_team": "Colorado Rockies",
@@ -79,7 +54,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "batter_mlbam_id": 621566,
       "batter_name": "Matt Olson",
       "batter_team": "Atlanta Braves",
@@ -104,7 +79,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "batter_mlbam_id": 642086,
       "batter_name": "Dominic Smith",
       "batter_team": "Atlanta Braves",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "batter_mlbam_id": 669016,
       "batter_name": "Brandon Marsh",
       "batter_team": "Philadelphia Phillies",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "batter_mlbam_id": 657757,
       "batter_name": "Gavin Sheets",
       "batter_team": "San Diego Padres",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "batter_mlbam_id": 664040,
       "batter_name": "Brandon Lowe",
       "batter_team": "Pittsburgh Pirates",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 670541,
       "batter_name": "Yordan Alvarez",
       "batter_team": "Houston Astros",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 808959,
       "batter_name": "Munetaka Murakami",
       "batter_team": "Chicago White Sox",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 695578,
       "batter_name": "James Wood",
       "batter_team": "Washington Nationals",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 695600,
       "batter_name": "Carter Jensen",
       "batter_team": "Kansas City Royals",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 694728,
       "batter_name": "Brice Matthews",
       "batter_team": "Houston Astros",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 802139,
       "batter_name": "JJ Wetherholt",
       "batter_team": "St. Louis Cardinals",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "batter_mlbam_id": 701398,
       "batter_name": "Sal Stewart",
       "batter_team": "Cincinnati Reds",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "batter_mlbam_id": 656811,
       "batter_name": "Ryan O'Hearn",
       "batter_team": "Pittsburgh Pirates",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "batter_mlbam_id": 571970,
       "batter_name": "Max Muncy",
       "batter_team": "Los Angeles Dodgers",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "batter_mlbam_id": 682928,
       "batter_name": "CJ Abrams",
       "batter_team": "Washington Nationals",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "batter_mlbam_id": 669127,
       "batter_name": "Shea Langeliers",
       "batter_team": "Athletics",
@@ -479,28 +454,53 @@
       }
     },
     {
-      "rank": 20,
-      "batter_mlbam_id": 543877,
-      "batter_name": "Christian V\u00e1zquez",
-      "batter_team": "Houston Astros",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 622491,
-      "pitcher_name": "Luis Castillo",
+      "rank": 19,
+      "batter_mlbam_id": 666126,
+      "batter_name": "Carlos Cortes",
+      "batter_team": "Athletics",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 700241,
+      "pitcher_name": "Michael McGreevy",
       "pitcher_throws": "R",
       "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.63,
-      "batter_slg": 0.551,
-      "batter_woba_contact": 0.37,
+      "pitcher_usage_pct": 0.529,
+      "batter_slg": 0.653,
+      "batter_woba_contact": 0.459,
       "batter_ab_vs_pitch": 49,
-      "batter_barrel_pct": 3.2,
-      "batter_season_slg_overall": 0.434,
-      "matchup_strength": 0.3474,
-      "venue_name": "Daikin Park",
+      "batter_barrel_pct": 10.2,
+      "batter_season_slg_overall": 0.573,
+      "matchup_strength": 0.3454,
+      "venue_name": "Sutter Health Park",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543877/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666126/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700241/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 702222,
+      "batter_name": "Justin Crawford",
+      "batter_team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 624133,
+      "pitcher_name": "Ranger Suarez",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.664,
+      "batter_slg": 0.517,
+      "batter_woba_contact": 0.373,
+      "batter_ab_vs_pitch": 58,
+      "batter_barrel_pct": 2.2,
+      "batter_season_slg_overall": 0.413,
+      "matchup_strength": 0.3433,
+      "venue_name": "Fenway Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702222/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
       }
     }
   ]
