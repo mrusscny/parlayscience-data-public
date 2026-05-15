@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generated_at_et": "2026-05-15 07:51:44 EDT",
+  "generated_at_et": "2026-05-15 11:23:48 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -401,6 +401,31 @@
     },
     {
       "rank": 17,
+      "mlbam_id": 672960,
+      "player_name": "Kazuma Okamoto",
+      "team": "Toronto Blue Jays",
+      "opposing_pitcher": "Brenan Hanifee",
+      "opposing_pitcher_id": 669724.0,
+      "venue_name": "Comerica Park",
+      "barrel_pct": 16.0,
+      "fb_pct": 37.14,
+      "avg_exit_velo": 93.0,
+      "hard_hit_pct": 52.8,
+      "pitcher_hr_per_9": 1.08,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.862,
+      "threshold_bonus": 0.05,
+      "final_score": 0.912,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672960/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669724/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "rank": 18,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -425,7 +450,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "mlbam_id": 668715,
       "player_name": "Spencer Steer",
       "team": "Cincinnati Reds",
@@ -447,31 +472,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676440/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "mlbam_id": 672960,
-      "player_name": "Kazuma Okamoto",
-      "team": "Toronto Blue Jays",
-      "opposing_pitcher": "Ty Madden",
-      "opposing_pitcher_id": 680744.0,
-      "venue_name": "Comerica Park",
-      "barrel_pct": 16.0,
-      "fb_pct": 37.14,
-      "avg_exit_velo": 93.0,
-      "hard_hit_pct": 52.8,
-      "pitcher_hr_per_9": 0.818,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.843,
-      "threshold_bonus": 0.05,
-      "final_score": 0.893,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672960/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680744/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
       }
     },
     {

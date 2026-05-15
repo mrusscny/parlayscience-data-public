@@ -1,6 +1,6 @@
 {
   "date": "2026-05-15",
-  "generated_at_et": "2026-05-15 07:55:33 EDT",
+  "generated_at_et": "2026-05-15 11:26:06 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -102,6 +102,54 @@
     {
       "game_rank": 3,
       "pitcher_role": "away",
+      "game_pk": 824280,
+      "pitcher_mlbam_id": 702056.0,
+      "pitcher_name": "Trey Yesavage",
+      "pitcher_team": "Toronto Blue Jays",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 3.0,
+      "pitcher_l10_nrfi_rate": 0.667,
+      "pitcher_l10_starts_evaluated": 3,
+      "opposing_team": "Detroit Tigers",
+      "opposing_team_nrfi_rate": 0.667,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.667,
+      "game_nrfi_score": 0.794,
+      "venue_name": "Comerica Park",
+      "game_time_et": "6:45 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702056/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "game_rank": 3,
+      "pitcher_role": "home",
+      "game_pk": 824280,
+      "pitcher_mlbam_id": 669724.0,
+      "pitcher_name": "Brenan Hanifee",
+      "pitcher_team": "Detroit Tigers",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 0.0,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 1,
+      "opposing_team": "Toronto Blue Jays",
+      "opposing_team_nrfi_rate": 0.741,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.922,
+      "game_nrfi_score": 0.794,
+      "venue_name": "Comerica Park",
+      "game_time_et": "6:45 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669724/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    },
+    {
+      "game_rank": 4,
+      "pitcher_role": "away",
       "game_pk": 823140,
       "pitcher_mlbam_id": 681190.0,
       "pitcher_name": "Randy V\u00e1squez",
@@ -124,7 +172,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "home",
       "game_pk": 823140,
       "pitcher_mlbam_id": 676106.0,
@@ -148,7 +196,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 823384,
       "pitcher_mlbam_id": 605400.0,
@@ -172,7 +220,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 823384,
       "pitcher_mlbam_id": 677952.0,
@@ -196,7 +244,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 824037,
       "pitcher_mlbam_id": 605483.0,
@@ -220,7 +268,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 824037,
       "pitcher_mlbam_id": 686799.0,
@@ -244,7 +292,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 7,
       "pitcher_role": "away",
       "game_pk": 824925,
       "pitcher_mlbam_id": 813349.0,
@@ -268,7 +316,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 7,
       "pitcher_role": "home",
       "game_pk": 824925,
       "pitcher_mlbam_id": 675911.0,
@@ -292,7 +340,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 8,
       "pitcher_role": "away",
       "game_pk": 824194,
       "pitcher_mlbam_id": 683004.0,
@@ -316,7 +364,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 8,
       "pitcher_role": "home",
       "game_pk": 824194,
       "pitcher_mlbam_id": 681293.0,
@@ -340,7 +388,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 9,
       "pitcher_role": "away",
       "game_pk": 823061,
       "pitcher_mlbam_id": 608379.0,
@@ -364,7 +412,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 9,
       "pitcher_role": "home",
       "game_pk": 823061,
       "pitcher_mlbam_id": 669160.0,
@@ -388,7 +436,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 10,
       "pitcher_role": "away",
       "game_pk": 824360,
       "pitcher_mlbam_id": 518876.0,
@@ -412,7 +460,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 10,
       "pitcher_role": "home",
       "game_pk": 824360,
       "pitcher_mlbam_id": 607536.0,
@@ -433,54 +481,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
-      }
-    },
-    {
-      "game_rank": 10,
-      "pitcher_role": "away",
-      "game_pk": 824280,
-      "pitcher_mlbam_id": 702056.0,
-      "pitcher_name": "Trey Yesavage",
-      "pitcher_team": "Toronto Blue Jays",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 3.0,
-      "pitcher_l10_nrfi_rate": 0.667,
-      "pitcher_l10_starts_evaluated": 3,
-      "opposing_team": "Detroit Tigers",
-      "opposing_team_nrfi_rate": 0.667,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.667,
-      "game_nrfi_score": 0.544,
-      "venue_name": "Comerica Park",
-      "game_time_et": "6:45 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702056/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "game_rank": 10,
-      "pitcher_role": "home",
-      "game_pk": 824280,
-      "pitcher_mlbam_id": 680744.0,
-      "pitcher_name": "Ty Madden",
-      "pitcher_team": "Detroit Tigers",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "Toronto Blue Jays",
-      "opposing_team_nrfi_rate": 0.741,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.422,
-      "game_nrfi_score": 0.544,
-      "venue_name": "Comerica Park",
-      "game_time_et": "6:45 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680744/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
       }
     },
     {
