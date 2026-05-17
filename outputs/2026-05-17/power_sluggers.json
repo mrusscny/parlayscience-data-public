@@ -1,6 +1,6 @@
 {
   "date": "2026-05-17",
-  "generated_at_et": "2026-05-17 06:59:25 EDT",
+  "generated_at_et": "2026-05-17 10:31:42 EDT",
   "concept": "power_sluggers",
   "items": [
     {
@@ -55,31 +55,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 701678,
-      "player_name": "Hao-Yu Lee",
-      "team": "Detroit Tigers",
-      "opposing_pitcher": "Kevin Gausman",
-      "opposing_pitcher_id": 592332,
-      "venue_name": "Comerica Park",
-      "barrel_pct": 14.7,
-      "fb_pct": 50.0,
-      "avg_exit_velo": 90.1,
-      "hard_hit_pct": 38.2,
-      "pitcher_hr_per_9": 1.052,
-      "threshold_count": 3,
-      "threshold_label": "3/3",
-      "base_score": 0.911,
-      "threshold_bonus": 0.1,
-      "final_score": 1.0,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701678/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592332/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 695657,
       "player_name": "Colson Montgomery",
       "team": "Chicago White Sox",
@@ -104,7 +79,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -126,6 +101,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678394/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 667670,
+      "player_name": "Brent Rooker",
+      "team": "Athletics",
+      "opposing_pitcher": "Adrian Houser",
+      "opposing_pitcher_id": 605288,
+      "venue_name": "Sutter Health Park",
+      "barrel_pct": 15.5,
+      "fb_pct": 40.0,
+      "avg_exit_velo": 89.9,
+      "hard_hit_pct": 45.1,
+      "pitcher_hr_per_9": 1.714,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.918,
+      "threshold_bonus": 0.05,
+      "final_score": 0.968,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667670/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]
