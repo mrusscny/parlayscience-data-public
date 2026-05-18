@@ -1,6 +1,6 @@
 {
   "date": "2026-05-18",
-  "generated_at_et": "2026-05-18 09:03:31 EDT",
+  "generated_at_et": "2026-05-18 12:34:11 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -235,7 +235,7 @@
       "opp_games_sample": 27,
       "score": 0.4684,
       "game_pk": 824114,
-      "game_time_local": "7:40 PM ET",
+      "game_time_local": "7:10 PM ET",
       "venue": "Kauffman Stadium",
       "image_urls": {
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607625/headshot/67/current",
@@ -395,7 +395,7 @@
       "opp_games_sample": 27,
       "score": 0.226,
       "game_pk": 824114,
-      "game_time_local": "7:40 PM ET",
+      "game_time_local": "7:10 PM ET",
       "venue": "Kauffman Stadium",
       "image_urls": {
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543243/headshot/67/current",

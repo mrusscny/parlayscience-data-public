@@ -1,6 +1,6 @@
 {
   "date": "2026-05-18",
-  "generated_at_et": "2026-05-18 09:00:14 EDT",
+  "generated_at_et": "2026-05-18 12:30:44 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -128,9 +128,9 @@
       "hard_hit_pct": 58.5,
       "fb_pct": 37.93,
       "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.586,
+      "weather_score": 0.575,
       "park_factor": 1.04,
-      "composite_score": 0.881,
+      "composite_score": 0.88,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624424/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -140,33 +140,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 664023,
-      "player_name": "Ian Happ",
-      "team": "Chicago Cubs",
-      "bat_side": "S",
-      "opposing_pitcher": "Brandon Sproat",
-      "opposing_pitcher_id": 687075,
-      "pitcher_throws": "R",
-      "venue_name": "Wrigley Field",
-      "barrel_pct": 17.5,
-      "iso_overall": 0.227,
-      "iso_split": 0.235,
-      "iso_blended": 0.232,
-      "hard_hit_pct": 44.7,
-      "fb_pct": 35.0,
-      "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.586,
-      "park_factor": 1.04,
-      "composite_score": 0.868,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687075/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 7,
       "mlbam_id": 663993,
       "player_name": "Nathaniel Lowe",
       "team": "Cincinnati Reds",
@@ -190,6 +163,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691725/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 664023,
+      "player_name": "Ian Happ",
+      "team": "Chicago Cubs",
+      "bat_side": "S",
+      "opposing_pitcher": "Brandon Sproat",
+      "opposing_pitcher_id": 687075,
+      "pitcher_throws": "R",
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 17.5,
+      "iso_overall": 0.227,
+      "iso_split": 0.235,
+      "iso_blended": 0.232,
+      "hard_hit_pct": 44.7,
+      "fb_pct": 35.0,
+      "pitcher_hr_per_9": 2.0,
+      "weather_score": 0.575,
+      "park_factor": 1.04,
+      "composite_score": 0.867,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687075/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     },
     {
