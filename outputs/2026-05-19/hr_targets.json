@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "generated_at_et": "2026-05-19 08:35:35 EDT",
+  "generated_at_et": "2026-05-19 12:27:30 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 54.5,
       "fb_pct": 39.39,
       "pitcher_hr_per_9": 1.141,
-      "weather_score": 0.991,
+      "weather_score": 0.994,
       "park_factor": 1.18,
-      "composite_score": 0.869,
+      "composite_score": 0.87,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672960/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
@@ -74,7 +74,7 @@
       "hard_hit_pct": 50.9,
       "fb_pct": 36.23,
       "pitcher_hr_per_9": 1.019,
-      "weather_score": 0.979,
+      "weather_score": 0.982,
       "park_factor": 1.14,
       "composite_score": 0.855,
       "image_urls": {
@@ -86,6 +86,33 @@
     },
     {
       "rank": 4,
+      "mlbam_id": 545361,
+      "player_name": "Mike Trout",
+      "team": "Los Angeles Angels",
+      "bat_side": "R",
+      "opposing_pitcher": "Jacob Lopez",
+      "opposing_pitcher_id": 682052,
+      "pitcher_throws": "L",
+      "venue_name": "Angel Stadium",
+      "barrel_pct": 21.9,
+      "iso_overall": 0.239,
+      "iso_split": 0.2,
+      "iso_blended": 0.216,
+      "hard_hit_pct": 50.9,
+      "fb_pct": 28.07,
+      "pitcher_hr_per_9": 2.231,
+      "weather_score": 0.713,
+      "park_factor": 1.0,
+      "composite_score": 0.843,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545361/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682052/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    },
+    {
+      "rank": 5,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -101,7 +128,7 @@
       "hard_hit_pct": 51.9,
       "fb_pct": 35.8,
       "pitcher_hr_per_9": 0.906,
-      "weather_score": 0.979,
+      "weather_score": 0.982,
       "park_factor": 1.14,
       "composite_score": 0.839,
       "image_urls": {
@@ -112,7 +139,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mlbam_id": 668715,
       "player_name": "Spencer Steer",
       "team": "Cincinnati Reds",
@@ -128,9 +155,9 @@
       "hard_hit_pct": 39.4,
       "fb_pct": 32.93,
       "pitcher_hr_per_9": 0.906,
-      "weather_score": 0.979,
+      "weather_score": 0.982,
       "park_factor": 1.14,
-      "composite_score": 0.837,
+      "composite_score": 0.838,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668715/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -139,7 +166,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mlbam_id": 668709,
       "player_name": "JJ Bleday",
       "team": "Cincinnati Reds",
@@ -155,7 +182,7 @@
       "hard_hit_pct": 52.6,
       "fb_pct": 36.84,
       "pitcher_hr_per_9": 0.906,
-      "weather_score": 0.979,
+      "weather_score": 0.982,
       "park_factor": 1.14,
       "composite_score": 0.825,
       "image_urls": {
@@ -166,7 +193,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mlbam_id": 701398,
       "player_name": "Sal Stewart",
       "team": "Cincinnati Reds",
@@ -182,7 +209,7 @@
       "hard_hit_pct": 41.0,
       "fb_pct": 25.88,
       "pitcher_hr_per_9": 0.906,
-      "weather_score": 0.979,
+      "weather_score": 0.982,
       "park_factor": 1.14,
       "composite_score": 0.823,
       "image_urls": {
@@ -190,33 +217,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "mlbam_id": 621439,
-      "player_name": "Byron Buxton",
-      "team": "Minnesota Twins",
-      "bat_side": "R",
-      "opposing_pitcher": "Lance McCullers Jr.",
-      "opposing_pitcher_id": 621121,
-      "pitcher_throws": "R",
-      "venue_name": "Target Field",
-      "barrel_pct": 21.1,
-      "iso_overall": 0.32,
-      "iso_split": 0.418,
-      "iso_blended": 0.379,
-      "hard_hit_pct": 47.2,
-      "fb_pct": 38.81,
-      "pitcher_hr_per_9": 1.602,
-      "weather_score": 0.5,
-      "park_factor": 0.97,
-      "composite_score": 0.822,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621121/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     }
   ]

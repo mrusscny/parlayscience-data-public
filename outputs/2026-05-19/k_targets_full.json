@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "generated_at_et": "2026-05-19 08:39:27 EDT",
+  "generated_at_et": "2026-05-19 12:30:46 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -225,26 +225,6 @@
     },
     {
       "rank": 12,
-      "pitcher_mlbam_id": 677958,
-      "pitcher_name": "Kumar Rocker",
-      "pitcher_team": "Texas Rangers",
-      "opposing_team": "Colorado Rockies",
-      "pitcher_k_per_9": 7.232,
-      "pitcher_k_minus_bb_pct": 0.0783,
-      "opp_k_rate": 0.2309,
-      "opp_games_sample": 27,
-      "score": 0.3167,
-      "game_pk": 824356,
-      "game_time_local": "8:40 PM ET",
-      "venue": "Coors Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677958/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 13,
       "pitcher_mlbam_id": 701542,
       "pitcher_name": "Will Warren",
       "pitcher_team": "New York Yankees",
@@ -264,7 +244,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "pitcher_mlbam_id": 695505,
       "pitcher_name": "Chase Burns",
       "pitcher_team": "Cincinnati Reds",
@@ -284,7 +264,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "pitcher_mlbam_id": 669461,
       "pitcher_name": "Matthew Liberatore",
       "pitcher_team": "St. Louis Cardinals",
@@ -304,7 +284,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "pitcher_mlbam_id": 641743,
       "pitcher_name": "Anthony Kay",
       "pitcher_team": "Chicago White Sox",
@@ -324,7 +304,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "pitcher_mlbam_id": 680694,
       "pitcher_name": "Kyle Bradish",
       "pitcher_team": "Baltimore Orioles",
@@ -344,7 +324,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "pitcher_mlbam_id": 656492,
       "pitcher_name": "Foster Griffin",
       "pitcher_team": "Washington Nationals",
@@ -364,7 +344,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "pitcher_mlbam_id": 676962,
       "pitcher_name": "Ben Brown",
       "pitcher_team": "Chicago Cubs",
@@ -384,7 +364,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "pitcher_mlbam_id": 527048,
       "pitcher_name": "Mart\u00edn P\u00e9rez",
       "pitcher_team": "Atlanta Braves",
@@ -401,6 +381,26 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527048/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "pitcher_mlbam_id": 624133,
+      "pitcher_name": "Ranger Suarez",
+      "pitcher_team": "Boston Red Sox",
+      "opposing_team": "Kansas City Royals",
+      "pitcher_k_per_9": 8.12,
+      "pitcher_k_minus_bb_pct": 0.1716,
+      "opp_k_rate": 0.2033,
+      "opp_games_sample": 27,
+      "score": 0.2191,
+      "game_pk": 824112,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Kauffman Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "generated_at_et": "2026-05-19 08:39:03 EDT",
+  "generated_at_et": "2026-05-19 12:30:27 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -80,27 +80,27 @@
     },
     {
       "rank": 4,
-      "batter_mlbam_id": 696100,
-      "batter_name": "Hunter Goodman",
-      "batter_team": "Colorado Rockies",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 677958,
-      "pitcher_name": "Kumar Rocker",
-      "pitcher_throws": "R",
-      "pitch_type": "Slider",
-      "pitcher_usage_pct": 0.358,
-      "batter_slg": 0.652,
-      "batter_woba_contact": 0.368,
-      "batter_ab_vs_pitch": 23,
-      "batter_barrel_pct": 13.7,
-      "batter_season_slg_overall": 0.494,
-      "matchup_strength": 0.2336,
-      "venue_name": "Coors Field",
+      "batter_mlbam_id": 683357,
+      "batter_name": "Owen Caissie",
+      "batter_team": "Miami Marlins",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 527048,
+      "pitcher_name": "Mart\u00edn P\u00e9rez",
+      "pitcher_throws": "L",
+      "pitch_type": "Changeup",
+      "pitcher_usage_pct": 0.321,
+      "batter_slg": 0.667,
+      "batter_woba_contact": 0.43,
+      "batter_ab_vs_pitch": 21,
+      "batter_barrel_pct": 11.9,
+      "batter_season_slg_overall": 0.336,
+      "matchup_strength": 0.2138,
+      "venue_name": "loanDepot park",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677958/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683357/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527048/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
       }
     }
   ]

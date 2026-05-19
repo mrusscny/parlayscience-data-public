@@ -1,6 +1,6 @@
 {
   "date": "2026-05-19",
-  "generated_at_et": "2026-05-19 08:39:19 EDT",
+  "generated_at_et": "2026-05-19 12:30:40 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -630,6 +630,54 @@
     {
       "game_rank": 14,
       "pitcher_role": "away",
+      "game_pk": 824356,
+      "pitcher_mlbam_id": 641302,
+      "pitcher_name": "Tyler Alexander",
+      "pitcher_team": "Texas Rangers",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 0.0,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Colorado Rockies",
+      "opposing_team_nrfi_rate": 0.63,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.589,
+      "game_nrfi_score": 0.521,
+      "venue_name": "Coors Field",
+      "game_time_et": "8:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "game_rank": 14,
+      "pitcher_role": "home",
+      "game_pk": 824356,
+      "pitcher_mlbam_id": 671111,
+      "pitcher_name": "Sammy Peralta",
+      "pitcher_team": "Colorado Rockies",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 4.5,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Texas Rangers",
+      "opposing_team_nrfi_rate": 0.846,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.454,
+      "game_nrfi_score": 0.521,
+      "venue_name": "Coors Field",
+      "game_time_et": "8:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671111/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "game_rank": 15,
+      "pitcher_role": "away",
       "game_pk": 824112,
       "pitcher_mlbam_id": 624133,
       "pitcher_name": "Ranger Suarez",
@@ -652,7 +700,7 @@
       }
     },
     {
-      "game_rank": 14,
+      "game_rank": 15,
       "pitcher_role": "home",
       "game_pk": 824112,
       "pitcher_mlbam_id": 663559,
@@ -673,54 +721,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663559/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "game_rank": 15,
-      "pitcher_role": "away",
-      "game_pk": 824356,
-      "pitcher_mlbam_id": 677958,
-      "pitcher_name": "Kumar Rocker",
-      "pitcher_team": "Texas Rangers",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 11.25,
-      "pitcher_l10_nrfi_rate": 0.2,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Colorado Rockies",
-      "opposing_team_nrfi_rate": 0.63,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.249,
-      "game_nrfi_score": 0.352,
-      "venue_name": "Coors Field",
-      "game_time_et": "8:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677958/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "game_rank": 15,
-      "pitcher_role": "home",
-      "game_pk": 824356,
-      "pitcher_mlbam_id": 671111,
-      "pitcher_name": "Sammy Peralta",
-      "pitcher_team": "Colorado Rockies",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "Texas Rangers",
-      "opposing_team_nrfi_rate": 0.846,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.454,
-      "game_nrfi_score": 0.352,
-      "venue_name": "Coors Field",
-      "game_time_et": "8:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671111/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]
