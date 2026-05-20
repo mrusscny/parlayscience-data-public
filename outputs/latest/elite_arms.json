@@ -1,6 +1,6 @@
 {
   "date": "2026-05-20",
-  "generated_at_et": "2026-05-20 08:19:49 EDT",
+  "generated_at_et": "2026-05-20 12:37:32 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -47,6 +47,48 @@
     },
     {
       "rank": 3,
+      "pitcher_mlbam_id": 650911,
+      "pitcher_name": "Cristopher S\u00e1nchez",
+      "pitcher_team": "Philadelphia Phillies",
+      "next_start_date": "2026-05-22",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 1.872,
+      "era_proxy": 1.82,
+      "k_minus_bb_pct": 0.2463,
+      "k_per_9": 11.192,
+      "ip_total": 64.3,
+      "score": 0.6873,
+      "game_pk": 823461,
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "pitcher_mlbam_id": 554430,
+      "pitcher_name": "Zack Wheeler",
+      "pitcher_team": "Philadelphia Phillies",
+      "next_start_date": "2026-05-23",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 2.279,
+      "era_proxy": 1.99,
+      "k_minus_bb_pct": 0.1917,
+      "k_per_9": 8.526,
+      "ip_total": 31.7,
+      "score": 0.59,
+      "game_pk": 823458,
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 690986,
       "pitcher_name": "Kyle Harrison",
       "pitcher_team": "Milwaukee Brewers",
@@ -64,48 +106,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "pitcher_mlbam_id": 519242,
-      "pitcher_name": "Chris Sale",
-      "pitcher_team": "Atlanta Braves",
-      "next_start_date": "2026-05-20",
-      "opposing_team": "Miami Marlins",
-      "fip": 2.955,
-      "era_proxy": 1.96,
-      "k_minus_bb_pct": 0.2315,
-      "k_per_9": 10.473,
-      "ip_total": 55.0,
-      "score": 0.5775,
-      "game_pk": 823866,
-      "venue": "loanDepot park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "pitcher_mlbam_id": 663554,
-      "pitcher_name": "Casey Mize",
-      "pitcher_team": "Detroit Tigers",
-      "next_start_date": "2026-05-21",
-      "opposing_team": "Cleveland Guardians",
-      "fip": 2.586,
-      "era_proxy": 2.43,
-      "k_minus_bb_pct": 0.1905,
-      "k_per_9": 9.486,
-      "ip_total": 37.0,
-      "score": 0.5378,
-      "game_pk": 824274,
-      "venue": "Comerica Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]
