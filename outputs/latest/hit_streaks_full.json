@@ -1,6 +1,6 @@
 {
   "date": "2026-05-21",
-  "generated_at_et": "2026-05-21 08:39:54 EDT",
+  "generated_at_et": "2026-05-21 12:21:40 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -350,29 +350,6 @@
     },
     {
       "rank": 16,
-      "mlbam_id": 693304,
-      "player_name": "Nick Gonzales",
-      "team": "Pittsburgh Pirates",
-      "bat_side": "R",
-      "opposing_pitcher": "Dustin May",
-      "opposing_pitcher_id": 669160,
-      "pitcher_throws": "R",
-      "venue_name": "Busch Stadium",
-      "streak_length": 4,
-      "streak_hits": 6,
-      "streak_at_bats": 16,
-      "streak_avg": 0.375,
-      "season_avg": 0.319,
-      "last_game_date": "2026-05-20",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693304/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 17,
       "mlbam_id": 660821,
       "player_name": "Jes\u00fas S\u00e1nchez",
       "team": "Toronto Blue Jays",
@@ -395,7 +372,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 641355,
       "player_name": "Cody Bellinger",
       "team": "New York Yankees",
@@ -418,7 +395,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 678218,
       "player_name": "Brandon Valenzuela",
       "team": "Toronto Blue Jays",
@@ -441,7 +418,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 669065,
       "player_name": "Kyle Stowers",
       "team": "Miami Marlins",
@@ -461,6 +438,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675911/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 682985,
+      "player_name": "Riley Greene",
+      "team": "Detroit Tigers",
+      "bat_side": "L",
+      "opposing_pitcher": "Joey Cantillo",
+      "opposing_pitcher_id": 676282,
+      "pitcher_throws": "L",
+      "venue_name": "Comerica Park",
+      "streak_length": 3,
+      "streak_hits": 5,
+      "streak_at_bats": 8,
+      "streak_avg": 0.625,
+      "season_avg": 0.333,
+      "last_game_date": "2026-05-20",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676282/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]
