@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated_at_et": "2026-05-23 07:08:02 EDT",
+  "generated_at_et": "2026-05-23 10:44:36 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -113,20 +113,20 @@
       "pitcher_mlbam_id": 663556,
       "pitcher_name": "Shane McClanahan",
       "pitcher_team": "Tampa Bay Rays",
-      "next_start_date": "2026-05-24",
-      "opposing_team": "New York Yankees",
+      "next_start_date": "2026-05-25",
+      "opposing_team": "Baltimore Orioles",
       "fip": 2.719,
       "era_proxy": 2.82,
       "k_minus_bb_pct": 0.1648,
       "k_per_9": 9.47,
       "ip_total": 44.7,
       "score": 0.4781,
-      "game_pk": 823544,
-      "venue": "Yankee Stadium",
+      "game_pk": 824838,
+      "venue": "Oriole Park at Camden Yards",
       "image_urls": {
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663556/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {
