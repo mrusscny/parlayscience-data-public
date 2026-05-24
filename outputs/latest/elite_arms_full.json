@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at_et": "2026-05-24 07:13:51 EDT",
+  "generated_at_et": "2026-05-24 10:34:47 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -110,6 +110,27 @@
     },
     {
       "rank": 6,
+      "pitcher_mlbam_id": 677952,
+      "pitcher_name": "Braxton Ashcraft",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-05-26",
+      "opposing_team": "Chicago Cubs",
+      "fip": 3.036,
+      "era_proxy": 2.89,
+      "k_minus_bb_pct": 0.1992,
+      "k_per_9": 9.385,
+      "ip_total": 62.3,
+      "score": 0.4829,
+      "game_pk": 823379,
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 7,
       "pitcher_mlbam_id": 663556,
       "pitcher_name": "Shane McClanahan",
       "pitcher_team": "Tampa Bay Rays",
@@ -130,7 +151,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 650633,
       "pitcher_name": "Michael King",
       "pitcher_team": "San Diego Padres",
@@ -151,7 +172,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 663969,
       "pitcher_name": "Tyler Phillips",
       "pitcher_team": "Miami Marlins",
@@ -172,7 +193,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "pitcher_mlbam_id": 677960,
       "pitcher_name": "Ryan Weathers",
       "pitcher_team": "New York Yankees",
@@ -193,7 +214,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "pitcher_mlbam_id": 693433,
       "pitcher_name": "Bryan Woo",
       "pitcher_team": "Seattle Mariners",
@@ -214,7 +235,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "pitcher_mlbam_id": 684007,
       "pitcher_name": "Shota Imanaga",
       "pitcher_team": "Chicago Cubs",
@@ -235,7 +256,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
@@ -256,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -277,7 +298,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "pitcher_mlbam_id": 663567,
       "pitcher_name": "Peter Lambert",
       "pitcher_team": "Houston Astros",
@@ -298,7 +319,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "pitcher_mlbam_id": 527048,
       "pitcher_name": "Mart\u00edn P\u00e9rez",
       "pitcher_team": "Atlanta Braves",
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 607625,
       "pitcher_name": "Seth Lugo",
       "pitcher_team": "Kansas City Royals",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 681190,
       "pitcher_name": "Randy V\u00e1squez",
       "pitcher_team": "San Diego Padres",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 543243,
       "pitcher_name": "Sonny Gray",
       "pitcher_team": "Boston Red Sox",
@@ -382,45 +403,24 @@
       }
     },
     {
-      "rank": 19,
-      "pitcher_mlbam_id": 700241,
-      "pitcher_name": "Michael McGreevy",
-      "pitcher_team": "St. Louis Cardinals",
-      "next_start_date": "2026-05-25",
-      "opposing_team": "Milwaukee Brewers",
-      "fip": 4.041,
-      "era_proxy": 2.4,
-      "k_minus_bb_pct": 0.1152,
-      "k_per_9": 5.911,
-      "ip_total": 56.3,
-      "score": 0.3479,
-      "game_pk": 823784,
-      "venue": "American Family Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700241/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
       "rank": 20,
-      "pitcher_mlbam_id": 672282,
-      "pitcher_name": "Reid Detmers",
-      "pitcher_team": "Los Angeles Angels",
-      "next_start_date": "2026-05-24",
-      "opposing_team": "Texas Rangers",
-      "fip": 2.864,
-      "era_proxy": 5.07,
-      "k_minus_bb_pct": 0.175,
-      "k_per_9": 9.982,
-      "ip_total": 55.0,
-      "score": 0.3459,
-      "game_pk": 824028,
-      "venue": "Angel Stadium",
+      "pitcher_mlbam_id": 669387,
+      "pitcher_name": "Carmen Mlodzinski",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-05-25",
+      "opposing_team": "Chicago Cubs",
+      "fip": 2.88,
+      "era_proxy": 3.96,
+      "k_minus_bb_pct": 0.125,
+      "k_per_9": 7.92,
+      "ip_total": 50.0,
+      "score": 0.357,
+      "game_pk": 823380,
+      "venue": "PNC Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672282/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669387/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     }
   ]

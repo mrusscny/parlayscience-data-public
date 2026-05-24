@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at_et": "2026-05-24 07:12:19 EDT",
+  "generated_at_et": "2026-05-24 10:33:59 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 542303,
-      "player_name": "Marcell Ozuna",
-      "team": "Pittsburgh Pirates",
-      "bat_side": "R",
-      "opposing_pitcher": "Dylan Cease",
-      "opposing_pitcher_id": 656302,
-      "pitcher_throws": "R",
-      "venue_name": "Rogers Centre",
-      "career_ab": 10,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.4,
-      "career_ops": 1.155,
-      "career_xbh": 1,
-      "career_rbi": 3,
-      "career_slg": 0.7,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/542303/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656302/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 665926,
       "player_name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 606466,
       "player_name": "Ketel Marte",
       "team": "Arizona Diamondbacks",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 647304,
       "player_name": "Josh Naylor",
       "team": "Seattle Mariners",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 663837,
       "player_name": "Matt Vierling",
       "team": "Detroit Tigers",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 663757,
       "player_name": "Trent Grisham",
       "team": "New York Yankees",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 641487,
       "player_name": "J.P. Crawford",
       "team": "Seattle Mariners",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 605137,
       "player_name": "Josh Bell",
       "team": "Minnesota Twins",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 665862,
       "player_name": "Jazz Chisholm Jr.",
       "team": "New York Yankees",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 668804,
       "player_name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 571448,
       "player_name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 695336,
       "player_name": "Thomas Saggese",
       "team": "St. Louis Cardinals",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 664059,
       "player_name": "Sam Haggerty",
       "team": "Texas Rangers",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 641355,
       "player_name": "Cody Bellinger",
       "team": "New York Yankees",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 645302,
       "player_name": "Victor Robles",
       "team": "Seattle Mariners",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 606115,
       "player_name": "Orlando Arcia",
       "team": "Minnesota Twins",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543243/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 682998,
+      "player_name": "Corbin Carroll",
+      "team": "Arizona Diamondbacks",
+      "bat_side": "L",
+      "opposing_pitcher": "Jose Quintana",
+      "opposing_pitcher_id": 500779,
+      "pitcher_throws": "L",
+      "venue_name": "Chase Field",
+      "career_ab": 10,
+      "career_h": 1,
+      "career_hr": 0,
+      "career_avg": 0.1,
+      "career_ops": 0.35,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.1,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/682998/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/500779/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]

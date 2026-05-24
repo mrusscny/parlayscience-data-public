@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at_et": "2026-05-24 07:09:21 EDT",
+  "generated_at_et": "2026-05-24 10:30:01 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -128,9 +128,9 @@
       "hard_hit_pct": 51.3,
       "fb_pct": 34.62,
       "pitcher_hr_per_9": 1.607,
-      "weather_score": 0.636,
+      "weather_score": 0.701,
       "park_factor": 1.01,
-      "composite_score": 0.839,
+      "composite_score": 0.846,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",

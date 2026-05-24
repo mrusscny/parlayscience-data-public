@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at_et": "2026-05-24 07:11:14 EDT",
+  "generated_at_et": "2026-05-24 10:32:54 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -350,29 +350,6 @@
     },
     {
       "rank": 16,
-      "mlbam_id": 663993,
-      "player_name": "Nathaniel Lowe",
-      "team": "Cincinnati Reds",
-      "bat_side": "L",
-      "opposing_pitcher": "Matthew Liberatore",
-      "opposing_pitcher_id": 669461.0,
-      "pitcher_throws": "L",
-      "venue_name": "Great American Ball Park",
-      "streak_length": 5,
-      "streak_hits": 8,
-      "streak_at_bats": 21,
-      "streak_avg": 0.381,
-      "season_avg": 0.268,
-      "last_game_date": "2026-05-23",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663993/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 17,
       "mlbam_id": 671739,
       "player_name": "Michael Harris II",
       "team": "Atlanta Braves",
@@ -395,7 +372,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 694384,
       "player_name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
@@ -418,7 +395,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 695734,
       "player_name": "Daylen Lile",
       "team": "Washington Nationals",
@@ -441,7 +418,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 681198,
       "player_name": "TJ Rumfield",
       "team": "Colorado Rockies",
@@ -461,6 +438,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669194/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 607043,
+      "player_name": "Brandon Nimmo",
+      "team": "Texas Rangers",
+      "bat_side": "L",
+      "opposing_pitcher": "Reid Detmers",
+      "opposing_pitcher_id": 672282.0,
+      "pitcher_throws": "L",
+      "venue_name": "Angel Stadium",
+      "streak_length": 4,
+      "streak_hits": 7,
+      "streak_at_bats": 17,
+      "streak_avg": 0.412,
+      "season_avg": 0.275,
+      "last_game_date": "2026-05-23",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607043/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672282/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
       }
     }
   ]
