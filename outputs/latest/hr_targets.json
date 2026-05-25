@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "generated_at_et": "2026-05-25 08:56:43 EDT",
+  "generated_at_et": "2026-05-25 11:57:31 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -47,9 +47,9 @@
       "hard_hit_pct": 50.4,
       "fb_pct": 41.03,
       "pitcher_hr_per_9": 2.4,
-      "weather_score": 0.524,
+      "weather_score": 0.465,
       "park_factor": 1.06,
-      "composite_score": 0.859,
+      "composite_score": 0.853,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -59,33 +59,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 669004,
-      "player_name": "MJ Melendez",
-      "team": "New York Mets",
-      "bat_side": "L",
-      "opposing_pitcher": "Nick Lodolo",
-      "opposing_pitcher_id": 666157,
-      "pitcher_throws": "L",
-      "venue_name": "Citi Field",
-      "barrel_pct": 14.3,
-      "iso_overall": 0.157,
-      "iso_split": null,
-      "iso_blended": 0.157,
-      "hard_hit_pct": 59.5,
-      "fb_pct": 44.12,
-      "pitcher_hr_per_9": 2.4,
-      "weather_score": 0.524,
-      "park_factor": 1.06,
-      "composite_score": 0.812,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669004/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666157/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 660271,
       "player_name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
@@ -112,6 +85,33 @@
       }
     },
     {
+      "rank": 4,
+      "mlbam_id": 669004,
+      "player_name": "MJ Melendez",
+      "team": "New York Mets",
+      "bat_side": "L",
+      "opposing_pitcher": "Nick Lodolo",
+      "opposing_pitcher_id": 666157,
+      "pitcher_throws": "L",
+      "venue_name": "Citi Field",
+      "barrel_pct": 14.3,
+      "iso_overall": 0.157,
+      "iso_split": null,
+      "iso_blended": 0.157,
+      "hard_hit_pct": 59.5,
+      "fb_pct": 44.12,
+      "pitcher_hr_per_9": 2.4,
+      "weather_score": 0.465,
+      "park_factor": 1.06,
+      "composite_score": 0.806,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669004/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666157/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
       "rank": 5,
       "mlbam_id": 592450,
       "player_name": "Aaron Judge",
@@ -128,9 +128,9 @@
       "hard_hit_pct": 55.2,
       "fb_pct": 32.81,
       "pitcher_hr_per_9": 0.995,
-      "weather_score": 0.868,
+      "weather_score": 0.857,
       "park_factor": 1.03,
-      "composite_score": 0.803,
+      "composite_score": 0.802,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -155,9 +155,9 @@
       "hard_hit_pct": 51.8,
       "fb_pct": 31.71,
       "pitcher_hr_per_9": 1.568,
-      "weather_score": 0.425,
+      "weather_score": 0.5,
       "park_factor": 0.95,
-      "composite_score": 0.791,
+      "composite_score": 0.799,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670042/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -209,9 +209,9 @@
       "hard_hit_pct": 53.2,
       "fb_pct": 24.66,
       "pitcher_hr_per_9": 0.995,
-      "weather_score": 0.868,
+      "weather_score": 0.857,
       "park_factor": 1.03,
-      "composite_score": 0.787,
+      "composite_score": 0.786,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",

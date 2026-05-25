@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "generated_at_et": "2026-05-25 08:59:39 EDT",
+  "generated_at_et": "2026-05-25 11:59:39 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -155,31 +155,6 @@
     },
     {
       "rank": 7,
-      "mlbam_id": 663538,
-      "player_name": "Nico Hoerner",
-      "team": "Chicago Cubs",
-      "bat_side": "R",
-      "opposing_pitcher": "Carmen Mlodzinski",
-      "opposing_pitcher_id": 669387,
-      "pitcher_throws": "R",
-      "venue_name": "PNC Park",
-      "career_ab": 9,
-      "career_h": 5,
-      "career_hr": 0,
-      "career_avg": 0.556,
-      "career_ops": 1.156,
-      "career_xbh": 0,
-      "career_rbi": 0,
-      "career_slg": 0.556,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663538/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669387/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
-      }
-    },
-    {
-      "rank": 8,
       "mlbam_id": 665487,
       "player_name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 621020,
       "player_name": "Dansby Swanson",
       "team": "Chicago Cubs",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 677594,
       "player_name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 656305,
       "player_name": "Matt Chapman",
       "team": "San Francisco Giants",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 608070,
       "player_name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 621438,
       "player_name": "Tyrone Taylor",
       "team": "New York Mets",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 642715,
       "player_name": "Willy Adames",
       "team": "San Francisco Giants",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 671732,
       "player_name": "Lawrence Butler",
       "team": "Athletics",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 502671,
       "player_name": "Paul Goldschmidt",
       "team": "New York Yankees",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 641487,
       "player_name": "J.P. Crawford",
       "team": "Seattle Mariners",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 641355,
       "player_name": "Cody Bellinger",
       "team": "New York Yankees",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 669127,
       "player_name": "Shea Langeliers",
       "team": "Athletics",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 676609,
       "player_name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 641680,
+      "player_name": "Jonah Heim",
+      "team": "Athletics",
+      "bat_side": "S",
+      "opposing_pitcher": "Luis Castillo",
+      "opposing_pitcher_id": 622491,
+      "pitcher_throws": "R",
+      "venue_name": "Sutter Health Park",
+      "career_ab": 10,
+      "career_h": 3,
+      "career_hr": 0,
+      "career_avg": 0.3,
+      "career_ops": 0.7,
+      "career_xbh": 1,
+      "career_rbi": 4,
+      "career_slg": 0.4,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/641680/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622491/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]
