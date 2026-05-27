@@ -1,10 +1,35 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:51:41 EDT",
+  "generated_at_et": "2026-05-27 12:43:09 EDT",
   "concept": "zone_attack",
   "items": [
     {
       "rank": 1,
+      "batter_mlbam_id": 691023,
+      "batter_name": "Jordan Walker",
+      "batter_team": "St. Louis Cardinals",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 694477,
+      "pitcher_name": "Chad Patrick",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.993,
+      "batter_slg": 0.536,
+      "batter_woba_contact": 0.357,
+      "batter_ab_vs_pitch": 110,
+      "batter_barrel_pct": 16.0,
+      "batter_season_slg_overall": 0.578,
+      "matchup_strength": 0.5326,
+      "venue_name": "American Family Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694477/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 2,
       "batter_mlbam_id": 642715,
       "batter_name": "Willy Adames",
       "batter_team": "San Francisco Giants",
@@ -26,31 +51,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/647336/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
-      }
-    },
-    {
-      "rank": 2,
-      "batter_mlbam_id": 656941,
-      "batter_name": "Kyle Schwarber",
-      "batter_team": "Philadelphia Phillies",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 621111,
-      "pitcher_name": "Walker Buehler",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.587,
-      "batter_slg": 0.742,
-      "batter_woba_contact": 0.433,
-      "batter_ab_vs_pitch": 93,
-      "batter_barrel_pct": 24.2,
-      "batter_season_slg_overall": 0.606,
-      "matchup_strength": 0.4352,
-      "venue_name": "Petco Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     },
     {

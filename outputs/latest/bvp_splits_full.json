@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:50:42 EDT",
+  "generated_at_et": "2026-05-27 12:42:52 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -55,31 +55,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 595978,
-      "player_name": "Austin Hedges",
-      "team": "Cleveland Guardians",
-      "bat_side": "R",
-      "opposing_pitcher": "Miles Mikolas",
-      "opposing_pitcher_id": 571945,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "career_ab": 8,
-      "career_h": 5,
-      "career_hr": 0,
-      "career_avg": 0.625,
-      "career_ops": 1.375,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.75,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/595978/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571945/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 665487,
       "player_name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
@@ -104,7 +79,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 665161,
       "player_name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 664040,
       "player_name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 624413,
       "player_name": "Pete Alonso",
       "team": "Baltimore Orioles",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 694384,
       "player_name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 593428,
       "player_name": "Xander Bogaerts",
       "team": "San Diego Padres",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 669707,
       "player_name": "Jared Triolo",
       "team": "Pittsburgh Pirates",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 677594,
       "player_name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 666969,
       "player_name": "Adolis Garc\u00eda",
       "team": "Philadelphia Phillies",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 575929,
       "player_name": "Willson Contreras",
       "team": "Boston Red Sox",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 542303,
       "player_name": "Marcell Ozuna",
       "team": "Pittsburgh Pirates",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 642715,
       "player_name": "Willy Adames",
       "team": "San Francisco Giants",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 650489,
       "player_name": "Willi Castro",
       "team": "Colorado Rockies",
@@ -429,32 +404,7 @@
       }
     },
     {
-      "rank": 18,
-      "mlbam_id": 656555,
-      "player_name": "Rhys Hoskins",
-      "team": "Cleveland Guardians",
-      "bat_side": "R",
-      "opposing_pitcher": "Miles Mikolas",
-      "opposing_pitcher_id": 571945,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "career_ab": 18,
-      "career_h": 4,
-      "career_hr": 2,
-      "career_avg": 0.222,
-      "career_ops": 0.904,
-      "career_xbh": 2,
-      "career_rbi": 5,
-      "career_slg": 0.556,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656555/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571945/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 668227,
       "player_name": "Randy Arozarena",
       "team": "Seattle Mariners",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 687462,
       "player_name": "Spencer Horwitz",
       "team": "Pittsburgh Pirates",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592791/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 668804,
+      "player_name": "Bryan Reynolds",
+      "team": "Pittsburgh Pirates",
+      "bat_side": "S",
+      "opposing_pitcher": "Jameson Taillon",
+      "opposing_pitcher_id": 592791,
+      "pitcher_throws": "R",
+      "venue_name": "PNC Park",
+      "career_ab": 22,
+      "career_h": 6,
+      "career_hr": 1,
+      "career_avg": 0.273,
+      "career_ops": 0.788,
+      "career_xbh": 2,
+      "career_rbi": 1,
+      "career_slg": 0.455,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668804/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592791/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Walker Buehler",
+      "opposing_pitcher_id": 621111,
+      "pitcher_throws": "R",
+      "venue_name": "Petco Park",
+      "career_ab": 11,
+      "career_h": 2,
+      "career_hr": 1,
+      "career_avg": 0.182,
+      "career_ops": 0.705,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.455,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/621111/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     }
   ]

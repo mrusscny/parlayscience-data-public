@@ -1,10 +1,60 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:51:43 EDT",
+  "generated_at_et": "2026-05-27 12:43:10 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
       "rank": 1,
+      "batter_mlbam_id": 691023,
+      "batter_name": "Jordan Walker",
+      "batter_team": "St. Louis Cardinals",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 694477,
+      "pitcher_name": "Chad Patrick",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.993,
+      "batter_slg": 0.536,
+      "batter_woba_contact": 0.357,
+      "batter_ab_vs_pitch": 110,
+      "batter_barrel_pct": 16.0,
+      "batter_season_slg_overall": 0.578,
+      "matchup_strength": 0.5326,
+      "venue_name": "American Family Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694477/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "batter_mlbam_id": 669357,
+      "batter_name": "Nolan Gorman",
+      "batter_team": "St. Louis Cardinals",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 694477,
+      "pitcher_name": "Chad Patrick",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.993,
+      "batter_slg": 0.523,
+      "batter_woba_contact": 0.354,
+      "batter_ab_vs_pitch": 88,
+      "batter_barrel_pct": 9.3,
+      "batter_season_slg_overall": 0.345,
+      "matchup_strength": 0.5191,
+      "venue_name": "American Family Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669357/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694477/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 3,
       "batter_mlbam_id": 642715,
       "batter_name": "Willy Adames",
       "batter_team": "San Francisco Giants",
@@ -29,7 +79,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 4,
       "batter_mlbam_id": 656941,
       "batter_name": "Kyle Schwarber",
       "batter_team": "Philadelphia Phillies",
@@ -54,7 +104,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "batter_mlbam_id": 669477,
       "batter_name": "Casey Schmitt",
       "batter_team": "San Francisco Giants",
@@ -79,7 +129,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
       "batter_mlbam_id": 682998,
       "batter_name": "Corbin Carroll",
       "batter_team": "Arizona Diamondbacks",
@@ -104,7 +154,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 7,
       "batter_mlbam_id": 656484,
       "batter_name": "Tristan Gray",
       "batter_team": "Minnesota Twins",
@@ -129,7 +179,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "batter_mlbam_id": 700250,
       "batter_name": "Ben Rice",
       "batter_team": "New York Yankees",
@@ -151,56 +201,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702070/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "batter_mlbam_id": 596142,
-      "batter_name": "Gary S\u00e1nchez",
-      "batter_team": "Milwaukee Brewers",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 669160,
-      "pitcher_name": "Dustin May",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.666,
-      "batter_slg": 0.588,
-      "batter_woba_contact": 0.368,
-      "batter_ab_vs_pitch": 51,
-      "batter_barrel_pct": 10.6,
-      "batter_season_slg_overall": 0.427,
-      "matchup_strength": 0.3917,
-      "venue_name": "American Family Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596142/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "batter_mlbam_id": 571448,
-      "batter_name": "Nolan Arenado",
-      "batter_team": "Arizona Diamondbacks",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 686790,
-      "pitcher_name": "Trevor McDonald",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.607,
-      "batter_slg": 0.643,
-      "batter_woba_contact": 0.42,
-      "batter_ab_vs_pitch": 84,
-      "batter_barrel_pct": 6.6,
-      "batter_season_slg_overall": 0.459,
-      "matchup_strength": 0.3899,
-      "venue_name": "Oracle Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571448/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686790/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     },
     {

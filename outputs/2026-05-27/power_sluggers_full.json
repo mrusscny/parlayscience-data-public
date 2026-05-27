@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:49:39 EDT",
+  "generated_at_et": "2026-05-27 12:41:45 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -130,56 +130,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 667670,
-      "player_name": "Brent Rooker",
-      "team": "Athletics",
-      "opposing_pitcher": "Logan Gilbert",
-      "opposing_pitcher_id": 669302.0,
-      "venue_name": "Sutter Health Park",
-      "barrel_pct": 14.0,
-      "fb_pct": 44.62,
-      "avg_exit_velo": 89.6,
-      "hard_hit_pct": 39.8,
-      "pitcher_hr_per_9": 1.588,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.904,
-      "threshold_bonus": 0.05,
-      "final_score": 0.954,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667670/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "mlbam_id": 670042,
-      "player_name": "Luke Raley",
-      "team": "Seattle Mariners",
-      "opposing_pitcher": "Jeffrey Springs",
-      "opposing_pitcher_id": 605488.0,
-      "venue_name": "Sutter Health Park",
-      "barrel_pct": 20.5,
-      "fb_pct": 34.15,
-      "avg_exit_velo": 91.8,
-      "hard_hit_pct": 52.3,
-      "pitcher_hr_per_9": 1.614,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.885,
-      "threshold_bonus": 0.05,
-      "final_score": 0.935,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670042/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 8,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -204,7 +154,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "mlbam_id": 571970,
       "player_name": "Max Muncy",
       "team": "Los Angeles Dodgers",
@@ -229,7 +179,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 8,
       "mlbam_id": 671739,
       "player_name": "Michael Harris II",
       "team": "Atlanta Braves",
@@ -254,7 +204,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 9,
       "mlbam_id": 624424,
       "player_name": "Michael Conforto",
       "team": "Chicago Cubs",
@@ -279,7 +229,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "mlbam_id": 621439,
       "player_name": "Byron Buxton",
       "team": "Minnesota Twins",
@@ -304,7 +254,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "mlbam_id": 660271,
       "player_name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
@@ -329,7 +279,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -354,7 +304,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "mlbam_id": 669257,
       "player_name": "Will Smith",
       "team": "Los Angeles Dodgers",
@@ -379,7 +329,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "mlbam_id": 683737,
       "player_name": "Michael Busch",
       "team": "Chicago Cubs",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 605141,
       "player_name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 665833,
+      "player_name": "Oneil Cruz",
+      "team": "Pittsburgh Pirates",
+      "opposing_pitcher": "Jameson Taillon",
+      "opposing_pitcher_id": 592791.0,
+      "venue_name": "PNC Park",
+      "barrel_pct": 16.3,
+      "fb_pct": 18.18,
+      "avg_exit_velo": 96.4,
+      "hard_hit_pct": 62.2,
+      "pitcher_hr_per_9": 2.765,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.841,
+      "threshold_bonus": 0.05,
+      "final_score": 0.891,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665833/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592791/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 669127,
+      "player_name": "Shea Langeliers",
+      "team": "Athletics",
+      "opposing_pitcher": "Logan Gilbert",
+      "opposing_pitcher_id": 669302.0,
+      "venue_name": "Sutter Health Park",
+      "barrel_pct": 15.1,
+      "fb_pct": 25.64,
+      "avg_exit_velo": 91.8,
+      "hard_hit_pct": 44.7,
+      "pitcher_hr_per_9": 1.588,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.841,
+      "threshold_bonus": 0.05,
+      "final_score": 0.891,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669127/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]

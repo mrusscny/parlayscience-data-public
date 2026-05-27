@@ -1,58 +1,10 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:51:49 EDT",
+  "generated_at_et": "2026-05-27 12:43:18 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
       "game_rank": 1,
-      "pitcher_role": "away",
-      "game_pk": 824432,
-      "pitcher_mlbam_id": 571945.0,
-      "pitcher_name": "Miles Mikolas",
-      "pitcher_team": "Washington Nationals",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 0.0,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 3,
-      "opposing_team": "Cleveland Guardians",
-      "opposing_team_nrfi_rate": 0.857,
-      "opposing_team_games_evaluated": 28,
-      "pitcher_composite_score": 0.957,
-      "game_nrfi_score": 0.825,
-      "venue_name": "Progressive Field",
-      "game_time_et": "1:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571945/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "game_rank": 1,
-      "pitcher_role": "home",
-      "game_pk": 824432,
-      "pitcher_mlbam_id": 668909.0,
-      "pitcher_name": "Gavin Williams",
-      "pitcher_team": "Cleveland Guardians",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 4.09,
-      "pitcher_l10_nrfi_rate": 0.8,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Washington Nationals",
-      "opposing_team_nrfi_rate": 0.778,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.692,
-      "game_nrfi_score": 0.825,
-      "venue_name": "Progressive Field",
-      "game_time_et": "1:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "game_rank": 2,
       "pitcher_role": "away",
       "game_pk": 823947,
       "pitcher_mlbam_id": 608372.0,
@@ -76,7 +28,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 1,
       "pitcher_role": "home",
       "game_pk": 823947,
       "pitcher_mlbam_id": 660271.0,
@@ -97,6 +49,54 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "game_rank": 2,
+      "pitcher_role": "away",
+      "game_pk": 824432,
+      "pitcher_mlbam_id": 676571.0,
+      "pitcher_name": "PJ Poulin",
+      "pitcher_team": "Washington Nationals",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 1.59,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 2,
+      "opposing_team": "Cleveland Guardians",
+      "opposing_team_nrfi_rate": 0.857,
+      "opposing_team_games_evaluated": 28,
+      "pitcher_composite_score": 0.886,
+      "game_nrfi_score": 0.789,
+      "venue_name": "Progressive Field",
+      "game_time_et": "1:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676571/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "game_rank": 2,
+      "pitcher_role": "home",
+      "game_pk": 824432,
+      "pitcher_mlbam_id": 668909.0,
+      "pitcher_name": "Gavin Williams",
+      "pitcher_team": "Cleveland Guardians",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 4.09,
+      "pitcher_l10_nrfi_rate": 0.8,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Washington Nationals",
+      "opposing_team_nrfi_rate": 0.778,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.692,
+      "game_nrfi_score": 0.789,
+      "venue_name": "Progressive Field",
+      "game_time_et": "1:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     },
     {

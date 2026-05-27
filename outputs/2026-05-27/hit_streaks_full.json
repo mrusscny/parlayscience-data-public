@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:50:14 EDT",
+  "generated_at_et": "2026-05-27 12:42:17 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -392,29 +392,6 @@
     },
     {
       "rank": 18,
-      "mlbam_id": 686611,
-      "player_name": "Dylan Crews",
-      "team": "Washington Nationals",
-      "bat_side": "R",
-      "opposing_pitcher": "Gavin Williams",
-      "opposing_pitcher_id": 668909.0,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "streak_length": 5,
-      "streak_hits": 6,
-      "streak_at_bats": 22,
-      "streak_avg": 0.273,
-      "season_avg": 0.242,
-      "last_game_date": "2026-05-26",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686611/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 19,
       "mlbam_id": 686469,
       "player_name": "Vinnie Pasquantino",
       "team": "Kansas City Royals",
@@ -437,7 +414,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 657757,
       "player_name": "Gavin Sheets",
       "team": "San Diego Padres",
@@ -457,6 +434,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 681624,
+      "player_name": "Andy Pages",
+      "team": "Los Angeles Dodgers",
+      "bat_side": "R",
+      "opposing_pitcher": "Tomoyuki Sugano",
+      "opposing_pitcher_id": 608372.0,
+      "pitcher_throws": "R",
+      "venue_name": "UNIQLO Field at Dodger Stadium",
+      "streak_length": 4,
+      "streak_hits": 8,
+      "streak_at_bats": 17,
+      "streak_avg": 0.471,
+      "season_avg": 0.299,
+      "last_game_date": "2026-05-26",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681624/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]

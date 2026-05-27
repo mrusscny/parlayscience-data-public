@@ -1,6 +1,6 @@
 {
   "date": "2026-05-27",
-  "generated_at_et": "2026-05-27 08:51:58 EDT",
+  "generated_at_et": "2026-05-27 12:43:28 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -68,6 +68,27 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 702056,
+      "pitcher_name": "Trey Yesavage",
+      "pitcher_team": "Toronto Blue Jays",
+      "next_start_date": "2026-05-30",
+      "opposing_team": "Baltimore Orioles",
+      "fip": 1.85,
+      "era_proxy": 2.25,
+      "k_minus_bb_pct": 0.1953,
+      "k_per_9": 9.844,
+      "ip_total": 32.0,
+      "score": 0.6123,
+      "game_pk": 824833,
+      "venue": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702056/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 519242,
       "pitcher_name": "Chris Sale",
       "pitcher_team": "Atlanta Braves",
@@ -88,7 +109,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 694973,
       "pitcher_name": "Paul Skenes",
       "pitcher_team": "Pittsburgh Pirates",
@@ -109,7 +130,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 663554,
       "pitcher_name": "Casey Mize",
       "pitcher_team": "Detroit Tigers",
@@ -130,7 +151,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 800048,
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
@@ -151,7 +172,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 676974,
       "pitcher_name": "Max Meyer",
       "pitcher_team": "Miami Marlins",
@@ -172,7 +193,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "pitcher_mlbam_id": 667755,
       "pitcher_name": "Jos\u00e9 Soriano",
       "pitcher_team": "Los Angeles Angels",
@@ -193,7 +214,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "pitcher_mlbam_id": 592332,
       "pitcher_name": "Kevin Gausman",
       "pitcher_team": "Toronto Blue Jays",
@@ -214,7 +235,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "pitcher_mlbam_id": 647336,
       "pitcher_name": "Michael Soroka",
       "pitcher_team": "Arizona Diamondbacks",
@@ -235,7 +256,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "pitcher_mlbam_id": 693821,
       "pitcher_name": "Bryce Elder",
       "pitcher_team": "Atlanta Braves",
@@ -256,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "pitcher_mlbam_id": 663969,
       "pitcher_name": "Tyler Phillips",
       "pitcher_team": "Miami Marlins",
@@ -277,7 +298,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "pitcher_mlbam_id": 671737,
       "pitcher_name": "Taj Bradley",
       "pitcher_team": "Minnesota Twins",
@@ -298,7 +319,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "pitcher_mlbam_id": 668909,
       "pitcher_name": "Gavin Williams",
       "pitcher_team": "Cleveland Guardians",
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 681293,
       "pitcher_name": "Spencer Arrighetti",
       "pitcher_team": "Houston Astros",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 650633,
       "pitcher_name": "Michael King",
       "pitcher_team": "San Diego Padres",
@@ -361,7 +382,28 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
+      "pitcher_mlbam_id": 693433,
+      "pitcher_name": "Bryan Woo",
+      "pitcher_team": "Seattle Mariners",
+      "next_start_date": "2026-05-30",
+      "opposing_team": "Arizona Diamondbacks",
+      "fip": 3.131,
+      "era_proxy": 3.82,
+      "k_minus_bb_pct": 0.1758,
+      "k_per_9": 8.34,
+      "ip_total": 63.7,
+      "score": 0.3961,
+      "game_pk": 823132,
+      "venue": "T-Mobile Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693433/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 20,
       "pitcher_mlbam_id": 594798,
       "pitcher_name": "Jacob deGrom",
       "pitcher_team": "Texas Rangers",
@@ -379,48 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/594798/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "pitcher_mlbam_id": 543135,
-      "pitcher_name": "Nathan Eovaldi",
-      "pitcher_team": "Texas Rangers",
-      "next_start_date": "2026-05-28",
-      "opposing_team": "Houston Astros",
-      "fip": 4.122,
-      "era_proxy": 3.65,
-      "k_minus_bb_pct": 0.1836,
-      "k_per_9": 8.903,
-      "ip_total": 61.7,
-      "score": 0.3348,
-      "game_pk": 822896,
-      "venue": "Globe Life Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543135/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 669302,
-      "pitcher_name": "Logan Gilbert",
-      "pitcher_team": "Seattle Mariners",
-      "next_start_date": "2026-05-27",
-      "opposing_team": "Athletics",
-      "fip": 4.047,
-      "era_proxy": 4.04,
-      "k_minus_bb_pct": 0.1944,
-      "k_per_9": 9.096,
-      "ip_total": 62.3,
-      "score": 0.3282,
-      "game_pk": 825003,
-      "venue": "Sutter Health Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
       }
     }
   ]
