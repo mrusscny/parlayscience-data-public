@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "generated_at_et": "2026-05-28 09:03:02 EDT",
+  "generated_at_et": "2026-05-28 13:02:11 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "batter_mlbam_id": 691011,
-      "batter_name": "Drew Romo",
-      "batter_team": "Chicago White Sox",
-      "bat_side": "S",
-      "pitcher_mlbam_id": 696070,
-      "pitcher_name": "Kendry Rojas",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.529,
-      "batter_slg": 0.735,
-      "batter_woba_contact": 0.425,
-      "batter_ab_vs_pitch": 34,
-      "batter_barrel_pct": 10.5,
-      "batter_season_slg_overall": 0.491,
-      "matchup_strength": 0.3887,
-      "venue_name": "Rate Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691011/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696070/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
-      }
-    },
-    {
-      "rank": 5,
       "batter_mlbam_id": 668952,
       "batter_name": "Ryan Kreidler",
       "batter_team": "Minnesota Twins",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "batter_mlbam_id": 664040,
       "batter_name": "Brandon Lowe",
       "batter_team": "Pittsburgh Pirates",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "batter_mlbam_id": 694212,
       "batter_name": "Samuel Basallo",
       "batter_team": "Baltimore Orioles",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "batter_mlbam_id": 656484,
       "batter_name": "Tristan Gray",
       "batter_team": "Minnesota Twins",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 621439,
       "batter_name": "Byron Buxton",
       "batter_team": "Minnesota Twins",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 668939,
       "batter_name": "Adley Rutschman",
       "batter_team": "Baltimore Orioles",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 624424,
       "batter_name": "Michael Conforto",
       "batter_team": "Chicago Cubs",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 808959,
       "batter_name": "Munetaka Murakami",
       "batter_team": "Chicago White Sox",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 686797,
       "batter_name": "Brooks Lee",
       "batter_team": "Minnesota Twins",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 624428,
       "batter_name": "Adam Frazier",
       "batter_team": "Los Angeles Angels",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "batter_mlbam_id": 678246,
       "batter_name": "Miguel Vargas",
       "batter_team": "Chicago White Sox",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "batter_mlbam_id": 687263,
       "batter_name": "Zach Neto",
       "batter_team": "Los Angeles Angels",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "batter_mlbam_id": 669236,
       "batter_name": "Jeremiah Jackson",
       "batter_team": "Baltimore Orioles",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "batter_mlbam_id": 624413,
       "batter_name": "Pete Alonso",
       "batter_team": "Baltimore Orioles",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "batter_mlbam_id": 679529,
       "batter_name": "Spencer Torkelson",
       "batter_team": "Detroit Tigers",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "batter_mlbam_id": 575929,
       "batter_name": "Willson Contreras",
       "batter_team": "Boston Red Sox",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 695657,
+      "batter_name": "Colson Montgomery",
+      "batter_team": "Chicago White Sox",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 696070,
+      "pitcher_name": "Kendry Rojas",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.529,
+      "batter_slg": 0.509,
+      "batter_woba_contact": 0.324,
+      "batter_ab_vs_pitch": 114,
+      "batter_barrel_pct": 13.7,
+      "batter_season_slg_overall": 0.472,
+      "matchup_strength": 0.269,
+      "venue_name": "Rate Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696070/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]

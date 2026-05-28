@@ -1,6 +1,6 @@
 {
   "date": "2026-05-28",
-  "generated_at_et": "2026-05-28 09:03:18 EDT",
+  "generated_at_et": "2026-05-28 13:02:35 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -362,6 +362,27 @@
     },
     {
       "rank": 18,
+      "pitcher_mlbam_id": 672282,
+      "pitcher_name": "Reid Detmers",
+      "pitcher_team": "Los Angeles Angels",
+      "next_start_date": "2026-05-30",
+      "opposing_team": "Tampa Bay Rays",
+      "fip": 2.656,
+      "era_proxy": 4.57,
+      "k_minus_bb_pct": 0.2113,
+      "k_per_9": 10.714,
+      "ip_total": 63.0,
+      "score": 0.4246,
+      "game_pk": 822975,
+      "venue": "Tropicana Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672282/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 19,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -382,45 +403,24 @@
       }
     },
     {
-      "rank": 19,
-      "pitcher_mlbam_id": 650633,
-      "pitcher_name": "Michael King",
-      "pitcher_team": "San Diego Padres",
-      "next_start_date": "2026-05-30",
-      "opposing_team": "Washington Nationals",
-      "fip": 3.471,
-      "era_proxy": 2.76,
-      "k_minus_bb_pct": 0.1411,
-      "k_per_9": 9.145,
-      "ip_total": 62.0,
-      "score": 0.3978,
-      "game_pk": 822731,
-      "venue": "Nationals Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650633/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
       "rank": 20,
-      "pitcher_mlbam_id": 693433,
-      "pitcher_name": "Bryan Woo",
-      "pitcher_team": "Seattle Mariners",
-      "next_start_date": "2026-05-30",
-      "opposing_team": "Arizona Diamondbacks",
-      "fip": 3.131,
-      "era_proxy": 3.82,
-      "k_minus_bb_pct": 0.1758,
-      "k_per_9": 8.34,
-      "ip_total": 63.7,
-      "score": 0.3961,
-      "game_pk": 823132,
-      "venue": "T-Mobile Park",
+      "pitcher_mlbam_id": 624133,
+      "pitcher_name": "Ranger Suarez",
+      "pitcher_team": "Boston Red Sox",
+      "next_start_date": "2026-05-31",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 3.268,
+      "era_proxy": 3.02,
+      "k_minus_bb_pct": 0.1408,
+      "k_per_9": 7.882,
+      "ip_total": 53.7,
+      "score": 0.3982,
+      "game_pk": 824430,
+      "venue": "Progressive Field",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693433/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]
