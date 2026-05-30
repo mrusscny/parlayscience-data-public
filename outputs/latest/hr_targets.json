@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "generated_at_et": "2026-05-30 07:13:00 EDT",
+  "generated_at_et": "2026-05-30 10:45:12 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 51.2,
       "fb_pct": 32.05,
       "pitcher_hr_per_9": 2.739,
-      "weather_score": 0.682,
+      "weather_score": 0.688,
       "park_factor": 1.24,
-      "composite_score": 0.932,
+      "composite_score": 0.933,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
@@ -32,33 +32,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 669477,
-      "player_name": "Casey Schmitt",
-      "team": "San Francisco Giants",
-      "bat_side": "R",
-      "opposing_pitcher": "Ryan Feltner",
-      "opposing_pitcher_id": 663372,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 14.7,
-      "iso_overall": 0.262,
-      "iso_split": 0.271,
-      "iso_blended": 0.267,
-      "hard_hit_pct": 44.7,
-      "fb_pct": 33.33,
-      "pitcher_hr_per_9": 2.25,
-      "weather_score": 0.651,
-      "park_factor": 1.39,
-      "composite_score": 0.926,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 671739,
       "player_name": "Michael Harris II",
       "team": "Atlanta Braves",
@@ -74,7 +47,7 @@
       "hard_hit_pct": 55.6,
       "fb_pct": 32.47,
       "pitcher_hr_per_9": 2.739,
-      "weather_score": 0.682,
+      "weather_score": 0.688,
       "park_factor": 1.24,
       "composite_score": 0.921,
       "image_urls": {
@@ -82,6 +55,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 669477,
+      "player_name": "Casey Schmitt",
+      "team": "San Francisco Giants",
+      "bat_side": "R",
+      "opposing_pitcher": "Ryan Feltner",
+      "opposing_pitcher_id": 663372,
+      "pitcher_throws": "R",
+      "venue_name": "Coors Field",
+      "barrel_pct": 14.7,
+      "iso_overall": 0.262,
+      "iso_split": 0.271,
+      "iso_blended": 0.267,
+      "hard_hit_pct": 44.7,
+      "fb_pct": 33.33,
+      "pitcher_hr_per_9": 2.25,
+      "weather_score": 0.54,
+      "park_factor": 1.39,
+      "composite_score": 0.915,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     },
     {
@@ -140,60 +140,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 664023,
-      "player_name": "Ian Happ",
-      "team": "Chicago Cubs",
-      "bat_side": "S",
-      "opposing_pitcher": "Kyle Leahy",
-      "opposing_pitcher_id": 681517,
-      "pitcher_throws": "R",
-      "venue_name": "Busch Stadium",
-      "barrel_pct": 16.5,
-      "iso_overall": 0.245,
-      "iso_split": 0.271,
-      "iso_blended": 0.261,
-      "hard_hit_pct": 43.3,
-      "fb_pct": 37.74,
-      "pitcher_hr_per_9": 1.421,
-      "weather_score": 0.844,
-      "park_factor": 0.91,
-      "composite_score": 0.819,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681517/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "mlbam_id": 696100,
-      "player_name": "Hunter Goodman",
-      "team": "Colorado Rockies",
-      "bat_side": "R",
-      "opposing_pitcher": "Adrian Houser",
-      "opposing_pitcher_id": 605288,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 13.9,
-      "iso_overall": 0.243,
-      "iso_split": 0.234,
-      "iso_blended": 0.238,
-      "hard_hit_pct": 46.7,
-      "fb_pct": 24.59,
-      "pitcher_hr_per_9": 1.367,
-      "weather_score": 0.651,
-      "park_factor": 1.39,
-      "composite_score": 0.819,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 8,
       "mlbam_id": 660670,
       "player_name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
@@ -209,14 +155,68 @@
       "hard_hit_pct": 44.7,
       "fb_pct": 32.35,
       "pitcher_hr_per_9": 2.739,
-      "weather_score": 0.682,
+      "weather_score": 0.688,
       "park_factor": 1.24,
-      "composite_score": 0.819,
+      "composite_score": 0.82,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660670/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 664023,
+      "player_name": "Ian Happ",
+      "team": "Chicago Cubs",
+      "bat_side": "S",
+      "opposing_pitcher": "Kyle Leahy",
+      "opposing_pitcher_id": 681517,
+      "pitcher_throws": "R",
+      "venue_name": "Busch Stadium",
+      "barrel_pct": 16.5,
+      "iso_overall": 0.245,
+      "iso_split": 0.271,
+      "iso_blended": 0.261,
+      "hard_hit_pct": 43.3,
+      "fb_pct": 37.74,
+      "pitcher_hr_per_9": 1.421,
+      "weather_score": 0.832,
+      "park_factor": 0.91,
+      "composite_score": 0.818,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681517/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 682829,
+      "player_name": "Elly De La Cruz",
+      "team": "Cincinnati Reds",
+      "bat_side": "S",
+      "opposing_pitcher": "Mart\u00edn P\u00e9rez",
+      "opposing_pitcher_id": 527048,
+      "pitcher_throws": "L",
+      "venue_name": "Great American Ball Park",
+      "barrel_pct": 14.5,
+      "iso_overall": 0.226,
+      "iso_split": 0.328,
+      "iso_blended": 0.287,
+      "hard_hit_pct": 52.6,
+      "fb_pct": 30.0,
+      "pitcher_hr_per_9": 0.964,
+      "weather_score": 0.688,
+      "park_factor": 1.24,
+      "composite_score": 0.815,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527048/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
       }
     }
   ]
