@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at_et": "2026-05-31 07:32:31 EDT",
+  "generated_at_et": "2026-05-31 10:56:22 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -385,22 +385,22 @@
     },
     {
       "rank": 20,
-      "pitcher_mlbam_id": 676083,
-      "pitcher_name": "Janson Junk",
-      "pitcher_team": "Miami Marlins",
-      "opposing_team": "New York Mets",
-      "pitcher_k_per_9": 6.45,
-      "pitcher_k_minus_bb_pct": 0.1176,
-      "opp_k_rate": 0.2173,
+      "pitcher_mlbam_id": 691725,
+      "pitcher_name": "Andrew Painter",
+      "pitcher_team": "Philadelphia Phillies",
+      "opposing_team": "Los Angeles Dodgers",
+      "pitcher_k_per_9": 7.2,
+      "pitcher_k_minus_bb_pct": 0.1101,
+      "opp_k_rate": 0.1965,
       "opp_games_sample": 27,
-      "score": 0.3187,
-      "game_pk": 823621,
-      "game_time_local": "1:40 PM ET",
-      "venue": "Citi Field",
+      "score": 0.209,
+      "game_pk": 823944,
+      "game_time_local": "4:10 PM ET",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676083/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691725/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     }
   ]

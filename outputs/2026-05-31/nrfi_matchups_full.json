@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at_et": "2026-05-31 07:32:23 EDT",
+  "generated_at_et": "2026-05-31 10:56:14 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -631,22 +631,22 @@
       "game_rank": 14,
       "pitcher_role": "away",
       "game_pk": 823621,
-      "pitcher_mlbam_id": 676083,
-      "pitcher_name": "Janson Junk",
+      "pitcher_mlbam_id": 667463,
+      "pitcher_name": "John King",
       "pitcher_team": "Miami Marlins",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 5.73,
-      "pitcher_l10_nrfi_rate": 0.6,
-      "pitcher_l10_starts_evaluated": 5,
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 4.5,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
       "opposing_team": "New York Mets",
       "opposing_team_nrfi_rate": 0.815,
       "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.57,
-      "game_nrfi_score": 0.562,
+      "pitcher_composite_score": 0.444,
+      "game_nrfi_score": 0.5,
       "venue_name": "Citi Field",
       "game_time_et": "1:40 PM ET",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676083/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667463/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
@@ -666,7 +666,7 @@
       "opposing_team_nrfi_rate": 0.643,
       "opposing_team_games_evaluated": 28,
       "pitcher_composite_score": 0.555,
-      "game_nrfi_score": 0.562,
+      "game_nrfi_score": 0.5,
       "venue_name": "Citi Field",
       "game_time_et": "1:40 PM ET",
       "image_urls": {
