@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generated_at_et": "2026-06-01 11:52:13 EDT",
+  "generated_at_et": "2026-06-01 14:45:40 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -125,26 +125,6 @@
     },
     {
       "rank": 7,
-      "pitcher_mlbam_id": 695505,
-      "pitcher_name": "Chase Burns",
-      "pitcher_team": "Cincinnati Reds",
-      "opposing_team": "Kansas City Royals",
-      "pitcher_k_per_9": 10.073,
-      "pitcher_k_minus_bb_pct": 0.2088,
-      "opp_k_rate": 0.2103,
-      "opp_games_sample": 27,
-      "score": 0.6427,
-      "game_pk": 824510,
-      "game_time_local": "7:10 PM ET",
-      "venue": "Great American Ball Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695505/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 8,
       "pitcher_mlbam_id": 676106,
       "pitcher_name": "Emerson Hancock",
       "pitcher_team": "Seattle Mariners",
@@ -164,7 +144,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "pitcher_mlbam_id": 594798,
       "pitcher_name": "Jacob deGrom",
       "pitcher_team": "Texas Rangers",
@@ -184,7 +164,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "pitcher_mlbam_id": 686218,
       "pitcher_name": "Emmet Sheehan",
       "pitcher_team": "Los Angeles Dodgers",
@@ -204,7 +184,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "pitcher_mlbam_id": 700241,
       "pitcher_name": "Michael McGreevy",
       "pitcher_team": "St. Louis Cardinals",
@@ -224,7 +204,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "pitcher_mlbam_id": 593958,
       "pitcher_name": "Eduardo Rodriguez",
       "pitcher_team": "Arizona Diamondbacks",
@@ -244,7 +224,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "pitcher_mlbam_id": 645261,
       "pitcher_name": "Sandy Alcantara",
       "pitcher_team": "Miami Marlins",

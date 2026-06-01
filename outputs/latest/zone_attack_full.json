@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generated_at_et": "2026-06-01 11:51:52 EDT",
+  "generated_at_et": "2026-06-01 14:45:27 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -230,31 +230,6 @@
     },
     {
       "rank": 10,
-      "batter_mlbam_id": 695600,
-      "batter_name": "Carter Jensen",
-      "batter_team": "Kansas City Royals",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 695505,
-      "pitcher_name": "Chase Burns",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.567,
-      "batter_slg": 0.625,
-      "batter_woba_contact": 0.399,
-      "batter_ab_vs_pitch": 72,
-      "batter_barrel_pct": 8.5,
-      "batter_season_slg_overall": 0.398,
-      "matchup_strength": 0.3543,
-      "venue_name": "Great American Ball Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695600/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695505/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 11,
       "batter_mlbam_id": 660271,
       "batter_name": "Shohei Ohtani",
       "batter_team": "Los Angeles Dodgers",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 669477,
       "batter_name": "Casey Schmitt",
       "batter_team": "San Francisco Giants",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 646240,
       "batter_name": "Rafael Devers",
       "batter_team": "San Francisco Giants",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 518692,
       "batter_name": "Freddie Freeman",
       "batter_team": "Los Angeles Dodgers",
@@ -354,32 +329,7 @@
       }
     },
     {
-      "rank": 15,
-      "batter_mlbam_id": 682829,
-      "batter_name": "Elly De La Cruz",
-      "batter_team": "Cincinnati Reds",
-      "bat_side": "S",
-      "pitcher_mlbam_id": 679883,
-      "pitcher_name": "Luinder Avila",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.539,
-      "batter_slg": 0.606,
-      "batter_woba_contact": 0.382,
-      "batter_ab_vs_pitch": 104,
-      "batter_barrel_pct": 14.6,
-      "batter_season_slg_overall": 0.509,
-      "matchup_strength": 0.3265,
-      "venue_name": "Great American Ball Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679883/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "batter_mlbam_id": 677588,
       "batter_name": "Jos\u00e9 Tena",
       "batter_team": "Washington Nationals",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "batter_mlbam_id": 668709,
       "batter_name": "JJ Bleday",
       "batter_team": "Cincinnati Reds",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "batter_mlbam_id": 543309,
       "batter_name": "Kyle Higashioka",
       "batter_team": "Texas Rangers",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "batter_mlbam_id": 678246,
       "batter_name": "Miguel Vargas",
       "batter_team": "Chicago White Sox",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "batter_mlbam_id": 681624,
       "batter_name": "Andy Pages",
       "batter_team": "Los Angeles Dodgers",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/593958/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 694362,
+      "batter_name": "Blake Dunn",
+      "batter_team": "Cincinnati Reds",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 679883,
+      "pitcher_name": "Luinder Avila",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.539,
+      "batter_slg": 0.562,
+      "batter_woba_contact": 0.39,
+      "batter_ab_vs_pitch": 32,
+      "batter_barrel_pct": 4.3,
+      "batter_season_slg_overall": 0.406,
+      "matchup_strength": 0.3032,
+      "venue_name": "Great American Ball Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694362/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679883/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 669364,
+      "batter_name": "Xavier Edwards",
+      "batter_team": "Miami Marlins",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 676917,
+      "pitcher_name": "Cade Cavalli",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.491,
+      "batter_slg": 0.595,
+      "batter_woba_contact": 0.401,
+      "batter_ab_vs_pitch": 121,
+      "batter_barrel_pct": 6.7,
+      "batter_season_slg_overall": 0.48,
+      "matchup_strength": 0.2923,
+      "venue_name": "Nationals Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669364/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676917/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     }
   ]

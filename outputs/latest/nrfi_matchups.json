@@ -1,6 +1,6 @@
 {
   "date": "2026-06-01",
-  "generated_at_et": "2026-06-01 11:52:05 EDT",
+  "generated_at_et": "2026-06-01 14:45:35 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
@@ -198,54 +198,6 @@
     {
       "game_rank": 5,
       "pitcher_role": "away",
-      "game_pk": 824510,
-      "pitcher_mlbam_id": 679883.0,
-      "pitcher_name": "Luinder Avila",
-      "pitcher_team": "Kansas City Royals",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 13.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "Cincinnati Reds",
-      "opposing_team_nrfi_rate": 0.769,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.231,
-      "game_nrfi_score": 0.571,
-      "venue_name": "Great American Ball Park",
-      "game_time_et": "7:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679883/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "game_rank": 5,
-      "pitcher_role": "home",
-      "game_pk": 824510,
-      "pitcher_mlbam_id": 695505.0,
-      "pitcher_name": "Chase Burns",
-      "pitcher_team": "Cincinnati Reds",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 0.0,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Kansas City Royals",
-      "opposing_team_nrfi_rate": 0.704,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.911,
-      "game_nrfi_score": 0.571,
-      "venue_name": "Great American Ball Park",
-      "game_time_et": "7:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695505/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "away",
       "game_pk": 822974,
       "pitcher_mlbam_id": 680744.0,
       "pitcher_name": "Ty Madden",
@@ -268,7 +220,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 822974,
       "pitcher_mlbam_id": 643377.0,
@@ -289,6 +241,52 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "game_rank": 6,
+      "pitcher_role": "away",
+      "game_pk": 823702,
+      "pitcher_mlbam_id": null,
+      "pitcher_name": "TBD",
+      "pitcher_team": "Chicago White Sox",
+      "pitcher_throws": "U",
+      "pitcher_first_inning_era": 4.5,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Minnesota Twins",
+      "opposing_team_nrfi_rate": 0.63,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.389,
+      "game_nrfi_score": 0.503,
+      "venue_name": "Target Field",
+      "game_time_et": "7:40 PM ET",
+      "image_urls": {
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "game_rank": 6,
+      "pitcher_role": "home",
+      "game_pk": 823702,
+      "pitcher_mlbam_id": 657746.0,
+      "pitcher_name": "Joe Ryan",
+      "pitcher_team": "Minnesota Twins",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 4.76,
+      "pitcher_l10_nrfi_rate": 0.8,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Chicago White Sox",
+      "opposing_team_nrfi_rate": 0.63,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.617,
+      "game_nrfi_score": 0.503,
+      "venue_name": "Target Field",
+      "game_time_et": "7:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657746/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     }
   ]
