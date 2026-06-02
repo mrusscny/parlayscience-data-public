@@ -1,6 +1,6 @@
 {
   "date": "2026-06-02",
-  "generated_at_et": "2026-06-02 09:50:40 EDT",
+  "generated_at_et": "2026-06-02 13:34:41 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -130,24 +130,24 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 621439,
-      "player_name": "Byron Buxton",
+      "mlbam_id": 665019,
+      "player_name": "Kody Clemens",
       "team": "Minnesota Twins",
-      "bat_side": "R",
+      "bat_side": "L",
       "opposing_pitcher": "Davis Martin",
       "opposing_pitcher_id": 663436,
       "pitcher_throws": "R",
       "venue_name": "Target Field",
-      "career_ab": 21,
-      "career_h": 7,
-      "career_hr": 0,
-      "career_avg": 0.333,
-      "career_ops": 0.964,
-      "career_xbh": 3,
+      "career_ab": 10,
+      "career_h": 3,
+      "career_hr": 1,
+      "career_avg": 0.3,
+      "career_ops": 0.9,
+      "career_xbh": 1,
       "career_rbi": 1,
-      "career_slg": 0.524,
+      "career_slg": 0.6,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/621439/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665019/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
@@ -180,31 +180,6 @@
     },
     {
       "rank": 8,
-      "mlbam_id": 605137,
-      "player_name": "Josh Bell",
-      "team": "Minnesota Twins",
-      "bat_side": "S",
-      "opposing_pitcher": "Davis Martin",
-      "opposing_pitcher_id": 663436,
-      "pitcher_throws": "R",
-      "venue_name": "Target Field",
-      "career_ab": 8,
-      "career_h": 3,
-      "career_hr": 0,
-      "career_avg": 0.375,
-      "career_ops": 0.875,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.5,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605137/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 9,
       "mlbam_id": 500743,
       "player_name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
@@ -229,32 +204,7 @@
       }
     },
     {
-      "rank": 10,
-      "mlbam_id": 686797,
-      "player_name": "Brooks Lee",
-      "team": "Minnesota Twins",
-      "bat_side": "S",
-      "opposing_pitcher": "Davis Martin",
-      "opposing_pitcher_id": 663436,
-      "pitcher_throws": "R",
-      "venue_name": "Target Field",
-      "career_ab": 15,
-      "career_h": 5,
-      "career_hr": 0,
-      "career_avg": 0.333,
-      "career_ops": 0.844,
-      "career_xbh": 1,
-      "career_rbi": 4,
-      "career_slg": 0.4,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/686797/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "mlbam_id": 643446,
       "player_name": "Jeff McNeil",
       "team": "Athletics",
@@ -279,57 +229,32 @@
       }
     },
     {
-      "rank": 12,
-      "mlbam_id": 663616,
-      "player_name": "Trevor Larnach",
+      "rank": 10,
+      "mlbam_id": 686797,
+      "player_name": "Brooks Lee",
       "team": "Minnesota Twins",
-      "bat_side": "L",
+      "bat_side": "S",
       "opposing_pitcher": "Davis Martin",
       "opposing_pitcher_id": 663436,
       "pitcher_throws": "R",
       "venue_name": "Target Field",
-      "career_ab": 18,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.222,
-      "career_ops": 0.753,
-      "career_xbh": 1,
-      "career_rbi": 3,
-      "career_slg": 0.389,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663616/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 13,
-      "mlbam_id": 665019,
-      "player_name": "Kody Clemens",
-      "team": "Minnesota Twins",
-      "bat_side": "L",
-      "opposing_pitcher": "Davis Martin",
-      "opposing_pitcher_id": 663436,
-      "pitcher_throws": "R",
-      "venue_name": "Target Field",
-      "career_ab": 13,
+      "career_ab": 10,
       "career_h": 3,
-      "career_hr": 1,
-      "career_avg": 0.231,
-      "career_ops": 0.693,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.462,
+      "career_hr": 0,
+      "career_avg": 0.3,
+      "career_ops": 0.717,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.3,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665019/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/686797/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     },
     {
-      "rank": 14,
+      "rank": 11,
       "mlbam_id": 666624,
       "player_name": "Christopher Morel",
       "team": "Miami Marlins",
@@ -354,7 +279,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 12,
       "mlbam_id": 545121,
       "player_name": "Ildemaro Vargas",
       "team": "Arizona Diamondbacks",
@@ -379,32 +304,7 @@
       }
     },
     {
-      "rank": 16,
-      "mlbam_id": 605170,
-      "player_name": "Victor Caratini",
-      "team": "Minnesota Twins",
-      "bat_side": "S",
-      "opposing_pitcher": "Davis Martin",
-      "opposing_pitcher_id": 663436,
-      "pitcher_throws": "R",
-      "venue_name": "Target Field",
-      "career_ab": 11,
-      "career_h": 3,
-      "career_hr": 0,
-      "career_avg": 0.273,
-      "career_ops": 0.614,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.364,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605170/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 17,
+      "rank": 13,
       "mlbam_id": 677800,
       "player_name": "Wilyer Abreu",
       "team": "Boston Red Sox",
@@ -429,7 +329,32 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 14,
+      "mlbam_id": 663616,
+      "player_name": "Trevor Larnach",
+      "team": "Minnesota Twins",
+      "bat_side": "L",
+      "opposing_pitcher": "Davis Martin",
+      "opposing_pitcher_id": 663436,
+      "pitcher_throws": "R",
+      "venue_name": "Target Field",
+      "career_ab": 11,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.182,
+      "career_ops": 0.539,
+      "career_xbh": 0,
+      "career_rbi": 1,
+      "career_slg": 0.182,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663616/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 15,
       "mlbam_id": 592206,
       "player_name": "Nick Castellanos",
       "team": "San Diego Padres",
@@ -454,7 +379,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 16,
       "mlbam_id": 666182,
       "player_name": "Bo Bichette",
       "team": "New York Mets",
@@ -479,7 +404,32 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 17,
+      "mlbam_id": 621439,
+      "player_name": "Byron Buxton",
+      "team": "Minnesota Twins",
+      "bat_side": "R",
+      "opposing_pitcher": "Davis Martin",
+      "opposing_pitcher_id": 663436,
+      "pitcher_throws": "R",
+      "venue_name": "Target Field",
+      "career_ab": 12,
+      "career_h": 1,
+      "career_hr": 0,
+      "career_avg": 0.083,
+      "career_ops": 0.464,
+      "career_xbh": 1,
+      "career_rbi": 0,
+      "career_slg": 0.25,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/621439/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 18,
       "mlbam_id": 592518,
       "player_name": "Manny Machado",
       "team": "San Diego Padres",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605400/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 680776,
+      "player_name": "Jarren Duran",
+      "team": "Boston Red Sox",
+      "bat_side": "L",
+      "opposing_pitcher": "Shane Baz",
+      "opposing_pitcher_id": 669358,
+      "pitcher_throws": "R",
+      "venue_name": "Fenway Park",
+      "career_ab": 14,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.143,
+      "career_ops": 0.414,
+      "career_xbh": 1,
+      "career_rbi": 0,
+      "career_slg": 0.214,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/680776/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669358/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 543760,
+      "player_name": "Marcus Semien",
+      "team": "New York Mets",
+      "bat_side": "R",
+      "opposing_pitcher": "Logan Gilbert",
+      "opposing_pitcher_id": 669302,
+      "pitcher_throws": "R",
+      "venue_name": "T-Mobile Park",
+      "career_ab": 38,
+      "career_h": 5,
+      "career_hr": 1,
+      "career_avg": 0.132,
+      "career_ops": 0.395,
+      "career_xbh": 3,
+      "career_rbi": 4,
+      "career_slg": 0.263,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543760/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]
