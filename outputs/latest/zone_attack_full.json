@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at_et": "2026-06-04 08:41:15 EDT",
+  "generated_at_et": "2026-06-04 12:24:38 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -130,31 +130,6 @@
     },
     {
       "rank": 6,
-      "batter_mlbam_id": 592450,
-      "batter_name": "Aaron Judge",
-      "batter_team": "New York Yankees",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 677944,
-      "pitcher_name": "Slade Cecconi",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.775,
-      "batter_slg": 0.576,
-      "batter_woba_contact": 0.38,
-      "batter_ab_vs_pitch": 85,
-      "batter_barrel_pct": 21.7,
-      "batter_season_slg_overall": 0.533,
-      "matchup_strength": 0.4466,
-      "venue_name": "Yankee Stadium",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677944/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 7,
       "batter_mlbam_id": 642715,
       "batter_name": "Willy Adames",
       "batter_team": "San Francisco Giants",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "batter_mlbam_id": 694212,
       "batter_name": "Samuel Basallo",
       "batter_team": "Baltimore Orioles",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 695600,
       "batter_name": "Carter Jensen",
       "batter_team": "Kansas City Royals",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 571448,
       "batter_name": "Nolan Arenado",
       "batter_team": "Arizona Diamondbacks",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 668939,
       "batter_name": "Adley Rutschman",
       "batter_team": "Baltimore Orioles",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 680776,
       "batter_name": "Jarren Duran",
       "batter_team": "Boston Red Sox",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 664034,
       "batter_name": "Ty France",
       "batter_team": "San Diego Padres",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 518692,
       "batter_name": "Freddie Freeman",
       "batter_team": "Los Angeles Dodgers",
@@ -354,32 +329,7 @@
       }
     },
     {
-      "rank": 15,
-      "batter_mlbam_id": 683734,
-      "batter_name": "Andrew Vaughn",
-      "batter_team": "Milwaukee Brewers",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 605288,
-      "pitcher_name": "Adrian Houser",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.589,
-      "batter_slg": 0.656,
-      "batter_woba_contact": 0.475,
-      "batter_ab_vs_pitch": 32,
-      "batter_barrel_pct": 3.3,
-      "batter_season_slg_overall": 0.478,
-      "matchup_strength": 0.3864,
-      "venue_name": "American Family Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683734/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605288/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "batter_mlbam_id": 805811,
       "batter_name": "Bryce Eldridge",
       "batter_team": "San Francisco Giants",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "batter_mlbam_id": 575929,
       "batter_name": "Willson Contreras",
       "batter_team": "Boston Red Sox",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "batter_mlbam_id": 677951,
       "batter_name": "Bobby Witt Jr.",
       "batter_team": "Kansas City Royals",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "batter_mlbam_id": 621439,
       "batter_name": "Byron Buxton",
       "batter_team": "Minnesota Twins",
@@ -479,28 +429,78 @@
       }
     },
     {
-      "rank": 20,
-      "batter_mlbam_id": 681508,
-      "batter_name": "Mickey Gasper",
-      "batter_team": "Boston Red Sox",
+      "rank": 18,
+      "batter_mlbam_id": 657757,
+      "batter_name": "Gavin Sheets",
+      "batter_team": "San Diego Padres",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 554430,
+      "pitcher_name": "Zack Wheeler",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.652,
+      "batter_slg": 0.544,
+      "batter_woba_contact": 0.348,
+      "batter_ab_vs_pitch": 90,
+      "batter_barrel_pct": 9.5,
+      "batter_season_slg_overall": 0.476,
+      "matchup_strength": 0.3551,
+      "venue_name": "Citizens Bank Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657757/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 606466,
+      "batter_name": "Ketel Marte",
+      "batter_team": "Arizona Diamondbacks",
       "bat_side": "S",
-      "pitcher_mlbam_id": 669432,
-      "pitcher_name": "Trevor Rogers",
+      "pitcher_mlbam_id": 680736,
+      "pitcher_name": "Justin Wrobleski",
       "pitcher_throws": "L",
       "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.673,
-      "batter_slg": 0.529,
-      "batter_woba_contact": 0.395,
-      "batter_ab_vs_pitch": 34,
-      "batter_barrel_pct": 6.7,
-      "batter_season_slg_overall": 0.414,
-      "matchup_strength": 0.3565,
-      "venue_name": "Fenway Park",
+      "pitcher_usage_pct": 0.579,
+      "batter_slg": 0.604,
+      "batter_woba_contact": 0.398,
+      "batter_ab_vs_pitch": 96,
+      "batter_barrel_pct": 10.8,
+      "batter_season_slg_overall": 0.456,
+      "matchup_strength": 0.3498,
+      "venue_name": "Chase Field",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681508/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669432/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/606466/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680736/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 673548,
+      "batter_name": "Seiya Suzuki",
+      "batter_team": "Chicago Cubs",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 669372,
+      "pitcher_name": "J.T. Ginn",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.673,
+      "batter_slg": 0.516,
+      "batter_woba_contact": 0.351,
+      "batter_ab_vs_pitch": 95,
+      "batter_barrel_pct": 8.7,
+      "batter_season_slg_overall": 0.4,
+      "matchup_strength": 0.3473,
+      "venue_name": "Wrigley Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673548/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
       }
     }
   ]
