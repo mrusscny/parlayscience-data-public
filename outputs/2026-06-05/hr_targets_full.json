@@ -1,6 +1,6 @@
 {
   "date": "2026-06-05",
-  "generated_at_et": "2026-06-05 08:33:12 EDT",
+  "generated_at_et": "2026-06-05 12:02:02 EDT",
   "concept": "hr_targets_full",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 46.3,
       "fb_pct": 21.88,
       "pitcher_hr_per_9": 1.837,
-      "weather_score": 0.973,
+      "weather_score": 0.968,
       "park_factor": 1.39,
-      "composite_score": 0.919,
+      "composite_score": 0.918,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -47,7 +47,7 @@
       "hard_hit_pct": 48.7,
       "fb_pct": 36.11,
       "pitcher_hr_per_9": 1.731,
-      "weather_score": 0.973,
+      "weather_score": 0.968,
       "park_factor": 1.39,
       "composite_score": 0.911,
       "image_urls": {
@@ -86,33 +86,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 624424,
-      "player_name": "Michael Conforto",
-      "team": "Chicago Cubs",
-      "bat_side": "L",
-      "opposing_pitcher": "Robbie Ray",
-      "opposing_pitcher_id": 592662.0,
-      "pitcher_throws": "L",
-      "venue_name": "Wrigley Field",
-      "barrel_pct": 15.8,
-      "iso_overall": 0.253,
-      "iso_split": null,
-      "iso_blended": 0.253,
-      "hard_hit_pct": 56.1,
-      "fb_pct": 45.71,
-      "pitcher_hr_per_9": 1.867,
-      "weather_score": 0.411,
-      "park_factor": 1.04,
-      "composite_score": 0.874,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624424/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592662/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 575929,
       "player_name": "Willson Contreras",
       "team": "Boston Red Sox",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -182,7 +155,7 @@
       "hard_hit_pct": 53.6,
       "fb_pct": 23.08,
       "pitcher_hr_per_9": 1.731,
-      "weather_score": 0.973,
+      "weather_score": 0.968,
       "park_factor": 1.39,
       "composite_score": 0.839,
       "image_urls": {
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 691023,
       "player_name": "Jordan Walker",
       "team": "St. Louis Cardinals",
@@ -209,9 +182,9 @@
       "hard_hit_pct": 51.5,
       "fb_pct": 22.67,
       "pitcher_hr_per_9": 2.824,
-      "weather_score": 0.964,
+      "weather_score": 0.967,
       "park_factor": 0.91,
-      "composite_score": 0.835,
+      "composite_score": 0.836,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -220,7 +193,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 545361,
       "player_name": "Mike Trout",
       "team": "Los Angeles Angels",
@@ -244,6 +217,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808963/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 9,
+      "mlbam_id": 664023,
+      "player_name": "Ian Happ",
+      "team": "Chicago Cubs",
+      "bat_side": "S",
+      "opposing_pitcher": "Robbie Ray",
+      "opposing_pitcher_id": 592662.0,
+      "pitcher_throws": "L",
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 16.4,
+      "iso_overall": 0.254,
+      "iso_split": 0.176,
+      "iso_blended": 0.207,
+      "hard_hit_pct": 47.1,
+      "fb_pct": 34.48,
+      "pitcher_hr_per_9": 1.867,
+      "weather_score": 0.5,
+      "park_factor": 1.04,
+      "composite_score": 0.826,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592662/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     },
     {
@@ -302,33 +302,6 @@
     },
     {
       "rank": 12,
-      "mlbam_id": 664023,
-      "player_name": "Ian Happ",
-      "team": "Chicago Cubs",
-      "bat_side": "S",
-      "opposing_pitcher": "Robbie Ray",
-      "opposing_pitcher_id": 592662.0,
-      "pitcher_throws": "L",
-      "venue_name": "Wrigley Field",
-      "barrel_pct": 16.4,
-      "iso_overall": 0.254,
-      "iso_split": 0.176,
-      "iso_blended": 0.207,
-      "hard_hit_pct": 47.1,
-      "fb_pct": 34.48,
-      "pitcher_hr_per_9": 1.867,
-      "weather_score": 0.411,
-      "park_factor": 1.04,
-      "composite_score": 0.817,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592662/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 13,
       "mlbam_id": 695657,
       "player_name": "Colson Montgomery",
       "team": "Chicago White Sox",
@@ -355,7 +328,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 700250,
       "player_name": "Ben Rice",
       "team": "New York Yankees",
@@ -382,7 +355,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 685133,
       "player_name": "Wade Meckler",
       "team": "Los Angeles Angels",
@@ -409,7 +382,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 682998,
       "player_name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
@@ -436,7 +409,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 545341,
       "player_name": "Randal Grichuk",
       "team": "Chicago White Sox",
@@ -463,6 +436,33 @@
       }
     },
     {
+      "rank": 17,
+      "mlbam_id": 669477,
+      "player_name": "Casey Schmitt",
+      "team": "San Francisco Giants",
+      "bat_side": "R",
+      "opposing_pitcher": "Edward Cabrera",
+      "opposing_pitcher_id": 665795.0,
+      "pitcher_throws": "R",
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 13.9,
+      "iso_overall": 0.246,
+      "iso_split": 0.26,
+      "iso_blended": 0.254,
+      "hard_hit_pct": 43.9,
+      "fb_pct": 34.12,
+      "pitcher_hr_per_9": 1.333,
+      "weather_score": 0.5,
+      "park_factor": 1.04,
+      "composite_score": 0.784,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665795/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
       "rank": 18,
       "mlbam_id": 669003,
       "player_name": "Garrett Mitchell",
@@ -479,9 +479,9 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 21.21,
       "pitcher_hr_per_9": 1.731,
-      "weather_score": 0.973,
+      "weather_score": 0.968,
       "park_factor": 1.39,
-      "composite_score": 0.782,
+      "composite_score": 0.781,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669003/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -506,7 +506,7 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 29.33,
       "pitcher_hr_per_9": 1.309,
-      "weather_score": 0.964,
+      "weather_score": 0.967,
       "park_factor": 0.91,
       "composite_score": 0.779,
       "image_urls": {
@@ -518,29 +518,29 @@
     },
     {
       "rank": 20,
-      "mlbam_id": 678554,
-      "player_name": "Curtis Mead",
-      "team": "Washington Nationals",
+      "mlbam_id": 621439,
+      "player_name": "Byron Buxton",
+      "team": "Minnesota Twins",
       "bat_side": "R",
-      "opposing_pitcher": "Merrill Kelly",
-      "opposing_pitcher_id": 518876.0,
+      "opposing_pitcher": "Michael Wacha",
+      "opposing_pitcher_id": 608379.0,
       "pitcher_throws": "R",
-      "venue_name": "Chase Field",
-      "barrel_pct": 10.5,
-      "iso_overall": 0.229,
-      "iso_split": 0.282,
-      "iso_blended": 0.261,
-      "hard_hit_pct": 44.7,
-      "fb_pct": 44.23,
-      "pitcher_hr_per_9": 1.688,
-      "weather_score": 0.5,
-      "park_factor": 1.06,
+      "venue_name": "Target Field",
+      "barrel_pct": 17.9,
+      "iso_overall": 0.293,
+      "iso_split": 0.372,
+      "iso_blended": 0.34,
+      "hard_hit_pct": 46.3,
+      "fb_pct": 37.29,
+      "pitcher_hr_per_9": 0.956,
+      "weather_score": 0.724,
+      "park_factor": 0.97,
       "composite_score": 0.777,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678554/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518876/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608379/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
       }
     }
   ]

@@ -1,35 +1,10 @@
 {
   "date": "2026-06-05",
-  "generated_at_et": "2026-06-05 08:33:15 EDT",
+  "generated_at_et": "2026-06-05 12:02:05 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
       "rank": 1,
-      "mlbam_id": 624424,
-      "player_name": "Michael Conforto",
-      "team": "Chicago Cubs",
-      "opposing_pitcher": "Robbie Ray",
-      "opposing_pitcher_id": 592662.0,
-      "venue_name": "Wrigley Field",
-      "barrel_pct": 15.8,
-      "fb_pct": 45.71,
-      "avg_exit_velo": 94.9,
-      "hard_hit_pct": 56.1,
-      "pitcher_hr_per_9": 1.867,
-      "threshold_count": 3,
-      "threshold_label": "3/3",
-      "base_score": 0.968,
-      "threshold_bonus": 0.1,
-      "final_score": 1.0,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624424/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592662/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 2,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -54,7 +29,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -79,7 +54,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "mlbam_id": 694192,
       "player_name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
@@ -104,7 +79,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 664023,
       "player_name": "Ian Happ",
       "team": "Chicago Cubs",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 669257,
       "player_name": "Will Smith",
       "team": "Los Angeles Dodgers",
@@ -177,7 +152,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 545361,
       "player_name": "Mike Trout",
       "team": "Los Angeles Angels",
@@ -202,7 +177,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 695506,
       "player_name": "Jac Caglianone",
       "team": "Kansas City Royals",
@@ -227,7 +202,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -252,7 +227,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 660670,
       "player_name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
@@ -277,7 +252,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 664040,
       "player_name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
@@ -302,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 621439,
       "player_name": "Byron Buxton",
       "team": "Minnesota Twins",
@@ -327,7 +302,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 677951,
       "player_name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
@@ -352,7 +327,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 672960,
       "player_name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
@@ -377,7 +352,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 691023,
       "player_name": "Jordan Walker",
       "team": "St. Louis Cardinals",
@@ -402,7 +377,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -427,7 +402,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 592450,
       "player_name": "Aaron Judge",
       "team": "New York Yankees",
@@ -452,7 +427,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 666018,
       "player_name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
@@ -477,7 +452,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 667670,
       "player_name": "Brent Rooker",
       "team": "Athletics",
@@ -499,6 +474,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663567/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 678554,
+      "player_name": "Curtis Mead",
+      "team": "Washington Nationals",
+      "opposing_pitcher": "Merrill Kelly",
+      "opposing_pitcher_id": 518876.0,
+      "venue_name": "Chase Field",
+      "barrel_pct": 10.5,
+      "fb_pct": 44.23,
+      "avg_exit_velo": 89.4,
+      "hard_hit_pct": 44.7,
+      "pitcher_hr_per_9": 1.688,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.816,
+      "threshold_bonus": 0.05,
+      "final_score": 0.866,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678554/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
       }
     }
   ]
