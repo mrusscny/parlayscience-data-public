@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated_at_et": "2026-06-07 07:44:33 EDT",
+  "generated_at_et": "2026-06-07 10:59:19 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -255,31 +255,6 @@
     },
     {
       "rank": 11,
-      "mlbam_id": 545341,
-      "player_name": "Randal Grichuk",
-      "team": "Chicago White Sox",
-      "opposing_pitcher": "Aaron Nola",
-      "opposing_pitcher_id": 605400,
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 14.5,
-      "fb_pct": 34.29,
-      "avg_exit_velo": 90.5,
-      "hard_hit_pct": 45.2,
-      "pitcher_hr_per_9": 1.605,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.869,
-      "threshold_bonus": 0.05,
-      "final_score": 0.919,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 12,
       "mlbam_id": 701762,
       "player_name": "Nick Kurtz",
       "team": "Athletics",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 666018,
       "player_name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 670042,
       "player_name": "Luke Raley",
       "team": "Seattle Mariners",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 669477,
       "player_name": "Casey Schmitt",
       "team": "San Francisco Giants",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 693307,
       "player_name": "Dillon Dingler",
       "team": "Detroit Tigers",
@@ -479,28 +454,53 @@
       }
     },
     {
-      "rank": 20,
-      "mlbam_id": 671739,
-      "player_name": "Michael Harris II",
-      "team": "Atlanta Braves",
-      "opposing_pitcher": "Bubba Chandler",
-      "opposing_pitcher_id": 696149,
-      "venue_name": "Truist Park",
-      "barrel_pct": 14.6,
-      "fb_pct": 28.57,
-      "avg_exit_velo": 92.9,
-      "hard_hit_pct": 52.8,
-      "pitcher_hr_per_9": 1.263,
+      "rank": 19,
+      "mlbam_id": 664023,
+      "player_name": "Ian Happ",
+      "team": "Chicago Cubs",
+      "opposing_pitcher": "Trevor McDonald",
+      "opposing_pitcher_id": 686790,
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 16.1,
+      "fb_pct": 33.93,
+      "avg_exit_velo": 90.6,
+      "hard_hit_pct": 46.9,
+      "pitcher_hr_per_9": 0.794,
       "threshold_count": 2,
       "threshold_label": "2/3",
-      "base_score": 0.822,
+      "base_score": 0.82,
       "threshold_bonus": 0.05,
-      "final_score": 0.872,
+      "final_score": 0.87,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671739/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696149/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686790/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 665019,
+      "player_name": "Kody Clemens",
+      "team": "Minnesota Twins",
+      "opposing_pitcher": "Noah Cameron",
+      "opposing_pitcher_id": 702070,
+      "venue_name": "Target Field",
+      "barrel_pct": 14.5,
+      "fb_pct": 31.25,
+      "avg_exit_velo": 92.5,
+      "hard_hit_pct": 44.2,
+      "pitcher_hr_per_9": 0.905,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.806,
+      "threshold_bonus": 0.05,
+      "final_score": 0.856,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665019/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702070/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
       }
     }
   ]

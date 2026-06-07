@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated_at_et": "2026-06-07 07:42:55 EDT",
+  "generated_at_et": "2026-06-07 10:58:22 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -59,60 +59,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 695657,
-      "player_name": "Colson Montgomery",
-      "team": "Chicago White Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "Aaron Nola",
-      "opposing_pitcher_id": 605400,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 13.8,
-      "iso_overall": 0.253,
-      "iso_split": 0.255,
-      "iso_blended": 0.254,
-      "hard_hit_pct": 44.7,
-      "fb_pct": 34.38,
-      "pitcher_hr_per_9": 1.605,
-      "weather_score": 0.895,
-      "park_factor": 1.14,
-      "composite_score": 0.878,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "mlbam_id": 678246,
-      "player_name": "Miguel Vargas",
-      "team": "Chicago White Sox",
-      "bat_side": "R",
-      "opposing_pitcher": "Aaron Nola",
-      "opposing_pitcher_id": 605400,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 14.5,
-      "iso_overall": 0.253,
-      "iso_split": 0.199,
-      "iso_blended": 0.221,
-      "hard_hit_pct": 46.9,
-      "fb_pct": 38.67,
-      "pitcher_hr_per_9": 1.605,
-      "weather_score": 0.895,
-      "park_factor": 1.14,
-      "composite_score": 0.877,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 606992,
       "player_name": "Eric Haase",
       "team": "San Francisco Giants",
@@ -128,7 +74,7 @@
       "hard_hit_pct": 34.4,
       "fb_pct": 29.17,
       "pitcher_hr_per_9": 2.7,
-      "weather_score": 0.527,
+      "weather_score": 0.519,
       "park_factor": 1.04,
       "composite_score": 0.865,
       "image_urls": {
@@ -139,34 +85,7 @@
       }
     },
     {
-      "rank": 6,
-      "mlbam_id": 545341,
-      "player_name": "Randal Grichuk",
-      "team": "Chicago White Sox",
-      "bat_side": "R",
-      "opposing_pitcher": "Aaron Nola",
-      "opposing_pitcher_id": 605400,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 14.5,
-      "iso_overall": 0.293,
-      "iso_split": 0.162,
-      "iso_blended": 0.214,
-      "hard_hit_pct": 45.2,
-      "fb_pct": 34.29,
-      "pitcher_hr_per_9": 1.605,
-      "weather_score": 0.895,
-      "park_factor": 1.14,
-      "composite_score": 0.863,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "mlbam_id": 669477,
       "player_name": "Casey Schmitt",
       "team": "San Francisco Giants",
@@ -182,9 +101,9 @@
       "hard_hit_pct": 44.5,
       "fb_pct": 34.78,
       "pitcher_hr_per_9": 2.7,
-      "weather_score": 0.527,
+      "weather_score": 0.519,
       "park_factor": 1.04,
-      "composite_score": 0.851,
+      "composite_score": 0.85,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669477/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
@@ -193,7 +112,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 5,
       "mlbam_id": 669127,
       "player_name": "Shea Langeliers",
       "team": "Athletics",
@@ -217,6 +136,87 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 6,
+      "mlbam_id": 695657,
+      "player_name": "Colson Montgomery",
+      "team": "Chicago White Sox",
+      "bat_side": "L",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400,
+      "pitcher_throws": "R",
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 13.8,
+      "iso_overall": 0.253,
+      "iso_split": 0.255,
+      "iso_blended": 0.254,
+      "hard_hit_pct": 44.7,
+      "fb_pct": 34.38,
+      "pitcher_hr_per_9": 1.605,
+      "weather_score": 0.5,
+      "park_factor": 1.14,
+      "composite_score": 0.838,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
+      "team": "Chicago White Sox",
+      "bat_side": "R",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400,
+      "pitcher_throws": "R",
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 14.5,
+      "iso_overall": 0.253,
+      "iso_split": 0.199,
+      "iso_blended": 0.221,
+      "hard_hit_pct": 46.9,
+      "fb_pct": 38.67,
+      "pitcher_hr_per_9": 1.605,
+      "weather_score": 0.5,
+      "park_factor": 1.14,
+      "composite_score": 0.837,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 596142,
+      "player_name": "Gary S\u00e1nchez",
+      "team": "Milwaukee Brewers",
+      "bat_side": "R",
+      "opposing_pitcher": "Kyle Freeland",
+      "opposing_pitcher_id": 607536,
+      "pitcher_throws": "L",
+      "venue_name": "Coors Field",
+      "barrel_pct": 9.9,
+      "iso_overall": 0.206,
+      "iso_split": 0.281,
+      "iso_blended": 0.251,
+      "hard_hit_pct": 33.8,
+      "fb_pct": 16.67,
+      "pitcher_hr_per_9": 2.438,
+      "weather_score": 1.0,
+      "park_factor": 1.39,
+      "composite_score": 0.831,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596142/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]

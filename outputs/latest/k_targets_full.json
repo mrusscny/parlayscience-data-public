@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated_at_et": "2026-06-07 07:47:12 EDT",
+  "generated_at_et": "2026-06-07 11:01:18 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -305,26 +305,6 @@
     },
     {
       "rank": 16,
-      "pitcher_mlbam_id": 696149,
-      "pitcher_name": "Bubba Chandler",
-      "pitcher_team": "Pittsburgh Pirates",
-      "opposing_team": "Atlanta Braves",
-      "pitcher_k_per_9": 8.684,
-      "pitcher_k_minus_bb_pct": 0.0656,
-      "opp_k_rate": 0.2103,
-      "opp_games_sample": 27,
-      "score": 0.4542,
-      "game_pk": 824916,
-      "game_time_local": "1:35 PM ET",
-      "venue": "Truist Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696149/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 17,
       "pitcher_mlbam_id": 687570,
       "pitcher_name": "Connor Prielipp",
       "pitcher_team": "Minnesota Twins",
@@ -344,7 +324,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "pitcher_mlbam_id": 681190,
       "pitcher_name": "Randy V\u00e1squez",
       "pitcher_team": "San Diego Padres",
@@ -364,7 +344,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "pitcher_mlbam_id": 676917,
       "pitcher_name": "Cade Cavalli",
       "pitcher_team": "Washington Nationals",
@@ -384,7 +364,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "pitcher_mlbam_id": 676282,
       "pitcher_name": "Joey Cantillo",
       "pitcher_team": "Cleveland Guardians",
@@ -401,6 +381,26 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676282/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "pitcher_mlbam_id": 607536,
+      "pitcher_name": "Kyle Freeland",
+      "pitcher_team": "Colorado Rockies",
+      "opposing_team": "Milwaukee Brewers",
+      "pitcher_k_per_9": 8.062,
+      "pitcher_k_minus_bb_pct": 0.1217,
+      "opp_k_rate": 0.2133,
+      "opp_games_sample": 27,
+      "score": 0.4121,
+      "game_pk": 824349,
+      "game_time_local": "3:10 PM ET",
+      "venue": "Coors Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     }
   ]

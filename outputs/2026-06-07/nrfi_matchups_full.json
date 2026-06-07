@@ -1,10 +1,58 @@
 {
   "date": "2026-06-07",
-  "generated_at_et": "2026-06-07 07:47:05 EDT",
+  "generated_at_et": "2026-06-07 11:01:11 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
       "game_rank": 1,
+      "pitcher_role": "away",
+      "game_pk": 824916,
+      "pitcher_mlbam_id": 682254,
+      "pitcher_name": "Mason Montgomery",
+      "pitcher_team": "Pittsburgh Pirates",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 0.0,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 1,
+      "opposing_team": "Atlanta Braves",
+      "opposing_team_nrfi_rate": 0.63,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.889,
+      "game_nrfi_score": 0.843,
+      "venue_name": "Truist Park",
+      "game_time_et": "1:35 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682254/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "game_rank": 1,
+      "pitcher_role": "home",
+      "game_pk": 824916,
+      "pitcher_mlbam_id": 693821,
+      "pitcher_name": "Bryce Elder",
+      "pitcher_team": "Atlanta Braves",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 2.08,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Pittsburgh Pirates",
+      "opposing_team_nrfi_rate": 0.63,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.796,
+      "game_nrfi_score": 0.843,
+      "venue_name": "Truist Park",
+      "game_time_et": "1:35 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "game_rank": 2,
       "pitcher_role": "away",
       "game_pk": 823291,
       "pitcher_mlbam_id": 623211,
@@ -28,7 +76,7 @@
       }
     },
     {
-      "game_rank": 1,
+      "game_rank": 2,
       "pitcher_role": "home",
       "game_pk": 823291,
       "pitcher_mlbam_id": 681190,
@@ -52,7 +100,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "away",
       "game_pk": 823537,
       "pitcher_mlbam_id": 624133,
@@ -76,7 +124,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 823537,
       "pitcher_mlbam_id": 693645,
@@ -100,7 +148,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "away",
       "game_pk": 825074,
       "pitcher_mlbam_id": 676917,
@@ -124,7 +172,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "home",
       "game_pk": 825074,
       "pitcher_mlbam_id": 647336,
@@ -148,7 +196,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 822890,
       "pitcher_mlbam_id": 676282,
@@ -172,7 +220,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 822890,
       "pitcher_mlbam_id": 594798,
@@ -196,7 +244,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 824670,
       "pitcher_mlbam_id": 686790,
@@ -220,7 +268,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 824670,
       "pitcher_mlbam_id": 592791,
@@ -244,7 +292,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 7,
       "pitcher_role": "away",
       "game_pk": 823453,
       "pitcher_mlbam_id": 656457,
@@ -268,7 +316,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 7,
       "pitcher_role": "home",
       "game_pk": 823453,
       "pitcher_mlbam_id": 605400,
@@ -292,7 +340,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 8,
       "pitcher_role": "away",
       "game_pk": 824349,
       "pitcher_mlbam_id": 675660,
@@ -316,7 +364,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 8,
       "pitcher_role": "home",
       "game_pk": 824349,
       "pitcher_mlbam_id": 607536,
@@ -340,7 +388,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 9,
       "pitcher_role": "away",
       "game_pk": 824268,
       "pitcher_mlbam_id": 622491,
@@ -364,7 +412,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 9,
       "pitcher_role": "home",
       "game_pk": 824268,
       "pitcher_mlbam_id": 656427,
@@ -388,7 +436,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 10,
       "pitcher_role": "away",
       "game_pk": 823696,
       "pitcher_mlbam_id": 702070,
@@ -412,7 +460,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 10,
       "pitcher_role": "home",
       "game_pk": 823696,
       "pitcher_mlbam_id": 687570,
@@ -433,54 +481,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687570/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "game_rank": 10,
-      "pitcher_role": "away",
-      "game_pk": 824916,
-      "pitcher_mlbam_id": 696149,
-      "pitcher_name": "Bubba Chandler",
-      "pitcher_team": "Pittsburgh Pirates",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 6.75,
-      "pitcher_l10_nrfi_rate": 0.4,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Atlanta Braves",
-      "opposing_team_nrfi_rate": 0.63,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.409,
-      "game_nrfi_score": 0.603,
-      "venue_name": "Truist Park",
-      "game_time_et": "1:35 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696149/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "game_rank": 10,
-      "pitcher_role": "home",
-      "game_pk": 824916,
-      "pitcher_mlbam_id": 693821,
-      "pitcher_name": "Bryce Elder",
-      "pitcher_team": "Atlanta Braves",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 2.08,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Pittsburgh Pirates",
-      "opposing_team_nrfi_rate": 0.63,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.796,
-      "game_nrfi_score": 0.603,
-      "venue_name": "Truist Park",
-      "game_time_et": "1:35 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     },
     {
