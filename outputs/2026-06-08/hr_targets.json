@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at_et": "2026-06-08 09:58:58 EDT",
+  "generated_at_et": "2026-06-08 12:52:46 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 54.2,
       "fb_pct": 38.46,
       "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.535,
+      "weather_score": 0.543,
       "park_factor": 1.0,
-      "composite_score": 0.873,
+      "composite_score": 0.874,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 50.6,
       "fb_pct": 25.0,
       "pitcher_hr_per_9": 1.212,
-      "weather_score": 0.895,
+      "weather_score": 0.868,
       "park_factor": 1.04,
-      "composite_score": 0.815,
+      "composite_score": 0.812,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 45.0,
       "fb_pct": 32.0,
       "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.535,
+      "weather_score": 0.543,
       "park_factor": 1.0,
-      "composite_score": 0.804,
+      "composite_score": 0.805,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/572233/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -113,31 +113,6 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 670042,
-      "player_name": "Luke Raley",
-      "team": "Seattle Mariners",
-      "bat_side": "L",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 19.1,
-      "iso_overall": 0.276,
-      "iso_split": null,
-      "iso_blended": 0.276,
-      "hard_hit_pct": 46.4,
-      "fb_pct": 29.41,
-      "pitcher_hr_per_9": null,
-      "weather_score": 0.705,
-      "park_factor": 0.96,
-      "composite_score": 0.781,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670042/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 6,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -164,6 +139,31 @@
       }
     },
     {
+      "rank": 6,
+      "mlbam_id": 670042,
+      "player_name": "Luke Raley",
+      "team": "Seattle Mariners",
+      "bat_side": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 19.1,
+      "iso_overall": 0.276,
+      "iso_split": null,
+      "iso_blended": 0.276,
+      "hard_hit_pct": 46.4,
+      "fb_pct": 29.41,
+      "pitcher_hr_per_9": null,
+      "weather_score": 0.688,
+      "park_factor": 0.96,
+      "composite_score": 0.779,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670042/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
       "rank": 7,
       "mlbam_id": 606992,
       "player_name": "Eric Haase",
@@ -180,9 +180,9 @@
       "hard_hit_pct": 34.4,
       "fb_pct": 29.17,
       "pitcher_hr_per_9": 2.237,
-      "weather_score": 0.18,
+      "weather_score": 0.185,
       "park_factor": 0.8,
-      "composite_score": 0.776,
+      "composite_score": 0.777,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/606992/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
@@ -207,9 +207,9 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 20.41,
       "pitcher_hr_per_9": null,
-      "weather_score": 0.705,
+      "weather_score": 0.688,
       "park_factor": 0.96,
-      "composite_score": 0.763,
+      "composite_score": 0.761,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686527/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
