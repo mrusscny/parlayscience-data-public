@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated_at_et": "2026-06-10 08:54:21 EDT",
+  "generated_at_et": "2026-06-10 12:42:56 EDT",
   "concept": "bvp_splits",
   "items": [
     {
@@ -130,31 +130,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 691406,
-      "player_name": "Junior Caminero",
-      "team": "Tampa Bay Rays",
-      "bat_side": "R",
-      "opposing_pitcher": "Jake Bennett",
-      "opposing_pitcher_id": 687562,
-      "pitcher_throws": "L",
-      "venue_name": "Tropicana Field",
-      "career_ab": 9,
-      "career_h": 3,
-      "career_hr": 1,
-      "career_avg": 0.333,
-      "career_ops": 1.122,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.667,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/691406/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/687562/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 7,
       "mlbam_id": 514888,
       "player_name": "Jose Altuve",
       "team": "Houston Astros",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 656555,
       "player_name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
@@ -201,6 +176,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607074/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Max Scherzer",
+      "opposing_pitcher_id": 453286,
+      "pitcher_throws": "R",
+      "venue_name": "Rogers Centre",
+      "career_ab": 17,
+      "career_h": 4,
+      "career_hr": 2,
+      "career_avg": 0.235,
+      "career_ops": 0.969,
+      "career_xbh": 2,
+      "career_rbi": 3,
+      "career_slg": 0.588,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/453286/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
       }
     }
   ]

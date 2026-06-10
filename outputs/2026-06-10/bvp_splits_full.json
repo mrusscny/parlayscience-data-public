@@ -1,6 +1,6 @@
 {
   "date": "2026-06-10",
-  "generated_at_et": "2026-06-10 08:54:22 EDT",
+  "generated_at_et": "2026-06-10 12:42:57 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -130,31 +130,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 691406,
-      "player_name": "Junior Caminero",
-      "team": "Tampa Bay Rays",
-      "bat_side": "R",
-      "opposing_pitcher": "Jake Bennett",
-      "opposing_pitcher_id": 687562,
-      "pitcher_throws": "L",
-      "venue_name": "Tropicana Field",
-      "career_ab": 9,
-      "career_h": 3,
-      "career_hr": 1,
-      "career_avg": 0.333,
-      "career_ops": 1.122,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.667,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/691406/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/687562/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 7,
       "mlbam_id": 514888,
       "player_name": "Jose Altuve",
       "team": "Houston Astros",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 656555,
       "player_name": "Rhys Hoskins",
       "team": "Cleveland Guardians",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 516782,
       "player_name": "Starling Marte",
       "team": "Kansas City Royals",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 621439,
       "player_name": "Byron Buxton",
       "team": "Minnesota Twins",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 605137,
       "player_name": "Josh Bell",
       "team": "Minnesota Twins",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 681297,
       "player_name": "Colton Cowser",
       "team": "Baltimore Orioles",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 670623,
       "player_name": "Isaac Paredes",
       "team": "Houston Astros",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 665161,
       "player_name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 621493,
       "player_name": "Taylor Ward",
       "team": "Baltimore Orioles",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 545341,
       "player_name": "Randal Grichuk",
       "team": "Chicago White Sox",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 664702,
       "player_name": "Myles Straw",
       "team": "Toronto Blue Jays",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 608070,
       "player_name": "Jos\u00e9 Ram\u00edrez",
       "team": "Cleveland Guardians",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607074/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 666182,
+      "player_name": "Bo Bichette",
+      "team": "New York Mets",
+      "bat_side": "R",
+      "opposing_pitcher": "Andre Pallante",
+      "opposing_pitcher_id": 669467,
+      "pitcher_throws": "R",
+      "venue_name": "Citi Field",
+      "career_ab": 8,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.25,
+      "career_ops": 0.708,
+      "career_xbh": 1,
+      "career_rbi": 1,
+      "career_slg": 0.375,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/666182/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669467/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
       }
     }
   ]

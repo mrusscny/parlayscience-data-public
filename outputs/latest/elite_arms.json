@@ -1,10 +1,31 @@
 {
   "date": "2026-06-10",
-  "generated_at_et": "2026-06-10 08:55:37 EDT",
+  "generated_at_et": "2026-06-10 12:43:33 EDT",
   "concept": "elite_arms",
   "items": [
     {
       "rank": 1,
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-06-12",
+      "opposing_team": "Philadelphia Phillies",
+      "fip": 1.638,
+      "era_proxy": 1.5,
+      "k_minus_bb_pct": 0.3113,
+      "k_per_9": 13.385,
+      "ip_total": 78.0,
+      "score": 0.779,
+      "game_pk": 823778,
+      "venue": "American Family Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 2,
       "pitcher_mlbam_id": 660271,
       "pitcher_name": "Shohei Ohtani",
       "pitcher_team": "Los Angeles Dodgers",
@@ -25,7 +46,28 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "pitcher_mlbam_id": 693645,
+      "pitcher_name": "Cam Schlittler",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-06-13",
+      "opposing_team": "Toronto Blue Jays",
+      "fip": 2.076,
+      "era_proxy": 1.87,
+      "k_minus_bb_pct": 0.2366,
+      "k_per_9": 9.768,
+      "ip_total": 82.0,
+      "score": 0.6583,
+      "game_pk": 822802,
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    },
+    {
+      "rank": 4,
       "pitcher_mlbam_id": 519242,
       "pitcher_name": "Chris Sale",
       "pitcher_team": "Atlanta Braves",
@@ -46,7 +88,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "pitcher_mlbam_id": 681035,
       "pitcher_name": "Christian Scott",
       "pitcher_team": "New York Mets",
@@ -64,48 +106,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681035/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "pitcher_mlbam_id": 800048,
-      "pitcher_name": "Parker Messick",
-      "pitcher_team": "Cleveland Guardians",
-      "next_start_date": "2026-06-10",
-      "opposing_team": "New York Yankees",
-      "fip": 3.287,
-      "era_proxy": 2.4,
-      "k_minus_bb_pct": 0.1898,
-      "k_per_9": 9.36,
-      "ip_total": 75.0,
-      "score": 0.4828,
-      "game_pk": 824428,
-      "venue": "Progressive Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "pitcher_mlbam_id": 656876,
-      "pitcher_name": "Drew Rasmussen",
-      "pitcher_team": "Tampa Bay Rays",
-      "next_start_date": "2026-06-10",
-      "opposing_team": "Boston Red Sox",
-      "fip": 3.282,
-      "era_proxy": 3.0,
-      "k_minus_bb_pct": 0.2016,
-      "k_per_9": 8.727,
-      "ip_total": 66.0,
-      "score": 0.459,
-      "game_pk": 822970,
-      "venue": "Tropicana Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
       }
     }
   ]
