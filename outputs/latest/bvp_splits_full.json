@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at_et": "2026-06-11 09:51:58 EDT",
+  "generated_at_et": "2026-06-11 13:02:04 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 592626,
-      "player_name": "Joc Pederson",
-      "team": "Texas Rangers",
-      "bat_side": "L",
-      "opposing_pitcher": "Michael Wacha",
-      "opposing_pitcher_id": 608379,
-      "pitcher_throws": "R",
-      "venue_name": "Kauffman Stadium",
-      "career_ab": 27,
-      "career_h": 7,
-      "career_hr": 2,
-      "career_avg": 0.259,
-      "career_ops": 1.005,
-      "career_xbh": 5,
-      "career_rbi": 3,
-      "career_slg": 0.63,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592626/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 694497,
       "player_name": "Evan Carter",
       "team": "Texas Rangers",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 668227,
       "player_name": "Randy Arozarena",
       "team": "Seattle Mariners",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 608369,
       "player_name": "Corey Seager",
       "team": "Texas Rangers",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 670032,
       "player_name": "Nicky Lopez",
       "team": "Texas Rangers",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 605141,
       "player_name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 677594,
       "player_name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 665750,
       "player_name": "Leody Taveras",
       "team": "Baltimore Orioles",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 500743,
       "player_name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 545341,
       "player_name": "Randal Grichuk",
       "team": "Chicago White Sox",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 643217,
       "player_name": "Andrew Benintendi",
       "team": "Chicago White Sox",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 694671,
       "player_name": "Wyatt Langford",
       "team": "Texas Rangers",
@@ -379,32 +354,7 @@
       }
     },
     {
-      "rank": 16,
-      "mlbam_id": 543309,
-      "player_name": "Kyle Higashioka",
-      "team": "Texas Rangers",
-      "bat_side": "R",
-      "opposing_pitcher": "Michael Wacha",
-      "opposing_pitcher_id": 608379,
-      "pitcher_throws": "R",
-      "venue_name": "Kauffman Stadium",
-      "career_ab": 8,
-      "career_h": 2,
-      "career_hr": 0,
-      "career_avg": 0.25,
-      "career_ops": 0.597,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.375,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543309/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 669364,
       "player_name": "Xavier Edwards",
       "team": "Miami Marlins",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 669289,
       "player_name": "Santiago Espinal",
       "team": "Los Angeles Dodgers",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 669257,
       "player_name": "Will Smith",
       "team": "Los Angeles Dodgers",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 553869,
       "player_name": "Elias D\u00edaz",
       "team": "Texas Rangers",
@@ -501,6 +451,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 621493,
+      "player_name": "Taylor Ward",
+      "team": "Baltimore Orioles",
+      "bat_side": "R",
+      "opposing_pitcher": "Bryan Woo",
+      "opposing_pitcher_id": 693433,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "career_ab": 13,
+      "career_h": 0,
+      "career_hr": 0,
+      "career_avg": 0.0,
+      "career_ops": 0.0,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.0,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/621493/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/693433/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]

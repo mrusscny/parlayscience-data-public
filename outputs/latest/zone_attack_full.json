@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at_et": "2026-06-11 09:52:46 EDT",
+  "generated_at_et": "2026-06-11 13:02:15 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -230,31 +230,6 @@
     },
     {
       "rank": 10,
-      "batter_mlbam_id": 679822,
-      "batter_name": "Justin Foscue",
-      "batter_team": "Texas Rangers",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 608379,
-      "pitcher_name": "Michael Wacha",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.568,
-      "batter_slg": 0.633,
-      "batter_woba_contact": 0.384,
-      "batter_ab_vs_pitch": 30,
-      "batter_barrel_pct": 10.9,
-      "batter_season_slg_overall": 0.46,
-      "matchup_strength": 0.3598,
-      "venue_name": "Kauffman Stadium",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679822/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 11,
       "batter_mlbam_id": 691023,
       "batter_name": "Jordan Walker",
       "batter_team": "St. Louis Cardinals",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 669236,
       "batter_name": "Jeremiah Jackson",
       "batter_team": "Baltimore Orioles",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 624413,
       "batter_name": "Pete Alonso",
       "batter_team": "Baltimore Orioles",
@@ -329,57 +304,7 @@
       }
     },
     {
-      "rank": 14,
-      "batter_mlbam_id": 665877,
-      "batter_name": "Jos\u00e9 Ferm\u00edn",
-      "batter_team": "St. Louis Cardinals",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 681035,
-      "pitcher_name": "Christian Scott",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.705,
-      "batter_slg": 0.5,
-      "batter_woba_contact": 0.356,
-      "batter_ab_vs_pitch": 50,
-      "batter_barrel_pct": 1.4,
-      "batter_season_slg_overall": 0.386,
-      "matchup_strength": 0.3524,
-      "venue_name": "Citi Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665877/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681035/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 15,
-      "batter_mlbam_id": 668952,
-      "batter_name": "Ryan Kreidler",
-      "batter_team": "Minnesota Twins",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 672456,
-      "pitcher_name": "Keider Montero",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.52,
-      "batter_slg": 0.658,
-      "batter_woba_contact": 0.416,
-      "batter_ab_vs_pitch": 38,
-      "batter_barrel_pct": 6.5,
-      "batter_season_slg_overall": 0.443,
-      "matchup_strength": 0.3421,
-      "venue_name": "Comerica Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668952/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672456/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 13,
       "batter_mlbam_id": 678246,
       "batter_name": "Miguel Vargas",
       "batter_team": "Chicago White Sox",
@@ -404,7 +329,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 14,
       "batter_mlbam_id": 691723,
       "batter_name": "Coby Mayo",
       "batter_team": "Baltimore Orioles",
@@ -429,7 +354,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 15,
       "batter_mlbam_id": 670042,
       "batter_name": "Luke Raley",
       "batter_team": "Seattle Mariners",
@@ -454,7 +379,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 16,
       "batter_mlbam_id": 673962,
       "batter_name": "Josh Jung",
       "batter_team": "Texas Rangers",
@@ -479,7 +404,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 17,
       "batter_mlbam_id": 665923,
       "batter_name": "Esteury Ruiz",
       "batter_team": "Miami Marlins",
@@ -501,6 +426,81 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518876/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 18,
+      "batter_mlbam_id": 545341,
+      "batter_name": "Randal Grichuk",
+      "batter_team": "Chicago White Sox",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 527048,
+      "pitcher_name": "Mart\u00edn P\u00e9rez",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.566,
+      "batter_slg": 0.556,
+      "batter_woba_contact": 0.384,
+      "batter_ab_vs_pitch": 45,
+      "batter_barrel_pct": 13.2,
+      "batter_season_slg_overall": 0.545,
+      "matchup_strength": 0.3143,
+      "venue_name": "Rate Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527048/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 518692,
+      "batter_name": "Freddie Freeman",
+      "batter_team": "Los Angeles Dodgers",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 656605,
+      "pitcher_name": "Mitch Keller",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.558,
+      "batter_slg": 0.563,
+      "batter_woba_contact": 0.386,
+      "batter_ab_vs_pitch": 103,
+      "batter_barrel_pct": 11.8,
+      "batter_season_slg_overall": 0.482,
+      "matchup_strength": 0.3141,
+      "venue_name": "PNC Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518692/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656605/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 695506,
+      "batter_name": "Jac Caglianone",
+      "batter_team": "Kansas City Royals",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 677958,
+      "pitcher_name": "Kumar Rocker",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.561,
+      "batter_slg": 0.556,
+      "batter_woba_contact": 0.385,
+      "batter_ab_vs_pitch": 72,
+      "batter_barrel_pct": 15.9,
+      "batter_season_slg_overall": 0.456,
+      "matchup_strength": 0.3116,
+      "venue_name": "Kauffman Stadium",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677958/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]

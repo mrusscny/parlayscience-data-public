@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at_et": "2026-06-11 09:53:10 EDT",
+  "generated_at_et": "2026-06-11 13:02:33 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -68,44 +68,44 @@
     },
     {
       "rank": 4,
-      "pitcher_mlbam_id": 690986,
-      "pitcher_name": "Kyle Harrison",
-      "pitcher_team": "Milwaukee Brewers",
-      "next_start_date": "2026-06-14",
-      "opposing_team": "Philadelphia Phillies",
-      "fip": 2.949,
-      "era_proxy": 2.72,
-      "k_minus_bb_pct": 0.2398,
-      "k_per_9": 11.614,
-      "ip_total": 59.7,
-      "score": 0.5407,
-      "game_pk": 823777,
-      "venue": "American Family Field",
+      "pitcher_mlbam_id": 676962,
+      "pitcher_name": "Ben Brown",
+      "pitcher_team": "Chicago Cubs",
+      "next_start_date": "2026-06-13",
+      "opposing_team": "San Francisco Giants",
+      "fip": 2.135,
+      "era_proxy": 1.74,
+      "k_minus_bb_pct": 0.1909,
+      "k_per_9": 9.158,
+      "ip_total": 57.0,
+      "score": 0.6157,
+      "game_pk": 823213,
+      "venue": "Oracle Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676962/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 681035,
-      "pitcher_name": "Christian Scott",
-      "pitcher_team": "New York Mets",
-      "next_start_date": "2026-06-11",
-      "opposing_team": "St. Louis Cardinals",
-      "fip": 2.683,
-      "era_proxy": 2.5,
-      "k_minus_bb_pct": 0.1474,
-      "k_per_9": 10.25,
-      "ip_total": 36.0,
-      "score": 0.4828,
-      "game_pk": 823619,
-      "venue": "Citi Field",
+      "pitcher_mlbam_id": 669373,
+      "pitcher_name": "Tarik Skubal",
+      "pitcher_team": "Detroit Tigers",
+      "next_start_date": "2026-06-13",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 2.038,
+      "era_proxy": 2.7,
+      "k_minus_bb_pct": 0.2349,
+      "k_per_9": 9.346,
+      "ip_total": 43.3,
+      "score": 0.6099,
+      "game_pk": 824426,
+      "venue": "Progressive Field",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681035/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669373/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]

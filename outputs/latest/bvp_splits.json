@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at_et": "2026-06-11 09:51:57 EDT",
+  "generated_at_et": "2026-06-11 13:02:03 EDT",
   "concept": "bvp_splits",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 592626,
-      "player_name": "Joc Pederson",
-      "team": "Texas Rangers",
-      "bat_side": "L",
-      "opposing_pitcher": "Michael Wacha",
-      "opposing_pitcher_id": 608379,
-      "pitcher_throws": "R",
-      "venue_name": "Kauffman Stadium",
-      "career_ab": 27,
-      "career_h": 7,
-      "career_hr": 2,
-      "career_avg": 0.259,
-      "career_ops": 1.005,
-      "career_xbh": 5,
-      "career_rbi": 3,
-      "career_slg": 0.63,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592626/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 694497,
       "player_name": "Evan Carter",
       "team": "Texas Rangers",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 668227,
       "player_name": "Randy Arozarena",
       "team": "Seattle Mariners",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 608369,
       "player_name": "Corey Seager",
       "team": "Texas Rangers",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 670032,
       "player_name": "Nicky Lopez",
       "team": "Texas Rangers",
@@ -201,6 +176,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 605141,
+      "player_name": "Mookie Betts",
+      "team": "Los Angeles Dodgers",
+      "bat_side": "R",
+      "opposing_pitcher": "Mitch Keller",
+      "opposing_pitcher_id": 656605,
+      "pitcher_throws": "R",
+      "venue_name": "PNC Park",
+      "career_ab": 10,
+      "career_h": 1,
+      "career_hr": 1,
+      "career_avg": 0.1,
+      "career_ops": 0.757,
+      "career_xbh": 1,
+      "career_rbi": 1,
+      "career_slg": 0.4,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605141/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656605/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     }
   ]
