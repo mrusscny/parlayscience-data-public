@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at_et": "2026-06-13 07:47:29 EDT",
+  "generated_at_et": "2026-06-13 11:07:41 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -111,6 +111,33 @@
     },
     {
       "rank": 5,
+      "mlbam_id": 695506,
+      "player_name": "Jac Caglianone",
+      "team": "Kansas City Royals",
+      "bat_side": "L",
+      "opposing_pitcher": "Mike Burrows",
+      "opposing_pitcher_id": 681347.0,
+      "pitcher_throws": "R",
+      "venue_name": "Kauffman Stadium",
+      "barrel_pct": 15.4,
+      "iso_overall": 0.174,
+      "iso_split": 0.166,
+      "iso_blended": 0.169,
+      "hard_hit_pct": 57.3,
+      "fb_pct": 25.86,
+      "pitcher_hr_per_9": 2.086,
+      "weather_score": 0.935,
+      "park_factor": 1.03,
+      "composite_score": 0.832,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 6,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -137,34 +164,34 @@
       }
     },
     {
-      "rank": 6,
-      "mlbam_id": 695506,
-      "player_name": "Jac Caglianone",
+      "rank": 7,
+      "mlbam_id": 516782,
+      "player_name": "Starling Marte",
       "team": "Kansas City Royals",
-      "bat_side": "L",
+      "bat_side": "R",
       "opposing_pitcher": "Mike Burrows",
       "opposing_pitcher_id": 681347.0,
       "pitcher_throws": "R",
       "venue_name": "Kauffman Stadium",
-      "barrel_pct": 15.4,
-      "iso_overall": 0.174,
-      "iso_split": 0.166,
-      "iso_blended": 0.169,
-      "hard_hit_pct": 57.3,
-      "fb_pct": 25.86,
+      "barrel_pct": 14.3,
+      "iso_overall": 0.084,
+      "iso_split": 0.278,
+      "iso_blended": 0.2,
+      "hard_hit_pct": 40.8,
+      "fb_pct": 19.05,
       "pitcher_hr_per_9": 2.086,
-      "weather_score": 0.917,
+      "weather_score": 0.935,
       "park_factor": 1.03,
-      "composite_score": 0.83,
+      "composite_score": 0.829,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/516782/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -188,33 +215,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622491/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "mlbam_id": 516782,
-      "player_name": "Starling Marte",
-      "team": "Kansas City Royals",
-      "bat_side": "R",
-      "opposing_pitcher": "Mike Burrows",
-      "opposing_pitcher_id": 681347.0,
-      "pitcher_throws": "R",
-      "venue_name": "Kauffman Stadium",
-      "barrel_pct": 14.3,
-      "iso_overall": 0.084,
-      "iso_split": 0.278,
-      "iso_blended": 0.2,
-      "hard_hit_pct": 40.8,
-      "fb_pct": 19.05,
-      "pitcher_hr_per_9": 2.086,
-      "weather_score": 0.917,
-      "park_factor": 1.03,
-      "composite_score": 0.828,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/516782/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     }
   ]
