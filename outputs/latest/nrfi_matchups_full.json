@@ -1,10 +1,58 @@
 {
   "date": "2026-06-14",
-  "generated_at_et": "2026-06-14 07:54:28 EDT",
+  "generated_at_et": "2026-06-14 11:17:05 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
       "game_rank": 1,
+      "pitcher_role": "away",
+      "game_pk": 822722,
+      "pitcher_mlbam_id": 676106,
+      "pitcher_name": "Emerson Hancock",
+      "pitcher_team": "Seattle Mariners",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 1.38,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Washington Nationals",
+      "opposing_team_nrfi_rate": 0.741,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.861,
+      "game_nrfi_score": 0.856,
+      "venue_name": "Nationals Park",
+      "game_time_et": "1:35 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "game_rank": 1,
+      "pitcher_role": "home",
+      "game_pk": 822722,
+      "pitcher_mlbam_id": 676571,
+      "pitcher_name": "PJ Poulin",
+      "pitcher_team": "Washington Nationals",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 1.35,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 2,
+      "opposing_team": "Seattle Mariners",
+      "opposing_team_nrfi_rate": 0.704,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.851,
+      "game_nrfi_score": 0.856,
+      "venue_name": "Nationals Park",
+      "game_time_et": "1:35 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676571/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "game_rank": 2,
       "pitcher_role": "away",
       "game_pk": 824099,
       "pitcher_mlbam_id": 681293,
@@ -28,7 +76,7 @@
       }
     },
     {
-      "game_rank": 1,
+      "game_rank": 2,
       "pitcher_role": "home",
       "game_pk": 824099,
       "pitcher_mlbam_id": 663568,
@@ -52,7 +100,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "away",
       "game_pk": 824424,
       "pitcher_mlbam_id": 663554,
@@ -76,7 +124,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 824424,
       "pitcher_mlbam_id": 668909,
@@ -100,7 +148,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "away",
       "game_pk": 822801,
       "pitcher_mlbam_id": 701542,
@@ -124,7 +172,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "home",
       "game_pk": 822801,
       "pitcher_mlbam_id": 571578,
@@ -148,7 +196,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 823212,
       "pitcher_mlbam_id": 669020,
@@ -172,7 +220,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 823212,
       "pitcher_mlbam_id": 657277,
@@ -196,7 +244,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 823777,
       "pitcher_mlbam_id": 650911,
@@ -220,7 +268,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 823777,
       "pitcher_mlbam_id": 690986,
@@ -241,54 +289,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "away",
-      "game_pk": 822722,
-      "pitcher_mlbam_id": 676106,
-      "pitcher_name": "Emerson Hancock",
-      "pitcher_team": "Seattle Mariners",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 1.38,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Washington Nationals",
-      "opposing_team_nrfi_rate": 0.741,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.861,
-      "game_nrfi_score": 0.736,
-      "venue_name": "Nationals Park",
-      "game_time_et": "1:35 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "home",
-      "game_pk": 822722,
-      "pitcher_mlbam_id": 571945,
-      "pitcher_name": "Miles Mikolas",
-      "pitcher_team": "Washington Nationals",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 0.0,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "Seattle Mariners",
-      "opposing_team_nrfi_rate": 0.704,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.611,
-      "game_nrfi_score": 0.736,
-      "venue_name": "Nationals Park",
-      "game_time_et": "1:35 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571945/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     },
     {

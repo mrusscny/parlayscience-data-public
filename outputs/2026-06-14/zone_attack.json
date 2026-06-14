@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated_at_et": "2026-06-14 07:54:17 EDT",
+  "generated_at_et": "2026-06-14 11:16:51 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -80,27 +80,27 @@
     },
     {
       "rank": 4,
-      "batter_mlbam_id": 682657,
-      "batter_name": "Angel Mart\u00ednez",
-      "batter_team": "Cleveland Guardians",
-      "bat_side": "S",
-      "pitcher_mlbam_id": 663554,
-      "pitcher_name": "Casey Mize",
+      "batter_mlbam_id": 695600,
+      "batter_name": "Carter Jensen",
+      "batter_team": "Kansas City Royals",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 681293,
+      "pitcher_name": "Spencer Arrighetti",
       "pitcher_throws": "R",
-      "pitch_type": "Slider",
-      "pitcher_usage_pct": 0.274,
-      "batter_slg": 0.882,
-      "batter_woba_contact": 0.528,
-      "batter_ab_vs_pitch": 17,
-      "batter_barrel_pct": 7.9,
-      "batter_season_slg_overall": 0.442,
-      "matchup_strength": 0.2416,
-      "venue_name": "Progressive Field",
+      "pitch_type": "Curveball",
+      "pitcher_usage_pct": 0.337,
+      "batter_slg": 0.667,
+      "batter_woba_contact": 0.451,
+      "batter_ab_vs_pitch": 21,
+      "batter_barrel_pct": 9.4,
+      "batter_season_slg_overall": 0.393,
+      "matchup_strength": 0.2246,
+      "venue_name": "Kauffman Stadium",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682657/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695600/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681293/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated_at_et": "2026-06-14 07:53:31 EDT",
+  "generated_at_et": "2026-06-14 11:15:45 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -55,31 +55,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 608070,
-      "player_name": "Jos\u00e9 Ram\u00edrez",
-      "team": "Cleveland Guardians",
-      "bat_side": "S",
-      "opposing_pitcher": "Casey Mize",
-      "opposing_pitcher_id": 663554,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "career_ab": 13,
-      "career_h": 6,
-      "career_hr": 2,
-      "career_avg": 0.462,
-      "career_ops": 1.423,
-      "career_xbh": 2,
-      "career_rbi": 5,
-      "career_slg": 0.923,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608070/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 663586,
       "player_name": "Austin Riley",
       "team": "Atlanta Braves",
@@ -104,32 +79,7 @@
       }
     },
     {
-      "rank": 5,
-      "mlbam_id": 668227,
-      "player_name": "Randy Arozarena",
-      "team": "Seattle Mariners",
-      "bat_side": "R",
-      "opposing_pitcher": "Miles Mikolas",
-      "opposing_pitcher_id": 571945,
-      "pitcher_throws": "R",
-      "venue_name": "Nationals Park",
-      "career_ab": 11,
-      "career_h": 5,
-      "career_hr": 1,
-      "career_avg": 0.455,
-      "career_ops": 1.273,
-      "career_xbh": 2,
-      "career_rbi": 2,
-      "career_slg": 0.818,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668227/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571945/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "mlbam_id": 608324,
       "player_name": "Alex Bregman",
       "team": "Chicago Cubs",
@@ -154,7 +104,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "mlbam_id": 664023,
       "player_name": "Ian Happ",
       "team": "Chicago Cubs",
@@ -179,7 +129,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 6,
       "mlbam_id": 657136,
       "player_name": "Connor Wong",
       "team": "Boston Red Sox",
@@ -204,7 +154,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "mlbam_id": 571448,
       "player_name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
@@ -229,7 +179,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 8,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -254,57 +204,7 @@
       }
     },
     {
-      "rank": 11,
-      "mlbam_id": 665862,
-      "player_name": "Jazz Chisholm Jr.",
-      "team": "New York Yankees",
-      "bat_side": "L",
-      "opposing_pitcher": "Patrick Corbin",
-      "opposing_pitcher_id": 571578,
-      "pitcher_throws": "L",
-      "venue_name": "Rogers Centre",
-      "career_ab": 10,
-      "career_h": 2,
-      "career_hr": 1,
-      "career_avg": 0.2,
-      "career_ops": 1.033,
-      "career_xbh": 2,
-      "career_rbi": 4,
-      "career_slg": 0.7,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665862/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571578/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 12,
-      "mlbam_id": 542303,
-      "player_name": "Marcell Ozuna",
-      "team": "Pittsburgh Pirates",
-      "bat_side": "R",
-      "opposing_pitcher": "Max Meyer",
-      "opposing_pitcher_id": 676974,
-      "pitcher_throws": "R",
-      "venue_name": "PNC Park",
-      "career_ab": 9,
-      "career_h": 4,
-      "career_hr": 0,
-      "career_avg": 0.444,
-      "career_ops": 1.0,
-      "career_xbh": 1,
-      "career_rbi": 3,
-      "career_slg": 0.556,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/542303/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/676974/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 13,
+      "rank": 9,
       "mlbam_id": 641355,
       "player_name": "Cody Bellinger",
       "team": "New York Yankees",
@@ -329,7 +229,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 10,
       "mlbam_id": 680776,
       "player_name": "Jarren Duran",
       "team": "Boston Red Sox",
@@ -354,7 +254,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 11,
       "mlbam_id": 673548,
       "player_name": "Seiya Suzuki",
       "team": "Chicago Cubs",
@@ -379,7 +279,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 12,
       "mlbam_id": 690993,
       "player_name": "Colt Keith",
       "team": "Detroit Tigers",
@@ -404,32 +304,7 @@
       }
     },
     {
-      "rank": 17,
-      "mlbam_id": 641857,
-      "player_name": "Ryan McMahon",
-      "team": "New York Yankees",
-      "bat_side": "L",
-      "opposing_pitcher": "Patrick Corbin",
-      "opposing_pitcher_id": 571578,
-      "pitcher_throws": "L",
-      "venue_name": "Rogers Centre",
-      "career_ab": 19,
-      "career_h": 7,
-      "career_hr": 0,
-      "career_avg": 0.368,
-      "career_ops": 0.789,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.421,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/641857/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571578/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 13,
       "mlbam_id": 518692,
       "player_name": "Freddie Freeman",
       "team": "Los Angeles Dodgers",
@@ -454,7 +329,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 14,
       "mlbam_id": 683737,
       "player_name": "Michael Busch",
       "team": "Chicago Cubs",
@@ -479,28 +354,153 @@
       }
     },
     {
-      "rank": 20,
-      "mlbam_id": 621550,
-      "player_name": "Patrick Wisdom",
-      "team": "Seattle Mariners",
-      "bat_side": "R",
-      "opposing_pitcher": "Miles Mikolas",
-      "opposing_pitcher_id": 571945,
+      "rank": 15,
+      "mlbam_id": 624424,
+      "player_name": "Michael Conforto",
+      "team": "Chicago Cubs",
+      "bat_side": "L",
+      "opposing_pitcher": "Logan Webb",
+      "opposing_pitcher_id": 657277,
       "pitcher_throws": "R",
-      "venue_name": "Nationals Park",
+      "venue_name": "Oracle Park",
       "career_ab": 13,
       "career_h": 3,
       "career_hr": 1,
       "career_avg": 0.231,
-      "career_ops": 0.775,
-      "career_xbh": 1,
-      "career_rbi": 4,
-      "career_slg": 0.462,
+      "career_ops": 0.769,
+      "career_xbh": 2,
+      "career_rbi": 2,
+      "career_slg": 0.538,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/621550/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571945/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/624424/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/657277/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
+      }
+    },
+    {
+      "rank": 16,
+      "mlbam_id": 621020,
+      "player_name": "Dansby Swanson",
+      "team": "Chicago Cubs",
+      "bat_side": "R",
+      "opposing_pitcher": "Logan Webb",
+      "opposing_pitcher_id": 657277,
+      "pitcher_throws": "R",
+      "venue_name": "Oracle Park",
+      "career_ab": 21,
+      "career_h": 4,
+      "career_hr": 2,
+      "career_avg": 0.19,
+      "career_ops": 0.714,
+      "career_xbh": 3,
+      "career_rbi": 3,
+      "career_slg": 0.524,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/621020/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/657277/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
+      }
+    },
+    {
+      "rank": 17,
+      "mlbam_id": 643396,
+      "player_name": "Isiah Kiner-Falefa",
+      "team": "Boston Red Sox",
+      "bat_side": "R",
+      "opposing_pitcher": "Nathan Eovaldi",
+      "opposing_pitcher_id": 543135,
+      "pitcher_throws": "R",
+      "venue_name": "Fenway Park",
+      "career_ab": 14,
+      "career_h": 4,
+      "career_hr": 0,
+      "career_avg": 0.286,
+      "career_ops": 0.69,
+      "career_xbh": 1,
+      "career_rbi": 0,
+      "career_slg": 0.357,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/643396/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543135/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 18,
+      "mlbam_id": 682985,
+      "player_name": "Riley Greene",
+      "team": "Detroit Tigers",
+      "bat_side": "L",
+      "opposing_pitcher": "Gavin Williams",
+      "opposing_pitcher_id": 668909,
+      "pitcher_throws": "R",
+      "venue_name": "Progressive Field",
+      "career_ab": 14,
+      "career_h": 2,
+      "career_hr": 1,
+      "career_avg": 0.143,
+      "career_ops": 0.607,
+      "career_xbh": 1,
+      "career_rbi": 1,
+      "career_slg": 0.357,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/682985/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668909/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 650490,
+      "player_name": "Yandy D\u00edaz",
+      "team": "Tampa Bay Rays",
+      "bat_side": "R",
+      "opposing_pitcher": "Grayson Rodriguez",
+      "opposing_pitcher_id": 680570,
+      "pitcher_throws": "R",
+      "venue_name": "Angel Stadium",
+      "career_ab": 12,
+      "career_h": 3,
+      "career_hr": 0,
+      "career_avg": 0.25,
+      "career_ops": 0.583,
+      "career_xbh": 1,
+      "career_rbi": 0,
+      "career_slg": 0.333,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/650490/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/680570/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 683011,
+      "player_name": "Anthony Volpe",
+      "team": "New York Yankees",
+      "bat_side": "R",
+      "opposing_pitcher": "Patrick Corbin",
+      "opposing_pitcher_id": 571578,
+      "pitcher_throws": "L",
+      "venue_name": "Rogers Centre",
+      "career_ab": 10,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.2,
+      "career_ops": 0.573,
+      "career_xbh": 1,
+      "career_rbi": 0,
+      "career_slg": 0.3,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/683011/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/571578/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
       }
     }
   ]
