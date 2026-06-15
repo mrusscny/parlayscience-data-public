@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at_et": "2026-06-15 11:41:30 EDT",
+  "generated_at_et": "2026-06-15 14:03:07 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -17,7 +17,7 @@
       "batter_slg": 0.791,
       "batter_woba_contact": 0.499,
       "batter_ab_vs_pitch": 67,
-      "batter_barrel_pct": 16.9,
+      "batter_barrel_pct": 16.7,
       "batter_season_slg_overall": 0.532,
       "matchup_strength": 0.5023,
       "venue_name": "UNIQLO Field at Dodger Stadium",
@@ -42,7 +42,7 @@
       "batter_slg": 0.796,
       "batter_woba_contact": 0.483,
       "batter_ab_vs_pitch": 98,
-      "batter_barrel_pct": 19.3,
+      "batter_barrel_pct": 19.0,
       "batter_season_slg_overall": 0.6,
       "matchup_strength": 0.4736,
       "venue_name": "Globe Life Field",

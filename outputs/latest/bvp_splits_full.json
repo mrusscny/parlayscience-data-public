@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at_et": "2026-06-15 11:40:43 EDT",
+  "generated_at_et": "2026-06-15 14:02:16 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -355,31 +355,6 @@
     },
     {
       "rank": 15,
-      "mlbam_id": 606115,
-      "player_name": "Orlando Arcia",
-      "team": "Minnesota Twins",
-      "bat_side": "R",
-      "opposing_pitcher": "MacKenzie Gore",
-      "opposing_pitcher_id": 669022,
-      "pitcher_throws": "L",
-      "venue_name": "Globe Life Field",
-      "career_ab": 14,
-      "career_h": 1,
-      "career_hr": 0,
-      "career_avg": 0.071,
-      "career_ops": 0.214,
-      "career_xbh": 1,
-      "career_rbi": 0,
-      "career_slg": 0.143,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/606115/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669022/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
-      }
-    },
-    {
-      "rank": 16,
       "mlbam_id": 660271,
       "player_name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 650489,
       "player_name": "Willi Castro",
       "team": "Colorado Rockies",

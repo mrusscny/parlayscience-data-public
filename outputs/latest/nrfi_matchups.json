@@ -1,6 +1,6 @@
 {
   "date": "2026-06-15",
-  "generated_at_et": "2026-06-15 11:41:45 EDT",
+  "generated_at_et": "2026-06-15 14:03:19 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
@@ -150,54 +150,6 @@
     {
       "game_rank": 4,
       "pitcher_role": "away",
-      "game_pk": 823452,
-      "pitcher_mlbam_id": 687473.0,
-      "pitcher_name": "Ryan Gusto",
-      "pitcher_team": "Miami Marlins",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.5,
-      "pitcher_l10_starts_evaluated": 2,
-      "opposing_team": "Philadelphia Phillies",
-      "opposing_team_nrfi_rate": 0.692,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.558,
-      "game_nrfi_score": 0.665,
-      "venue_name": "Citizens Bank Park",
-      "game_time_et": "6:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687473/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "game_rank": 4,
-      "pitcher_role": "home",
-      "game_pk": 823452,
-      "pitcher_mlbam_id": 554430.0,
-      "pitcher_name": "Zack Wheeler",
-      "pitcher_team": "Philadelphia Phillies",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 2.0,
-      "pitcher_l10_nrfi_rate": 0.8,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Miami Marlins",
-      "opposing_team_nrfi_rate": 0.741,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.773,
-      "game_nrfi_score": 0.665,
-      "venue_name": "Citizens Bank Park",
-      "game_time_et": "6:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "game_rank": 5,
-      "pitcher_role": "away",
       "game_pk": 823938,
       "pitcher_mlbam_id": 607259.0,
       "pitcher_name": "Nick Martinez",
@@ -220,7 +172,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 4,
       "pitcher_role": "home",
       "game_pk": 823938,
       "pitcher_mlbam_id": 641778.0,
@@ -244,7 +196,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 824666,
       "pitcher_mlbam_id": 547179.0,
@@ -268,7 +220,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 824666,
       "pitcher_mlbam_id": 684007.0,
@@ -289,6 +241,54 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "game_rank": 6,
+      "pitcher_role": "away",
+      "game_pk": 824181,
+      "pitcher_mlbam_id": 675512.0,
+      "pitcher_name": "Troy Melton",
+      "pitcher_team": "Detroit Tigers",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 2.25,
+      "pitcher_l10_nrfi_rate": 0.5,
+      "pitcher_l10_starts_evaluated": 4,
+      "opposing_team": "Houston Astros",
+      "opposing_team_nrfi_rate": 0.667,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.65,
+      "game_nrfi_score": 0.616,
+      "venue_name": "Daikin Park",
+      "game_time_et": "8:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675512/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "game_rank": 6,
+      "pitcher_role": "home",
+      "game_pk": 824181,
+      "pitcher_mlbam_id": 678906.0,
+      "pitcher_name": "Kai-Wei Teng",
+      "pitcher_team": "Houston Astros",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 3.86,
+      "pitcher_l10_nrfi_rate": 0.6,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Detroit Tigers",
+      "opposing_team_nrfi_rate": 0.577,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.582,
+      "game_nrfi_score": 0.616,
+      "venue_name": "Daikin Park",
+      "game_time_et": "8:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678906/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
       }
     }
   ]
