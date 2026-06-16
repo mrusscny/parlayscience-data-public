@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated_at_et": "2026-06-16 10:53:00 EDT",
+  "generated_at_et": "2026-06-16 14:09:48 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 49.4,
       "fb_pct": 35.0,
       "pitcher_hr_per_9": 2.508,
-      "weather_score": 0.711,
+      "weather_score": 0.631,
       "park_factor": 1.24,
-      "composite_score": 0.941,
+      "composite_score": 0.933,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 43.3,
       "fb_pct": 50.0,
       "pitcher_hr_per_9": 2.508,
-      "weather_score": 0.711,
+      "weather_score": 0.631,
       "park_factor": 1.24,
-      "composite_score": 0.9,
+      "composite_score": 0.892,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682626/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 42.9,
       "fb_pct": 27.66,
       "pitcher_hr_per_9": 2.25,
-      "weather_score": 0.711,
+      "weather_score": 0.631,
       "park_factor": 1.24,
-      "composite_score": 0.876,
+      "composite_score": 0.868,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663993/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -101,9 +101,9 @@
       "hard_hit_pct": 45.9,
       "fb_pct": 25.58,
       "pitcher_hr_per_9": 2.508,
-      "weather_score": 0.711,
+      "weather_score": 0.631,
       "park_factor": 1.24,
-      "composite_score": 0.857,
+      "composite_score": 0.849,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676724/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -113,33 +113,6 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 668709,
-      "player_name": "JJ Bleday",
-      "team": "Cincinnati Reds",
-      "bat_side": "L",
-      "opposing_pitcher": "Kodai Senga",
-      "opposing_pitcher_id": 673540,
-      "pitcher_throws": "R",
-      "venue_name": "Great American Ball Park",
-      "barrel_pct": 11.5,
-      "iso_overall": 0.314,
-      "iso_split": 0.35,
-      "iso_blended": 0.336,
-      "hard_hit_pct": 47.3,
-      "fb_pct": 24.05,
-      "pitcher_hr_per_9": 2.25,
-      "weather_score": 0.711,
-      "park_factor": 1.24,
-      "composite_score": 0.849,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668709/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673540/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 6,
       "mlbam_id": 545361,
       "player_name": "Mike Trout",
       "team": "Los Angeles Angels",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -182,14 +155,41 @@
       "hard_hit_pct": 47.2,
       "fb_pct": 26.98,
       "pitcher_hr_per_9": 1.857,
-      "weather_score": 0.439,
+      "weather_score": 0.467,
       "park_factor": 1.04,
-      "composite_score": 0.838,
+      "composite_score": 0.841,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665795/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 668709,
+      "player_name": "JJ Bleday",
+      "team": "Cincinnati Reds",
+      "bat_side": "L",
+      "opposing_pitcher": "Kodai Senga",
+      "opposing_pitcher_id": 673540,
+      "pitcher_throws": "R",
+      "venue_name": "Great American Ball Park",
+      "barrel_pct": 11.5,
+      "iso_overall": 0.314,
+      "iso_split": 0.35,
+      "iso_blended": 0.336,
+      "hard_hit_pct": 47.3,
+      "fb_pct": 24.05,
+      "pitcher_hr_per_9": 2.25,
+      "weather_score": 0.631,
+      "park_factor": 1.24,
+      "composite_score": 0.841,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668709/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673540/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
     },
     {
@@ -209,9 +209,9 @@
       "hard_hit_pct": 40.3,
       "fb_pct": 20.29,
       "pitcher_hr_per_9": 2.25,
-      "weather_score": 0.711,
+      "weather_score": 0.631,
       "park_factor": 1.24,
-      "composite_score": 0.837,
+      "composite_score": 0.829,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701398/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
