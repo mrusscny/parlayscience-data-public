@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at_et": "2026-06-17 09:39:05 EDT",
+  "generated_at_et": "2026-06-17 12:45:05 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 624641,
-      "player_name": "Edmundo Sosa",
-      "team": "Philadelphia Phillies",
-      "bat_side": "R",
-      "opposing_pitcher": "Sandy Alcantara",
-      "opposing_pitcher_id": 645261,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "career_ab": 9,
-      "career_h": 5,
-      "career_hr": 0,
-      "career_avg": 0.556,
-      "career_ops": 1.378,
-      "career_xbh": 1,
-      "career_rbi": 0,
-      "career_slg": 0.778,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/624641/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/645261/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 683002,
       "player_name": "Gunnar Henderson",
       "team": "Baltimore Orioles",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 678662,
       "player_name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 547180,
       "player_name": "Bryce Harper",
       "team": "Philadelphia Phillies",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 677594,
       "player_name": "Julio Rodr\u00edguez",
       "team": "Seattle Mariners",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 643396,
       "player_name": "Isiah Kiner-Falefa",
       "team": "Boston Red Sox",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 607208,
       "player_name": "Trea Turner",
       "team": "Philadelphia Phillies",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 545361,
       "player_name": "Mike Trout",
       "team": "Los Angeles Angels",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 668804,
       "player_name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 664761,
       "player_name": "Alec Bohm",
       "team": "Philadelphia Phillies",
@@ -329,32 +304,7 @@
       }
     },
     {
-      "rank": 14,
-      "mlbam_id": 592663,
-      "player_name": "J.T. Realmuto",
-      "team": "Philadelphia Phillies",
-      "bat_side": "R",
-      "opposing_pitcher": "Sandy Alcantara",
-      "opposing_pitcher_id": 645261,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "career_ab": 39,
-      "career_h": 12,
-      "career_hr": 2,
-      "career_avg": 0.308,
-      "career_ops": 0.821,
-      "career_xbh": 4,
-      "career_rbi": 7,
-      "career_slg": 0.513,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592663/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/645261/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "mlbam_id": 641820,
       "player_name": "Trey Mancini",
       "team": "Los Angeles Angels",
@@ -379,7 +329,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "mlbam_id": 621493,
       "player_name": "Taylor Ward",
       "team": "Baltimore Orioles",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 681297,
       "player_name": "Colton Cowser",
       "team": "Baltimore Orioles",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 545341,
       "player_name": "Randal Grichuk",
       "team": "Chicago White Sox",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 669016,
       "player_name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
@@ -498,6 +448,56 @@
       "career_slg": 0.375,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669016/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/645261/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 668939,
+      "player_name": "Adley Rutschman",
+      "team": "Baltimore Orioles",
+      "bat_side": "S",
+      "opposing_pitcher": "George Kirby",
+      "opposing_pitcher_id": 669923,
+      "pitcher_throws": "R",
+      "venue_name": "T-Mobile Park",
+      "career_ab": 19,
+      "career_h": 4,
+      "career_hr": 1,
+      "career_avg": 0.211,
+      "career_ops": 0.579,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.368,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668939/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669923/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 681082,
+      "player_name": "Bryson Stott",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Sandy Alcantara",
+      "opposing_pitcher_id": 645261,
+      "pitcher_throws": "R",
+      "venue_name": "Citizens Bank Park",
+      "career_ab": 30,
+      "career_h": 7,
+      "career_hr": 0,
+      "career_avg": 0.233,
+      "career_ops": 0.542,
+      "career_xbh": 2,
+      "career_rbi": 3,
+      "career_slg": 0.3,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/681082/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/645261/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"

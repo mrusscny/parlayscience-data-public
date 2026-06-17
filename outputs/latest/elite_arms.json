@@ -1,10 +1,52 @@
 {
   "date": "2026-06-17",
-  "generated_at_et": "2026-06-17 09:40:20 EDT",
+  "generated_at_et": "2026-06-17 12:45:44 EDT",
   "concept": "elite_arms",
   "items": [
     {
       "rank": 1,
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-06-19",
+      "opposing_team": "Atlanta Braves",
+      "fip": 1.445,
+      "era_proxy": 1.34,
+      "k_minus_bb_pct": 0.3313,
+      "k_per_9": 13.552,
+      "ip_total": 87.0,
+      "score": 0.804,
+      "game_pk": 824910,
+      "venue": "Truist Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "pitcher_mlbam_id": 650911,
+      "pitcher_name": "Cristopher S\u00e1nchez",
+      "pitcher_team": "Philadelphia Phillies",
+      "next_start_date": "2026-06-20",
+      "opposing_team": "New York Mets",
+      "fip": 2.12,
+      "era_proxy": 1.82,
+      "k_minus_bb_pct": 0.2425,
+      "k_per_9": 10.545,
+      "ip_total": 99.0,
+      "score": 0.6637,
+      "game_pk": 823447,
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 660271,
       "pitcher_name": "Shohei Ohtani",
       "pitcher_team": "Los Angeles Dodgers",
@@ -25,7 +67,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 4,
       "pitcher_mlbam_id": 682243,
       "pitcher_name": "Bryce Miller",
       "pitcher_team": "Seattle Mariners",
@@ -46,7 +88,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 5,
       "pitcher_mlbam_id": 663554,
       "pitcher_name": "Casey Mize",
       "pitcher_team": "Detroit Tigers",
@@ -64,48 +106,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "pitcher_mlbam_id": 669373,
-      "pitcher_name": "Tarik Skubal",
-      "pitcher_team": "Detroit Tigers",
-      "next_start_date": "2026-06-19",
-      "opposing_team": "Chicago White Sox",
-      "fip": 2.308,
-      "era_proxy": 2.81,
-      "k_minus_bb_pct": 0.2246,
-      "k_per_9": 9.188,
-      "ip_total": 48.0,
-      "score": 0.5714,
-      "game_pk": 824264,
-      "venue": "Comerica Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669373/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "pitcher_mlbam_id": 657746,
-      "pitcher_name": "Joe Ryan",
-      "pitcher_team": "Minnesota Twins",
-      "next_start_date": "2026-06-18",
-      "opposing_team": "Texas Rangers",
-      "fip": 2.711,
-      "era_proxy": 3.17,
-      "k_minus_bb_pct": 0.2289,
-      "k_per_9": 10.057,
-      "ip_total": 82.3,
-      "score": 0.5218,
-      "game_pk": 822889,
-      "venue": "Globe Life Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657746/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]

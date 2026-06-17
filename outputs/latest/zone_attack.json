@@ -1,6 +1,6 @@
 {
   "date": "2026-06-17",
-  "generated_at_et": "2026-06-17 09:40:03 EDT",
+  "generated_at_et": "2026-06-17 12:45:23 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -55,6 +55,31 @@
     },
     {
       "rank": 3,
+      "batter_mlbam_id": 691023,
+      "batter_name": "Jordan Walker",
+      "batter_team": "St. Louis Cardinals",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 699134,
+      "pitcher_name": "Bradgley Rodriguez",
+      "pitcher_throws": "R",
+      "pitch_type": "Changeup",
+      "pitcher_usage_pct": 0.424,
+      "batter_slg": 0.714,
+      "batter_woba_contact": 0.459,
+      "batter_ab_vs_pitch": 28,
+      "batter_barrel_pct": 14.4,
+      "batter_season_slg_overall": 0.545,
+      "matchup_strength": 0.303,
+      "venue_name": "Busch Stadium",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699134/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 4,
       "batter_mlbam_id": 695578,
       "batter_name": "James Wood",
       "batter_team": "Washington Nationals",
@@ -76,31 +101,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/679883/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "batter_mlbam_id": 668930,
-      "batter_name": "Brice Turang",
-      "batter_team": "Milwaukee Brewers",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 668909,
-      "pitcher_name": "Gavin Williams",
-      "pitcher_throws": "R",
-      "pitch_type": "Curveball",
-      "pitcher_usage_pct": 0.271,
-      "batter_slg": 0.773,
-      "batter_woba_contact": 0.555,
-      "batter_ab_vs_pitch": 22,
-      "batter_barrel_pct": 8.9,
-      "batter_season_slg_overall": 0.472,
-      "matchup_strength": 0.2094,
-      "venue_name": "American Family Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668930/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]
