@@ -1,13 +1,13 @@
 {
   "date": "2026-06-19",
-  "generated_at_et": "2026-06-19 09:33:34 EDT",
+  "generated_at_et": "2026-06-19 12:15:01 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
       "game_rank": 1,
       "pitcher_role": "away",
       "game_pk": 823124,
-      "pitcher_mlbam_id": 624133.0,
+      "pitcher_mlbam_id": 624133,
       "pitcher_name": "Ranger Suarez",
       "pitcher_team": "Boston Red Sox",
       "pitcher_throws": "L",
@@ -31,7 +31,7 @@
       "game_rank": 1,
       "pitcher_role": "home",
       "game_pk": 823124,
-      "pitcher_mlbam_id": 682243.0,
+      "pitcher_mlbam_id": 682243,
       "pitcher_name": "Bryce Miller",
       "pitcher_team": "Seattle Mariners",
       "pitcher_throws": "R",
@@ -54,8 +54,56 @@
     {
       "game_rank": 2,
       "pitcher_role": "away",
+      "game_pk": 823853,
+      "pitcher_mlbam_id": 694738,
+      "pitcher_name": "Landen Roupp",
+      "pitcher_team": "San Francisco Giants",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 1.29,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 4,
+      "opposing_team": "Miami Marlins",
+      "opposing_team_nrfi_rate": 0.731,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.862,
+      "game_nrfi_score": 0.827,
+      "venue_name": "loanDepot park",
+      "game_time_et": "7:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694738/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "game_rank": 2,
+      "pitcher_role": "home",
+      "game_pk": 823853,
+      "pitcher_mlbam_id": 669199,
+      "pitcher_name": "Lake Bachar",
+      "pitcher_team": "Miami Marlins",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 0.0,
+      "pitcher_l10_nrfi_rate": 0.667,
+      "pitcher_l10_starts_evaluated": 3,
+      "opposing_team": "San Francisco Giants",
+      "opposing_team_nrfi_rate": 0.64,
+      "opposing_team_games_evaluated": 25,
+      "pitcher_composite_score": 0.792,
+      "game_nrfi_score": 0.827,
+      "venue_name": "loanDepot park",
+      "game_time_et": "7:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669199/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
+      }
+    },
+    {
+      "game_rank": 3,
+      "pitcher_role": "away",
       "game_pk": 824910,
-      "pitcher_mlbam_id": 694819.0,
+      "pitcher_mlbam_id": 694819,
       "pitcher_name": "Jacob Misiorowski",
       "pitcher_team": "Milwaukee Brewers",
       "pitcher_throws": "R",
@@ -76,10 +124,10 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 824910,
-      "pitcher_mlbam_id": 527048.0,
+      "pitcher_mlbam_id": 527048,
       "pitcher_name": "Mart\u00edn P\u00e9rez",
       "pitcher_team": "Atlanta Braves",
       "pitcher_throws": "L",
@@ -100,10 +148,10 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "away",
       "game_pk": 824663,
-      "pitcher_mlbam_id": 592332.0,
+      "pitcher_mlbam_id": 592332,
       "pitcher_name": "Kevin Gausman",
       "pitcher_team": "Toronto Blue Jays",
       "pitcher_throws": "R",
@@ -124,10 +172,10 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
       "pitcher_role": "home",
       "game_pk": 824663,
-      "pitcher_mlbam_id": 676962.0,
+      "pitcher_mlbam_id": 676962,
       "pitcher_name": "Ben Brown",
       "pitcher_team": "Chicago Cubs",
       "pitcher_throws": "R",
@@ -148,10 +196,10 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 822966,
-      "pitcher_mlbam_id": 676917.0,
+      "pitcher_mlbam_id": 676917,
       "pitcher_name": "Cade Cavalli",
       "pitcher_team": "Washington Nationals",
       "pitcher_throws": "R",
@@ -172,10 +220,10 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 822966,
-      "pitcher_mlbam_id": 643377.0,
+      "pitcher_mlbam_id": 643377,
       "pitcher_name": "Griffin Jax",
       "pitcher_team": "Tampa Bay Rays",
       "pitcher_throws": "R",
@@ -196,10 +244,10 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 823534,
-      "pitcher_mlbam_id": 695076.0,
+      "pitcher_mlbam_id": 695076,
       "pitcher_name": "Rhett Lowder",
       "pitcher_team": "Cincinnati Reds",
       "pitcher_throws": "R",
@@ -220,10 +268,10 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 823534,
-      "pitcher_mlbam_id": 693645.0,
+      "pitcher_mlbam_id": 693645,
       "pitcher_name": "Cam Schlittler",
       "pitcher_team": "New York Yankees",
       "pitcher_throws": "R",
@@ -241,52 +289,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "away",
-      "game_pk": 823853,
-      "pitcher_mlbam_id": 694738.0,
-      "pitcher_name": "Landen Roupp",
-      "pitcher_team": "San Francisco Giants",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 1.29,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "Miami Marlins",
-      "opposing_team_nrfi_rate": 0.731,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.862,
-      "game_nrfi_score": 0.627,
-      "venue_name": "loanDepot park",
-      "game_time_et": "7:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694738/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "home",
-      "game_pk": 823853,
-      "pitcher_mlbam_id": null,
-      "pitcher_name": "TBD",
-      "pitcher_team": "Miami Marlins",
-      "pitcher_throws": "U",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "San Francisco Giants",
-      "opposing_team_nrfi_rate": 0.64,
-      "opposing_team_games_evaluated": 25,
-      "pitcher_composite_score": 0.392,
-      "game_nrfi_score": 0.627,
-      "venue_name": "loanDepot park",
-      "game_time_et": "7:10 PM ET",
-      "image_urls": {
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]

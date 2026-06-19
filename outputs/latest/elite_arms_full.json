@@ -1,6 +1,6 @@
 {
   "date": "2026-06-19",
-  "generated_at_et": "2026-06-19 09:33:47 EDT",
+  "generated_at_et": "2026-06-19 12:15:10 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -404,23 +404,23 @@
     },
     {
       "rank": 20,
-      "pitcher_mlbam_id": 592332,
-      "pitcher_name": "Kevin Gausman",
-      "pitcher_team": "Toronto Blue Jays",
+      "pitcher_mlbam_id": 669199,
+      "pitcher_name": "Lake Bachar",
+      "pitcher_team": "Miami Marlins",
       "next_start_date": "2026-06-19",
-      "opposing_team": "Chicago Cubs",
-      "fip": 3.169,
-      "era_proxy": 3.41,
-      "k_minus_bb_pct": 0.2006,
-      "k_per_9": 8.897,
-      "ip_total": 87.0,
-      "score": 0.4425,
-      "game_pk": 824663,
-      "venue": "Wrigley Field",
+      "opposing_team": "San Francisco Giants",
+      "fip": 3.456,
+      "era_proxy": 2.97,
+      "k_minus_bb_pct": 0.2051,
+      "k_per_9": 10.297,
+      "ip_total": 39.3,
+      "score": 0.4504,
+      "game_pk": 823853,
+      "venue": "loanDepot park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592332/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669199/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]
