@@ -1,10 +1,35 @@
 {
   "date": "2026-06-20",
-  "generated_at_et": "2026-06-20 07:55:17 EDT",
+  "generated_at_et": "2026-06-20 11:12:12 EDT",
   "concept": "zone_attack",
   "items": [
     {
       "rank": 1,
+      "batter_mlbam_id": 681481,
+      "batter_name": "Kerry Carpenter",
+      "batter_team": "Detroit Tigers",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 656794,
+      "pitcher_name": "Sean Newcomb",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.903,
+      "batter_slg": 0.587,
+      "batter_woba_contact": 0.362,
+      "batter_ab_vs_pitch": 46,
+      "batter_barrel_pct": 10.5,
+      "batter_season_slg_overall": 0.497,
+      "matchup_strength": 0.5297,
+      "venue_name": "Comerica Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681481/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656794/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 2,
       "batter_mlbam_id": 686948,
       "batter_name": "Drake Baldwin",
       "batter_team": "Atlanta Braves",
@@ -17,7 +42,7 @@
       "batter_slg": 0.569,
       "batter_woba_contact": 0.372,
       "batter_ab_vs_pitch": 58,
-      "batter_barrel_pct": 18.7,
+      "batter_barrel_pct": 18.4,
       "batter_season_slg_overall": 0.53,
       "matchup_strength": 0.4983,
       "venue_name": "Truist Park",
@@ -26,31 +51,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 2,
-      "batter_mlbam_id": 694671,
-      "batter_name": "Wyatt Langford",
-      "batter_team": "Texas Rangers",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 621111,
-      "pitcher_name": "Walker Buehler",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.668,
-      "batter_slg": 0.735,
-      "batter_woba_contact": 0.468,
-      "batter_ab_vs_pitch": 34,
-      "batter_barrel_pct": 6.3,
-      "batter_season_slg_overall": 0.447,
-      "matchup_strength": 0.4914,
-      "venue_name": "Globe Life Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694671/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     },
     {
@@ -92,7 +92,7 @@
       "batter_slg": 0.929,
       "batter_woba_contact": 0.566,
       "batter_ab_vs_pitch": 28,
-      "batter_barrel_pct": 11.2,
+      "batter_barrel_pct": 11.0,
       "batter_season_slg_overall": 0.51,
       "matchup_strength": 0.2359,
       "venue_name": "Wrigley Field",

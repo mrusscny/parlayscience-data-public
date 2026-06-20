@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated_at_et": "2026-06-20 07:55:33 EDT",
+  "generated_at_et": "2026-06-20 11:12:37 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -125,6 +125,26 @@
     },
     {
       "rank": 7,
+      "pitcher_mlbam_id": 656794,
+      "pitcher_name": "Sean Newcomb",
+      "pitcher_team": "Chicago White Sox",
+      "opposing_team": "Detroit Tigers",
+      "pitcher_k_per_9": 8.504,
+      "pitcher_k_minus_bb_pct": 0.1706,
+      "opp_k_rate": 0.2387,
+      "opp_games_sample": 25,
+      "score": 0.6201,
+      "game_pk": 824263,
+      "game_time_local": "1:10 PM ET",
+      "venue": "Comerica Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656794/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "rank": 8,
       "pitcher_mlbam_id": 686790,
       "pitcher_name": "Trevor McDonald",
       "pitcher_team": "San Francisco Giants",
@@ -141,26 +161,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686790/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "pitcher_mlbam_id": 543135,
-      "pitcher_name": "Nathan Eovaldi",
-      "pitcher_team": "Texas Rangers",
-      "opposing_team": "San Diego Padres",
-      "pitcher_k_per_9": 8.553,
-      "pitcher_k_minus_bb_pct": 0.1708,
-      "opp_k_rate": 0.2303,
-      "opp_games_sample": 25,
-      "score": 0.573,
-      "game_pk": 822885,
-      "game_time_local": "4:05 PM ET",
-      "venue": "Globe Life Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543135/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     }
   ]

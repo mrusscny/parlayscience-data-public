@@ -1,6 +1,6 @@
 {
   "date": "2026-06-20",
-  "generated_at_et": "2026-06-20 07:55:39 EDT",
+  "generated_at_et": "2026-06-20 11:12:44 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -131,6 +131,27 @@
     },
     {
       "rank": 7,
+      "pitcher_mlbam_id": 656794,
+      "pitcher_name": "Sean Newcomb",
+      "pitcher_team": "Chicago White Sox",
+      "next_start_date": "2026-06-20",
+      "opposing_team": "Detroit Tigers",
+      "fip": 2.297,
+      "era_proxy": 2.76,
+      "k_minus_bb_pct": 0.1706,
+      "k_per_9": 8.504,
+      "ip_total": 42.3,
+      "score": 0.5212,
+      "game_pk": 824263,
+      "venue": "Comerica Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656794/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "rank": 8,
       "pitcher_mlbam_id": 554430,
       "pitcher_name": "Zack Wheeler",
       "pitcher_team": "Philadelphia Phillies",
@@ -151,7 +172,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -172,7 +193,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -193,7 +214,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "pitcher_mlbam_id": 663436,
       "pitcher_name": "Davis Martin",
       "pitcher_team": "Chicago White Sox",
@@ -214,7 +235,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "pitcher_mlbam_id": 676974,
       "pitcher_name": "Max Meyer",
       "pitcher_team": "Miami Marlins",
@@ -235,7 +256,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "pitcher_mlbam_id": 800048,
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
@@ -256,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "pitcher_mlbam_id": 657277,
       "pitcher_name": "Logan Webb",
       "pitcher_team": "San Francisco Giants",
@@ -277,7 +298,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "pitcher_mlbam_id": 669302,
       "pitcher_name": "Logan Gilbert",
       "pitcher_team": "Seattle Mariners",
@@ -298,7 +319,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "pitcher_mlbam_id": 669160,
       "pitcher_name": "Dustin May",
       "pitcher_team": "St. Louis Cardinals",
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 701542,
       "pitcher_name": "Will Warren",
       "pitcher_team": "New York Yankees",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 676106,
       "pitcher_name": "Emerson Hancock",
       "pitcher_team": "Seattle Mariners",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 676917,
       "pitcher_name": "Cade Cavalli",
       "pitcher_team": "Washington Nationals",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 681293,
       "pitcher_name": "Spencer Arrighetti",
       "pitcher_team": "Houston Astros",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681293/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 607259,
-      "pitcher_name": "Nick Martinez",
-      "pitcher_team": "Tampa Bay Rays",
-      "next_start_date": "2026-06-21",
-      "opposing_team": "Washington Nationals",
-      "fip": 3.498,
-      "era_proxy": 2.6,
-      "k_minus_bb_pct": 0.1059,
-      "k_per_9": 5.422,
-      "ip_total": 83.0,
-      "score": 0.3701,
-      "game_pk": 822968,
-      "venue": "Tropicana Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607259/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     }
   ]
