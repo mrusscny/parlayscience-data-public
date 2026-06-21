@@ -1,6 +1,6 @@
 {
   "date": "2026-06-21",
-  "generated_at_et": "2026-06-21 08:08:26 EDT",
+  "generated_at_et": "2026-06-21 11:20:59 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -30,27 +30,27 @@
     },
     {
       "rank": 2,
-      "batter_mlbam_id": 683734,
-      "batter_name": "Andrew Vaughn",
-      "batter_team": "Milwaukee Brewers",
+      "batter_mlbam_id": 670623,
+      "batter_name": "Isaac Paredes",
+      "batter_team": "Houston Astros",
       "bat_side": "R",
-      "pitcher_mlbam_id": 693821,
-      "pitcher_name": "Bryce Elder",
+      "pitcher_mlbam_id": 677944,
+      "pitcher_name": "Slade Cecconi",
       "pitcher_throws": "R",
       "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.669,
-      "batter_slg": 0.679,
-      "batter_woba_contact": 0.482,
-      "batter_ab_vs_pitch": 53,
-      "batter_barrel_pct": 3.2,
-      "batter_season_slg_overall": 0.528,
-      "matchup_strength": 0.4544,
-      "venue_name": "Truist Park",
+      "pitcher_usage_pct": 0.775,
+      "batter_slg": 0.555,
+      "batter_woba_contact": 0.364,
+      "batter_ab_vs_pitch": 110,
+      "batter_barrel_pct": 6.8,
+      "batter_season_slg_overall": 0.413,
+      "matchup_strength": 0.4299,
+      "venue_name": "Daikin Park",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683734/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670623/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677944/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     },
     {
