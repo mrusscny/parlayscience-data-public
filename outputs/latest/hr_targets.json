@@ -1,37 +1,10 @@
 {
   "date": "2026-06-22",
-  "generated_at_et": "2026-06-22 11:14:13 EDT",
+  "generated_at_et": "2026-06-22 13:45:23 EDT",
   "concept": "hr_targets",
   "items": [
     {
       "rank": 1,
-      "mlbam_id": 621439,
-      "player_name": "Byron Buxton",
-      "team": "Minnesota Twins",
-      "bat_side": "R",
-      "opposing_pitcher": "Eric Lauer",
-      "opposing_pitcher_id": 641778.0,
-      "pitcher_throws": "L",
-      "venue_name": "Target Field",
-      "barrel_pct": 18.5,
-      "iso_overall": 0.316,
-      "iso_split": 0.198,
-      "iso_blended": 0.245,
-      "hard_hit_pct": 49.0,
-      "fb_pct": 34.33,
-      "pitcher_hr_per_9": 2.455,
-      "weather_score": 0.7,
-      "park_factor": 0.97,
-      "composite_score": 0.869,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641778/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
-      }
-    },
-    {
-      "rank": 2,
       "mlbam_id": 694192,
       "player_name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
@@ -47,14 +20,41 @@
       "hard_hit_pct": 48.1,
       "fb_pct": 30.59,
       "pitcher_hr_per_9": 2.318,
-      "weather_score": 0.434,
+      "weather_score": 0.488,
       "park_factor": 1.24,
-      "composite_score": 0.869,
+      "composite_score": 0.875,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694192/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 621439,
+      "player_name": "Byron Buxton",
+      "team": "Minnesota Twins",
+      "bat_side": "R",
+      "opposing_pitcher": "Eric Lauer",
+      "opposing_pitcher_id": 641778.0,
+      "pitcher_throws": "L",
+      "venue_name": "Target Field",
+      "barrel_pct": 18.5,
+      "iso_overall": 0.316,
+      "iso_split": 0.198,
+      "iso_blended": 0.245,
+      "hard_hit_pct": 49.0,
+      "fb_pct": 34.33,
+      "pitcher_hr_per_9": 2.455,
+      "weather_score": 0.698,
+      "park_factor": 0.97,
+      "composite_score": 0.869,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641778/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     },
     {
@@ -74,9 +74,9 @@
       "hard_hit_pct": 54.9,
       "fb_pct": 28.89,
       "pitcher_hr_per_9": 2.318,
-      "weather_score": 0.434,
+      "weather_score": 0.488,
       "park_factor": 1.24,
-      "composite_score": 0.853,
+      "composite_score": 0.859,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
@@ -101,9 +101,9 @@
       "hard_hit_pct": 44.9,
       "fb_pct": 40.3,
       "pitcher_hr_per_9": 2.625,
-      "weather_score": 0.367,
+      "weather_score": 0.455,
       "park_factor": 1.06,
-      "composite_score": 0.849,
+      "composite_score": 0.858,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -113,33 +113,6 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 575929,
-      "player_name": "Willson Contreras",
-      "team": "Boston Red Sox",
-      "bat_side": "R",
-      "opposing_pitcher": "Ryan Feltner",
-      "opposing_pitcher_id": 663372.0,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 13.3,
-      "iso_overall": 0.243,
-      "iso_split": 0.222,
-      "iso_blended": 0.23,
-      "hard_hit_pct": 44.2,
-      "fb_pct": 23.33,
-      "pitcher_hr_per_9": 1.537,
-      "weather_score": 0.951,
-      "park_factor": 1.39,
-      "composite_score": 0.846,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/575929/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 6,
       "mlbam_id": 624424,
       "player_name": "Michael Conforto",
       "team": "Chicago Cubs",
@@ -155,9 +128,9 @@
       "hard_hit_pct": 51.6,
       "fb_pct": 45.0,
       "pitcher_hr_per_9": 2.625,
-      "weather_score": 0.367,
+      "weather_score": 0.455,
       "park_factor": 1.06,
-      "composite_score": 0.842,
+      "composite_score": 0.85,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624424/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 660271,
       "player_name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
@@ -209,7 +182,7 @@
       "hard_hit_pct": 53.6,
       "fb_pct": 26.98,
       "pitcher_hr_per_9": 1.662,
-      "weather_score": 0.7,
+      "weather_score": 0.698,
       "park_factor": 0.97,
       "composite_score": 0.824,
       "image_urls": {
@@ -217,6 +190,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805673/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 665742,
+      "player_name": "Juan Soto",
+      "team": "New York Mets",
+      "bat_side": "L",
+      "opposing_pitcher": "Shota Imanaga",
+      "opposing_pitcher_id": 684007.0,
+      "pitcher_throws": "L",
+      "venue_name": "Citi Field",
+      "barrel_pct": 14.5,
+      "iso_overall": 0.274,
+      "iso_split": 0.203,
+      "iso_blended": 0.231,
+      "hard_hit_pct": 50.0,
+      "fb_pct": 32.89,
+      "pitcher_hr_per_9": 1.765,
+      "weather_score": 0.455,
+      "park_factor": 1.06,
+      "composite_score": 0.823,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     }
   ]
