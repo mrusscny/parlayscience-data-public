@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at_et": "2026-06-23 08:34:41 EDT",
+  "generated_at_et": "2026-06-23 12:02:02 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -205,31 +205,6 @@
     },
     {
       "rank": 9,
-      "batter_mlbam_id": 666181,
-      "batter_name": "Will Benson",
-      "batter_team": "Cincinnati Reds",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 687075,
-      "pitcher_name": "Brandon Sproat",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.774,
-      "batter_slg": 0.533,
-      "batter_woba_contact": 0.343,
-      "batter_ab_vs_pitch": 30,
-      "batter_barrel_pct": 12.1,
-      "batter_season_slg_overall": 0.333,
-      "matchup_strength": 0.4126,
-      "venue_name": "Great American Ball Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666181/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687075/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 10,
       "batter_mlbam_id": 683357,
       "batter_name": "Owen Caissie",
       "batter_team": "Miami Marlins",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 807713,
       "batter_name": "Matt Shaw",
       "batter_team": "Chicago Cubs",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 681715,
       "batter_name": "Heriberto Hern\u00e1ndez",
       "batter_team": "Miami Marlins",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 805811,
       "batter_name": "Bryce Eldridge",
       "batter_team": "San Francisco Giants",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 575929,
       "batter_name": "Willson Contreras",
       "batter_team": "Boston Red Sox",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "batter_mlbam_id": 663886,
       "batter_name": "Tyler Stephenson",
       "batter_team": "Cincinnati Reds",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "batter_mlbam_id": 680574,
       "batter_name": "Matt McLain",
       "batter_team": "Cincinnati Reds",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "batter_mlbam_id": 673548,
       "batter_name": "Seiya Suzuki",
       "batter_team": "Chicago Cubs",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "batter_mlbam_id": 642715,
       "batter_name": "Willy Adames",
       "batter_team": "San Francisco Giants",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "batter_mlbam_id": 808982,
       "batter_name": "Jung Hoo Lee",
       "batter_team": "San Francisco Giants",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "batter_mlbam_id": 679822,
       "batter_name": "Justin Foscue",
       "batter_team": "Texas Rangers",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/645261/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 665804,
+      "batter_name": "Miguel Amaya",
+      "batter_team": "Chicago Cubs",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 673540,
+      "pitcher_name": "Kodai Senga",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.727,
+      "batter_slg": 0.516,
+      "batter_woba_contact": 0.346,
+      "batter_ab_vs_pitch": 31,
+      "batter_barrel_pct": 7.7,
+      "batter_season_slg_overall": 0.363,
+      "matchup_strength": 0.3754,
+      "venue_name": "Citi Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665804/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673540/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
     }
   ]
