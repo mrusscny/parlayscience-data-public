@@ -1,6 +1,6 @@
 {
   "date": "2026-06-24",
-  "generated_at_et": "2026-06-24 08:18:19 EDT",
+  "generated_at_et": "2026-06-24 11:40:46 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -405,29 +405,6 @@
     },
     {
       "rank": 17,
-      "mlbam_id": 665742,
-      "player_name": "Juan Soto",
-      "team": "New York Mets",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "venue_name": "Citi Field",
-      "barrel_pct": 14.4,
-      "fb_pct": 34.67,
-      "avg_exit_velo": 93.3,
-      "hard_hit_pct": 50.0,
-      "pitcher_hr_per_9": null,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.844,
-      "threshold_bonus": 0.05,
-      "final_score": 0.894,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 18,
       "mlbam_id": 671739,
       "player_name": "Michael Harris II",
       "team": "Atlanta Braves",
@@ -452,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 693307,
       "player_name": "Dillon Dingler",
       "team": "Detroit Tigers",
@@ -477,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 670042,
       "player_name": "Luke Raley",
       "team": "Seattle Mariners",
@@ -499,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 700250,
+      "player_name": "Ben Rice",
+      "team": "New York Yankees",
+      "opposing_pitcher": "Tarik Skubal",
+      "opposing_pitcher_id": 669373.0,
+      "venue_name": "Comerica Park",
+      "barrel_pct": 15.1,
+      "fb_pct": 32.0,
+      "avg_exit_velo": 91.9,
+      "hard_hit_pct": 46.7,
+      "pitcher_hr_per_9": 0.839,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.816,
+      "threshold_bonus": 0.05,
+      "final_score": 0.866,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669373/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
       }
     }
   ]
