@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at_et": "2026-06-25 08:12:46 EDT",
+  "generated_at_et": "2026-06-25 11:45:31 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -230,31 +230,6 @@
     },
     {
       "rank": 10,
-      "mlbam_id": 686527,
-      "player_name": "Dominic Canzone",
-      "team": "Seattle Mariners",
-      "opposing_pitcher": "Bubba Chandler",
-      "opposing_pitcher_id": 696149,
-      "venue_name": "PNC Park",
-      "barrel_pct": 16.1,
-      "fb_pct": 30.36,
-      "avg_exit_velo": 93.0,
-      "hard_hit_pct": 49.0,
-      "pitcher_hr_per_9": 1.095,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.83,
-      "threshold_bonus": 0.05,
-      "final_score": 0.88,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686527/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696149/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
-      }
-    },
-    {
-      "rank": 11,
       "mlbam_id": 670042,
       "player_name": "Luke Raley",
       "team": "Seattle Mariners",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 672960,
       "player_name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 663457,
       "player_name": "Lars Nootbaar",
       "team": "St. Louis Cardinals",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 682626,
       "player_name": "Francisco Alvarez",
       "team": "New York Mets",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 681481,
       "player_name": "Kerry Carpenter",
       "team": "Detroit Tigers",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 693307,
       "player_name": "Dillon Dingler",
       "team": "Detroit Tigers",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/837227/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 695506,
+      "player_name": "Jac Caglianone",
+      "team": "Kansas City Royals",
+      "opposing_pitcher": "Casey Legumina",
+      "opposing_pitcher_id": 668984,
+      "venue_name": "Tropicana Field",
+      "barrel_pct": 16.8,
+      "fb_pct": 27.27,
+      "avg_exit_velo": 94.0,
+      "hard_hit_pct": 59.0,
+      "pitcher_hr_per_9": 0.574,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.777,
+      "threshold_bonus": 0.05,
+      "final_score": 0.827,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668984/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     }
   ]

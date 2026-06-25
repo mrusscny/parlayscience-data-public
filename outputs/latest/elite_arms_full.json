@@ -1,6 +1,6 @@
 {
   "date": "2026-06-25",
-  "generated_at_et": "2026-06-25 08:14:50 EDT",
+  "generated_at_et": "2026-06-25 11:47:46 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -173,6 +173,27 @@
     },
     {
       "rank": 9,
+      "pitcher_mlbam_id": 656876,
+      "pitcher_name": "Drew Rasmussen",
+      "pitcher_team": "Tampa Bay Rays",
+      "next_start_date": "2026-06-28",
+      "opposing_team": "Arizona Diamondbacks",
+      "fip": 2.914,
+      "era_proxy": 2.62,
+      "k_minus_bb_pct": 0.2229,
+      "k_per_9": 9.314,
+      "ip_total": 86.0,
+      "score": 0.5326,
+      "game_pk": 822959,
+      "venue": "Tropicana Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 10,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -193,7 +214,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "pitcher_mlbam_id": 605540,
       "pitcher_name": "Brandon Woodruff",
       "pitcher_team": "Milwaukee Brewers",
@@ -214,7 +235,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "pitcher_mlbam_id": 663436,
       "pitcher_name": "Davis Martin",
       "pitcher_team": "Chicago White Sox",
@@ -235,7 +256,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "pitcher_mlbam_id": 676974,
       "pitcher_name": "Max Meyer",
       "pitcher_team": "Miami Marlins",
@@ -256,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "pitcher_mlbam_id": 672282,
       "pitcher_name": "Reid Detmers",
       "pitcher_team": "Los Angeles Angels",
@@ -277,7 +298,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -298,7 +319,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "pitcher_mlbam_id": 701542,
       "pitcher_name": "Will Warren",
       "pitcher_team": "New York Yankees",
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 694738,
       "pitcher_name": "Landen Roupp",
       "pitcher_team": "San Francisco Giants",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 592332,
       "pitcher_name": "Kevin Gausman",
       "pitcher_team": "Toronto Blue Jays",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 543243,
       "pitcher_name": "Sonny Gray",
       "pitcher_team": "Boston Red Sox",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 668909,
       "pitcher_name": "Gavin Williams",
       "pitcher_team": "Cleveland Guardians",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 676917,
-      "pitcher_name": "Cade Cavalli",
-      "pitcher_team": "Washington Nationals",
-      "next_start_date": "2026-06-25",
-      "opposing_team": "Philadelphia Phillies",
-      "fip": 3.074,
-      "era_proxy": 4.07,
-      "k_minus_bb_pct": 0.1547,
-      "k_per_9": 9.543,
-      "ip_total": 77.3,
-      "score": 0.3646,
-      "game_pk": 822717,
-      "venue": "Nationals Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676917/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     }
   ]
