@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated_at_et": "2026-06-26 08:08:58 EDT",
+  "generated_at_et": "2026-06-26 11:31:52 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -55,6 +55,31 @@
     },
     {
       "rank": 3,
+      "mlbam_id": 620443,
+      "player_name": "Luis Torrens",
+      "team": "New York Mets",
+      "bat_side": "R",
+      "opposing_pitcher": "Zack Wheeler",
+      "opposing_pitcher_id": 554430,
+      "pitcher_throws": "R",
+      "venue_name": "Citi Field",
+      "career_ab": 14,
+      "career_h": 7,
+      "career_hr": 0,
+      "career_avg": 0.5,
+      "career_ops": 1.134,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.571,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/620443/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/554430/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 4,
       "mlbam_id": 646240,
       "player_name": "Rafael Devers",
       "team": "San Francisco Giants",
@@ -79,7 +104,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "mlbam_id": 680757,
       "player_name": "Steven Kwan",
       "team": "Cleveland Guardians",
@@ -104,7 +129,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mlbam_id": 680776,
       "player_name": "Jarren Duran",
       "team": "Boston Red Sox",
@@ -129,7 +154,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mlbam_id": 694384,
       "player_name": "Nolan Schanuel",
       "team": "Los Angeles Angels",
@@ -154,7 +179,32 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "mlbam_id": 676572,
+      "player_name": "Eric Wagaman",
+      "team": "New York Mets",
+      "bat_side": "R",
+      "opposing_pitcher": "Zack Wheeler",
+      "opposing_pitcher_id": 554430,
+      "pitcher_throws": "R",
+      "venue_name": "Citi Field",
+      "career_ab": 9,
+      "career_h": 3,
+      "career_hr": 1,
+      "career_avg": 0.333,
+      "career_ops": 1.0,
+      "career_xbh": 1,
+      "career_rbi": 3,
+      "career_slg": 0.667,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/676572/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/554430/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 9,
       "mlbam_id": 668804,
       "player_name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
@@ -179,7 +229,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 10,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -188,14 +238,14 @@
       "opposing_pitcher_id": 554430,
       "pitcher_throws": "R",
       "venue_name": "Citi Field",
-      "career_ab": 51,
-      "career_h": 14,
-      "career_hr": 2,
-      "career_avg": 0.275,
-      "career_ops": 0.879,
-      "career_xbh": 4,
-      "career_rbi": 4,
-      "career_slg": 0.431,
+      "career_ab": 69,
+      "career_h": 18,
+      "career_hr": 4,
+      "career_avg": 0.261,
+      "career_ops": 0.891,
+      "career_xbh": 6,
+      "career_rbi": 7,
+      "career_slg": 0.464,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665742/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -204,7 +254,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 11,
       "mlbam_id": 650333,
       "player_name": "Luis Arraez",
       "team": "San Francisco Giants",
@@ -229,7 +279,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "mlbam_id": 687263,
       "player_name": "Zach Neto",
       "team": "Los Angeles Angels",
@@ -254,7 +304,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
       "mlbam_id": 664702,
       "player_name": "Myles Straw",
       "team": "Toronto Blue Jays",
@@ -279,32 +329,7 @@
       }
     },
     {
-      "rank": 12,
-      "mlbam_id": 683146,
-      "player_name": "Brett Baty",
-      "team": "New York Mets",
-      "bat_side": "L",
-      "opposing_pitcher": "Zack Wheeler",
-      "opposing_pitcher_id": 554430,
-      "pitcher_throws": "R",
-      "venue_name": "Citi Field",
-      "career_ab": 14,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.286,
-      "career_ops": 0.786,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.5,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/683146/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/554430/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 13,
+      "rank": 14,
       "mlbam_id": 663886,
       "player_name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
@@ -329,7 +354,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "mlbam_id": 668901,
       "player_name": "Mark Vientos",
       "team": "New York Mets",
@@ -354,7 +379,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "mlbam_id": 607043,
       "player_name": "Brandon Nimmo",
       "team": "Texas Rangers",
@@ -379,7 +404,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "mlbam_id": 665926,
       "player_name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
@@ -404,7 +429,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -429,7 +454,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "mlbam_id": 596019,
       "player_name": "Francisco Lindor",
       "team": "New York Mets",
@@ -454,7 +479,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "mlbam_id": 543807,
       "player_name": "George Springer",
       "team": "Toronto Blue Jays",
@@ -476,31 +501,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543135/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 671277,
-      "player_name": "Luis Garc\u00eda Jr.",
-      "team": "Washington Nationals",
-      "bat_side": "L",
-      "opposing_pitcher": "Trevor Rogers",
-      "opposing_pitcher_id": 669432,
-      "pitcher_throws": "L",
-      "venue_name": "Oriole Park at Camden Yards",
-      "career_ab": 9,
-      "career_h": 2,
-      "career_hr": 0,
-      "career_avg": 0.222,
-      "career_ops": 0.717,
-      "career_xbh": 2,
-      "career_rbi": 1,
-      "career_slg": 0.444,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/671277/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669432/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     }
   ]
