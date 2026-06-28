@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at_et": "2026-06-28 07:36:40 EDT",
+  "generated_at_et": "2026-06-28 10:56:42 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -258,6 +258,29 @@
     },
     {
       "rank": 12,
+      "mlbam_id": 800050,
+      "player_name": "Chase DeLauter",
+      "team": "Cleveland Guardians",
+      "bat_side": "L",
+      "opposing_pitcher": "Emerson Hancock",
+      "opposing_pitcher_id": 676106,
+      "pitcher_throws": "R",
+      "venue_name": "Progressive Field",
+      "streak_length": 6,
+      "streak_hits": 8,
+      "streak_at_bats": 22,
+      "streak_avg": 0.364,
+      "season_avg": 0.263,
+      "last_game_date": "2026-06-13",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800050/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 13,
       "mlbam_id": 666182,
       "player_name": "Bo Bichette",
       "team": "New York Mets",
@@ -280,7 +303,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "mlbam_id": 666139,
       "player_name": "Josh Lowe",
       "team": "Los Angeles Angels",
@@ -303,7 +326,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "mlbam_id": 669065,
       "player_name": "Kyle Stowers",
       "team": "Miami Marlins",
@@ -326,7 +349,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "mlbam_id": 571448,
       "player_name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
@@ -349,7 +372,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "mlbam_id": 678011,
       "player_name": "Anthony Seigler",
       "team": "Boston Red Sox",
@@ -372,7 +395,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -395,7 +418,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "mlbam_id": 804606,
       "player_name": "Konnor Griffin",
       "team": "Pittsburgh Pirates",
@@ -418,7 +441,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "mlbam_id": 696135,
       "player_name": "Kahlil Watson",
       "team": "Cleveland Guardians",
@@ -438,29 +461,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676106/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 691720,
-      "player_name": "Kyle Karros",
-      "team": "Colorado Rockies",
-      "bat_side": "R",
-      "opposing_pitcher": "Connor Prielipp",
-      "opposing_pitcher_id": 687570,
-      "pitcher_throws": "L",
-      "venue_name": "Target Field",
-      "streak_length": 5,
-      "streak_hits": 5,
-      "streak_at_bats": 13,
-      "streak_avg": 0.385,
-      "season_avg": 0.253,
-      "last_game_date": "2026-06-27",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691720/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687570/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]

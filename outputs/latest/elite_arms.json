@@ -1,6 +1,6 @@
 {
   "date": "2026-06-28",
-  "generated_at_et": "2026-06-28 07:39:11 EDT",
+  "generated_at_et": "2026-06-28 10:59:13 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 694973,
+      "pitcher_name": "Paul Skenes",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-07-01",
+      "opposing_team": "Philadelphia Phillies",
+      "fip": 2.552,
+      "era_proxy": 3.1,
+      "k_minus_bb_pct": 0.252,
+      "k_per_9": 11.032,
+      "ip_total": 93.0,
+      "score": 0.5618,
+      "game_pk": 823446,
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694973/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
@@ -46,7 +67,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "pitcher_mlbam_id": 657746,
       "pitcher_name": "Joe Ryan",
       "pitcher_team": "Minnesota Twins",
@@ -67,45 +88,24 @@
       }
     },
     {
-      "rank": 4,
-      "pitcher_mlbam_id": 669373,
-      "pitcher_name": "Tarik Skubal",
-      "pitcher_team": "Detroit Tigers",
-      "next_start_date": "2026-06-30",
-      "opposing_team": "New York Yankees",
-      "fip": 3.033,
-      "era_proxy": 3.32,
-      "k_minus_bb_pct": 0.2479,
-      "k_per_9": 9.955,
-      "ip_total": 59.7,
-      "score": 0.5061,
-      "game_pk": 823528,
-      "venue": "Yankee Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669373/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
       "rank": 5,
-      "pitcher_mlbam_id": 663554,
-      "pitcher_name": "Casey Mize",
-      "pitcher_team": "Detroit Tigers",
+      "pitcher_mlbam_id": 677952,
+      "pitcher_name": "Braxton Ashcraft",
+      "pitcher_team": "Pittsburgh Pirates",
       "next_start_date": "2026-06-29",
-      "opposing_team": "New York Yankees",
-      "fip": 2.721,
-      "era_proxy": 2.95,
-      "k_minus_bb_pct": 0.1905,
-      "k_per_9": 9.0,
-      "ip_total": 58.0,
-      "score": 0.4958,
-      "game_pk": 823529,
-      "venue": "Yankee Stadium",
+      "opposing_team": "Philadelphia Phillies",
+      "fip": 2.645,
+      "era_proxy": 3.07,
+      "k_minus_bb_pct": 0.2168,
+      "k_per_9": 9.962,
+      "ip_total": 96.7,
+      "score": 0.521,
+      "game_pk": 823444,
+      "venue": "Citizens Bank Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     }
   ]
