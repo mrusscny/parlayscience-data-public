@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:31:54 EDT",
+  "generated_at_et": "2026-07-01 11:51:06 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -215,27 +215,6 @@
     },
     {
       "rank": 11,
-      "pitcher_mlbam_id": 674841,
-      "pitcher_name": "Andrew Alvarez",
-      "pitcher_team": "Washington Nationals",
-      "next_start_date": "2026-07-01",
-      "opposing_team": "Boston Red Sox",
-      "fip": 2.745,
-      "era_proxy": 3.44,
-      "k_minus_bb_pct": 0.172,
-      "k_per_9": 10.309,
-      "ip_total": 36.7,
-      "score": 0.446,
-      "game_pk": 824740,
-      "venue": "Fenway Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 12,
       "pitcher_mlbam_id": 675660,
       "pitcher_name": "Shane Drohan",
       "pitcher_team": "Milwaukee Brewers",
@@ -256,7 +235,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "pitcher_mlbam_id": 663556,
       "pitcher_name": "Shane McClanahan",
       "pitcher_team": "Tampa Bay Rays",
@@ -277,7 +256,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "pitcher_mlbam_id": 668909,
       "pitcher_name": "Gavin Williams",
       "pitcher_team": "Cleveland Guardians",
@@ -298,7 +277,49 @@
       }
     },
     {
+      "rank": 14,
+      "pitcher_mlbam_id": 607074,
+      "pitcher_name": "Carlos Rod\u00f3n",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-07-04",
+      "opposing_team": "Minnesota Twins",
+      "fip": 3.381,
+      "era_proxy": 3.3,
+      "k_minus_bb_pct": 0.134,
+      "k_per_9": 10.101,
+      "ip_total": 46.3,
+      "score": 0.3655,
+      "game_pk": 823526,
+      "venue": "Yankee Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607074/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
       "rank": 15,
+      "pitcher_mlbam_id": 695418,
+      "pitcher_name": "Brad Lord",
+      "pitcher_team": "Washington Nationals",
+      "next_start_date": "2026-07-01",
+      "opposing_team": "Boston Red Sox",
+      "fip": 3.652,
+      "era_proxy": 3.31,
+      "k_minus_bb_pct": 0.1447,
+      "k_per_9": 8.448,
+      "ip_total": 54.3,
+      "score": 0.3539,
+      "game_pk": 824740,
+      "venue": "Fenway Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695418/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 16,
       "pitcher_mlbam_id": 669160,
       "pitcher_name": "Dustin May",
       "pitcher_team": "St. Louis Cardinals",
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 680732,
       "pitcher_name": "Sean Burke",
       "pitcher_team": "Chicago White Sox",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 701542,
       "pitcher_name": "Will Warren",
       "pitcher_team": "New York Yankees",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 669022,
       "pitcher_name": "MacKenzie Gore",
       "pitcher_team": "Texas Rangers",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 621111,
       "pitcher_name": "Walker Buehler",
       "pitcher_team": "San Diego Padres",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 700712,
-      "pitcher_name": "Walbert Ure\u00f1a",
-      "pitcher_team": "Los Angeles Angels",
-      "next_start_date": "2026-07-02",
-      "opposing_team": "Seattle Mariners",
-      "fip": 3.63,
-      "era_proxy": 3.14,
-      "k_minus_bb_pct": 0.1022,
-      "k_per_9": 8.665,
-      "ip_total": 71.7,
-      "score": 0.3234,
-      "game_pk": 823119,
-      "venue": "T-Mobile Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700712/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]

@@ -1,58 +1,10 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:31:45 EDT",
+  "generated_at_et": "2026-07-01 11:50:56 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
       "game_rank": 1,
-      "pitcher_role": "away",
-      "game_pk": 824740,
-      "pitcher_mlbam_id": 674841.0,
-      "pitcher_name": "Andrew Alvarez",
-      "pitcher_team": "Washington Nationals",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 0.0,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Boston Red Sox",
-      "opposing_team_nrfi_rate": 0.654,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.896,
-      "game_nrfi_score": 0.865,
-      "venue_name": "Fenway Park",
-      "game_time_et": "1:35 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "game_rank": 1,
-      "pitcher_role": "home",
-      "game_pk": 824740,
-      "pitcher_mlbam_id": 801139.0,
-      "pitcher_name": "Payton Tolle",
-      "pitcher_team": "Boston Red Sox",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 1.5,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Washington Nationals",
-      "opposing_team_nrfi_rate": 0.667,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.833,
-      "game_nrfi_score": 0.865,
-      "venue_name": "Fenway Park",
-      "game_time_et": "1:35 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "game_rank": 2,
       "pitcher_role": "away",
       "game_pk": 822791,
       "pitcher_mlbam_id": 642547.0,
@@ -76,7 +28,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 1,
       "pitcher_role": "home",
       "game_pk": 822791,
       "pitcher_mlbam_id": 680755.0,
@@ -100,7 +52,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 2,
       "pitcher_role": "away",
       "game_pk": 824660,
       "pitcher_mlbam_id": 621111.0,
@@ -124,7 +76,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 2,
       "pitcher_role": "home",
       "game_pk": 824660,
       "pitcher_mlbam_id": 607067.0,
@@ -148,7 +100,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 3,
       "pitcher_role": "away",
       "game_pk": 823446,
       "pitcher_mlbam_id": 694973.0,
@@ -172,7 +124,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 823446,
       "pitcher_mlbam_id": 554430.0,
@@ -193,6 +145,54 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "game_rank": 4,
+      "pitcher_role": "away",
+      "game_pk": 824740,
+      "pitcher_mlbam_id": 695418.0,
+      "pitcher_name": "Brad Lord",
+      "pitcher_team": "Washington Nationals",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 1.89,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Boston Red Sox",
+      "opposing_team_nrfi_rate": 0.654,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.512,
+      "game_nrfi_score": 0.672,
+      "venue_name": "Fenway Park",
+      "game_time_et": "1:35 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695418/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "game_rank": 4,
+      "pitcher_role": "home",
+      "game_pk": 824740,
+      "pitcher_mlbam_id": 801139.0,
+      "pitcher_name": "Payton Tolle",
+      "pitcher_team": "Boston Red Sox",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 1.5,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Washington Nationals",
+      "opposing_team_nrfi_rate": 0.667,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.833,
+      "game_nrfi_score": 0.672,
+      "venue_name": "Fenway Park",
+      "game_time_et": "1:35 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     },
     {

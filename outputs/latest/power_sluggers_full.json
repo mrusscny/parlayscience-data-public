@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:29:10 EDT",
+  "generated_at_et": "2026-07-01 11:48:31 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -30,25 +30,27 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 695657,
-      "player_name": "Colson Montgomery",
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
+      "opposing_pitcher": "Dean Kremer",
+      "opposing_pitcher_id": 665152.0,
       "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 14.7,
-      "fb_pct": 48.98,
-      "avg_exit_velo": 89.8,
-      "hard_hit_pct": 44.7,
-      "pitcher_hr_per_9": null,
+      "barrel_pct": 14.3,
+      "fb_pct": 37.5,
+      "avg_exit_velo": 90.2,
+      "hard_hit_pct": 45.9,
+      "pitcher_hr_per_9": 3.273,
       "threshold_count": 2,
       "threshold_label": "2/3",
-      "base_score": 0.916,
+      "base_score": 0.909,
       "threshold_bonus": 0.05,
-      "final_score": 0.966,
+      "final_score": 0.959,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {
@@ -249,29 +251,6 @@
     },
     {
       "rank": 11,
-      "mlbam_id": 678246,
-      "player_name": "Miguel Vargas",
-      "team": "Chicago White Sox",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 14.3,
-      "fb_pct": 37.5,
-      "avg_exit_velo": 90.2,
-      "hard_hit_pct": 45.9,
-      "pitcher_hr_per_9": null,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.849,
-      "threshold_bonus": 0.05,
-      "final_score": 0.899,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 12,
       "mlbam_id": 682626,
       "player_name": "Francisco Alvarez",
       "team": "New York Mets",
@@ -296,7 +275,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -321,7 +300,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -346,7 +325,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -371,7 +350,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 672960,
       "player_name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
@@ -396,7 +375,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 682985,
       "player_name": "Riley Greene",
       "team": "Detroit Tigers",
@@ -421,7 +400,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 694192,
       "player_name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
@@ -446,7 +425,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -471,7 +450,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 664023,
       "player_name": "Ian Happ",
       "team": "Chicago Cubs",
@@ -493,6 +472,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 665742,
+      "player_name": "Juan Soto",
+      "team": "New York Mets",
+      "opposing_pitcher": "Braydon Fisher",
+      "opposing_pitcher_id": 680755.0,
+      "venue_name": "Rogers Centre",
+      "barrel_pct": 14.2,
+      "fb_pct": 26.67,
+      "avg_exit_velo": 93.2,
+      "hard_hit_pct": 50.5,
+      "pitcher_hr_per_9": 1.227,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.8,
+      "threshold_bonus": 0.05,
+      "final_score": 0.85,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680755/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
       }
     }
   ]

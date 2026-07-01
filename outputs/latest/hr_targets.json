@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:28:30 EDT",
+  "generated_at_et": "2026-07-01 11:48:21 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -47,9 +47,9 @@
       "hard_hit_pct": 47.5,
       "fb_pct": 42.5,
       "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.973,
+      "weather_score": 0.991,
       "park_factor": 1.39,
-      "composite_score": 0.883,
+      "composite_score": 0.885,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683357/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -59,6 +59,33 @@
     },
     {
       "rank": 3,
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
+      "team": "Chicago White Sox",
+      "bat_side": "R",
+      "opposing_pitcher": "Dean Kremer",
+      "opposing_pitcher_id": 665152.0,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 14.3,
+      "iso_overall": 0.244,
+      "iso_split": 0.208,
+      "iso_blended": 0.222,
+      "hard_hit_pct": 45.9,
+      "fb_pct": 37.5,
+      "pitcher_hr_per_9": 3.273,
+      "weather_score": 1.0,
+      "park_factor": 0.96,
+      "composite_score": 0.87,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 4,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -74,39 +101,14 @@
       "hard_hit_pct": 46.9,
       "fb_pct": 36.23,
       "pitcher_hr_per_9": 0.742,
-      "weather_score": 0.973,
+      "weather_score": 0.991,
       "park_factor": 1.39,
-      "composite_score": 0.844,
+      "composite_score": 0.846,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676974/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "mlbam_id": 695657,
-      "player_name": "Colson Montgomery",
-      "team": "Chicago White Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 14.7,
-      "iso_overall": 0.261,
-      "iso_split": null,
-      "iso_blended": 0.261,
-      "hard_hit_pct": 44.7,
-      "fb_pct": 48.98,
-      "pitcher_hr_per_9": null,
-      "weather_score": 1.0,
-      "park_factor": 0.96,
-      "composite_score": 0.843,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     },
     {
@@ -153,9 +155,9 @@
       "hard_hit_pct": 48.0,
       "fb_pct": 40.38,
       "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.973,
+      "weather_score": 0.991,
       "park_factor": 1.39,
-      "composite_score": 0.823,
+      "composite_score": 0.825,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681715/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -165,6 +167,33 @@
     },
     {
       "rank": 7,
+      "mlbam_id": 669065,
+      "player_name": "Kyle Stowers",
+      "team": "Miami Marlins",
+      "bat_side": "L",
+      "opposing_pitcher": "Kyle Freeland",
+      "opposing_pitcher_id": 607536.0,
+      "pitcher_throws": "L",
+      "venue_name": "Coors Field",
+      "barrel_pct": 11.3,
+      "iso_overall": 0.2,
+      "iso_split": 0.156,
+      "iso_blended": 0.174,
+      "hard_hit_pct": 52.7,
+      "fb_pct": 29.31,
+      "pitcher_hr_per_9": 2.0,
+      "weather_score": 0.991,
+      "park_factor": 1.39,
+      "composite_score": 0.823,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 8,
       "mlbam_id": 664040,
       "player_name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
@@ -188,33 +217,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "mlbam_id": 669065,
-      "player_name": "Kyle Stowers",
-      "team": "Miami Marlins",
-      "bat_side": "L",
-      "opposing_pitcher": "Kyle Freeland",
-      "opposing_pitcher_id": 607536.0,
-      "pitcher_throws": "L",
-      "venue_name": "Coors Field",
-      "barrel_pct": 11.3,
-      "iso_overall": 0.2,
-      "iso_split": 0.156,
-      "iso_blended": 0.174,
-      "hard_hit_pct": 52.7,
-      "fb_pct": 29.31,
-      "pitcher_hr_per_9": 2.0,
-      "weather_score": 0.973,
-      "park_factor": 1.39,
-      "composite_score": 0.821,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]

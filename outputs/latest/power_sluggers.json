@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:29:08 EDT",
+  "generated_at_et": "2026-07-01 11:48:29 EDT",
   "concept": "power_sluggers",
   "items": [
     {
@@ -30,25 +30,27 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 695657,
-      "player_name": "Colson Montgomery",
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
+      "opposing_pitcher": "Dean Kremer",
+      "opposing_pitcher_id": 665152.0,
       "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 14.7,
-      "fb_pct": 48.98,
-      "avg_exit_velo": 89.8,
-      "hard_hit_pct": 44.7,
-      "pitcher_hr_per_9": null,
+      "barrel_pct": 14.3,
+      "fb_pct": 37.5,
+      "avg_exit_velo": 90.2,
+      "hard_hit_pct": 45.9,
+      "pitcher_hr_per_9": 3.273,
       "threshold_count": 2,
       "threshold_label": "2/3",
-      "base_score": 0.916,
+      "base_score": 0.909,
       "threshold_bonus": 0.05,
-      "final_score": 0.966,
+      "final_score": 0.959,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {

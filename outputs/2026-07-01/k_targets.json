@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:31:49 EDT",
+  "generated_at_et": "2026-07-01 11:51:00 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -85,26 +85,6 @@
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 674841,
-      "pitcher_name": "Andrew Alvarez",
-      "pitcher_team": "Washington Nationals",
-      "opposing_team": "Boston Red Sox",
-      "pitcher_k_per_9": 10.309,
-      "pitcher_k_minus_bb_pct": 0.172,
-      "opp_k_rate": 0.218,
-      "opp_games_sample": 26,
-      "score": 0.6982,
-      "game_pk": 824740,
-      "game_time_local": "1:35 PM ET",
-      "venue": "Fenway Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 6,
       "pitcher_mlbam_id": 671737,
       "pitcher_name": "Taj Bradley",
       "pitcher_team": "Minnesota Twins",
@@ -124,7 +104,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "pitcher_mlbam_id": 680755,
       "pitcher_name": "Braydon Fisher",
       "pitcher_team": "Toronto Blue Jays",
@@ -144,7 +124,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "pitcher_mlbam_id": 702273,
       "pitcher_name": "Noah Schultz",
       "pitcher_team": "Chicago White Sox",
@@ -161,6 +141,26 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702273/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "pitcher_mlbam_id": 676974,
+      "pitcher_name": "Max Meyer",
+      "pitcher_team": "Miami Marlins",
+      "opposing_team": "Colorado Rockies",
+      "pitcher_k_per_9": 9.928,
+      "pitcher_k_minus_bb_pct": 0.1771,
+      "opp_k_rate": 0.2165,
+      "opp_games_sample": 26,
+      "score": 0.6565,
+      "game_pk": 824337,
+      "game_time_local": "8:40 PM ET",
+      "venue": "Coors Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676974/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]

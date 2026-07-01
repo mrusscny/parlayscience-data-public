@@ -1,6 +1,6 @@
 {
   "date": "2026-07-01",
-  "generated_at_et": "2026-07-01 08:31:51 EDT",
+  "generated_at_et": "2026-07-01 11:51:02 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -85,26 +85,6 @@
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 674841,
-      "pitcher_name": "Andrew Alvarez",
-      "pitcher_team": "Washington Nationals",
-      "opposing_team": "Boston Red Sox",
-      "pitcher_k_per_9": 10.309,
-      "pitcher_k_minus_bb_pct": 0.172,
-      "opp_k_rate": 0.218,
-      "opp_games_sample": 26,
-      "score": 0.6982,
-      "game_pk": 824740,
-      "game_time_local": "1:35 PM ET",
-      "venue": "Fenway Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 6,
       "pitcher_mlbam_id": 671737,
       "pitcher_name": "Taj Bradley",
       "pitcher_team": "Minnesota Twins",
@@ -124,7 +104,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "pitcher_mlbam_id": 680755,
       "pitcher_name": "Braydon Fisher",
       "pitcher_team": "Toronto Blue Jays",
@@ -144,7 +124,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "pitcher_mlbam_id": 702273,
       "pitcher_name": "Noah Schultz",
       "pitcher_team": "Chicago White Sox",
@@ -164,7 +144,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "pitcher_mlbam_id": 676974,
       "pitcher_name": "Max Meyer",
       "pitcher_team": "Miami Marlins",
@@ -184,7 +164,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "pitcher_mlbam_id": 701542,
       "pitcher_name": "Will Warren",
       "pitcher_team": "New York Yankees",
@@ -204,7 +184,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -224,7 +204,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "pitcher_mlbam_id": 642547,
       "pitcher_name": "Freddy Peralta",
       "pitcher_team": "New York Mets",
@@ -244,7 +224,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "pitcher_mlbam_id": 676282,
       "pitcher_name": "Joey Cantillo",
       "pitcher_team": "Cleveland Guardians",
@@ -261,6 +241,26 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676282/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 13,
+      "pitcher_mlbam_id": 695418,
+      "pitcher_name": "Brad Lord",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Boston Red Sox",
+      "pitcher_k_per_9": 8.448,
+      "pitcher_k_minus_bb_pct": 0.1447,
+      "opp_k_rate": 0.218,
+      "opp_games_sample": 26,
+      "score": 0.5345,
+      "game_pk": 824740,
+      "game_time_local": "1:35 PM ET",
+      "venue": "Fenway Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695418/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
       }
     },
     {
