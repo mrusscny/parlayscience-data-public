@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at_et": "2026-07-02 08:02:33 EDT",
+  "generated_at_et": "2026-07-02 11:23:05 EDT",
   "concept": "hr_targets_full",
   "items": [
     {
@@ -47,9 +47,9 @@
       "hard_hit_pct": 47.2,
       "fb_pct": 41.46,
       "pitcher_hr_per_9": 1.433,
-      "weather_score": 0.977,
+      "weather_score": 0.902,
       "park_factor": 1.39,
-      "composite_score": 0.896,
+      "composite_score": 0.889,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683357/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -86,33 +86,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 695657,
-      "player_name": "Colson Montgomery",
-      "team": "Chicago White Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "Slade Cecconi",
-      "opposing_pitcher_id": 677944,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "barrel_pct": 14.7,
-      "iso_overall": 0.261,
-      "iso_split": 0.239,
-      "iso_blended": 0.248,
-      "hard_hit_pct": 44.7,
-      "fb_pct": 51.06,
-      "pitcher_hr_per_9": 1.196,
-      "weather_score": 0.997,
-      "park_factor": 1.04,
-      "composite_score": 0.866,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677944/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -128,9 +101,9 @@
       "hard_hit_pct": 47.2,
       "fb_pct": 36.76,
       "pitcher_hr_per_9": 0.844,
-      "weather_score": 0.977,
+      "weather_score": 0.902,
       "park_factor": 1.39,
-      "composite_score": 0.856,
+      "composite_score": 0.848,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 665052,
       "player_name": "Griffin Conine",
       "team": "Miami Marlins",
@@ -155,9 +128,9 @@
       "hard_hit_pct": 54.3,
       "fb_pct": 10.53,
       "pitcher_hr_per_9": 1.433,
-      "weather_score": 0.977,
+      "weather_score": 0.902,
       "park_factor": 1.39,
-      "composite_score": 0.848,
+      "composite_score": 0.841,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665052/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 666160,
       "player_name": "Mickey Moniak",
       "team": "Colorado Rockies",
@@ -182,9 +155,9 @@
       "hard_hit_pct": 41.2,
       "fb_pct": 45.0,
       "pitcher_hr_per_9": 0.844,
-      "weather_score": 0.977,
+      "weather_score": 0.902,
       "park_factor": 1.39,
-      "composite_score": 0.846,
+      "composite_score": 0.839,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666160/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 699013,
       "player_name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
@@ -220,34 +193,34 @@
       }
     },
     {
-      "rank": 9,
-      "mlbam_id": 678246,
-      "player_name": "Miguel Vargas",
+      "rank": 8,
+      "mlbam_id": 695657,
+      "player_name": "Colson Montgomery",
       "team": "Chicago White Sox",
-      "bat_side": "R",
+      "bat_side": "L",
       "opposing_pitcher": "Slade Cecconi",
       "opposing_pitcher_id": 677944,
       "pitcher_throws": "R",
       "venue_name": "Progressive Field",
-      "barrel_pct": 14.5,
-      "iso_overall": 0.241,
-      "iso_split": 0.204,
-      "iso_blended": 0.219,
-      "hard_hit_pct": 46.0,
-      "fb_pct": 36.71,
+      "barrel_pct": 14.7,
+      "iso_overall": 0.261,
+      "iso_split": 0.239,
+      "iso_blended": 0.248,
+      "hard_hit_pct": 44.7,
+      "fb_pct": 51.06,
       "pitcher_hr_per_9": 1.196,
-      "weather_score": 0.997,
+      "weather_score": 0.5,
       "park_factor": 1.04,
-      "composite_score": 0.812,
+      "composite_score": 0.816,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677944/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 691406,
       "player_name": "Junior Caminero",
       "team": "Tampa Bay Rays",
@@ -274,7 +247,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -301,7 +274,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 681481,
       "player_name": "Kerry Carpenter",
       "team": "Detroit Tigers",
@@ -328,7 +301,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 664040,
       "player_name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
@@ -355,7 +328,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 695506,
       "player_name": "Jac Caglianone",
       "team": "Kansas City Royals",
@@ -382,7 +355,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 669016,
       "player_name": "Brandon Marsh",
       "team": "Philadelphia Phillies",
@@ -409,34 +382,7 @@
       }
     },
     {
-      "rank": 16,
-      "mlbam_id": 545341,
-      "player_name": "Randal Grichuk",
-      "team": "Chicago White Sox",
-      "bat_side": "R",
-      "opposing_pitcher": "Slade Cecconi",
-      "opposing_pitcher_id": 677944,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "barrel_pct": 14.4,
-      "iso_overall": 0.299,
-      "iso_split": 0.192,
-      "iso_blended": 0.235,
-      "hard_hit_pct": 47.8,
-      "fb_pct": 20.0,
-      "pitcher_hr_per_9": 1.196,
-      "weather_score": 0.997,
-      "park_factor": 1.04,
-      "composite_score": 0.789,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677944/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 693307,
       "player_name": "Dillon Dingler",
       "team": "Detroit Tigers",
@@ -463,34 +409,7 @@
       }
     },
     {
-      "rank": 18,
-      "mlbam_id": 669065,
-      "player_name": "Kyle Stowers",
-      "team": "Miami Marlins",
-      "bat_side": "L",
-      "opposing_pitcher": "Michael Lorenzen",
-      "opposing_pitcher_id": 547179,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 11.3,
-      "iso_overall": 0.196,
-      "iso_split": 0.21,
-      "iso_blended": 0.204,
-      "hard_hit_pct": 53.0,
-      "fb_pct": 26.79,
-      "pitcher_hr_per_9": 1.433,
-      "weather_score": 0.977,
-      "park_factor": 1.39,
-      "composite_score": 0.784,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547179/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 19,
+      "rank": 16,
       "mlbam_id": 660271,
       "player_name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
@@ -517,7 +436,34 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 17,
+      "mlbam_id": 669065,
+      "player_name": "Kyle Stowers",
+      "team": "Miami Marlins",
+      "bat_side": "L",
+      "opposing_pitcher": "Michael Lorenzen",
+      "opposing_pitcher_id": 547179,
+      "pitcher_throws": "R",
+      "venue_name": "Coors Field",
+      "barrel_pct": 11.3,
+      "iso_overall": 0.196,
+      "iso_split": 0.21,
+      "iso_blended": 0.204,
+      "hard_hit_pct": 53.0,
+      "fb_pct": 26.79,
+      "pitcher_hr_per_9": 1.433,
+      "weather_score": 0.902,
+      "park_factor": 1.39,
+      "composite_score": 0.777,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547179/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 18,
       "mlbam_id": 571970,
       "player_name": "Max Muncy",
       "team": "Los Angeles Dodgers",
@@ -541,6 +487,60 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681190/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
+      "team": "Chicago White Sox",
+      "bat_side": "R",
+      "opposing_pitcher": "Slade Cecconi",
+      "opposing_pitcher_id": 677944,
+      "pitcher_throws": "R",
+      "venue_name": "Progressive Field",
+      "barrel_pct": 14.5,
+      "iso_overall": 0.241,
+      "iso_split": 0.204,
+      "iso_blended": 0.219,
+      "hard_hit_pct": 46.0,
+      "fb_pct": 36.71,
+      "pitcher_hr_per_9": 1.196,
+      "weather_score": 0.5,
+      "park_factor": 1.04,
+      "composite_score": 0.762,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677944/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 682985,
+      "player_name": "Riley Greene",
+      "team": "Detroit Tigers",
+      "bat_side": "L",
+      "opposing_pitcher": "Nathan Eovaldi",
+      "opposing_pitcher_id": 543135,
+      "pitcher_throws": "R",
+      "venue_name": "Globe Life Field",
+      "barrel_pct": 13.8,
+      "iso_overall": 0.161,
+      "iso_split": 0.175,
+      "iso_blended": 0.169,
+      "hard_hit_pct": 51.4,
+      "fb_pct": 37.68,
+      "pitcher_hr_per_9": 1.525,
+      "weather_score": 0.5,
+      "park_factor": 1.1,
+      "composite_score": 0.761,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543135/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]

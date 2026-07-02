@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at_et": "2026-07-02 08:04:41 EDT",
+  "generated_at_et": "2026-07-02 11:24:52 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -110,6 +110,27 @@
     },
     {
       "rank": 6,
+      "pitcher_mlbam_id": 690986,
+      "pitcher_name": "Kyle Harrison",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-07-03",
+      "opposing_team": "Arizona Diamondbacks",
+      "fip": 2.866,
+      "era_proxy": 2.57,
+      "k_minus_bb_pct": 0.2492,
+      "k_per_9": 11.221,
+      "ip_total": 77.0,
+      "score": 0.5657,
+      "game_pk": 825062,
+      "venue": "Chase Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 7,
       "pitcher_mlbam_id": 663554,
       "pitcher_name": "Casey Mize",
       "pitcher_team": "Detroit Tigers",
@@ -130,7 +151,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 695505,
       "pitcher_name": "Chase Burns",
       "pitcher_team": "Cincinnati Reds",
@@ -151,7 +172,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 695611,
       "pitcher_name": "Gage Jump",
       "pitcher_team": "Athletics",
@@ -172,7 +193,28 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "pitcher_mlbam_id": 605540,
+      "pitcher_name": "Brandon Woodruff",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-07-04",
+      "opposing_team": "Arizona Diamondbacks",
+      "fip": 3.028,
+      "era_proxy": 2.59,
+      "k_minus_bb_pct": 0.2,
+      "k_per_9": 8.856,
+      "ip_total": 41.7,
+      "score": 0.5024,
+      "game_pk": 825063,
+      "venue": "Chase Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605540/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 11,
       "pitcher_mlbam_id": 624133,
       "pitcher_name": "Ranger Suarez",
       "pitcher_team": "Boston Red Sox",
@@ -193,7 +235,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "pitcher_mlbam_id": 657746,
       "pitcher_name": "Joe Ryan",
       "pitcher_team": "Minnesota Twins",
@@ -214,7 +256,28 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
+      "pitcher_mlbam_id": 677952,
+      "pitcher_name": "Braxton Ashcraft",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-07-04",
+      "opposing_team": "Washington Nationals",
+      "fip": 2.925,
+      "era_proxy": 3.33,
+      "k_minus_bb_pct": 0.2212,
+      "k_per_9": 10.081,
+      "ip_total": 102.7,
+      "score": 0.4874,
+      "game_pk": 822716,
+      "venue": "Nationals Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "rank": 14,
       "pitcher_mlbam_id": 800048,
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
@@ -235,7 +298,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 15,
       "pitcher_mlbam_id": 663436,
       "pitcher_name": "Davis Martin",
       "pitcher_team": "Chicago White Sox",
@@ -256,7 +319,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 16,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -277,7 +340,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 17,
       "pitcher_mlbam_id": 543243,
       "pitcher_name": "Sonny Gray",
       "pitcher_team": "Boston Red Sox",
@@ -298,7 +361,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 18,
       "pitcher_mlbam_id": 690997,
       "pitcher_name": "Nolan McLean",
       "pitcher_team": "New York Mets",
@@ -319,7 +382,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 19,
       "pitcher_mlbam_id": 687562,
       "pitcher_name": "Jake Bennett",
       "pitcher_team": "Boston Red Sox",
@@ -340,7 +403,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 20,
       "pitcher_mlbam_id": 656492,
       "pitcher_name": "Foster Griffin",
       "pitcher_team": "Washington Nationals",
@@ -358,69 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "pitcher_mlbam_id": 681035,
-      "pitcher_name": "Christian Scott",
-      "pitcher_team": "New York Mets",
-      "next_start_date": "2026-07-03",
-      "opposing_team": "Atlanta Braves",
-      "fip": 3.589,
-      "era_proxy": 3.2,
-      "k_minus_bb_pct": 0.1633,
-      "k_per_9": 10.6,
-      "ip_total": 45.0,
-      "score": 0.3842,
-      "game_pk": 824904,
-      "venue": "Truist Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681035/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "pitcher_mlbam_id": 668909,
-      "pitcher_name": "Gavin Williams",
-      "pitcher_team": "Cleveland Guardians",
-      "next_start_date": "2026-07-03",
-      "opposing_team": "Chicago White Sox",
-      "fip": 3.72,
-      "era_proxy": 3.81,
-      "k_minus_bb_pct": 0.2005,
-      "k_per_9": 10.357,
-      "ip_total": 101.7,
-      "score": 0.3743,
-      "game_pk": 824417,
-      "venue": "Progressive Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 607074,
-      "pitcher_name": "Carlos Rod\u00f3n",
-      "pitcher_team": "New York Yankees",
-      "next_start_date": "2026-07-04",
-      "opposing_team": "Minnesota Twins",
-      "fip": 3.381,
-      "era_proxy": 3.3,
-      "k_minus_bb_pct": 0.134,
-      "k_per_9": 10.101,
-      "ip_total": 46.3,
-      "score": 0.3655,
-      "game_pk": 823526,
-      "venue": "Yankee Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607074/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]
