@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generated_at_et": "2026-07-04 07:23:46 EDT",
+  "generated_at_et": "2026-07-04 10:47:07 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -294,6 +294,54 @@
     {
       "game_rank": 7,
       "pitcher_role": "away",
+      "game_pk": 822716,
+      "pitcher_mlbam_id": 677952,
+      "pitcher_name": "Braxton Ashcraft",
+      "pitcher_team": "Pittsburgh Pirates",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 2.65,
+      "pitcher_l10_nrfi_rate": 0.4,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Washington Nationals",
+      "opposing_team_nrfi_rate": 0.577,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.575,
+      "game_nrfi_score": 0.607,
+      "venue_name": "Nationals Park",
+      "game_time_et": "11:05 AM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "game_rank": 7,
+      "pitcher_role": "home",
+      "game_pk": 822716,
+      "pitcher_mlbam_id": 687223,
+      "pitcher_name": "Carson Palmquist",
+      "pitcher_team": "Washington Nationals",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 6.14,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 1,
+      "opposing_team": "Pittsburgh Pirates",
+      "opposing_team_nrfi_rate": 0.704,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.638,
+      "game_nrfi_score": 0.607,
+      "venue_name": "Nationals Park",
+      "game_time_et": "11:05 AM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687223/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "game_rank": 8,
+      "pitcher_role": "away",
       "game_pk": 824983,
       "pitcher_mlbam_id": 645261,
       "pitcher_name": "Sandy Alcantara",
@@ -316,7 +364,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 8,
       "pitcher_role": "home",
       "game_pk": 824983,
       "pitcher_mlbam_id": 650644,
@@ -340,7 +388,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 9,
       "pitcher_role": "away",
       "game_pk": 824334,
       "pitcher_mlbam_id": 592662,
@@ -364,7 +412,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 9,
       "pitcher_role": "home",
       "game_pk": 824334,
       "pitcher_mlbam_id": 608372,
@@ -385,54 +433,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "game_rank": 9,
-      "pitcher_role": "away",
-      "game_pk": 822716,
-      "pitcher_mlbam_id": 677952,
-      "pitcher_name": "Braxton Ashcraft",
-      "pitcher_team": "Pittsburgh Pirates",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 2.65,
-      "pitcher_l10_nrfi_rate": 0.4,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Washington Nationals",
-      "opposing_team_nrfi_rate": 0.577,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.575,
-      "game_nrfi_score": 0.585,
-      "venue_name": "Nationals Park",
-      "game_time_et": "11:05 AM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "game_rank": 9,
-      "pitcher_role": "home",
-      "game_pk": 822716,
-      "pitcher_mlbam_id": 641793,
-      "pitcher_name": "Zack Littell",
-      "pitcher_team": "Washington Nationals",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 3.75,
-      "pitcher_l10_nrfi_rate": 0.5,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "Pittsburgh Pirates",
-      "opposing_team_nrfi_rate": 0.704,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.594,
-      "game_nrfi_score": 0.585,
-      "venue_name": "Nationals Park",
-      "game_time_et": "11:05 AM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641793/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     },
     {

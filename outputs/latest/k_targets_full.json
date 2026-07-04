@@ -1,6 +1,6 @@
 {
   "date": "2026-07-04",
-  "generated_at_et": "2026-07-04 07:23:52 EDT",
+  "generated_at_et": "2026-07-04 10:47:12 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -345,26 +345,6 @@
     },
     {
       "rank": 18,
-      "pitcher_mlbam_id": 641793,
-      "pitcher_name": "Zack Littell",
-      "pitcher_team": "Washington Nationals",
-      "opposing_team": "Pittsburgh Pirates",
-      "pitcher_k_per_9": 5.513,
-      "pitcher_k_minus_bb_pct": 0.069,
-      "opp_k_rate": 0.2502,
-      "opp_games_sample": 27,
-      "score": 0.4737,
-      "game_pk": 822716,
-      "game_time_local": "11:05 AM ET",
-      "venue": "Nationals Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641793/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
-      }
-    },
-    {
-      "rank": 19,
       "pitcher_mlbam_id": 681517,
       "pitcher_name": "Kyle Leahy",
       "pitcher_team": "St. Louis Cardinals",
@@ -384,7 +364,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "pitcher_mlbam_id": 592662,
       "pitcher_name": "Robbie Ray",
       "pitcher_team": "San Francisco Giants",
@@ -401,6 +381,26 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592662/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "pitcher_mlbam_id": 650644,
+      "pitcher_name": "Aaron Civale",
+      "pitcher_team": "Athletics",
+      "opposing_team": "Miami Marlins",
+      "pitcher_k_per_9": 6.384,
+      "pitcher_k_minus_bb_pct": 0.0915,
+      "opp_k_rate": 0.2149,
+      "opp_games_sample": 26,
+      "score": 0.3482,
+      "game_pk": 824983,
+      "game_time_local": "9:40 PM ET",
+      "venue": "Sutter Health Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650644/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
       }
     }
   ]
