@@ -1,6 +1,6 @@
 {
   "date": "2026-07-05",
-  "generated_at_et": "2026-07-05 07:24:31 EDT",
+  "generated_at_et": "2026-07-05 10:49:54 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -86,6 +86,33 @@
     },
     {
       "rank": 4,
+      "mlbam_id": 621439,
+      "player_name": "Byron Buxton",
+      "team": "Minnesota Twins",
+      "bat_side": "R",
+      "opposing_pitcher": "Ryan Weathers",
+      "opposing_pitcher_id": 677960.0,
+      "pitcher_throws": "L",
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 18.8,
+      "iso_overall": 0.305,
+      "iso_split": 0.19,
+      "iso_blended": 0.236,
+      "hard_hit_pct": 47.3,
+      "fb_pct": 33.87,
+      "pitcher_hr_per_9": 1.63,
+      "weather_score": 0.881,
+      "park_factor": 1.18,
+      "composite_score": 0.902,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677960/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 5,
       "mlbam_id": 606992,
       "player_name": "Eric Haase",
       "team": "San Francisco Giants",
@@ -112,7 +139,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mlbam_id": 646240,
       "player_name": "Rafael Devers",
       "team": "San Francisco Giants",
@@ -136,33 +163,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 6,
-      "mlbam_id": 621439,
-      "player_name": "Byron Buxton",
-      "team": "Minnesota Twins",
-      "bat_side": "R",
-      "opposing_pitcher": "Ryan Weathers",
-      "opposing_pitcher_id": 677960.0,
-      "pitcher_throws": "L",
-      "venue_name": "Yankee Stadium",
-      "barrel_pct": 18.8,
-      "iso_overall": 0.305,
-      "iso_split": 0.19,
-      "iso_blended": 0.236,
-      "hard_hit_pct": 47.3,
-      "fb_pct": 33.87,
-      "pitcher_hr_per_9": 1.63,
-      "weather_score": 0.5,
-      "park_factor": 1.18,
-      "composite_score": 0.864,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621439/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677960/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     },
     {
@@ -209,9 +209,9 @@
       "hard_hit_pct": 58.9,
       "fb_pct": 20.97,
       "pitcher_hr_per_9": 2.012,
-      "weather_score": 0.973,
+      "weather_score": 0.99,
       "park_factor": 1.03,
-      "composite_score": 0.856,
+      "composite_score": 0.857,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
