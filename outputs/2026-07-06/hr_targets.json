@@ -1,6 +1,6 @@
 {
   "date": "2026-07-06",
-  "generated_at_et": "2026-07-06 09:38:25 EDT",
+  "generated_at_et": "2026-07-06 12:27:31 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 53.6,
       "fb_pct": 43.42,
       "pitcher_hr_per_9": 1.921,
-      "weather_score": 0.943,
+      "weather_score": 0.601,
       "park_factor": 1.0,
-      "composite_score": 0.916,
+      "composite_score": 0.882,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -32,33 +32,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 695578,
-      "player_name": "James Wood",
-      "team": "Washington Nationals",
-      "bat_side": "L",
-      "opposing_pitcher": "Mike Burrows",
-      "opposing_pitcher_id": 681347,
-      "pitcher_throws": "R",
-      "venue_name": "Nationals Park",
-      "barrel_pct": 22.6,
-      "iso_overall": 0.267,
-      "iso_split": 0.281,
-      "iso_blended": 0.275,
-      "hard_hit_pct": 60.2,
-      "fb_pct": 22.22,
-      "pitcher_hr_per_9": 1.893,
-      "weather_score": 0.943,
-      "park_factor": 1.0,
-      "composite_score": 0.871,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695578/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -82,6 +55,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641778/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 695578,
+      "player_name": "James Wood",
+      "team": "Washington Nationals",
+      "bat_side": "L",
+      "opposing_pitcher": "Mike Burrows",
+      "opposing_pitcher_id": 681347,
+      "pitcher_throws": "R",
+      "venue_name": "Nationals Park",
+      "barrel_pct": 22.6,
+      "iso_overall": 0.267,
+      "iso_split": 0.281,
+      "iso_blended": 0.275,
+      "hard_hit_pct": 60.2,
+      "fb_pct": 22.22,
+      "pitcher_hr_per_9": 1.893,
+      "weather_score": 0.601,
+      "park_factor": 1.0,
+      "composite_score": 0.837,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695578/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     },
     {
@@ -155,7 +155,7 @@
       "hard_hit_pct": 53.9,
       "fb_pct": 30.36,
       "pitcher_hr_per_9": 1.076,
-      "weather_score": 0.98,
+      "weather_score": 0.982,
       "park_factor": 1.03,
       "composite_score": 0.818,
       "image_urls": {
@@ -194,29 +194,29 @@
     },
     {
       "rank": 8,
-      "mlbam_id": 671277,
-      "player_name": "Luis Garc\u00eda Jr.",
-      "team": "Washington Nationals",
+      "mlbam_id": 621566,
+      "player_name": "Matt Olson",
+      "team": "Atlanta Braves",
       "bat_side": "L",
-      "opposing_pitcher": "Mike Burrows",
-      "opposing_pitcher_id": 681347,
+      "opposing_pitcher": "Freddy Peralta",
+      "opposing_pitcher_id": 642547,
       "pitcher_throws": "R",
-      "venue_name": "Nationals Park",
-      "barrel_pct": 10.5,
-      "iso_overall": 0.279,
-      "iso_split": 0.292,
-      "iso_blended": 0.287,
-      "hard_hit_pct": 46.6,
-      "fb_pct": 27.4,
-      "pitcher_hr_per_9": 1.893,
-      "weather_score": 0.943,
-      "park_factor": 1.0,
-      "composite_score": 0.791,
+      "venue_name": "Truist Park",
+      "barrel_pct": 13.6,
+      "iso_overall": 0.26,
+      "iso_split": 0.278,
+      "iso_blended": 0.271,
+      "hard_hit_pct": 51.4,
+      "fb_pct": 33.82,
+      "pitcher_hr_per_9": 1.227,
+      "weather_score": 0.8,
+      "park_factor": 1.01,
+      "composite_score": 0.788,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681347/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
     }
   ]
