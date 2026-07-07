@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at_et": "2026-07-07 08:25:58 EDT",
+  "generated_at_et": "2026-07-07 11:49:46 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -47,9 +47,9 @@
       "hard_hit_pct": 60.1,
       "fb_pct": 23.29,
       "pitcher_hr_per_9": 1.49,
-      "weather_score": 0.814,
+      "weather_score": 0.855,
       "park_factor": 1.0,
-      "composite_score": 0.82,
+      "composite_score": 0.824,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695578/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -59,6 +59,33 @@
     },
     {
       "rank": 3,
+      "mlbam_id": 691023,
+      "player_name": "Jordan Walker",
+      "team": "St. Louis Cardinals",
+      "bat_side": "R",
+      "opposing_pitcher": "Robert Gasser",
+      "opposing_pitcher_id": 688107.0,
+      "pitcher_throws": "L",
+      "venue_name": "Busch Stadium",
+      "barrel_pct": 14.2,
+      "iso_overall": 0.236,
+      "iso_split": 0.268,
+      "iso_blended": 0.255,
+      "hard_hit_pct": 51.2,
+      "fb_pct": 21.13,
+      "pitcher_hr_per_9": 1.766,
+      "weather_score": 0.919,
+      "park_factor": 0.91,
+      "composite_score": 0.812,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 4,
       "mlbam_id": 687263,
       "player_name": "Zach Neto",
       "team": "Los Angeles Angels",
@@ -85,7 +112,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "mlbam_id": 695657,
       "player_name": "Colson Montgomery",
       "team": "Chicago White Sox",
@@ -112,7 +139,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -139,31 +166,6 @@
       }
     },
     {
-      "rank": 6,
-      "mlbam_id": 701398,
-      "player_name": "Sal Stewart",
-      "team": "Cincinnati Reds",
-      "bat_side": "R",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
-      "venue_name": "Great American Ball Park",
-      "barrel_pct": 14.3,
-      "iso_overall": 0.212,
-      "iso_split": null,
-      "iso_blended": 0.212,
-      "hard_hit_pct": 41.3,
-      "fb_pct": 27.27,
-      "pitcher_hr_per_9": null,
-      "weather_score": 0.5,
-      "park_factor": 1.24,
-      "composite_score": 0.78,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701398/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
       "rank": 7,
       "mlbam_id": 699013,
       "player_name": "Esmerlyn Valdez",
@@ -180,7 +182,7 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 35.14,
       "pitcher_hr_per_9": 1.227,
-      "weather_score": 0.75,
+      "weather_score": 0.742,
       "park_factor": 0.89,
       "composite_score": 0.779,
       "image_urls": {

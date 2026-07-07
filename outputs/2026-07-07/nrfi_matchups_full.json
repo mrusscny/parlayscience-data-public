@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at_et": "2026-07-07 08:29:28 EDT",
+  "generated_at_et": "2026-07-07 11:53:00 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -54,6 +54,54 @@
     {
       "game_rank": 2,
       "pitcher_role": "away",
+      "game_pk": 823203,
+      "pitcher_mlbam_id": 693686.0,
+      "pitcher_name": "Spencer Miles",
+      "pitcher_team": "Toronto Blue Jays",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 0.0,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "San Francisco Giants",
+      "opposing_team_nrfi_rate": 0.76,
+      "opposing_team_games_evaluated": 25,
+      "pitcher_composite_score": 0.628,
+      "game_nrfi_score": 0.635,
+      "venue_name": "Oracle Park",
+      "game_time_et": "9:45 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693686/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
+      }
+    },
+    {
+      "game_rank": 2,
+      "pitcher_role": "home",
+      "game_pk": 823203,
+      "pitcher_mlbam_id": 686790.0,
+      "pitcher_name": "Trevor McDonald",
+      "pitcher_team": "San Francisco Giants",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 4.09,
+      "pitcher_l10_nrfi_rate": 0.6,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Toronto Blue Jays",
+      "opposing_team_nrfi_rate": 0.808,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.641,
+      "game_nrfi_score": 0.635,
+      "venue_name": "Oracle Park",
+      "game_time_et": "9:45 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686790/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    },
+    {
+      "game_rank": 3,
+      "pitcher_role": "away",
       "game_pk": 822713,
       "pitcher_mlbam_id": 837227.0,
       "pitcher_name": "Tatsuya Imai",
@@ -76,7 +124,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 822713,
       "pitcher_mlbam_id": 674841.0,
@@ -100,7 +148,55 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 4,
+      "pitcher_role": "away",
+      "game_pk": 824495,
+      "pitcher_mlbam_id": 554430.0,
+      "pitcher_name": "Zack Wheeler",
+      "pitcher_team": "Philadelphia Phillies",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 1.38,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Cincinnati Reds",
+      "opposing_team_nrfi_rate": 0.692,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.846,
+      "game_nrfi_score": 0.605,
+      "venue_name": "Great American Ball Park",
+      "game_time_et": "7:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "game_rank": 4,
+      "pitcher_role": "home",
+      "game_pk": 824495,
+      "pitcher_mlbam_id": 671096.0,
+      "pitcher_name": "Andrew Abbott",
+      "pitcher_team": "Cincinnati Reds",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 7.5,
+      "pitcher_l10_nrfi_rate": 0.4,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Philadelphia Phillies",
+      "opposing_team_nrfi_rate": 0.593,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.364,
+      "game_nrfi_score": 0.605,
+      "venue_name": "Great American Ball Park",
+      "game_time_et": "7:10 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671096/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 824254,
       "pitcher_mlbam_id": 669372.0,
@@ -124,7 +220,7 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 824254,
       "pitcher_mlbam_id": 669373.0,
@@ -148,7 +244,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 822956,
       "pitcher_mlbam_id": 701542.0,
@@ -172,7 +268,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 822956,
       "pitcher_mlbam_id": 693855.0,
@@ -196,7 +292,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 7,
       "pitcher_role": "away",
       "game_pk": 823062,
       "pitcher_mlbam_id": 694819.0,
@@ -220,13 +316,13 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 7,
       "pitcher_role": "home",
       "game_pk": 823062,
-      "pitcher_mlbam_id": null,
-      "pitcher_name": "TBD",
+      "pitcher_mlbam_id": 694335.0,
+      "pitcher_name": "Matt Svanson",
       "pitcher_team": "St. Louis Cardinals",
-      "pitcher_throws": "U",
+      "pitcher_throws": "R",
       "pitcher_first_inning_era": 4.5,
       "pitcher_l10_nrfi_rate": 0.0,
       "pitcher_l10_starts_evaluated": 0,
@@ -238,11 +334,13 @@
       "venue_name": "Busch Stadium",
       "game_time_et": "2:15 PM ET",
       "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694335/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 8,
       "pitcher_role": "away",
       "game_pk": 822881,
       "pitcher_mlbam_id": 667755.0,
@@ -266,7 +364,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 8,
       "pitcher_role": "home",
       "game_pk": 822881,
       "pitcher_mlbam_id": 594798.0,
@@ -290,7 +388,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 9,
       "pitcher_role": "away",
       "game_pk": 823361,
       "pitcher_mlbam_id": 694462.0,
@@ -314,7 +412,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 9,
       "pitcher_role": "home",
       "game_pk": 823361,
       "pitcher_mlbam_id": 694973.0,
@@ -338,7 +436,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 10,
       "pitcher_role": "away",
       "game_pk": 823687,
       "pitcher_mlbam_id": 676282.0,
@@ -362,7 +460,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 10,
       "pitcher_role": "home",
       "game_pk": 823687,
       "pitcher_mlbam_id": 671737.0,
@@ -386,53 +484,7 @@
       }
     },
     {
-      "game_rank": 9,
-      "pitcher_role": "away",
-      "game_pk": 823203,
-      "pitcher_mlbam_id": null,
-      "pitcher_name": "TBD",
-      "pitcher_team": "Toronto Blue Jays",
-      "pitcher_throws": "U",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "San Francisco Giants",
-      "opposing_team_nrfi_rate": 0.76,
-      "opposing_team_games_evaluated": 25,
-      "pitcher_composite_score": 0.428,
-      "game_nrfi_score": 0.534,
-      "venue_name": "Oracle Park",
-      "game_time_et": "9:45 PM ET",
-      "image_urls": {
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "game_rank": 9,
-      "pitcher_role": "home",
-      "game_pk": 823203,
-      "pitcher_mlbam_id": 686790.0,
-      "pitcher_name": "Trevor McDonald",
-      "pitcher_team": "San Francisco Giants",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 4.09,
-      "pitcher_l10_nrfi_rate": 0.6,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Toronto Blue Jays",
-      "opposing_team_nrfi_rate": 0.808,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.641,
-      "game_nrfi_score": 0.534,
-      "venue_name": "Oracle Park",
-      "game_time_et": "9:45 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686790/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "game_rank": 10,
+      "game_rank": 11,
       "pitcher_role": "away",
       "game_pk": 823929,
       "pitcher_mlbam_id": 547179.0,
@@ -456,7 +508,7 @@
       }
     },
     {
-      "game_rank": 10,
+      "game_rank": 11,
       "pitcher_role": "home",
       "game_pk": 823929,
       "pitcher_mlbam_id": 680736.0,
@@ -480,7 +532,7 @@
       }
     },
     {
-      "game_rank": 11,
+      "game_rank": 12,
       "pitcher_role": "away",
       "game_pk": 823847,
       "pitcher_mlbam_id": null,
@@ -502,7 +554,7 @@
       }
     },
     {
-      "game_rank": 11,
+      "game_rank": 12,
       "pitcher_role": "home",
       "game_pk": 823847,
       "pitcher_mlbam_id": 676974.0,
@@ -526,7 +578,7 @@
       }
     },
     {
-      "game_rank": 12,
+      "game_rank": 13,
       "pitcher_role": "away",
       "game_pk": 824820,
       "pitcher_mlbam_id": 571510.0,
@@ -550,7 +602,7 @@
       }
     },
     {
-      "game_rank": 12,
+      "game_rank": 13,
       "pitcher_role": "home",
       "game_pk": 824820,
       "pitcher_mlbam_id": 669358.0,
@@ -574,29 +626,31 @@
       }
     },
     {
-      "game_rank": 13,
+      "game_rank": 14,
       "pitcher_role": "away",
       "game_pk": 823035,
-      "pitcher_mlbam_id": null,
-      "pitcher_name": "TBD",
+      "pitcher_mlbam_id": 688107.0,
+      "pitcher_name": "Robert Gasser",
       "pitcher_team": "Milwaukee Brewers",
-      "pitcher_throws": "U",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 5.14,
+      "pitcher_l10_nrfi_rate": 0.25,
+      "pitcher_l10_starts_evaluated": 4,
       "opposing_team": "St. Louis Cardinals",
       "opposing_team_nrfi_rate": 0.615,
       "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.385,
-      "game_nrfi_score": 0.398,
+      "pitcher_composite_score": 0.431,
+      "game_nrfi_score": 0.421,
       "venue_name": "Busch Stadium",
       "game_time_et": "7:45 PM ET",
       "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
       }
     },
     {
-      "game_rank": 13,
+      "game_rank": 14,
       "pitcher_role": "home",
       "game_pk": 823035,
       "pitcher_mlbam_id": null,
@@ -610,57 +664,11 @@
       "opposing_team_nrfi_rate": 0.704,
       "opposing_team_games_evaluated": 27,
       "pitcher_composite_score": 0.411,
-      "game_nrfi_score": 0.398,
+      "game_nrfi_score": 0.421,
       "venue_name": "Busch Stadium",
       "game_time_et": "7:45 PM ET",
       "image_urls": {
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "game_rank": 14,
-      "pitcher_role": "away",
-      "game_pk": 824495,
-      "pitcher_mlbam_id": null,
-      "pitcher_name": "TBD",
-      "pitcher_team": "Philadelphia Phillies",
-      "pitcher_throws": "U",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "Cincinnati Reds",
-      "opposing_team_nrfi_rate": 0.692,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.408,
-      "game_nrfi_score": 0.386,
-      "venue_name": "Great American Ball Park",
-      "game_time_et": "7:10 PM ET",
-      "image_urls": {
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "game_rank": 14,
-      "pitcher_role": "home",
-      "game_pk": 824495,
-      "pitcher_mlbam_id": 671096.0,
-      "pitcher_name": "Andrew Abbott",
-      "pitcher_team": "Cincinnati Reds",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 7.5,
-      "pitcher_l10_nrfi_rate": 0.4,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Philadelphia Phillies",
-      "opposing_team_nrfi_rate": 0.593,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.364,
-      "game_nrfi_score": 0.386,
-      "venue_name": "Great American Ball Park",
-      "game_time_et": "7:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671096/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     },
     {
