@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generated_at_et": "2026-07-08 07:43:29 EDT",
+  "generated_at_et": "2026-07-08 11:29:25 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 48.9,
       "fb_pct": 29.73,
       "pitcher_hr_per_9": 2.541,
-      "weather_score": 0.662,
+      "weather_score": 0.693,
       "park_factor": 1.06,
-      "composite_score": 0.882,
+      "composite_score": 0.885,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -32,33 +32,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 656941,
-      "player_name": "Kyle Schwarber",
-      "team": "Philadelphia Phillies",
-      "bat_side": "L",
-      "opposing_pitcher": "Chase Burns",
-      "opposing_pitcher_id": 695505.0,
-      "pitcher_throws": "R",
-      "venue_name": "Great American Ball Park",
-      "barrel_pct": 19.4,
-      "iso_overall": 0.315,
-      "iso_split": 0.316,
-      "iso_blended": 0.316,
-      "hard_hit_pct": 54.1,
-      "fb_pct": 30.36,
-      "pitcher_hr_per_9": 1.106,
-      "weather_score": 0.982,
-      "park_factor": 1.24,
-      "composite_score": 0.87,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695505/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -74,9 +47,9 @@
       "hard_hit_pct": 53.7,
       "fb_pct": 44.87,
       "pitcher_hr_per_9": 1.481,
-      "weather_score": 0.892,
+      "weather_score": 0.877,
       "park_factor": 1.0,
-      "composite_score": 0.87,
+      "composite_score": 0.868,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -85,7 +58,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -112,7 +85,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 664023,
       "player_name": "Ian Happ",
       "team": "Chicago Cubs",
@@ -128,9 +101,9 @@
       "hard_hit_pct": 43.4,
       "fb_pct": 40.98,
       "pitcher_hr_per_9": 2.647,
-      "weather_score": 0.882,
+      "weather_score": 0.832,
       "park_factor": 0.96,
-      "composite_score": 0.852,
+      "composite_score": 0.847,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664023/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 699013,
       "player_name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
@@ -155,9 +128,9 @@
       "hard_hit_pct": 47.8,
       "fb_pct": 35.9,
       "pitcher_hr_per_9": 1.64,
-      "weather_score": 0.977,
+      "weather_score": 0.938,
       "park_factor": 0.89,
-      "composite_score": 0.845,
+      "composite_score": 0.841,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 682626,
       "player_name": "Francisco Alvarez",
       "team": "New York Mets",
@@ -182,9 +155,9 @@
       "hard_hit_pct": 44.3,
       "fb_pct": 27.27,
       "pitcher_hr_per_9": 2.541,
-      "weather_score": 0.662,
+      "weather_score": 0.693,
       "park_factor": 1.06,
-      "composite_score": 0.828,
+      "composite_score": 0.831,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682626/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -193,30 +166,57 @@
       }
     },
     {
-      "rank": 8,
-      "mlbam_id": 624424,
-      "player_name": "Michael Conforto",
-      "team": "Chicago Cubs",
+      "rank": 7,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
       "bat_side": "L",
-      "opposing_pitcher": "Dean Kremer",
-      "opposing_pitcher_id": 665152.0,
+      "opposing_pitcher": "Chase Burns",
+      "opposing_pitcher_id": 695505.0,
       "pitcher_throws": "R",
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 13.3,
-      "iso_overall": 0.235,
-      "iso_split": 0.197,
-      "iso_blended": 0.212,
-      "hard_hit_pct": 45.6,
-      "fb_pct": 35.48,
-      "pitcher_hr_per_9": 2.647,
-      "weather_score": 0.882,
-      "park_factor": 0.96,
-      "composite_score": 0.826,
+      "venue_name": "Great American Ball Park",
+      "barrel_pct": 19.4,
+      "iso_overall": 0.315,
+      "iso_split": 0.316,
+      "iso_blended": 0.316,
+      "hard_hit_pct": 54.1,
+      "fb_pct": 30.36,
+      "pitcher_hr_per_9": 1.106,
+      "weather_score": 0.5,
+      "park_factor": 1.24,
+      "composite_score": 0.821,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624424/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665152/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695505/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 666160,
+      "player_name": "Mickey Moniak",
+      "team": "Colorado Rockies",
+      "bat_side": "L",
+      "opposing_pitcher": "Roki Sasaki",
+      "opposing_pitcher_id": 808963.0,
+      "pitcher_throws": "R",
+      "venue_name": "UNIQLO Field at Dodger Stadium",
+      "barrel_pct": 13.3,
+      "iso_overall": 0.318,
+      "iso_split": 0.355,
+      "iso_blended": 0.34,
+      "hard_hit_pct": 42.7,
+      "fb_pct": 31.25,
+      "pitcher_hr_per_9": 2.04,
+      "weather_score": 0.5,
+      "park_factor": 1.0,
+      "composite_score": 0.821,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666160/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808963/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     }
   ]
