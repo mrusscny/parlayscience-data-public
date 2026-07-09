@@ -1,6 +1,6 @@
 {
   "date": "2026-07-09",
-  "generated_at_et": "2026-07-09 08:30:17 EDT",
+  "generated_at_et": "2026-07-09 12:09:54 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 693645,
+      "pitcher_name": "Cam Schlittler",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-07-11",
+      "opposing_team": "Washington Nationals",
+      "fip": 2.484,
+      "era_proxy": 2.01,
+      "k_minus_bb_pct": 0.2489,
+      "k_per_9": 10.527,
+      "ip_total": 112.0,
+      "score": 0.6296,
+      "game_pk": 822711,
+      "venue": "Nationals Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 660271,
       "pitcher_name": "Shohei Ohtani",
       "pitcher_team": "Los Angeles Dodgers",
@@ -46,7 +67,28 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "pitcher_mlbam_id": 519242,
+      "pitcher_name": "Chris Sale",
+      "pitcher_team": "Atlanta Braves",
+      "next_start_date": "2026-07-10",
+      "opposing_team": "St. Louis Cardinals",
+      "fip": 2.595,
+      "era_proxy": 2.27,
+      "k_minus_bb_pct": 0.2245,
+      "k_per_9": 10.611,
+      "ip_total": 95.0,
+      "score": 0.5807,
+      "game_pk": 823033,
+      "venue": "Busch Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 657746,
       "pitcher_name": "Joe Ryan",
       "pitcher_team": "Minnesota Twins",
@@ -67,7 +109,28 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "pitcher_mlbam_id": 694973,
+      "pitcher_name": "Paul Skenes",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-07-12",
+      "opposing_team": "Milwaukee Brewers",
+      "fip": 2.77,
+      "era_proxy": 3.58,
+      "k_minus_bb_pct": 0.2381,
+      "k_per_9": 10.748,
+      "ip_total": 103.0,
+      "score": 0.5017,
+      "game_pk": 823358,
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694973/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 7,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -88,7 +151,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 8,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
@@ -109,7 +172,28 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 9,
+      "pitcher_mlbam_id": 677952,
+      "pitcher_name": "Braxton Ashcraft",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-07-10",
+      "opposing_team": "Milwaukee Brewers",
+      "fip": 2.98,
+      "era_proxy": 3.24,
+      "k_minus_bb_pct": 0.221,
+      "k_per_9": 10.135,
+      "ip_total": 108.3,
+      "score": 0.4882,
+      "game_pk": 823357,
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 10,
       "pitcher_mlbam_id": 800048,
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
@@ -130,7 +214,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 11,
       "pitcher_mlbam_id": 666200,
       "pitcher_name": "Jes\u00fas Luzardo",
       "pitcher_team": "Philadelphia Phillies",
@@ -151,7 +235,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 12,
       "pitcher_mlbam_id": 543243,
       "pitcher_name": "Sonny Gray",
       "pitcher_team": "Boston Red Sox",
@@ -172,7 +256,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 13,
       "pitcher_mlbam_id": 690997,
       "pitcher_name": "Nolan McLean",
       "pitcher_team": "New York Mets",
@@ -193,7 +277,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 14,
       "pitcher_mlbam_id": 672282,
       "pitcher_name": "Reid Detmers",
       "pitcher_team": "Los Angeles Angels",
@@ -214,7 +298,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 15,
       "pitcher_mlbam_id": 571510,
       "pitcher_name": "Matthew Boyd",
       "pitcher_team": "Chicago Cubs",
@@ -235,7 +319,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 16,
       "pitcher_mlbam_id": 680732,
       "pitcher_name": "Sean Burke",
       "pitcher_team": "Chicago White Sox",
@@ -256,7 +340,28 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 17,
+      "pitcher_mlbam_id": 621112,
+      "pitcher_name": "Paul Blackburn",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-07-09",
+      "opposing_team": "Tampa Bay Rays",
+      "fip": 3.548,
+      "era_proxy": 2.22,
+      "k_minus_bb_pct": 0.095,
+      "k_per_9": 6.448,
+      "ip_total": 44.7,
+      "score": 0.378,
+      "game_pk": 822954,
+      "venue": "Tropicana Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621112/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 18,
       "pitcher_mlbam_id": 668909,
       "pitcher_name": "Gavin Williams",
       "pitcher_team": "Cleveland Guardians",
@@ -277,7 +382,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 19,
       "pitcher_mlbam_id": 671737,
       "pitcher_name": "Taj Bradley",
       "pitcher_team": "Minnesota Twins",
@@ -298,129 +403,24 @@
       }
     },
     {
-      "rank": 15,
-      "pitcher_mlbam_id": 669160,
-      "pitcher_name": "Dustin May",
-      "pitcher_team": "St. Louis Cardinals",
-      "next_start_date": "2026-07-12",
-      "opposing_team": "Atlanta Braves",
-      "fip": 3.021,
-      "era_proxy": 4.55,
-      "k_minus_bb_pct": 0.1653,
-      "k_per_9": 8.596,
-      "ip_total": 89.0,
-      "score": 0.3506,
-      "game_pk": 823029,
-      "venue": "Busch Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 16,
-      "pitcher_mlbam_id": 543135,
-      "pitcher_name": "Nathan Eovaldi",
-      "pitcher_team": "Texas Rangers",
-      "next_start_date": "2026-07-09",
-      "opposing_team": "Los Angeles Angels",
-      "fip": 4.04,
-      "era_proxy": 4.02,
-      "k_minus_bb_pct": 0.1972,
-      "k_per_9": 9.399,
-      "ip_total": 105.3,
-      "score": 0.3328,
-      "game_pk": 822877,
-      "venue": "Globe Life Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543135/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
-      }
-    },
-    {
-      "rank": 17,
-      "pitcher_mlbam_id": 608379,
-      "pitcher_name": "Michael Wacha",
-      "pitcher_team": "Kansas City Royals",
-      "next_start_date": "2026-07-09",
-      "opposing_team": "New York Mets",
-      "fip": 3.798,
-      "era_proxy": 3.45,
-      "k_minus_bb_pct": 0.1293,
-      "k_per_9": 7.142,
-      "ip_total": 114.7,
-      "score": 0.3185,
-      "game_pk": 823606,
-      "venue": "Citi Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "pitcher_mlbam_id": 678022,
-      "pitcher_name": "Jack Perkins",
-      "pitcher_team": "Athletics",
-      "next_start_date": "2026-07-09",
-      "opposing_team": "Detroit Tigers",
-      "fip": 3.594,
-      "era_proxy": 6.75,
-      "k_minus_bb_pct": 0.1952,
-      "k_per_9": 11.524,
-      "ip_total": 54.7,
-      "score": 0.3077,
-      "game_pk": 824251,
-      "venue": "Comerica Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678022/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "pitcher_mlbam_id": 663567,
-      "pitcher_name": "Peter Lambert",
-      "pitcher_team": "Houston Astros",
-      "next_start_date": "2026-07-11",
-      "opposing_team": "Texas Rangers",
-      "fip": 4.075,
-      "era_proxy": 3.26,
-      "k_minus_bb_pct": 0.1269,
-      "k_per_9": 8.325,
-      "ip_total": 80.0,
-      "score": 0.3053,
-      "game_pk": 822875,
-      "venue": "Globe Life Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663567/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
-      }
-    },
-    {
       "rank": 20,
-      "pitcher_mlbam_id": 669467,
-      "pitcher_name": "Andre Pallante",
-      "pitcher_team": "St. Louis Cardinals",
-      "next_start_date": "2026-07-09",
-      "opposing_team": "Milwaukee Brewers",
-      "fip": 3.711,
-      "era_proxy": 3.6,
-      "k_minus_bb_pct": 0.108,
-      "k_per_9": 6.632,
-      "ip_total": 95.0,
-      "score": 0.2951,
-      "game_pk": 823034,
-      "venue": "Busch Stadium",
+      "pitcher_mlbam_id": 693855,
+      "pitcher_name": "Ian Seymour",
+      "pitcher_team": "Tampa Bay Rays",
+      "next_start_date": "2026-07-12",
+      "opposing_team": "Seattle Mariners",
+      "fip": 3.687,
+      "era_proxy": 4.11,
+      "k_minus_bb_pct": 0.2032,
+      "k_per_9": 10.565,
+      "ip_total": 61.3,
+      "score": 0.3616,
+      "game_pk": 822951,
+      "venue": "Tropicana Field",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669467/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693855/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]
