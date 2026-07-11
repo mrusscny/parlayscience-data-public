@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at_et": "2026-07-11 06:59:30 EDT",
+  "generated_at_et": "2026-07-11 10:29:02 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -194,6 +194,27 @@
     },
     {
       "rank": 10,
+      "pitcher_mlbam_id": 677952,
+      "pitcher_name": "Braxton Ashcraft",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-07-11",
+      "opposing_team": "Milwaukee Brewers",
+      "fip": 2.98,
+      "era_proxy": 3.24,
+      "k_minus_bb_pct": 0.221,
+      "k_per_9": 10.135,
+      "ip_total": 108.3,
+      "score": 0.4882,
+      "game_pk": 823357,
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677952/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 11,
       "pitcher_mlbam_id": 663542,
       "pitcher_name": "Bryan Hudson",
       "pitcher_team": "Chicago White Sox",
@@ -214,7 +235,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "pitcher_mlbam_id": 669302,
       "pitcher_name": "Logan Gilbert",
       "pitcher_team": "Seattle Mariners",
@@ -235,7 +256,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "pitcher_mlbam_id": 675660,
       "pitcher_name": "Shane Drohan",
       "pitcher_team": "Milwaukee Brewers",
@@ -256,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -277,7 +298,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "pitcher_mlbam_id": 676106,
       "pitcher_name": "Emerson Hancock",
       "pitcher_team": "Seattle Mariners",
@@ -298,7 +319,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "pitcher_mlbam_id": 571510,
       "pitcher_name": "Matthew Boyd",
       "pitcher_team": "Chicago Cubs",
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 671737,
       "pitcher_name": "Taj Bradley",
       "pitcher_team": "Minnesota Twins",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 695611,
       "pitcher_name": "Gage Jump",
       "pitcher_team": "Athletics",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 693855,
       "pitcher_name": "Ian Seymour",
       "pitcher_team": "Tampa Bay Rays",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 669160,
       "pitcher_name": "Dustin May",
       "pitcher_team": "St. Louis Cardinals",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 667755,
-      "pitcher_name": "Jos\u00e9 Soriano",
-      "pitcher_team": "Los Angeles Angels",
-      "next_start_date": "2026-07-12",
-      "opposing_team": "Minnesota Twins",
-      "fip": 3.845,
-      "era_proxy": 3.4,
-      "k_minus_bb_pct": 0.1435,
-      "k_per_9": 9.764,
-      "ip_total": 106.0,
-      "score": 0.3319,
-      "game_pk": 823681,
-      "venue": "Target Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667755/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]

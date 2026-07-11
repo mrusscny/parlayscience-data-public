@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at_et": "2026-07-11 06:59:18 EDT",
+  "generated_at_et": "2026-07-11 10:28:52 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
@@ -150,6 +150,54 @@
     {
       "game_rank": 4,
       "pitcher_role": "away",
+      "game_pk": 822711,
+      "pitcher_mlbam_id": 693645.0,
+      "pitcher_name": "Cam Schlittler",
+      "pitcher_team": "New York Yankees",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 2.37,
+      "pitcher_l10_nrfi_rate": 0.8,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Washington Nationals",
+      "opposing_team_nrfi_rate": 0.577,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.708,
+      "game_nrfi_score": 0.724,
+      "venue_name": "Nationals Park",
+      "game_time_et": "4:05 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "game_rank": 4,
+      "pitcher_role": "home",
+      "game_pk": 822711,
+      "pitcher_mlbam_id": 676571.0,
+      "pitcher_name": "PJ Poulin",
+      "pitcher_team": "Washington Nationals",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 1.86,
+      "pitcher_l10_nrfi_rate": 0.667,
+      "pitcher_l10_starts_evaluated": 3,
+      "opposing_team": "New York Yankees",
+      "opposing_team_nrfi_rate": 0.741,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.74,
+      "game_nrfi_score": 0.724,
+      "venue_name": "Nationals Park",
+      "game_time_et": "4:05 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676571/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "game_rank": 5,
+      "pitcher_role": "away",
       "game_pk": 824576,
       "pitcher_mlbam_id": 695611.0,
       "pitcher_name": "Gage Jump",
@@ -172,7 +220,7 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 824576,
       "pitcher_mlbam_id": 663542.0,
@@ -196,7 +244,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 824813,
       "pitcher_mlbam_id": 702070.0,
@@ -220,7 +268,7 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 824813,
       "pitcher_mlbam_id": 680694.0,
@@ -241,54 +289,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680694/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "away",
-      "game_pk": 822953,
-      "pitcher_mlbam_id": 669302.0,
-      "pitcher_name": "Logan Gilbert",
-      "pitcher_team": "Seattle Mariners",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 5.0,
-      "pitcher_l10_nrfi_rate": 0.75,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "Tampa Bay Rays",
-      "opposing_team_nrfi_rate": 0.63,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.592,
-      "game_nrfi_score": 0.675,
-      "venue_name": "Tropicana Field",
-      "game_time_et": "4:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "home",
-      "game_pk": 822953,
-      "pitcher_mlbam_id": 643377.0,
-      "pitcher_name": "Griffin Jax",
-      "pitcher_team": "Tampa Bay Rays",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 2.77,
-      "pitcher_l10_nrfi_rate": 0.8,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Seattle Mariners",
-      "opposing_team_nrfi_rate": 0.808,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.759,
-      "game_nrfi_score": 0.675,
-      "venue_name": "Tropicana Field",
-      "game_time_et": "4:10 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]

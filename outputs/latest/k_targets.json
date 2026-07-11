@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at_et": "2026-07-11 06:59:24 EDT",
+  "generated_at_et": "2026-07-11 10:28:57 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -13,7 +13,7 @@
       "pitcher_k_minus_bb_pct": 0.1765,
       "opp_k_rate": 0.2736,
       "opp_games_sample": 25,
-      "score": 0.9552,
+      "score": 0.9529,
       "game_pk": 823844,
       "game_time_local": "4:10 PM ET",
       "venue": "loanDepot park",
@@ -53,7 +53,7 @@
       "pitcher_k_minus_bb_pct": 0.2278,
       "opp_k_rate": 0.238,
       "opp_games_sample": 26,
-      "score": 0.7843,
+      "score": 0.7829,
       "game_pk": 824249,
       "game_time_local": "6:10 PM ET",
       "venue": "Comerica Park",
@@ -65,6 +65,26 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 687075,
+      "pitcher_name": "Brandon Sproat",
+      "pitcher_team": "Milwaukee Brewers",
+      "opposing_team": "Pittsburgh Pirates",
+      "pitcher_k_per_9": 9.57,
+      "pitcher_k_minus_bb_pct": 0.1399,
+      "opp_k_rate": 0.2442,
+      "opp_games_sample": 26,
+      "score": 0.7513,
+      "game_pk": 823357,
+      "game_time_local": "12:05 PM ET",
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687075/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 643377,
       "pitcher_name": "Griffin Jax",
       "pitcher_team": "Tampa Bay Rays",
@@ -73,7 +93,7 @@
       "pitcher_k_minus_bb_pct": 0.1729,
       "opp_k_rate": 0.2428,
       "opp_games_sample": 26,
-      "score": 0.7347,
+      "score": 0.7291,
       "game_pk": 822953,
       "game_time_local": "4:10 PM ET",
       "venue": "Tropicana Field",
@@ -84,7 +104,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 663554,
       "pitcher_name": "Casey Mize",
       "pitcher_team": "Detroit Tigers",
@@ -93,7 +113,7 @@
       "pitcher_k_minus_bb_pct": 0.2,
       "opp_k_rate": 0.2459,
       "opp_games_sample": 27,
-      "score": 0.7174,
+      "score": 0.71,
       "game_pk": 824249,
       "game_time_local": "6:10 PM ET",
       "venue": "Comerica Park",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 693645,
       "pitcher_name": "Cam Schlittler",
       "pitcher_team": "New York Yankees",
@@ -124,7 +144,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 663542,
       "pitcher_name": "Bryan Hudson",
       "pitcher_team": "Chicago White Sox",
@@ -133,7 +153,7 @@
       "pitcher_k_minus_bb_pct": 0.1345,
       "opp_k_rate": 0.2446,
       "opp_games_sample": 26,
-      "score": 0.6865,
+      "score": 0.6777,
       "game_pk": 824576,
       "game_time_local": "2:10 PM ET",
       "venue": "Rate Field",
@@ -141,26 +161,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663542/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "pitcher_mlbam_id": 702070,
-      "pitcher_name": "Noah Cameron",
-      "pitcher_team": "Kansas City Royals",
-      "opposing_team": "Baltimore Orioles",
-      "pitcher_k_per_9": 8.323,
-      "pitcher_k_minus_bb_pct": 0.1313,
-      "opp_k_rate": 0.2523,
-      "opp_games_sample": 26,
-      "score": 0.6864,
-      "game_pk": 824813,
-      "game_time_local": "7:05 PM ET",
-      "venue": "Oriole Park at Camden Yards",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702070/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     }
   ]
