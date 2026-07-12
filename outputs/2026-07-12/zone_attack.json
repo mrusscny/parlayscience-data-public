@@ -1,6 +1,6 @@
 {
   "date": "2026-07-12",
-  "generated_at_et": "2026-07-12 07:06:51 EDT",
+  "generated_at_et": "2026-07-12 10:36:13 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -14,12 +14,12 @@
       "pitcher_throws": "L",
       "pitch_type": "Fastball",
       "pitcher_usage_pct": 0.905,
-      "batter_slg": 0.722,
-      "batter_woba_contact": 0.453,
-      "batter_ab_vs_pitch": 90,
+      "batter_slg": 0.699,
+      "batter_woba_contact": 0.438,
+      "batter_ab_vs_pitch": 93,
       "batter_barrel_pct": 14.7,
       "batter_season_slg_overall": 0.57,
-      "matchup_strength": 0.6534,
+      "matchup_strength": 0.6323,
       "venue_name": "Citi Field",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
