@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-14",
+  "generated_at_et": "2026-07-14 07:17:02 EDT",
+  "concept": "power_sluggers",
+  "items": [
+    {
+      "rank": 1,
+      "mlbam_id": 670541,
+      "player_name": "Yordan Alvarez",
+      "team": "American League All-Stars",
+      "opposing_pitcher": "Cristopher S\u00e1nchez",
+      "opposing_pitcher_id": 650911,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 18.6,
+      "fb_pct": 44.59,
+      "avg_exit_velo": 94.7,
+      "hard_hit_pct": 53.2,
+      "pitcher_hr_per_9": 0.848,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.886,
+      "threshold_bonus": 0.1,
+      "final_score": 0.986,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/159.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/160.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 700250,
+      "player_name": "Ben Rice",
+      "team": "American League All-Stars",
+      "opposing_pitcher": "Cristopher S\u00e1nchez",
+      "opposing_pitcher_id": 650911,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 15.3,
+      "fb_pct": 40.0,
+      "avg_exit_velo": 92.1,
+      "hard_hit_pct": 47.6,
+      "pitcher_hr_per_9": 0.848,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.858,
+      "threshold_bonus": 0.1,
+      "final_score": 0.958,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/159.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/160.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 682985,
+      "player_name": "Riley Greene",
+      "team": "American League All-Stars",
+      "opposing_pitcher": "Cristopher S\u00e1nchez",
+      "opposing_pitcher_id": 650911,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 13.8,
+      "fb_pct": 40.0,
+      "avg_exit_velo": 91.4,
+      "hard_hit_pct": 49.8,
+      "pitcher_hr_per_9": 0.848,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.824,
+      "threshold_bonus": 0.1,
+      "final_score": 0.924,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/159.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/160.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "mlbam_id": 669127,
+      "player_name": "Shea Langeliers",
+      "team": "American League All-Stars",
+      "opposing_pitcher": "Cristopher S\u00e1nchez",
+      "opposing_pitcher_id": 650911,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 14.7,
+      "fb_pct": 30.91,
+      "avg_exit_velo": 91.8,
+      "hard_hit_pct": 44.7,
+      "pitcher_hr_per_9": 0.848,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.803,
+      "threshold_bonus": 0.05,
+      "final_score": 0.853,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669127/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/159.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/160.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 665742,
+      "player_name": "Juan Soto",
+      "team": "National League All-Stars",
+      "opposing_pitcher": "Dylan Cease",
+      "opposing_pitcher_id": 656302,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 14.9,
+      "fb_pct": 31.88,
+      "avg_exit_velo": 92.6,
+      "hard_hit_pct": 48.5,
+      "pitcher_hr_per_9": 0.458,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.786,
+      "threshold_bonus": 0.05,
+      "final_score": 0.836,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/160.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/159.svg"
+      }
+    }
+  ]
+}
