@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at_et": "2026-07-15 07:20:47 EDT",
+  "generated_at_et": "2026-07-15 10:57:55 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 693686,
+      "pitcher_name": "Spencer Miles",
+      "pitcher_team": "Toronto Blue Jays",
+      "next_start_date": "2026-07-17",
+      "opposing_team": "Chicago White Sox",
+      "fip": 3.017,
+      "era_proxy": 2.85,
+      "k_minus_bb_pct": 0.1564,
+      "k_per_9": 8.55,
+      "ip_total": 60.0,
+      "score": 0.444,
+      "game_pk": 822789,
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693686/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 675512,
       "pitcher_name": "Troy Melton",
       "pitcher_team": "Detroit Tigers",
@@ -46,7 +67,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "pitcher_mlbam_id": 681035,
       "pitcher_name": "Christian Scott",
       "pitcher_team": "New York Mets",
@@ -67,7 +88,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "pitcher_mlbam_id": 694738,
       "pitcher_name": "Landen Roupp",
       "pitcher_team": "San Francisco Giants",
@@ -88,7 +109,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 657277,
       "pitcher_name": "Logan Webb",
       "pitcher_team": "San Francisco Giants",
@@ -109,7 +130,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 643377,
       "pitcher_name": "Griffin Jax",
       "pitcher_team": "Tampa Bay Rays",
@@ -130,7 +151,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 640455,
       "pitcher_name": "Sean Manaea",
       "pitcher_team": "New York Mets",
@@ -151,7 +172,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 663903,
       "pitcher_name": "Brady Singer",
       "pitcher_team": "Cincinnati Reds",
@@ -172,7 +193,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "pitcher_mlbam_id": 695076,
       "pitcher_name": "Rhett Lowder",
       "pitcher_team": "Cincinnati Reds",
