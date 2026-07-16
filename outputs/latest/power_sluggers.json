@@ -1,0 +1,132 @@
+{
+  "date": "2026-07-16",
+  "generated_at_et": "2026-07-16 07:26:20 EDT",
+  "concept": "power_sluggers",
+  "items": [
+    {
+      "rank": 1,
+      "mlbam_id": 665742,
+      "player_name": "Juan Soto",
+      "team": "New York Mets",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 14.9,
+      "fb_pct": 33.85,
+      "avg_exit_velo": 92.6,
+      "hard_hit_pct": 48.5,
+      "pitcher_hr_per_9": 1.856,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.901,
+      "threshold_bonus": 0.05,
+      "final_score": 0.951,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "opposing_pitcher": "Christian Scott",
+      "opposing_pitcher_id": 681035,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 19.3,
+      "fb_pct": 28.0,
+      "avg_exit_velo": 93.4,
+      "hard_hit_pct": 53.1,
+      "pitcher_hr_per_9": 1.167,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.824,
+      "threshold_bonus": 0.05,
+      "final_score": 0.874,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681035/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 682626,
+      "player_name": "Francisco Alvarez",
+      "team": "New York Mets",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 15.3,
+      "fb_pct": 18.87,
+      "avg_exit_velo": 90.0,
+      "hard_hit_pct": 43.3,
+      "pitcher_hr_per_9": 1.856,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.823,
+      "threshold_bonus": 0.05,
+      "final_score": 0.873,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682626/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "mlbam_id": 547180,
+      "player_name": "Bryce Harper",
+      "team": "Philadelphia Phillies",
+      "opposing_pitcher": "Christian Scott",
+      "opposing_pitcher_id": 681035,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 11.3,
+      "fb_pct": 27.94,
+      "avg_exit_velo": 90.1,
+      "hard_hit_pct": 46.2,
+      "pitcher_hr_per_9": 1.167,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.718,
+      "threshold_bonus": 0.05,
+      "final_score": 0.768,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681035/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 676724,
+      "player_name": "Jared Young",
+      "team": "New York Mets",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400,
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 10.9,
+      "fb_pct": 24.49,
+      "avg_exit_velo": 89.9,
+      "hard_hit_pct": 46.4,
+      "pitcher_hr_per_9": 1.856,
+      "threshold_count": 1,
+      "threshold_label": "1/3",
+      "base_score": 0.742,
+      "threshold_bonus": 0.0,
+      "final_score": 0.742,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676724/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    }
+  ]
+}
