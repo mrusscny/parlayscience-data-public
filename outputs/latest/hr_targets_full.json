@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated_at_et": "2026-07-20 08:11:18 EDT",
+  "generated_at_et": "2026-07-20 11:18:44 EDT",
   "concept": "hr_targets_full",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 60.6,
       "fb_pct": 23.33,
       "pitcher_hr_per_9": 1.841,
-      "weather_score": 0.985,
+      "weather_score": 0.988,
       "park_factor": 1.39,
-      "composite_score": 0.929,
+      "composite_score": 0.93,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695578/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 54.8,
       "fb_pct": 43.75,
       "pitcher_hr_per_9": 1.474,
-      "weather_score": 0.732,
+      "weather_score": 0.723,
       "park_factor": 1.18,
-      "composite_score": 0.902,
+      "composite_score": 0.901,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 53.3,
       "fb_pct": 32.69,
       "pitcher_hr_per_9": 1.64,
-      "weather_score": 0.807,
+      "weather_score": 0.823,
       "park_factor": 1.14,
-      "composite_score": 0.893,
+      "composite_score": 0.894,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -101,9 +101,9 @@
       "hard_hit_pct": 42.5,
       "fb_pct": 26.87,
       "pitcher_hr_per_9": 1.841,
-      "weather_score": 0.985,
+      "weather_score": 0.988,
       "park_factor": 1.39,
-      "composite_score": 0.862,
+      "composite_score": 0.863,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678554/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -128,9 +128,9 @@
       "hard_hit_pct": 48.1,
       "fb_pct": 37.68,
       "pitcher_hr_per_9": 1.112,
-      "weather_score": 0.732,
+      "weather_score": 0.723,
       "park_factor": 1.18,
-      "composite_score": 0.854,
+      "composite_score": 0.853,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -155,7 +155,7 @@
       "hard_hit_pct": 48.8,
       "fb_pct": 23.81,
       "pitcher_hr_per_9": 1.841,
-      "weather_score": 0.985,
+      "weather_score": 0.988,
       "park_factor": 1.39,
       "composite_score": 0.852,
       "image_urls": {
@@ -194,33 +194,6 @@
     },
     {
       "rank": 8,
-      "mlbam_id": 665019,
-      "player_name": "Kody Clemens",
-      "team": "Minnesota Twins",
-      "bat_side": "L",
-      "opposing_pitcher": "Tanner Bibee",
-      "opposing_pitcher_id": 676440,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "barrel_pct": 13.1,
-      "iso_overall": 0.251,
-      "iso_split": 0.259,
-      "iso_blended": 0.256,
-      "hard_hit_pct": 46.2,
-      "fb_pct": 39.68,
-      "pitcher_hr_per_9": 1.593,
-      "weather_score": 0.755,
-      "park_factor": 1.04,
-      "composite_score": 0.83,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665019/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676440/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 9,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -244,6 +217,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/594798/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 9,
+      "mlbam_id": 665019,
+      "player_name": "Kody Clemens",
+      "team": "Minnesota Twins",
+      "bat_side": "L",
+      "opposing_pitcher": "Tanner Bibee",
+      "opposing_pitcher_id": 676440,
+      "pitcher_throws": "R",
+      "venue_name": "Progressive Field",
+      "barrel_pct": 13.1,
+      "iso_overall": 0.251,
+      "iso_split": 0.259,
+      "iso_blended": 0.256,
+      "hard_hit_pct": 46.2,
+      "fb_pct": 39.68,
+      "pitcher_hr_per_9": 1.593,
+      "weather_score": 0.743,
+      "park_factor": 1.04,
+      "composite_score": 0.829,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665019/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676440/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     },
     {
@@ -290,9 +290,9 @@
       "hard_hit_pct": 40.9,
       "fb_pct": 28.57,
       "pitcher_hr_per_9": 1.593,
-      "weather_score": 0.755,
+      "weather_score": 0.743,
       "park_factor": 1.04,
-      "composite_score": 0.824,
+      "composite_score": 0.823,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680777/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
@@ -398,7 +398,7 @@
       "hard_hit_pct": 42.4,
       "fb_pct": 37.1,
       "pitcher_hr_per_9": 1.841,
-      "weather_score": 0.985,
+      "weather_score": 0.988,
       "park_factor": 1.39,
       "composite_score": 0.82,
       "image_urls": {
@@ -479,9 +479,9 @@
       "hard_hit_pct": 52.9,
       "fb_pct": 30.0,
       "pitcher_hr_per_9": 0.848,
-      "weather_score": 0.807,
+      "weather_score": 0.823,
       "park_factor": 1.14,
-      "composite_score": 0.808,
+      "composite_score": 0.81,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
@@ -506,9 +506,9 @@
       "hard_hit_pct": 46.0,
       "fb_pct": 29.41,
       "pitcher_hr_per_9": 1.64,
-      "weather_score": 0.807,
+      "weather_score": 0.823,
       "park_factor": 1.14,
-      "composite_score": 0.806,
+      "composite_score": 0.808,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -533,7 +533,7 @@
       "hard_hit_pct": 46.9,
       "fb_pct": 25.0,
       "pitcher_hr_per_9": 1.841,
-      "weather_score": 0.985,
+      "weather_score": 0.988,
       "park_factor": 1.39,
       "composite_score": 0.8,
       "image_urls": {
