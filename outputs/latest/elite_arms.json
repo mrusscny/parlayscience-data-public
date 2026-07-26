@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generated_at_et": "2026-07-26 07:21:50 EDT",
+  "generated_at_et": "2026-07-26 10:46:17 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 669373,
+      "pitcher_name": "Tarik Skubal",
+      "pitcher_team": "Detroit Tigers",
+      "next_start_date": "2026-07-29",
+      "opposing_team": "Baltimore Orioles",
+      "fip": 2.533,
+      "era_proxy": 2.7,
+      "k_minus_bb_pct": 0.2779,
+      "k_per_9": 11.0,
+      "ip_total": 90.0,
+      "score": 0.6133,
+      "game_pk": 824242,
+      "venue": "Comerica Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669373/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 650911,
       "pitcher_name": "Cristopher S\u00e1nchez",
       "pitcher_team": "Philadelphia Phillies",
@@ -46,7 +67,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "pitcher_mlbam_id": 701656,
       "pitcher_name": "Logan Henderson",
       "pitcher_team": "Milwaukee Brewers",
@@ -67,7 +88,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "pitcher_mlbam_id": 624133,
       "pitcher_name": "Ranger Suarez",
       "pitcher_team": "Boston Red Sox",
@@ -85,27 +106,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "pitcher_mlbam_id": 695505,
-      "pitcher_name": "Chase Burns",
-      "pitcher_team": "Cincinnati Reds",
-      "next_start_date": "2026-07-27",
-      "opposing_team": "Cleveland Guardians",
-      "fip": 3.332,
-      "era_proxy": 2.42,
-      "k_minus_bb_pct": 0.1963,
-      "k_per_9": 10.365,
-      "ip_total": 107.7,
-      "score": 0.4845,
-      "game_pk": 824490,
-      "venue": "Great American Ball Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695505/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]
