@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated_at_et": "2026-07-31 11:13:24 EDT",
+  "generated_at_et": "2026-07-31 11:25:11 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 51.2,
       "fb_pct": 41.51,
       "pitcher_hr_per_9": 1.246,
-      "weather_score": 1.0,
+      "weather_score": 0.5,
       "park_factor": 1.24,
-      "composite_score": 0.908,
+      "composite_score": 0.858,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -32,60 +32,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 695506,
-      "player_name": "Jac Caglianone",
-      "team": "Kansas City Royals",
-      "bat_side": "L",
-      "opposing_pitcher": "Tomoyuki Sugano",
-      "opposing_pitcher_id": 608372.0,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 14.8,
-      "iso_overall": 0.201,
-      "iso_split": 0.211,
-      "iso_blended": 0.207,
-      "hard_hit_pct": 55.2,
-      "fb_pct": 23.19,
-      "pitcher_hr_per_9": 1.875,
-      "weather_score": 0.956,
-      "park_factor": 1.39,
-      "composite_score": 0.891,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 3,
-      "mlbam_id": 696100,
-      "player_name": "Hunter Goodman",
-      "team": "Colorado Rockies",
-      "bat_side": "R",
-      "opposing_pitcher": "Michael Wacha",
-      "opposing_pitcher_id": 608379.0,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 16.9,
-      "iso_overall": 0.291,
-      "iso_split": 0.307,
-      "iso_blended": 0.301,
-      "hard_hit_pct": 45.1,
-      "fb_pct": 29.27,
-      "pitcher_hr_per_9": 1.088,
-      "weather_score": 0.956,
-      "park_factor": 1.39,
-      "composite_score": 0.863,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 700250,
       "player_name": "Ben Rice",
       "team": "New York Yankees",
@@ -112,7 +58,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 3,
       "mlbam_id": 665953,
       "player_name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
@@ -139,7 +85,34 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "mlbam_id": 695506,
+      "player_name": "Jac Caglianone",
+      "team": "Kansas City Royals",
+      "bat_side": "L",
+      "opposing_pitcher": "Tomoyuki Sugano",
+      "opposing_pitcher_id": 608372.0,
+      "pitcher_throws": "R",
+      "venue_name": "Coors Field",
+      "barrel_pct": 14.8,
+      "iso_overall": 0.201,
+      "iso_split": 0.211,
+      "iso_blended": 0.207,
+      "hard_hit_pct": 55.2,
+      "fb_pct": 23.19,
+      "pitcher_hr_per_9": 1.875,
+      "weather_score": 0.5,
+      "park_factor": 1.39,
+      "composite_score": 0.845,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695506/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 5,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 695578,
       "player_name": "James Wood",
       "team": "Washington Nationals",
@@ -217,6 +190,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693821/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 682985,
+      "player_name": "Riley Greene",
+      "team": "Detroit Tigers",
+      "bat_side": "L",
+      "opposing_pitcher": "Jeffrey Springs",
+      "opposing_pitcher_id": 605488.0,
+      "pitcher_throws": "L",
+      "venue_name": "Sutter Health Park",
+      "barrel_pct": 15.3,
+      "iso_overall": 0.183,
+      "iso_split": 0.121,
+      "iso_blended": 0.146,
+      "hard_hit_pct": 50.5,
+      "fb_pct": 40.0,
+      "pitcher_hr_per_9": 2.337,
+      "weather_score": 1.0,
+      "park_factor": 0.95,
+      "composite_score": 0.825,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
       }
     }
   ]
