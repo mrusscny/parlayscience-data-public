@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated_at_et": "2026-07-31 10:50:15 EDT",
+  "generated_at_et": "2026-07-31 11:17:46 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -89,27 +89,6 @@
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 663554,
-      "pitcher_name": "Casey Mize",
-      "pitcher_team": "Detroit Tigers",
-      "next_start_date": "2026-07-31",
-      "opposing_team": "Athletics",
-      "fip": 2.546,
-      "era_proxy": 2.7,
-      "k_minus_bb_pct": 0.1935,
-      "k_per_9": 8.827,
-      "ip_total": 86.7,
-      "score": 0.5278,
-      "game_pk": 824975,
-      "venue": "Sutter Health Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 6,
       "pitcher_mlbam_id": 694973,
       "pitcher_name": "Paul Skenes",
       "pitcher_team": "Pittsburgh Pirates",
@@ -130,7 +109,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "pitcher_mlbam_id": 624133,
       "pitcher_name": "Ranger Suarez",
       "pitcher_team": "Boston Red Sox",
@@ -151,7 +130,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "pitcher_mlbam_id": 699134,
       "pitcher_name": "Bradgley Rodriguez",
       "pitcher_team": "San Diego Padres",
@@ -172,7 +151,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
@@ -193,7 +172,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "pitcher_mlbam_id": 682243,
       "pitcher_name": "Bryce Miller",
       "pitcher_team": "Seattle Mariners",
@@ -214,7 +193,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "pitcher_mlbam_id": 695505,
       "pitcher_name": "Chase Burns",
       "pitcher_team": "Cincinnati Reds",
@@ -235,7 +214,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "pitcher_mlbam_id": 800048,
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
@@ -256,7 +235,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "pitcher_mlbam_id": 808967,
       "pitcher_name": "Yoshinobu Yamamoto",
       "pitcher_team": "Los Angeles Dodgers",
@@ -277,7 +256,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "pitcher_mlbam_id": 594798,
       "pitcher_name": "Jacob deGrom",
       "pitcher_team": "Texas Rangers",
@@ -298,7 +277,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "pitcher_mlbam_id": 669302,
       "pitcher_name": "Logan Gilbert",
       "pitcher_team": "Seattle Mariners",
@@ -319,7 +298,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "pitcher_mlbam_id": 608331,
       "pitcher_name": "Max Fried",
       "pitcher_team": "New York Yankees",
@@ -340,7 +319,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "pitcher_mlbam_id": 683618,
       "pitcher_name": "Edgardo Henriquez",
       "pitcher_team": "Los Angeles Dodgers",
@@ -361,7 +340,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "pitcher_mlbam_id": 668909,
       "pitcher_name": "Gavin Williams",
       "pitcher_team": "Cleveland Guardians",
@@ -382,7 +361,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "pitcher_mlbam_id": 676917,
       "pitcher_name": "Cade Cavalli",
       "pitcher_team": "Washington Nationals",
@@ -403,7 +382,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -421,6 +400,27 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "pitcher_mlbam_id": 675660,
+      "pitcher_name": "Shane Drohan",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-07-31",
+      "opposing_team": "Los Angeles Angels",
+      "fip": 2.893,
+      "era_proxy": 3.51,
+      "k_minus_bb_pct": 0.1725,
+      "k_per_9": 9.0,
+      "ip_total": 82.0,
+      "score": 0.4305,
+      "game_pk": 823999,
+      "venue": "Angel Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675660/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
       }
     }
   ]

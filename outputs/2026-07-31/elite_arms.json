@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated_at_et": "2026-07-31 10:50:12 EDT",
+  "generated_at_et": "2026-07-31 11:17:44 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -89,23 +89,23 @@
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 663554,
-      "pitcher_name": "Casey Mize",
-      "pitcher_team": "Detroit Tigers",
+      "pitcher_mlbam_id": 694973,
+      "pitcher_name": "Paul Skenes",
+      "pitcher_team": "Pittsburgh Pirates",
       "next_start_date": "2026-07-31",
-      "opposing_team": "Athletics",
-      "fip": 2.546,
-      "era_proxy": 2.7,
-      "k_minus_bb_pct": 0.1935,
-      "k_per_9": 8.827,
-      "ip_total": 86.7,
-      "score": 0.5278,
-      "game_pk": 824975,
-      "venue": "Sutter Health Park",
+      "opposing_team": "Cincinnati Reds",
+      "fip": 2.512,
+      "era_proxy": 3.65,
+      "k_minus_bb_pct": 0.2469,
+      "k_per_9": 11.113,
+      "ip_total": 120.7,
+      "score": 0.5269,
+      "game_pk": 824486,
+      "venue": "Great American Ball Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694973/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
       }
     }
   ]

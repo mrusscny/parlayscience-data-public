@@ -1,6 +1,6 @@
 {
   "date": "2026-07-31",
-  "generated_at_et": "2026-07-31 10:49:51 EDT",
+  "generated_at_et": "2026-07-31 11:17:33 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -198,54 +198,6 @@
     {
       "game_rank": 5,
       "pitcher_role": "away",
-      "game_pk": 824975,
-      "pitcher_mlbam_id": 663554.0,
-      "pitcher_name": "Casey Mize",
-      "pitcher_team": "Detroit Tigers",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 0.0,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "Athletics",
-      "opposing_team_nrfi_rate": 0.87,
-      "opposing_team_games_evaluated": 23,
-      "pitcher_composite_score": 0.961,
-      "game_nrfi_score": 0.685,
-      "venue_name": "Sutter Health Park",
-      "game_time_et": "9:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "game_rank": 5,
-      "pitcher_role": "home",
-      "game_pk": 824975,
-      "pitcher_mlbam_id": 605488.0,
-      "pitcher_name": "Jeffrey Springs",
-      "pitcher_team": "Athletics",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 6.43,
-      "pitcher_l10_nrfi_rate": 0.333,
-      "pitcher_l10_starts_evaluated": 3,
-      "opposing_team": "Detroit Tigers",
-      "opposing_team_nrfi_rate": 0.652,
-      "opposing_team_games_evaluated": 23,
-      "pitcher_composite_score": 0.41,
-      "game_nrfi_score": 0.685,
-      "venue_name": "Sutter Health Park",
-      "game_time_et": "9:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "game_rank": 6,
-      "pitcher_role": "away",
       "game_pk": 824407,
       "pitcher_mlbam_id": 683352.0,
       "pitcher_name": "Mitch Bratt",
@@ -268,7 +220,7 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 824407,
       "pitcher_mlbam_id": 676440.0,
@@ -292,7 +244,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 6,
       "pitcher_role": "away",
       "game_pk": 824486,
       "pitcher_mlbam_id": 694973.0,
@@ -316,7 +268,7 @@
       }
     },
     {
-      "game_rank": 7,
+      "game_rank": 6,
       "pitcher_role": "home",
       "game_pk": 824486,
       "pitcher_mlbam_id": 668881.0,
@@ -340,7 +292,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 7,
       "pitcher_role": "away",
       "game_pk": 824651,
       "pitcher_mlbam_id": 701542.0,
@@ -364,7 +316,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 7,
       "pitcher_role": "home",
       "game_pk": 824651,
       "pitcher_mlbam_id": 684007.0,
@@ -388,7 +340,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 8,
       "pitcher_role": "away",
       "game_pk": 824325,
       "pitcher_mlbam_id": 608379.0,
@@ -412,7 +364,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 8,
       "pitcher_role": "home",
       "game_pk": 824325,
       "pitcher_mlbam_id": 608372.0,
@@ -436,7 +388,7 @@
       }
     },
     {
-      "game_rank": 10,
+      "game_rank": 9,
       "pitcher_role": "away",
       "game_pk": 823272,
       "pitcher_mlbam_id": 687931.0,
@@ -460,7 +412,7 @@
       }
     },
     {
-      "game_rank": 10,
+      "game_rank": 9,
       "pitcher_role": "home",
       "game_pk": 823272,
       "pitcher_mlbam_id": 699134.0,
@@ -484,7 +436,7 @@
       }
     },
     {
-      "game_rank": 11,
+      "game_rank": 10,
       "pitcher_role": "away",
       "game_pk": 824164,
       "pitcher_mlbam_id": 543135.0,
@@ -508,7 +460,7 @@
       }
     },
     {
-      "game_rank": 11,
+      "game_rank": 10,
       "pitcher_role": "home",
       "game_pk": 824164,
       "pitcher_mlbam_id": 686613.0,
@@ -532,7 +484,7 @@
       }
     },
     {
-      "game_rank": 12,
+      "game_rank": 11,
       "pitcher_role": "away",
       "game_pk": 823999,
       "pitcher_mlbam_id": 675660.0,
@@ -556,7 +508,7 @@
       }
     },
     {
-      "game_rank": 12,
+      "game_rank": 11,
       "pitcher_role": "home",
       "game_pk": 823999,
       "pitcher_mlbam_id": 696270.0,
@@ -580,7 +532,7 @@
       }
     },
     {
-      "game_rank": 13,
+      "game_rank": 12,
       "pitcher_role": "away",
       "game_pk": 822945,
       "pitcher_mlbam_id": 607200.0,
@@ -604,7 +556,7 @@
       }
     },
     {
-      "game_rank": 13,
+      "game_rank": 12,
       "pitcher_role": "home",
       "game_pk": 822945,
       "pitcher_mlbam_id": 607259.0,
@@ -628,7 +580,7 @@
       }
     },
     {
-      "game_rank": 14,
+      "game_rank": 13,
       "pitcher_role": "away",
       "game_pk": 824809,
       "pitcher_mlbam_id": null,
@@ -650,7 +602,7 @@
       }
     },
     {
-      "game_rank": 14,
+      "game_rank": 13,
       "pitcher_role": "home",
       "game_pk": 824809,
       "pitcher_mlbam_id": 687064.0,
@@ -674,7 +626,7 @@
       }
     },
     {
-      "game_rank": 15,
+      "game_rank": 14,
       "pitcher_role": "away",
       "game_pk": 823922,
       "pitcher_mlbam_id": 624133.0,
@@ -698,7 +650,7 @@
       }
     },
     {
-      "game_rank": 15,
+      "game_rank": 14,
       "pitcher_role": "home",
       "game_pk": 823922,
       "pitcher_mlbam_id": 683618.0,
@@ -719,6 +671,52 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683618/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "game_rank": 15,
+      "pitcher_role": "away",
+      "game_pk": 824975,
+      "pitcher_mlbam_id": null,
+      "pitcher_name": "TBD",
+      "pitcher_team": "Detroit Tigers",
+      "pitcher_throws": "U",
+      "pitcher_first_inning_era": 4.5,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Athletics",
+      "opposing_team_nrfi_rate": 0.87,
+      "opposing_team_games_evaluated": 23,
+      "pitcher_composite_score": 0.461,
+      "game_nrfi_score": 0.435,
+      "venue_name": "Sutter Health Park",
+      "game_time_et": "9:40 PM ET",
+      "image_urls": {
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    },
+    {
+      "game_rank": 15,
+      "pitcher_role": "home",
+      "game_pk": 824975,
+      "pitcher_mlbam_id": 605488.0,
+      "pitcher_name": "Jeffrey Springs",
+      "pitcher_team": "Athletics",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 6.43,
+      "pitcher_l10_nrfi_rate": 0.333,
+      "pitcher_l10_starts_evaluated": 3,
+      "opposing_team": "Detroit Tigers",
+      "opposing_team_nrfi_rate": 0.652,
+      "opposing_team_games_evaluated": 23,
+      "pitcher_composite_score": 0.41,
+      "game_nrfi_score": 0.435,
+      "venue_name": "Sutter Health Park",
+      "game_time_et": "9:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
       }
     }
   ]
