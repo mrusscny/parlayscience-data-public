@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-31",
+  "generated_at_et": "2026-07-31 10:50:20 EDT",
+  "concept": "pitcher_hot_streaks",
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 656302,
+      "pitcher_name": "Dylan Cease",
+      "pitcher_team": "Toronto Blue Jays",
+      "opposing_team": "St. Louis Cardinals",
+      "active_qs_streak": 4,
+      "last_start_date": "2026-07-25",
+      "season_qs_total": 9,
+      "season_starts_total": 19,
+      "fip": 2.226,
+      "k_per_9": 13.262,
+      "game_pk": 822782,
+      "game_time_local": "7:07 PM ET",
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "pitcher_mlbam_id": 687064,
+      "pitcher_name": "Brandon Young",
+      "pitcher_team": "Baltimore Orioles",
+      "opposing_team": "Philadelphia Phillies",
+      "active_qs_streak": 3,
+      "last_start_date": "2026-07-25",
+      "season_qs_total": 9,
+      "season_starts_total": 17,
+      "fip": 3.704,
+      "k_per_9": 7.372,
+      "game_pk": 824809,
+      "game_time_local": "7:05 PM ET",
+      "venue": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687064/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "pitcher_mlbam_id": 656492,
+      "pitcher_name": "Foster Griffin",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Atlanta Braves",
+      "active_qs_streak": 3,
+      "last_start_date": "2026-07-25",
+      "season_qs_total": 12,
+      "season_starts_total": 21,
+      "fip": 3.737,
+      "k_per_9": 8.202,
+      "game_pk": 824892,
+      "game_time_local": "7:15 PM ET",
+      "venue": "Truist Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "pitcher_mlbam_id": 676440,
+      "pitcher_name": "Tanner Bibee",
+      "pitcher_team": "Cleveland Guardians",
+      "opposing_team": "Arizona Diamondbacks",
+      "active_qs_streak": 3,
+      "last_start_date": "2026-07-25",
+      "season_qs_total": 13,
+      "season_starts_total": 22,
+      "fip": 4.516,
+      "k_per_9": 6.984,
+      "game_pk": 824407,
+      "game_time_local": "7:10 PM ET",
+      "venue": "Progressive Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676440/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "date": "2026-07-31",
+  "generated_at_et": "2026-07-31 10:50:12 EDT",
+  "concept": "elite_arms",
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_team": "Milwaukee Brewers",
+      "next_start_date": "2026-08-02",
+      "opposing_team": "Los Angeles Angels",
+      "fip": 1.8,
+      "era_proxy": 1.58,
+      "k_minus_bb_pct": 0.3443,
+      "k_per_9": 13.875,
+      "ip_total": 120.0,
+      "score": 0.7612,
+      "game_pk": 823996,
+      "venue": "Angel Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "pitcher_mlbam_id": 656302,
+      "pitcher_name": "Dylan Cease",
+      "pitcher_team": "Toronto Blue Jays",
+      "next_start_date": "2026-07-31",
+      "opposing_team": "St. Louis Cardinals",
+      "fip": 2.226,
+      "era_proxy": 2.46,
+      "k_minus_bb_pct": 0.2604,
+      "k_per_9": 13.262,
+      "ip_total": 113.3,
+      "score": 0.6347,
+      "game_pk": 822782,
+      "venue": "Rogers Centre",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "pitcher_mlbam_id": 554430,
+      "pitcher_name": "Zack Wheeler",
+      "pitcher_team": "Philadelphia Phillies",
+      "next_start_date": "2026-08-02",
+      "opposing_team": "Baltimore Orioles",
+      "fip": 3.022,
+      "era_proxy": 2.53,
+      "k_minus_bb_pct": 0.2525,
+      "k_per_9": 10.748,
+      "ip_total": 103.0,
+      "score": 0.5589,
+      "game_pk": 824807,
+      "venue": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "pitcher_mlbam_id": 650911,
+      "pitcher_name": "Cristopher S\u00e1nchez",
+      "pitcher_team": "Philadelphia Phillies",
+      "next_start_date": "2026-08-01",
+      "opposing_team": "Baltimore Orioles",
+      "fip": 2.566,
+      "era_proxy": 2.73,
+      "k_minus_bb_pct": 0.2232,
+      "k_per_9": 10.19,
+      "ip_total": 138.7,
+      "score": 0.5541,
+      "game_pk": 824808,
+      "venue": "Oriole Park at Camden Yards",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "pitcher_mlbam_id": 663554,
+      "pitcher_name": "Casey Mize",
+      "pitcher_team": "Detroit Tigers",
+      "next_start_date": "2026-07-31",
+      "opposing_team": "Athletics",
+      "fip": 2.546,
+      "era_proxy": 2.7,
+      "k_minus_bb_pct": 0.1935,
+      "k_per_9": 8.827,
+      "ip_total": 86.7,
+      "score": 0.5278,
+      "game_pk": 824975,
+      "venue": "Sutter Health Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663554/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    }
+  ]
+}
