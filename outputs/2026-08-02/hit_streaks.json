@@ -1,6 +1,6 @@
 {
   "date": "2026-08-02",
-  "generated_at_et": "2026-08-02 07:13:32 EDT",
+  "generated_at_et": "2026-08-02 10:42:08 EDT",
   "concept": "hit_streaks",
   "items": [
     {
@@ -10,7 +10,7 @@
       "team": "Houston Astros",
       "bat_side": "R",
       "opposing_pitcher": "Kumar Rocker",
-      "opposing_pitcher_id": 677958.0,
+      "opposing_pitcher_id": 677958,
       "pitcher_throws": "R",
       "venue_name": "Daikin Park",
       "streak_length": 13,
@@ -33,7 +33,7 @@
       "team": "Los Angeles Dodgers",
       "bat_side": "L",
       "opposing_pitcher": "Jake Bennett",
-      "opposing_pitcher_id": 687562.0,
+      "opposing_pitcher_id": 687562,
       "pitcher_throws": "L",
       "venue_name": "UNIQLO Field at Dodger Stadium",
       "streak_length": 12,
@@ -56,7 +56,7 @@
       "team": "Pittsburgh Pirates",
       "bat_side": "S",
       "opposing_pitcher": "Chase Burns",
-      "opposing_pitcher_id": 695505.0,
+      "opposing_pitcher_id": 695505,
       "pitcher_throws": "R",
       "venue_name": "Great American Ball Park",
       "streak_length": 9,
@@ -79,7 +79,7 @@
       "team": "Chicago White Sox",
       "bat_side": "L",
       "opposing_pitcher": "Griffin Jax",
-      "opposing_pitcher_id": 643377.0,
+      "opposing_pitcher_id": 643377,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 9,
@@ -97,25 +97,25 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 543510,
-      "player_name": "James McCann",
-      "team": "Arizona Diamondbacks",
+      "mlbam_id": 680777,
+      "player_name": "Ryan Jeffers",
+      "team": "Minnesota Twins",
       "bat_side": "R",
-      "opposing_pitcher": "Gavin Williams",
-      "opposing_pitcher_id": 668909.0,
+      "opposing_pitcher": "George Kirby",
+      "opposing_pitcher_id": 669923,
       "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
+      "venue_name": "T-Mobile Park",
       "streak_length": 8,
-      "streak_hits": 16,
-      "streak_at_bats": 29,
-      "streak_avg": 0.552,
-      "season_avg": 0.31,
+      "streak_hits": 10,
+      "streak_at_bats": 32,
+      "streak_avg": 0.312,
+      "season_avg": 0.292,
       "last_game_date": "2026-08-01",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543510/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680777/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669923/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     }
   ]
