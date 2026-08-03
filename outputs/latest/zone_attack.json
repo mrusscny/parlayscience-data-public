@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at_et": "2026-08-03 08:49:26 EDT",
+  "generated_at_et": "2026-08-03 11:48:28 EDT",
   "concept": "zone_attack",
   "items": [
     {
@@ -80,27 +80,27 @@
     },
     {
       "rank": 4,
-      "batter_mlbam_id": 682998,
-      "batter_name": "Corbin Carroll",
-      "batter_team": "Arizona Diamondbacks",
+      "batter_mlbam_id": 669016,
+      "batter_name": "Brandon Marsh",
+      "batter_team": "Philadelphia Phillies",
       "bat_side": "L",
-      "pitcher_mlbam_id": 650633,
-      "pitcher_name": "Michael King",
-      "pitcher_throws": "R",
-      "pitch_type": "Changeup",
-      "pitcher_usage_pct": 0.294,
-      "batter_slg": 0.622,
-      "batter_woba_contact": 0.361,
-      "batter_ab_vs_pitch": 37,
-      "batter_barrel_pct": 12.3,
-      "batter_season_slg_overall": 0.479,
-      "matchup_strength": 0.183,
-      "venue_name": "Chase Field",
+      "pitcher_mlbam_id": 674841,
+      "pitcher_name": "Andrew Alvarez",
+      "pitcher_throws": "L",
+      "pitch_type": "Curveball",
+      "pitcher_usage_pct": 0.274,
+      "batter_slg": 0.706,
+      "batter_woba_contact": 0.426,
+      "batter_ab_vs_pitch": 17,
+      "batter_barrel_pct": 8.8,
+      "batter_season_slg_overall": 0.45,
+      "matchup_strength": 0.1931,
+      "venue_name": "Citizens Bank Park",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682998/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650633/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669016/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     }
   ]

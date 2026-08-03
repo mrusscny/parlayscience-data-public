@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at_et": "2026-08-03 08:47:56 EDT",
+  "generated_at_et": "2026-08-03 11:47:22 EDT",
   "concept": "hr_targets_full",
   "items": [
     {
@@ -20,7 +20,7 @@
       "hard_hit_pct": 49.2,
       "fb_pct": 32.14,
       "pitcher_hr_per_9": 2.053,
-      "weather_score": 0.76,
+      "weather_score": 0.757,
       "park_factor": 1.14,
       "composite_score": 0.919,
       "image_urls": {
@@ -47,7 +47,7 @@
       "hard_hit_pct": 58.2,
       "fb_pct": 25.0,
       "pitcher_hr_per_9": 2.053,
-      "weather_score": 0.76,
+      "weather_score": 0.757,
       "park_factor": 1.14,
       "composite_score": 0.909,
       "image_urls": {
@@ -74,9 +74,9 @@
       "hard_hit_pct": 46.1,
       "fb_pct": 31.71,
       "pitcher_hr_per_9": 1.379,
-      "weather_score": 0.961,
+      "weather_score": 0.967,
       "park_factor": 1.39,
-      "composite_score": 0.897,
+      "composite_score": 0.898,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -140,33 +140,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 682928,
-      "player_name": "CJ Abrams",
-      "team": "Washington Nationals",
-      "bat_side": "L",
-      "opposing_pitcher": "Aaron Nola",
-      "opposing_pitcher_id": 605400.0,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 10.9,
-      "iso_overall": 0.267,
-      "iso_split": 0.3,
-      "iso_blended": 0.287,
-      "hard_hit_pct": 42.6,
-      "fb_pct": 35.62,
-      "pitcher_hr_per_9": 2.053,
-      "weather_score": 0.76,
-      "park_factor": 1.14,
-      "composite_score": 0.848,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682928/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 7,
       "mlbam_id": 691406,
       "player_name": "Junior Caminero",
       "team": "Tampa Bay Rays",
@@ -182,9 +155,9 @@
       "hard_hit_pct": 50.3,
       "fb_pct": 21.62,
       "pitcher_hr_per_9": 1.376,
-      "weather_score": 0.961,
+      "weather_score": 0.967,
       "park_factor": 1.39,
-      "composite_score": 0.847,
+      "composite_score": 0.848,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -193,32 +166,34 @@
       }
     },
     {
-      "rank": 8,
-      "mlbam_id": 656941,
-      "player_name": "Kyle Schwarber",
-      "team": "Philadelphia Phillies",
+      "rank": 7,
+      "mlbam_id": 682928,
+      "player_name": "CJ Abrams",
+      "team": "Washington Nationals",
       "bat_side": "L",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400.0,
+      "pitcher_throws": "R",
       "venue_name": "Citizens Bank Park",
-      "barrel_pct": 17.6,
-      "iso_overall": 0.287,
-      "iso_split": null,
+      "barrel_pct": 10.9,
+      "iso_overall": 0.267,
+      "iso_split": 0.3,
       "iso_blended": 0.287,
-      "hard_hit_pct": 52.4,
-      "fb_pct": 26.67,
-      "pitcher_hr_per_9": null,
-      "weather_score": 0.76,
+      "hard_hit_pct": 42.6,
+      "fb_pct": 35.62,
+      "pitcher_hr_per_9": 2.053,
+      "weather_score": 0.757,
       "park_factor": 1.14,
-      "composite_score": 0.832,
+      "composite_score": 0.848,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682928/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 700250,
       "player_name": "Ben Rice",
       "team": "New York Yankees",
@@ -234,9 +209,9 @@
       "hard_hit_pct": 48.1,
       "fb_pct": 31.25,
       "pitcher_hr_per_9": 1.164,
-      "weather_score": 0.587,
+      "weather_score": 0.594,
       "park_factor": 1.18,
-      "composite_score": 0.832,
+      "composite_score": 0.833,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -245,7 +220,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 691781,
       "player_name": "Brady House",
       "team": "Washington Nationals",
@@ -261,7 +236,7 @@
       "hard_hit_pct": 46.9,
       "fb_pct": 31.25,
       "pitcher_hr_per_9": 2.053,
-      "weather_score": 0.76,
+      "weather_score": 0.757,
       "park_factor": 1.14,
       "composite_score": 0.791,
       "image_urls": {
@@ -272,7 +247,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 683748,
       "player_name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
@@ -288,9 +263,9 @@
       "hard_hit_pct": 40.0,
       "fb_pct": 37.84,
       "pitcher_hr_per_9": 1.376,
-      "weather_score": 0.961,
+      "weather_score": 0.967,
       "park_factor": 1.39,
-      "composite_score": 0.786,
+      "composite_score": 0.787,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683748/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -299,7 +274,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 664040,
       "player_name": "Brandon Lowe",
       "team": "Pittsburgh Pirates",
@@ -326,32 +301,7 @@
       }
     },
     {
-      "rank": 13,
-      "mlbam_id": 547180,
-      "player_name": "Bryce Harper",
-      "team": "Philadelphia Phillies",
-      "bat_side": "L",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 11.6,
-      "iso_overall": 0.242,
-      "iso_split": null,
-      "iso_blended": 0.242,
-      "hard_hit_pct": 45.0,
-      "fb_pct": 29.31,
-      "pitcher_hr_per_9": null,
-      "weather_score": 0.76,
-      "park_factor": 1.14,
-      "composite_score": 0.763,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/547180/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 14,
+      "rank": 12,
       "mlbam_id": 666160,
       "player_name": "Mickey Moniak",
       "team": "Colorado Rockies",
@@ -367,7 +317,7 @@
       "hard_hit_pct": 41.9,
       "fb_pct": 34.62,
       "pitcher_hr_per_9": 1.379,
-      "weather_score": 0.961,
+      "weather_score": 0.967,
       "park_factor": 1.39,
       "composite_score": 0.761,
       "image_urls": {
@@ -378,7 +328,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "mlbam_id": 660271,
       "player_name": "Shohei Ohtani",
       "team": "Los Angeles Dodgers",
@@ -394,9 +344,9 @@
       "hard_hit_pct": 54.2,
       "fb_pct": 34.43,
       "pitcher_hr_per_9": 0.818,
-      "weather_score": 0.512,
+      "weather_score": 0.532,
       "park_factor": 1.04,
-      "composite_score": 0.756,
+      "composite_score": 0.758,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
@@ -405,7 +355,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "mlbam_id": 686611,
       "player_name": "Dylan Crews",
       "team": "Washington Nationals",
@@ -421,9 +371,9 @@
       "hard_hit_pct": 44.4,
       "fb_pct": 41.51,
       "pitcher_hr_per_9": 2.053,
-      "weather_score": 0.76,
+      "weather_score": 0.757,
       "park_factor": 1.14,
-      "composite_score": 0.755,
+      "composite_score": 0.754,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686611/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
@@ -432,7 +382,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 672960,
       "player_name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
@@ -459,7 +409,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 666018,
       "player_name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
@@ -475,9 +425,9 @@
       "hard_hit_pct": 45.5,
       "fb_pct": 34.85,
       "pitcher_hr_per_9": 1.376,
-      "weather_score": 0.961,
+      "weather_score": 0.967,
       "park_factor": 1.39,
-      "composite_score": 0.752,
+      "composite_score": 0.753,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666018/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -486,7 +436,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 695734,
       "player_name": "Daylen Lile",
       "team": "Washington Nationals",
@@ -502,7 +452,7 @@
       "hard_hit_pct": 35.1,
       "fb_pct": 39.34,
       "pitcher_hr_per_9": 2.053,
-      "weather_score": 0.76,
+      "weather_score": 0.757,
       "park_factor": 1.14,
       "composite_score": 0.752,
       "image_urls": {
@@ -510,6 +460,58 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 18,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Andrew Alvarez",
+      "opposing_pitcher_id": 674841.0,
+      "pitcher_throws": "L",
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 17.6,
+      "iso_overall": 0.287,
+      "iso_split": 0.287,
+      "iso_blended": 0.287,
+      "hard_hit_pct": 52.4,
+      "fb_pct": 26.67,
+      "pitcher_hr_per_9": 0.312,
+      "weather_score": 0.757,
+      "park_factor": 1.14,
+      "composite_score": 0.743,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 691718,
+      "player_name": "Pete Crow-Armstrong",
+      "team": "Chicago Cubs",
+      "bat_side": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 11.6,
+      "iso_overall": 0.256,
+      "iso_split": null,
+      "iso_blended": 0.256,
+      "hard_hit_pct": 49.0,
+      "fb_pct": 37.5,
+      "pitcher_hr_per_9": null,
+      "weather_score": 0.532,
+      "park_factor": 1.04,
+      "composite_score": 0.735,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691718/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     },
     {
@@ -529,7 +531,7 @@
       "hard_hit_pct": 65.5,
       "fb_pct": 41.18,
       "pitcher_hr_per_9": 1.164,
-      "weather_score": 0.587,
+      "weather_score": 0.594,
       "park_factor": 1.18,
       "composite_score": 0.734,
       "image_urls": {

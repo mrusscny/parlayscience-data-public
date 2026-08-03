@@ -1,6 +1,6 @@
 {
   "date": "2026-08-03",
-  "generated_at_et": "2026-08-03 08:49:38 EDT",
+  "generated_at_et": "2026-08-03 11:48:42 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -65,6 +65,26 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 674841,
+      "pitcher_name": "Andrew Alvarez",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Philadelphia Phillies",
+      "pitcher_k_per_9": 9.052,
+      "pitcher_k_minus_bb_pct": 0.119,
+      "opp_k_rate": 0.2398,
+      "opp_games_sample": 24,
+      "score": 0.6053,
+      "game_pk": 823431,
+      "game_time_local": "6:40 PM ET",
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 700241,
       "pitcher_name": "Michael McGreevy",
       "pitcher_team": "St. Louis Cardinals",
@@ -84,7 +104,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 657277,
       "pitcher_name": "Logan Webb",
       "pitcher_team": "San Francisco Giants",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 571510,
       "pitcher_name": "Matthew Boyd",
       "pitcher_team": "Chicago Cubs",
@@ -124,7 +144,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 605400,
       "pitcher_name": "Aaron Nola",
       "pitcher_team": "Philadelphia Phillies",
@@ -144,7 +164,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 696149,
       "pitcher_name": "Bubba Chandler",
       "pitcher_team": "Pittsburgh Pirates",
@@ -164,7 +184,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "pitcher_mlbam_id": 547179,
       "pitcher_name": "Michael Lorenzen",
       "pitcher_team": "Colorado Rockies",
@@ -184,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "pitcher_mlbam_id": 650633,
       "pitcher_name": "Michael King",
       "pitcher_team": "San Diego Padres",
@@ -204,7 +224,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "pitcher_mlbam_id": 669456,
       "pitcher_name": "Shane Bieber",
       "pitcher_team": "Toronto Blue Jays",
@@ -224,7 +244,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "pitcher_mlbam_id": 694297,
       "pitcher_name": "Brandon Pfaadt",
       "pitcher_team": "Arizona Diamondbacks",
