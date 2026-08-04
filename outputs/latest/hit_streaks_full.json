@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at_et": "2026-08-04 07:54:35 EDT",
+  "generated_at_et": "2026-08-04 11:31:19 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -449,10 +449,10 @@
       "pitcher_throws": "L",
       "venue_name": "Progressive Field",
       "streak_length": 5,
-      "streak_hits": 9,
+      "streak_hits": 10,
       "streak_at_bats": 19,
-      "streak_avg": 0.474,
-      "season_avg": 0.258,
+      "streak_avg": 0.526,
+      "season_avg": 0.261,
       "last_game_date": "2026-08-02",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680757/headshot/67/current",
