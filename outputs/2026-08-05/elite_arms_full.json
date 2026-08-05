@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated_at_et": "2026-08-05 07:56:13 EDT",
+  "generated_at_et": "2026-08-05 11:24:05 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -341,6 +341,27 @@
     },
     {
       "rank": 17,
+      "pitcher_mlbam_id": 663567,
+      "pitcher_name": "Peter Lambert",
+      "pitcher_team": "Houston Astros",
+      "next_start_date": "2026-08-08",
+      "opposing_team": "San Diego Padres",
+      "fip": 3.56,
+      "era_proxy": 3.06,
+      "k_minus_bb_pct": 0.1492,
+      "k_per_9": 8.945,
+      "ip_total": 108.7,
+      "score": 0.3808,
+      "game_pk": 823267,
+      "venue": "Petco Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663567/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 18,
       "pitcher_mlbam_id": 693433,
       "pitcher_name": "Bryan Woo",
       "pitcher_team": "Seattle Mariners",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 656492,
       "pitcher_name": "Foster Griffin",
       "pitcher_team": "Cleveland Guardians",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 691587,
       "pitcher_name": "Eury P\u00e9rez",
       "pitcher_team": "Miami Marlins",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691587/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 669160,
-      "pitcher_name": "Dustin May",
-      "pitcher_team": "Milwaukee Brewers",
-      "next_start_date": "2026-08-06",
-      "opposing_team": "Pittsburgh Pirates",
-      "fip": 2.953,
-      "era_proxy": 4.38,
-      "k_minus_bb_pct": 0.1547,
-      "k_per_9": 8.752,
-      "ip_total": 109.0,
-      "score": 0.3557,
-      "game_pk": 823754,
-      "venue": "American Family Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     }
   ]
