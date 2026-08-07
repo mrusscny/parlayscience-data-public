@@ -1,0 +1,107 @@
+{
+  "date": "2026-08-07",
+  "generated_at_et": "2026-08-07 09:59:15 EDT",
+  "concept": "zone_attack",
+  "items": [
+    {
+      "rank": 1,
+      "batter_mlbam_id": 622268,
+      "batter_name": "Donovan Walton",
+      "batter_team": "Athletics",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 801139,
+      "pitcher_name": "Payton Tolle",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.892,
+      "batter_slg": 0.675,
+      "batter_woba_contact": 0.428,
+      "batter_ab_vs_pitch": 40,
+      "batter_barrel_pct": 4.1,
+      "batter_season_slg_overall": 0.446,
+      "matchup_strength": 0.6019,
+      "venue_name": "Fenway Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622268/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "batter_mlbam_id": 699013,
+      "batter_name": "Esmerlyn Valdez",
+      "batter_team": "Pittsburgh Pirates",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 804267,
+      "pitcher_name": "Zac Thornton",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.665,
+      "batter_slg": 0.756,
+      "batter_woba_contact": 0.464,
+      "batter_ab_vs_pitch": 78,
+      "batter_barrel_pct": 24.1,
+      "batter_season_slg_overall": 0.595,
+      "matchup_strength": 0.5031,
+      "venue_name": "PNC Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804267/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "batter_mlbam_id": 592626,
+      "batter_name": "Joc Pederson",
+      "batter_team": "Texas Rangers",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 669358,
+      "pitcher_name": "Shane Baz",
+      "pitcher_throws": "R",
+      "pitch_type": "Curveball",
+      "pitcher_usage_pct": 0.331,
+      "batter_slg": 0.733,
+      "batter_woba_contact": 0.458,
+      "batter_ab_vs_pitch": 15,
+      "batter_barrel_pct": 11.1,
+      "batter_season_slg_overall": 0.5,
+      "matchup_strength": 0.243,
+      "venue_name": "Globe Life Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592626/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669358/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "batter_mlbam_id": 607208,
+      "batter_name": "Trea Turner",
+      "batter_team": "Philadelphia Phillies",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 667755,
+      "pitcher_name": "Jos\u00e9 Soriano",
+      "pitcher_throws": "R",
+      "pitch_type": "Curveball",
+      "pitcher_usage_pct": 0.271,
+      "batter_slg": 0.722,
+      "batter_woba_contact": 0.477,
+      "batter_ab_vs_pitch": 18,
+      "batter_barrel_pct": 6.4,
+      "batter_season_slg_overall": 0.402,
+      "matchup_strength": 0.1954,
+      "venue_name": "Citizens Bank Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607208/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667755/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    }
+  ]
+}
