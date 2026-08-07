@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at_et": "2026-08-07 09:59:45 EDT",
+  "generated_at_et": "2026-08-07 11:40:31 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -13,7 +13,7 @@
       "pitcher_k_minus_bb_pct": 0.1825,
       "opp_k_rate": 0.2658,
       "opp_games_sample": 24,
-      "score": 0.886,
+      "score": 0.9165,
       "game_pk": 822699,
       "game_time_local": "6:45 PM ET",
       "venue": "Nationals Park",
@@ -33,7 +33,7 @@
       "pitcher_k_minus_bb_pct": 0.197,
       "opp_k_rate": 0.25,
       "opp_games_sample": 23,
-      "score": 0.7728,
+      "score": 0.8092,
       "game_pk": 822863,
       "game_time_local": "8:15 PM ET",
       "venue": "Globe Life Field",
@@ -53,7 +53,7 @@
       "pitcher_k_minus_bb_pct": 0.1764,
       "opp_k_rate": 0.2489,
       "opp_games_sample": 24,
-      "score": 0.6992,
+      "score": 0.7535,
       "game_pk": 824566,
       "game_time_local": "7:40 PM ET",
       "venue": "Rate Field",
@@ -65,6 +65,46 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 641816,
+      "pitcher_name": "Tyler Mahle",
+      "pitcher_team": "Atlanta Braves",
+      "opposing_team": "New York Yankees",
+      "pitcher_k_per_9": 8.461,
+      "pitcher_k_minus_bb_pct": 0.1287,
+      "opp_k_rate": 0.2514,
+      "opp_games_sample": 24,
+      "score": 0.7362,
+      "game_pk": 823515,
+      "game_time_local": "7:05 PM ET",
+      "venue": "Yankee Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641816/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "pitcher_mlbam_id": 801139,
+      "pitcher_name": "Payton Tolle",
+      "pitcher_team": "Boston Red Sox",
+      "opposing_team": "Athletics",
+      "pitcher_k_per_9": 9.802,
+      "pitcher_k_minus_bb_pct": 0.1952,
+      "opp_k_rate": 0.2276,
+      "opp_games_sample": 24,
+      "score": 0.6995,
+      "game_pk": 824727,
+      "game_time_local": "7:10 PM ET",
+      "venue": "Fenway Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    },
+    {
+      "rank": 6,
       "pitcher_mlbam_id": 678022,
       "pitcher_name": "Jack Perkins",
       "pitcher_team": "Athletics",
@@ -84,46 +124,6 @@
       }
     },
     {
-      "rank": 5,
-      "pitcher_mlbam_id": 641816,
-      "pitcher_name": "Tyler Mahle",
-      "pitcher_team": "Atlanta Braves",
-      "opposing_team": "New York Yankees",
-      "pitcher_k_per_9": 8.461,
-      "pitcher_k_minus_bb_pct": 0.1287,
-      "opp_k_rate": 0.2514,
-      "opp_games_sample": 24,
-      "score": 0.6703,
-      "game_pk": 823515,
-      "game_time_local": "7:05 PM ET",
-      "venue": "Yankee Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641816/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 6,
-      "pitcher_mlbam_id": 801139,
-      "pitcher_name": "Payton Tolle",
-      "pitcher_team": "Boston Red Sox",
-      "opposing_team": "Athletics",
-      "pitcher_k_per_9": 9.802,
-      "pitcher_k_minus_bb_pct": 0.1952,
-      "opp_k_rate": 0.2276,
-      "opp_games_sample": 24,
-      "score": 0.6702,
-      "game_pk": 824727,
-      "game_time_local": "7:10 PM ET",
-      "venue": "Fenway Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
       "rank": 7,
       "pitcher_mlbam_id": 669358,
       "pitcher_name": "Shane Baz",
@@ -133,7 +133,7 @@
       "pitcher_k_minus_bb_pct": 0.1198,
       "opp_k_rate": 0.2523,
       "opp_games_sample": 24,
-      "score": 0.6063,
+      "score": 0.6907,
       "game_pk": 822863,
       "game_time_local": "8:15 PM ET",
       "venue": "Globe Life Field",
@@ -145,22 +145,22 @@
     },
     {
       "rank": 8,
-      "pitcher_mlbam_id": 667755,
-      "pitcher_name": "Jos\u00e9 Soriano",
-      "pitcher_team": "Toronto Blue Jays",
-      "opposing_team": "Philadelphia Phillies",
-      "pitcher_k_per_9": 9.293,
-      "pitcher_k_minus_bb_pct": 0.137,
-      "opp_k_rate": 0.2196,
+      "pitcher_mlbam_id": 669387,
+      "pitcher_name": "Carmen Mlodzinski",
+      "pitcher_team": "Pittsburgh Pirates",
+      "opposing_team": "New York Mets",
+      "pitcher_k_per_9": 7.251,
+      "pitcher_k_minus_bb_pct": 0.1119,
+      "opp_k_rate": 0.2519,
       "opp_games_sample": 24,
-      "score": 0.572,
-      "game_pk": 823428,
+      "score": 0.6484,
+      "game_pk": 823349,
       "game_time_local": "6:40 PM ET",
-      "venue": "Citizens Bank Park",
+      "venue": "PNC Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667755/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669387/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
     }
   ]
