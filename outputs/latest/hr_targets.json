@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at_et": "2026-08-12 06:49:53 EDT",
+  "generated_at_et": "2026-08-12 10:23:40 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -74,9 +74,9 @@
       "hard_hit_pct": 40.4,
       "fb_pct": 44.68,
       "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.818,
+      "weather_score": 0.857,
       "park_factor": 0.95,
-      "composite_score": 0.84,
+      "composite_score": 0.844,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683748/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
@@ -101,9 +101,9 @@
       "hard_hit_pct": 56.4,
       "fb_pct": 33.85,
       "pitcher_hr_per_9": 1.779,
-      "weather_score": 0.865,
+      "weather_score": 0.898,
       "park_factor": 0.97,
-      "composite_score": 0.836,
+      "composite_score": 0.839,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624413/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
@@ -113,6 +113,33 @@
     },
     {
       "rank": 5,
+      "mlbam_id": 691406,
+      "player_name": "Junior Caminero",
+      "team": "Tampa Bay Rays",
+      "bat_side": "R",
+      "opposing_pitcher": "Jack Perkins",
+      "opposing_pitcher_id": 678022.0,
+      "pitcher_throws": "R",
+      "venue_name": "Sutter Health Park",
+      "barrel_pct": 14.0,
+      "iso_overall": 0.277,
+      "iso_split": 0.297,
+      "iso_blended": 0.289,
+      "hard_hit_pct": 51.1,
+      "fb_pct": 25.64,
+      "pitcher_hr_per_9": 1.761,
+      "weather_score": 0.857,
+      "park_factor": 0.95,
+      "composite_score": 0.822,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678022/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+      }
+    },
+    {
+      "rank": 6,
       "mlbam_id": 671277,
       "player_name": "Luis Garc\u00eda Jr.",
       "team": "New York Yankees",
@@ -139,33 +166,6 @@
       }
     },
     {
-      "rank": 6,
-      "mlbam_id": 691406,
-      "player_name": "Junior Caminero",
-      "team": "Tampa Bay Rays",
-      "bat_side": "R",
-      "opposing_pitcher": "Jack Perkins",
-      "opposing_pitcher_id": 678022.0,
-      "pitcher_throws": "R",
-      "venue_name": "Sutter Health Park",
-      "barrel_pct": 14.0,
-      "iso_overall": 0.277,
-      "iso_split": 0.297,
-      "iso_blended": 0.289,
-      "hard_hit_pct": 51.1,
-      "fb_pct": 25.64,
-      "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.818,
-      "park_factor": 0.95,
-      "composite_score": 0.818,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678022/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
       "rank": 7,
       "mlbam_id": 808959,
       "player_name": "Munetaka Murakami",
@@ -182,9 +182,9 @@
       "hard_hit_pct": 59.6,
       "fb_pct": 37.74,
       "pitcher_hr_per_9": 1.112,
-      "weather_score": 0.635,
+      "weather_score": 0.611,
       "park_factor": 1.08,
-      "composite_score": 0.816,
+      "composite_score": 0.814,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
