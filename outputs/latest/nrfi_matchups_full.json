@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generated_at_et": "2026-08-14 06:51:49 EDT",
+  "generated_at_et": "2026-08-14 10:24:26 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -542,7 +542,7 @@
       "opposing_team_nrfi_rate": 0.577,
       "opposing_team_games_evaluated": 26,
       "pitcher_composite_score": 0.335,
-      "game_nrfi_score": 0.425,
+      "game_nrfi_score": 0.439,
       "venue_name": "Wrigley Field",
       "game_time_et": "2:20 PM ET",
       "image_urls": {
@@ -559,14 +559,14 @@
       "pitcher_name": "Clay Holmes",
       "pitcher_team": "Chicago Cubs",
       "pitcher_throws": "R",
-      "pitcher_first_inning_era": 2.61,
+      "pitcher_first_inning_era": 2.0,
       "pitcher_l10_nrfi_rate": 0.0,
       "pitcher_l10_starts_evaluated": 1,
       "opposing_team": "St. Louis Cardinals",
       "opposing_team_nrfi_rate": 0.769,
       "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.515,
-      "game_nrfi_score": 0.425,
+      "pitcher_composite_score": 0.542,
+      "game_nrfi_score": 0.439,
       "venue_name": "Wrigley Field",
       "game_time_et": "2:20 PM ET",
       "image_urls": {
