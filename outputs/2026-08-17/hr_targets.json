@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated_at_et": "2026-08-17 06:20:42 EDT",
+  "generated_at_et": "2026-08-17 09:43:03 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -74,9 +74,9 @@
       "hard_hit_pct": 60.1,
       "fb_pct": 40.0,
       "pitcher_hr_per_9": 1.835,
-      "weather_score": 0.56,
+      "weather_score": 0.54,
       "park_factor": 1.04,
-      "composite_score": 0.874,
+      "composite_score": 0.872,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -140,33 +140,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 656941,
-      "player_name": "Kyle Schwarber",
-      "team": "Philadelphia Phillies",
-      "bat_side": "L",
-      "opposing_pitcher": "Janson Junk",
-      "opposing_pitcher_id": 676083.0,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 17.8,
-      "iso_overall": 0.29,
-      "iso_split": 0.302,
-      "iso_blended": 0.297,
-      "hard_hit_pct": 52.3,
-      "fb_pct": 29.63,
-      "pitcher_hr_per_9": 1.232,
-      "weather_score": 0.923,
-      "park_factor": 1.14,
-      "composite_score": 0.858,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676083/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 7,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -182,14 +155,41 @@
       "hard_hit_pct": 46.3,
       "fb_pct": 36.25,
       "pitcher_hr_per_9": 1.835,
-      "weather_score": 0.56,
+      "weather_score": 0.54,
       "park_factor": 1.04,
-      "composite_score": 0.858,
+      "composite_score": 0.856,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Janson Junk",
+      "opposing_pitcher_id": 676083.0,
+      "pitcher_throws": "R",
+      "venue_name": "Citizens Bank Park",
+      "barrel_pct": 17.8,
+      "iso_overall": 0.29,
+      "iso_split": 0.302,
+      "iso_blended": 0.297,
+      "hard_hit_pct": 52.3,
+      "fb_pct": 29.63,
+      "pitcher_hr_per_9": 1.232,
+      "weather_score": 0.899,
+      "park_factor": 1.14,
+      "composite_score": 0.855,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676083/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
       }
     },
     {
@@ -209,9 +209,9 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 38.03,
       "pitcher_hr_per_9": 1.545,
-      "weather_score": 0.831,
+      "weather_score": 0.837,
       "park_factor": 0.97,
-      "composite_score": 0.848,
+      "composite_score": 0.849,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
