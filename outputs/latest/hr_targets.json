@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at_et": "2026-08-19 06:19:55 EDT",
+  "generated_at_et": "2026-08-19 09:49:47 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -32,6 +32,60 @@
     },
     {
       "rank": 2,
+      "mlbam_id": 660271,
+      "player_name": "Shohei Ohtani",
+      "team": "Los Angeles Dodgers",
+      "bat_side": "L",
+      "opposing_pitcher": "Kyle Freeland",
+      "opposing_pitcher_id": 607536.0,
+      "pitcher_throws": "L",
+      "venue_name": "Coors Field",
+      "barrel_pct": 16.6,
+      "iso_overall": 0.261,
+      "iso_split": 0.283,
+      "iso_blended": 0.274,
+      "hard_hit_pct": 52.6,
+      "fb_pct": 28.38,
+      "pitcher_hr_per_9": 1.641,
+      "weather_score": 0.988,
+      "park_factor": 1.39,
+      "composite_score": 0.92,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 571970,
+      "player_name": "Max Muncy",
+      "team": "Los Angeles Dodgers",
+      "bat_side": "L",
+      "opposing_pitcher": "Kyle Freeland",
+      "opposing_pitcher_id": 607536.0,
+      "pitcher_throws": "L",
+      "venue_name": "Coors Field",
+      "barrel_pct": 14.1,
+      "iso_overall": 0.249,
+      "iso_split": 0.25,
+      "iso_blended": 0.25,
+      "hard_hit_pct": 45.9,
+      "fb_pct": 35.42,
+      "pitcher_hr_per_9": 1.641,
+      "weather_score": 0.988,
+      "park_factor": 1.39,
+      "composite_score": 0.915,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571970/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 4,
       "mlbam_id": 683357,
       "player_name": "Owen Caissie",
       "team": "Miami Marlins",
@@ -58,61 +112,34 @@
       }
     },
     {
-      "rank": 3,
-      "mlbam_id": 660271,
-      "player_name": "Shohei Ohtani",
-      "team": "Los Angeles Dodgers",
-      "bat_side": "L",
-      "opposing_pitcher": "Kyle Freeland",
-      "opposing_pitcher_id": 607536.0,
-      "pitcher_throws": "L",
-      "venue_name": "Coors Field",
-      "barrel_pct": 16.6,
-      "iso_overall": 0.261,
-      "iso_split": 0.283,
-      "iso_blended": 0.274,
-      "hard_hit_pct": 52.6,
-      "fb_pct": 28.38,
-      "pitcher_hr_per_9": 1.641,
-      "weather_score": 0.5,
-      "park_factor": 1.39,
-      "composite_score": 0.871,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 4,
-      "mlbam_id": 571970,
-      "player_name": "Max Muncy",
-      "team": "Los Angeles Dodgers",
-      "bat_side": "L",
-      "opposing_pitcher": "Kyle Freeland",
-      "opposing_pitcher_id": 607536.0,
-      "pitcher_throws": "L",
-      "venue_name": "Coors Field",
-      "barrel_pct": 14.1,
-      "iso_overall": 0.249,
-      "iso_split": 0.25,
-      "iso_blended": 0.25,
-      "hard_hit_pct": 45.9,
-      "fb_pct": 35.42,
-      "pitcher_hr_per_9": 1.641,
-      "weather_score": 0.5,
-      "park_factor": 1.39,
-      "composite_score": 0.867,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571970/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
       "rank": 5,
+      "mlbam_id": 666160,
+      "player_name": "Mickey Moniak",
+      "team": "Colorado Rockies",
+      "bat_side": "L",
+      "opposing_pitcher": "Roki Sasaki",
+      "opposing_pitcher_id": 808963.0,
+      "pitcher_throws": "R",
+      "venue_name": "Coors Field",
+      "barrel_pct": 11.0,
+      "iso_overall": 0.268,
+      "iso_split": 0.294,
+      "iso_blended": 0.284,
+      "hard_hit_pct": 41.6,
+      "fb_pct": 36.36,
+      "pitcher_hr_per_9": 1.703,
+      "weather_score": 0.988,
+      "park_factor": 1.39,
+      "composite_score": 0.862,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666160/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808963/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 6,
       "mlbam_id": 699013,
       "player_name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
@@ -128,9 +155,9 @@
       "hard_hit_pct": 49.1,
       "fb_pct": 41.67,
       "pitcher_hr_per_9": 2.077,
-      "weather_score": 0.681,
+      "weather_score": 0.654,
       "park_factor": 0.89,
-      "composite_score": 0.859,
+      "composite_score": 0.856,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -139,7 +166,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -155,9 +182,9 @@
       "hard_hit_pct": 51.5,
       "fb_pct": 24.29,
       "pitcher_hr_per_9": 1.513,
-      "weather_score": 0.812,
+      "weather_score": 0.877,
       "park_factor": 1.24,
-      "composite_score": 0.849,
+      "composite_score": 0.856,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -166,7 +193,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mlbam_id": 681715,
       "player_name": "Heriberto Hern\u00e1ndez",
       "team": "Miami Marlins",
@@ -190,33 +217,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "mlbam_id": 694673,
-      "player_name": "Abimelec Ortiz",
-      "team": "Washington Nationals",
-      "bat_side": "L",
-      "opposing_pitcher": "Kumar Rocker",
-      "opposing_pitcher_id": 677958.0,
-      "pitcher_throws": "R",
-      "venue_name": "Globe Life Field",
-      "barrel_pct": 20.0,
-      "iso_overall": 0.4,
-      "iso_split": 0.4,
-      "iso_blended": 0.4,
-      "hard_hit_pct": 50.0,
-      "fb_pct": 42.86,
-      "pitcher_hr_per_9": 1.241,
-      "weather_score": 0.5,
-      "park_factor": 1.1,
-      "composite_score": 0.831,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694673/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677958/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]
