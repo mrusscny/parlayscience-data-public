@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at_et": "2026-08-20 06:19:43 EDT",
+  "generated_at_et": "2026-08-20 09:52:44 EDT",
   "concept": "hr_targets_full",
   "items": [
     {
@@ -59,33 +59,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 677592,
-      "player_name": "Everson Pereira",
-      "team": "St. Louis Cardinals",
-      "bat_side": "R",
-      "opposing_pitcher": "Brady Singer",
-      "opposing_pitcher_id": 663903,
-      "pitcher_throws": "R",
-      "venue_name": "Great American Ball Park",
-      "barrel_pct": 13.3,
-      "iso_overall": 0.213,
-      "iso_split": 0.216,
-      "iso_blended": 0.215,
-      "hard_hit_pct": 41.7,
-      "fb_pct": 30.77,
-      "pitcher_hr_per_9": 1.719,
-      "weather_score": 0.5,
-      "park_factor": 1.24,
-      "composite_score": 0.821,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677592/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -112,7 +85,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 691023,
       "player_name": "Jordan Walker",
       "team": "St. Louis Cardinals",
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 665953,
       "player_name": "Andr\u00e9s Chaparro",
       "team": "Washington Nationals",
@@ -220,7 +193,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 676475,
       "player_name": "Alec Burleson",
       "team": "St. Louis Cardinals",
@@ -247,7 +220,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 691406,
       "player_name": "Junior Caminero",
       "team": "Tampa Bay Rays",
@@ -274,7 +247,88 @@
       }
     },
     {
+      "rank": 10,
+      "mlbam_id": 700250,
+      "player_name": "Ben Rice",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Kyle Bradish",
+      "opposing_pitcher_id": 680694,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 15.0,
+      "iso_overall": 0.283,
+      "iso_split": 0.314,
+      "iso_blended": 0.302,
+      "hard_hit_pct": 48.6,
+      "fb_pct": 35.48,
+      "pitcher_hr_per_9": 0.88,
+      "weather_score": 0.892,
+      "park_factor": 0.96,
+      "composite_score": 0.78,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680694/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
       "rank": 11,
+      "mlbam_id": 624413,
+      "player_name": "Pete Alonso",
+      "team": "Baltimore Orioles",
+      "bat_side": "R",
+      "opposing_pitcher": "Gerrit Cole",
+      "opposing_pitcher_id": 543037,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 13.9,
+      "iso_overall": 0.231,
+      "iso_split": 0.249,
+      "iso_blended": 0.242,
+      "hard_hit_pct": 56.2,
+      "fb_pct": 32.5,
+      "pitcher_hr_per_9": 1.142,
+      "weather_score": 0.892,
+      "park_factor": 0.96,
+      "composite_score": 0.771,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624413/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 12,
+      "mlbam_id": 687952,
+      "player_name": "Christian Encarnacion-Strand",
+      "team": "Baltimore Orioles",
+      "bat_side": "R",
+      "opposing_pitcher": "Gerrit Cole",
+      "opposing_pitcher_id": 543037,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 18.8,
+      "iso_overall": 0.259,
+      "iso_split": 0.167,
+      "iso_blended": 0.204,
+      "hard_hit_pct": 42.2,
+      "fb_pct": 31.03,
+      "pitcher_hr_per_9": 1.142,
+      "weather_score": 0.892,
+      "park_factor": 0.96,
+      "composite_score": 0.76,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687952/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 13,
       "mlbam_id": 701398,
       "player_name": "Sal Stewart",
       "team": "Cincinnati Reds",
@@ -301,7 +355,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 14,
       "mlbam_id": 686527,
       "player_name": "Dominic Canzone",
       "team": "Seattle Mariners",
@@ -328,7 +382,34 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 15,
+      "mlbam_id": 694212,
+      "player_name": "Samuel Basallo",
+      "team": "Baltimore Orioles",
+      "bat_side": "L",
+      "opposing_pitcher": "Gerrit Cole",
+      "opposing_pitcher_id": 543037,
+      "pitcher_throws": "R",
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 12.9,
+      "iso_overall": 0.207,
+      "iso_split": 0.254,
+      "iso_blended": 0.235,
+      "hard_hit_pct": 45.5,
+      "fb_pct": 35.0,
+      "pitcher_hr_per_9": 1.142,
+      "weather_score": 0.892,
+      "park_factor": 0.96,
+      "composite_score": 0.751,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694212/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 16,
       "mlbam_id": 682674,
       "player_name": "Victor Bericoto",
       "team": "San Francisco Giants",
@@ -355,34 +436,7 @@
       }
     },
     {
-      "rank": 14,
-      "mlbam_id": 700250,
-      "player_name": "Ben Rice",
-      "team": "New York Yankees",
-      "bat_side": "L",
-      "opposing_pitcher": "Kyle Bradish",
-      "opposing_pitcher_id": 680694,
-      "pitcher_throws": "R",
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 15.0,
-      "iso_overall": 0.283,
-      "iso_split": 0.314,
-      "iso_blended": 0.302,
-      "hard_hit_pct": 48.6,
-      "fb_pct": 35.48,
-      "pitcher_hr_per_9": 0.88,
-      "weather_score": 0.5,
-      "park_factor": 0.96,
-      "composite_score": 0.74,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680694/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
-      }
-    },
-    {
-      "rank": 15,
+      "rank": 17,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -409,7 +463,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 18,
       "mlbam_id": 663886,
       "player_name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
@@ -436,7 +490,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 19,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -463,7 +517,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 20,
       "mlbam_id": 553993,
       "player_name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
@@ -487,60 +541,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700241/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "mlbam_id": 646240,
-      "player_name": "Rafael Devers",
-      "team": "San Francisco Giants",
-      "bat_side": "L",
-      "opposing_pitcher": "Gavin Williams",
-      "opposing_pitcher_id": 668909,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "barrel_pct": 10.7,
-      "iso_overall": 0.227,
-      "iso_split": 0.286,
-      "iso_blended": 0.262,
-      "hard_hit_pct": 50.9,
-      "fb_pct": 34.67,
-      "pitcher_hr_per_9": 1.45,
-      "weather_score": 0.5,
-      "park_factor": 1.04,
-      "composite_score": 0.733,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/646240/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 624413,
-      "player_name": "Pete Alonso",
-      "team": "Baltimore Orioles",
-      "bat_side": "R",
-      "opposing_pitcher": "Gerrit Cole",
-      "opposing_pitcher_id": 543037,
-      "pitcher_throws": "R",
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 13.9,
-      "iso_overall": 0.231,
-      "iso_split": 0.249,
-      "iso_blended": 0.242,
-      "hard_hit_pct": 56.2,
-      "fb_pct": 32.5,
-      "pitcher_hr_per_9": 1.142,
-      "weather_score": 0.5,
-      "park_factor": 0.96,
-      "composite_score": 0.732,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624413/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     }
   ]

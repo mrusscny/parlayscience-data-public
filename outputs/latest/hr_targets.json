@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at_et": "2026-08-20 06:18:41 EDT",
+  "generated_at_et": "2026-08-20 09:51:56 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 60.2,
       "fb_pct": 34.92,
       "pitcher_hr_per_9": 1.453,
-      "weather_score": 0.56,
+      "weather_score": 0.593,
       "park_factor": 1.08,
-      "composite_score": 0.837,
+      "composite_score": 0.84,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -59,33 +59,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 677592,
-      "player_name": "Everson Pereira",
-      "team": "St. Louis Cardinals",
-      "bat_side": "R",
-      "opposing_pitcher": "Brady Singer",
-      "opposing_pitcher_id": 663903,
-      "pitcher_throws": "R",
-      "venue_name": "Great American Ball Park",
-      "barrel_pct": 13.3,
-      "iso_overall": 0.213,
-      "iso_split": 0.216,
-      "iso_blended": 0.215,
-      "hard_hit_pct": 41.7,
-      "fb_pct": 30.77,
-      "pitcher_hr_per_9": 1.719,
-      "weather_score": 0.518,
-      "park_factor": 1.24,
-      "composite_score": 0.823,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677592/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -101,9 +74,9 @@
       "hard_hit_pct": 46.3,
       "fb_pct": 37.18,
       "pitcher_hr_per_9": 1.453,
-      "weather_score": 0.56,
+      "weather_score": 0.593,
       "park_factor": 1.08,
-      "composite_score": 0.819,
+      "composite_score": 0.822,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -112,7 +85,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -128,9 +101,9 @@
       "hard_hit_pct": 50.1,
       "fb_pct": 38.03,
       "pitcher_hr_per_9": 1.187,
-      "weather_score": 0.56,
+      "weather_score": 0.593,
       "park_factor": 1.08,
-      "composite_score": 0.816,
+      "composite_score": 0.82,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 691023,
       "player_name": "Jordan Walker",
       "team": "St. Louis Cardinals",
@@ -155,9 +128,9 @@
       "hard_hit_pct": 47.8,
       "fb_pct": 29.27,
       "pitcher_hr_per_9": 1.719,
-      "weather_score": 0.518,
+      "weather_score": 0.564,
       "park_factor": 1.24,
-      "composite_score": 0.811,
+      "composite_score": 0.816,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 676475,
       "player_name": "Alec Burleson",
       "team": "St. Louis Cardinals",
@@ -209,14 +182,41 @@
       "hard_hit_pct": 49.6,
       "fb_pct": 23.46,
       "pitcher_hr_per_9": 1.719,
-      "weather_score": 0.518,
+      "weather_score": 0.564,
       "park_factor": 1.24,
-      "composite_score": 0.789,
+      "composite_score": 0.793,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676475/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 665953,
+      "player_name": "Andr\u00e9s Chaparro",
+      "team": "Washington Nationals",
+      "bat_side": "R",
+      "opposing_pitcher": "Jacob deGrom",
+      "opposing_pitcher_id": 594798,
+      "pitcher_throws": "R",
+      "venue_name": "Globe Life Field",
+      "barrel_pct": 13.6,
+      "iso_overall": 0.293,
+      "iso_split": 0.428,
+      "iso_blended": 0.374,
+      "hard_hit_pct": 48.1,
+      "fb_pct": 33.33,
+      "pitcher_hr_per_9": 1.268,
+      "weather_score": 0.5,
+      "park_factor": 1.1,
+      "composite_score": 0.787,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665953/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/594798/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]
