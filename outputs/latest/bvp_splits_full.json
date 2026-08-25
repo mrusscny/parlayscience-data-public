@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at_et": "2026-08-25 06:25:24 EDT",
+  "generated_at_et": "2026-08-25 10:00:41 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -430,6 +430,31 @@
     },
     {
       "rank": 18,
+      "mlbam_id": 607043,
+      "player_name": "Brandon Nimmo",
+      "team": "Texas Rangers",
+      "bat_side": "L",
+      "opposing_pitcher": "Anthony Kay",
+      "opposing_pitcher_id": 641743,
+      "pitcher_throws": "L",
+      "venue_name": "Rate Field",
+      "career_ab": 15,
+      "career_h": 4,
+      "career_hr": 0,
+      "career_avg": 0.267,
+      "career_ops": 0.62,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.267,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607043/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/641743/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 19,
       "mlbam_id": 641680,
       "player_name": "Jonah Heim",
       "team": "Athletics",
@@ -454,7 +479,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "mlbam_id": 660821,
       "player_name": "Jes\u00fas S\u00e1nchez",
       "team": "Toronto Blue Jays",
@@ -476,31 +501,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607625/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 670770,
-      "player_name": "TJ Friedl",
-      "team": "Cincinnati Reds",
-      "bat_side": "L",
-      "opposing_pitcher": "Adrian Houser",
-      "opposing_pitcher_id": 605288,
-      "pitcher_throws": "R",
-      "venue_name": "Oracle Park",
-      "career_ab": 11,
-      "career_h": 3,
-      "career_hr": 0,
-      "career_avg": 0.273,
-      "career_ops": 0.523,
-      "career_xbh": 0,
-      "career_rbi": 1,
-      "career_slg": 0.273,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/670770/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605288/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]
