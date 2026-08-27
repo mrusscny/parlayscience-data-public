@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at_et": "2026-08-27 13:59:21 EDT",
+  "generated_at_et": "2026-08-27 16:03:27 EDT",
   "concept": "power_sluggers",
   "items": [
     {
@@ -105,27 +105,27 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 641343,
-      "player_name": "Jake Bauers",
-      "team": "Milwaukee Brewers",
-      "opposing_pitcher": "Sean Manaea",
-      "opposing_pitcher_id": 640455,
-      "venue_name": "Citi Field",
-      "barrel_pct": 13.9,
-      "fb_pct": 35.71,
-      "avg_exit_velo": 92.4,
-      "hard_hit_pct": 53.0,
-      "pitcher_hr_per_9": 1.462,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.853,
-      "threshold_bonus": 0.05,
+      "mlbam_id": 646240,
+      "player_name": "Rafael Devers",
+      "team": "San Francisco Giants",
+      "opposing_pitcher": "Jose Cabrera",
+      "opposing_pitcher_id": 703615,
+      "venue_name": "Oracle Park",
+      "barrel_pct": 11.1,
+      "fb_pct": 39.47,
+      "avg_exit_velo": 92.7,
+      "hard_hit_pct": 50.7,
+      "pitcher_hr_per_9": 1.528,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.803,
+      "threshold_bonus": 0.1,
       "final_score": 0.903,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/640455/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/646240/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/703615/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
       }
     }
   ]

@@ -1,35 +1,10 @@
 {
   "date": "2026-08-27",
-  "generated_at_et": "2026-08-27 14:01:09 EDT",
+  "generated_at_et": "2026-08-27 16:04:07 EDT",
   "concept": "zone_attack",
   "items": [
     {
       "rank": 1,
-      "batter_mlbam_id": 620443,
-      "batter_name": "Luis Torrens",
-      "batter_team": "New York Mets",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 694819,
-      "pitcher_name": "Jacob Misiorowski",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.756,
-      "batter_slg": 0.75,
-      "batter_woba_contact": 0.49,
-      "batter_ab_vs_pitch": 44,
-      "batter_barrel_pct": 5.8,
-      "batter_season_slg_overall": 0.406,
-      "matchup_strength": 0.5668,
-      "venue_name": "Citi Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/620443/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 2,
       "batter_mlbam_id": 665953,
       "batter_name": "Andr\u00e9s Chaparro",
       "batter_team": "Washington Nationals",
@@ -51,6 +26,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687312/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "batter_mlbam_id": 673357,
+      "batter_name": "Luis Robert Jr.",
+      "batter_team": "New York Mets",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.756,
+      "batter_slg": 0.652,
+      "batter_woba_contact": 0.395,
+      "batter_ab_vs_pitch": 66,
+      "batter_barrel_pct": 8.9,
+      "batter_season_slg_overall": 0.42,
+      "matchup_strength": 0.4923,
+      "venue_name": "Citi Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673357/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     },
     {

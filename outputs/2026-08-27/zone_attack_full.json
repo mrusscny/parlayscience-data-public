@@ -1,35 +1,10 @@
 {
   "date": "2026-08-27",
-  "generated_at_et": "2026-08-27 14:01:10 EDT",
+  "generated_at_et": "2026-08-27 16:04:08 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
       "rank": 1,
-      "batter_mlbam_id": 620443,
-      "batter_name": "Luis Torrens",
-      "batter_team": "New York Mets",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 694819,
-      "pitcher_name": "Jacob Misiorowski",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.756,
-      "batter_slg": 0.75,
-      "batter_woba_contact": 0.49,
-      "batter_ab_vs_pitch": 44,
-      "batter_barrel_pct": 5.8,
-      "batter_season_slg_overall": 0.406,
-      "matchup_strength": 0.5668,
-      "venue_name": "Citi Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/620443/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 2,
       "batter_mlbam_id": 665953,
       "batter_name": "Andr\u00e9s Chaparro",
       "batter_team": "Washington Nationals",
@@ -54,7 +29,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "batter_mlbam_id": 673357,
       "batter_name": "Luis Robert Jr.",
       "batter_team": "New York Mets",
@@ -79,7 +54,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "batter_mlbam_id": 543760,
       "batter_name": "Marcus Semien",
       "batter_team": "New York Mets",
@@ -104,7 +79,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "batter_mlbam_id": 701807,
       "batter_name": "Carson Benge",
       "batter_team": "New York Mets",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "batter_mlbam_id": 671277,
       "batter_name": "Luis Garc\u00eda Jr.",
       "batter_team": "New York Yankees",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "batter_mlbam_id": 670541,
       "batter_name": "Yordan Alvarez",
       "batter_team": "Houston Astros",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "batter_mlbam_id": 596142,
       "batter_name": "Gary S\u00e1nchez",
       "batter_team": "Milwaukee Brewers",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 683146,
       "batter_name": "Brett Baty",
       "batter_team": "New York Mets",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 683734,
       "batter_name": "Andrew Vaughn",
       "batter_team": "Milwaukee Brewers",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 646240,
       "batter_name": "Rafael Devers",
       "batter_team": "San Francisco Giants",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 621566,
       "batter_name": "Matt Olson",
       "batter_team": "Atlanta Braves",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 682987,
       "batter_name": "Spencer Jones",
       "batter_team": "New York Yankees",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 700250,
       "batter_name": "Ben Rice",
       "batter_team": "New York Yankees",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "batter_mlbam_id": 676475,
       "batter_name": "Alec Burleson",
       "batter_team": "St. Louis Cardinals",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "batter_mlbam_id": 665161,
       "batter_name": "Jeremy Pe\u00f1a",
       "batter_team": "Houston Astros",
@@ -404,32 +379,7 @@
       }
     },
     {
-      "rank": 17,
-      "batter_mlbam_id": 571970,
-      "batter_name": "Max Muncy",
-      "batter_team": "Los Angeles Dodgers",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 519242,
-      "pitcher_name": "Chris Sale",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.521,
-      "batter_slg": 0.622,
-      "batter_woba_contact": 0.394,
-      "batter_ab_vs_pitch": 74,
-      "batter_barrel_pct": 13.2,
-      "batter_season_slg_overall": 0.501,
-      "matchup_strength": 0.3241,
-      "venue_name": "Truist Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571970/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "batter_mlbam_id": 650489,
       "batter_name": "Willi Castro",
       "batter_team": "Colorado Rockies",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "batter_mlbam_id": 624413,
       "batter_name": "Pete Alonso",
       "batter_team": "Baltimore Orioles",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "batter_mlbam_id": 664983,
       "batter_name": "Jake McCarthy",
       "batter_team": "Colorado Rockies",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663623/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 696285,
+      "batter_name": "Jacob Young",
+      "batter_team": "Washington Nationals",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 687312,
+      "pitcher_name": "Gabriel Hughes",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.623,
+      "batter_slg": 0.5,
+      "batter_woba_contact": 0.34,
+      "batter_ab_vs_pitch": 72,
+      "batter_barrel_pct": 6.4,
+      "batter_season_slg_overall": 0.395,
+      "matchup_strength": 0.3117,
+      "venue_name": "Nationals Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696285/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687312/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 571448,
+      "batter_name": "Nolan Arenado",
+      "batter_team": "Arizona Diamondbacks",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 694738,
+      "pitcher_name": "Landen Roupp",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.525,
+      "batter_slg": 0.593,
+      "batter_woba_contact": 0.376,
+      "batter_ab_vs_pitch": 91,
+      "batter_barrel_pct": 6.6,
+      "batter_season_slg_overall": 0.434,
+      "matchup_strength": 0.3114,
+      "venue_name": "Oracle Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571448/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694738/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]
