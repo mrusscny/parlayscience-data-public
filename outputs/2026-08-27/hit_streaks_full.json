@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at_et": "2026-08-27 16:03:44 EDT",
+  "generated_at_et": "2026-08-27 18:56:49 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -17,7 +17,7 @@
       "streak_hits": 16,
       "streak_at_bats": 46,
       "streak_avg": 0.348,
-      "season_avg": 0.293,
+      "season_avg": 0.292,
       "last_game_date": "2026-08-26",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676475/headshot/67/current",
@@ -178,7 +178,7 @@
       "streak_hits": 8,
       "streak_at_bats": 20,
       "streak_avg": 0.4,
-      "season_avg": 0.241,
+      "season_avg": 0.243,
       "last_game_date": "2026-08-26",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701675/headshot/67/current",
@@ -327,6 +327,29 @@
     },
     {
       "rank": 15,
+      "mlbam_id": 805811,
+      "player_name": "Bryce Eldridge",
+      "team": "San Francisco Giants",
+      "bat_side": "L",
+      "opposing_pitcher": "Jose Cabrera",
+      "opposing_pitcher_id": 703615,
+      "pitcher_throws": "R",
+      "venue_name": "Oracle Park",
+      "streak_length": 4,
+      "streak_hits": 5,
+      "streak_at_bats": 14,
+      "streak_avg": 0.357,
+      "season_avg": 0.252,
+      "last_game_date": "2026-08-23",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805811/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/703615/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 16,
       "mlbam_id": 805999,
       "player_name": "A.J. Ewing",
       "team": "New York Mets",
@@ -349,7 +372,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "mlbam_id": 681297,
       "player_name": "Colton Cowser",
       "team": "Baltimore Orioles",
@@ -362,7 +385,7 @@
       "streak_hits": 6,
       "streak_at_bats": 10,
       "streak_avg": 0.6,
-      "season_avg": 0.223,
+      "season_avg": 0.225,
       "last_game_date": "2026-08-26",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681297/headshot/67/current",
@@ -372,7 +395,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "mlbam_id": 686948,
       "player_name": "Drake Baldwin",
       "team": "Atlanta Braves",
@@ -395,7 +418,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "mlbam_id": 678662,
       "player_name": "Ezequiel Tovar",
       "team": "Colorado Rockies",
@@ -418,7 +441,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "mlbam_id": 664770,
       "player_name": "Nathan Lukes",
       "team": "Toronto Blue Jays",
@@ -438,29 +461,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702070/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 670541,
-      "player_name": "Yordan Alvarez",
-      "team": "Houston Astros",
-      "bat_side": "L",
-      "opposing_pitcher": "Gerrit Cole",
-      "opposing_pitcher_id": 543037,
-      "pitcher_throws": "R",
-      "venue_name": "Yankee Stadium",
-      "streak_length": 3,
-      "streak_hits": 5,
-      "streak_at_bats": 11,
-      "streak_avg": 0.455,
-      "season_avg": 0.322,
-      "last_game_date": "2026-08-26",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     }
   ]

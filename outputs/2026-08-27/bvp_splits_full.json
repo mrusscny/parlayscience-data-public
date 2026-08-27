@@ -1,6 +1,6 @@
 {
   "date": "2026-08-27",
-  "generated_at_et": "2026-08-27 16:03:58 EDT",
+  "generated_at_et": "2026-08-27 18:57:12 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -255,6 +255,31 @@
     },
     {
       "rank": 11,
+      "mlbam_id": 602104,
+      "player_name": "Ram\u00f3n Ur\u00edas",
+      "team": "St. Louis Cardinals",
+      "bat_side": "R",
+      "opposing_pitcher": "Trevor Rogers",
+      "opposing_pitcher_id": 669432,
+      "pitcher_throws": "L",
+      "venue_name": "Busch Stadium",
+      "career_ab": 8,
+      "career_h": 1,
+      "career_hr": 1,
+      "career_avg": 0.125,
+      "career_ops": 0.625,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.5,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/602104/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669432/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 12,
       "mlbam_id": 670623,
       "player_name": "Isaac Paredes",
       "team": "Houston Astros",
@@ -279,7 +304,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "mlbam_id": 669242,
       "player_name": "Tommy Edman",
       "team": "Los Angeles Dodgers",
@@ -304,7 +329,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "mlbam_id": 682998,
       "player_name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
@@ -326,31 +351,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/694738/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 14,
-      "mlbam_id": 543877,
-      "player_name": "Christian V\u00e1zquez",
-      "team": "Houston Astros",
-      "bat_side": "R",
-      "opposing_pitcher": "Gerrit Cole",
-      "opposing_pitcher_id": 543037,
-      "pitcher_throws": "R",
-      "venue_name": "Yankee Stadium",
-      "career_ab": 22,
-      "career_h": 5,
-      "career_hr": 0,
-      "career_avg": 0.227,
-      "career_ops": 0.523,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.273,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543877/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543037/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     },
     {
@@ -380,6 +380,31 @@
     },
     {
       "rank": 16,
+      "mlbam_id": 671277,
+      "player_name": "Luis Garc\u00eda Jr.",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Hayden Wesneski",
+      "opposing_pitcher_id": 669713,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "career_ab": 14,
+      "career_h": 3,
+      "career_hr": 0,
+      "career_avg": 0.214,
+      "career_ops": 0.5,
+      "career_xbh": 1,
+      "career_rbi": 1,
+      "career_slg": 0.286,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/671277/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669713/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 17,
       "mlbam_id": 662139,
       "player_name": "Daulton Varsho",
       "team": "Houston Astros",
@@ -404,7 +429,32 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
+      "mlbam_id": 663757,
+      "player_name": "Trent Grisham",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Hayden Wesneski",
+      "opposing_pitcher_id": 669713,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "career_ab": 9,
+      "career_h": 1,
+      "career_hr": 0,
+      "career_avg": 0.111,
+      "career_ops": 0.311,
+      "career_xbh": 0,
+      "career_rbi": 1,
+      "career_slg": 0.111,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663757/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669713/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 19,
       "mlbam_id": 500743,
       "player_name": "Miguel Rojas",
       "team": "Los Angeles Dodgers",
@@ -426,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/519242/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 665862,
+      "player_name": "Jazz Chisholm Jr.",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Hayden Wesneski",
+      "opposing_pitcher_id": 669713,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "career_ab": 12,
+      "career_h": 1,
+      "career_hr": 0,
+      "career_avg": 0.083,
+      "career_ops": 0.16,
+      "career_xbh": 0,
+      "career_rbi": 1,
+      "career_slg": 0.083,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665862/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669713/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     }
   ]
