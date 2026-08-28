@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generated_at_et": "2026-08-28 17:07:11 EDT",
+  "generated_at_et": "2026-08-28 19:02:11 EDT",
   "concept": "bvp_splits",
   "items": [
     {
@@ -80,56 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 663886,
-      "player_name": "Tyler Stephenson",
-      "team": "Cincinnati Reds",
-      "bat_side": "R",
-      "opposing_pitcher": "David Peterson",
-      "opposing_pitcher_id": 656849,
-      "pitcher_throws": "L",
-      "venue_name": "Wrigley Field",
-      "career_ab": 12,
-      "career_h": 6,
-      "career_hr": 0,
-      "career_avg": 0.5,
-      "career_ops": 1.205,
-      "career_xbh": 2,
-      "career_rbi": 5,
-      "career_slg": 0.667,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663886/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "mlbam_id": 667472,
-      "player_name": "Dane Myers",
-      "team": "Cincinnati Reds",
-      "bat_side": "R",
-      "opposing_pitcher": "David Peterson",
-      "opposing_pitcher_id": 656849,
-      "pitcher_throws": "L",
-      "venue_name": "Wrigley Field",
-      "career_ab": 8,
-      "career_h": 4,
-      "career_hr": 0,
-      "career_avg": 0.5,
-      "career_ops": 1.181,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.625,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/667472/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 6,
       "mlbam_id": 673357,
       "player_name": "Luis Robert Jr.",
       "team": "New York Mets",
@@ -154,7 +104,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 5,
       "mlbam_id": 650402,
       "player_name": "Gleyber Torres",
       "team": "Detroit Tigers",
@@ -179,7 +129,32 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "mlbam_id": 663886,
+      "player_name": "Tyler Stephenson",
+      "team": "Cincinnati Reds",
+      "bat_side": "R",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
+      "pitcher_throws": "L",
+      "venue_name": "Wrigley Field",
+      "career_ab": 15,
+      "career_h": 7,
+      "career_hr": 0,
+      "career_avg": 0.467,
+      "career_ops": 1.1,
+      "career_xbh": 2,
+      "career_rbi": 5,
+      "career_slg": 0.6,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663886/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 7,
       "mlbam_id": 656775,
       "player_name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
@@ -201,6 +176,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663554/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 543760,
+      "player_name": "Marcus Semien",
+      "team": "New York Mets",
+      "bat_side": "R",
+      "opposing_pitcher": "Hunter Brown",
+      "opposing_pitcher_id": 686613,
+      "pitcher_throws": "R",
+      "venue_name": "Citi Field",
+      "career_ab": 23,
+      "career_h": 11,
+      "career_hr": 0,
+      "career_avg": 0.478,
+      "career_ops": 1.022,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.522,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543760/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/686613/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
       }
     }
   ]
