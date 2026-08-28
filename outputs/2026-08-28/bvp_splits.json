@@ -1,6 +1,6 @@
 {
   "date": "2026-08-28",
-  "generated_at_et": "2026-08-28 09:31:33 EDT",
+  "generated_at_et": "2026-08-28 17:07:11 EDT",
   "concept": "bvp_splits",
   "items": [
     {
@@ -30,31 +30,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 681807,
-      "player_name": "David Fry",
-      "team": "Cleveland Guardians",
-      "bat_side": "R",
-      "opposing_pitcher": "Michael Wacha",
-      "opposing_pitcher_id": 608379,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "career_ab": 9,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.444,
-      "career_ops": 1.333,
-      "career_xbh": 2,
-      "career_rbi": 2,
-      "career_slg": 0.889,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/681807/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608379/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 668709,
       "player_name": "JJ Bleday",
       "team": "Cincinnati Reds",
@@ -79,7 +54,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "mlbam_id": 677951,
       "player_name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
@@ -104,7 +79,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 663886,
       "player_name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 667472,
       "player_name": "Dane Myers",
       "team": "Cincinnati Reds",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 673357,
       "player_name": "Luis Robert Jr.",
       "team": "New York Mets",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 650402,
       "player_name": "Gleyber Torres",
       "team": "Detroit Tigers",
@@ -201,6 +176,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669373/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 656775,
+      "player_name": "Cedric Mullins",
+      "team": "Tampa Bay Rays",
+      "bat_side": "L",
+      "opposing_pitcher": "Casey Mize",
+      "opposing_pitcher_id": 663554,
+      "pitcher_throws": "R",
+      "venue_name": "Tropicana Field",
+      "career_ab": 10,
+      "career_h": 3,
+      "career_hr": 0,
+      "career_avg": 0.3,
+      "career_ops": 1.064,
+      "career_xbh": 3,
+      "career_rbi": 0,
+      "career_slg": 0.7,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656775/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663554/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     }
   ]
