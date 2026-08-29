@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated_at_et": "2026-08-29 10:48:16 EDT",
+  "generated_at_et": "2026-08-29 13:05:38 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -105,31 +105,6 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 673490,
-      "player_name": "Ha-Seong Kim",
-      "team": "Atlanta Braves",
-      "bat_side": "R",
-      "opposing_pitcher": "Ryan Feltner",
-      "opposing_pitcher_id": 663372,
-      "pitcher_throws": "R",
-      "venue_name": "Truist Park",
-      "career_ab": 8,
-      "career_h": 4,
-      "career_hr": 0,
-      "career_avg": 0.5,
-      "career_ops": 1.125,
-      "career_xbh": 1,
-      "career_rbi": 0,
-      "career_slg": 0.625,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/673490/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 6,
       "mlbam_id": 595978,
       "player_name": "Austin Hedges",
       "team": "Cleveland Guardians",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 683734,
       "player_name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 553993,
       "player_name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
@@ -204,32 +179,7 @@
       }
     },
     {
-      "rank": 9,
-      "mlbam_id": 593428,
-      "player_name": "Xander Bogaerts",
-      "team": "San Diego Padres",
-      "bat_side": "R",
-      "opposing_pitcher": "Nick Martinez",
-      "opposing_pitcher_id": 607259,
-      "pitcher_throws": "R",
-      "venue_name": "Tropicana Field",
-      "career_ab": 16,
-      "career_h": 5,
-      "career_hr": 1,
-      "career_avg": 0.313,
-      "career_ops": 0.889,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.5,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/593428/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607259/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "mlbam_id": 668227,
       "player_name": "Randy Arozarena",
       "team": "Seattle Mariners",
@@ -254,7 +204,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 9,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -279,7 +229,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "mlbam_id": 592518,
       "player_name": "Manny Machado",
       "team": "San Diego Padres",
@@ -304,7 +254,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "mlbam_id": 573262,
       "player_name": "Mike Yastrzemski",
       "team": "Atlanta Braves",
@@ -329,7 +279,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "mlbam_id": 650490,
       "player_name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
@@ -354,7 +304,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "mlbam_id": 641487,
       "player_name": "J.P. Crawford",
       "team": "Seattle Mariners",
@@ -379,7 +329,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "mlbam_id": 575929,
       "player_name": "Willson Contreras",
       "team": "Boston Red Sox",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "mlbam_id": 691406,
       "player_name": "Junior Caminero",
       "team": "Tampa Bay Rays",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 665487,
       "player_name": "Fernando Tatis Jr.",
       "team": "San Diego Padres",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "mlbam_id": 696285,
       "player_name": "Jacob Young",
       "team": "Washington Nationals",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 663538,
       "player_name": "Nico Hoerner",
       "team": "Chicago Cubs",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/671096/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 650402,
+      "player_name": "Gleyber Torres",
+      "team": "Detroit Tigers",
+      "bat_side": "R",
+      "opposing_pitcher": "Blake Snell",
+      "opposing_pitcher_id": 605483,
+      "pitcher_throws": "L",
+      "venue_name": "Comerica Park",
+      "career_ab": 18,
+      "career_h": 3,
+      "career_hr": 1,
+      "career_avg": 0.167,
+      "career_ops": 0.619,
+      "career_xbh": 1,
+      "career_rbi": 3,
+      "career_slg": 0.333,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/650402/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605483/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 668670,
+      "player_name": "Jake Rogers",
+      "team": "Chicago White Sox",
+      "bat_side": "R",
+      "opposing_pitcher": "Bailey Ober",
+      "opposing_pitcher_id": 641927,
+      "pitcher_throws": "R",
+      "venue_name": "Target Field",
+      "career_ab": 10,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.2,
+      "career_ops": 0.6,
+      "career_xbh": 2,
+      "career_rbi": 2,
+      "career_slg": 0.4,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668670/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/641927/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]

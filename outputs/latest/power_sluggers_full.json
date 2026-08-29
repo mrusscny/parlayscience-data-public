@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated_at_et": "2026-08-29 10:47:08 EDT",
+  "generated_at_et": "2026-08-29 13:04:47 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -53,31 +53,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 699013,
-      "player_name": "Esmerlyn Valdez",
-      "team": "Pittsburgh Pirates",
-      "opposing_pitcher": "Kyle Leahy",
-      "opposing_pitcher_id": 681517.0,
-      "venue_name": "Busch Stadium",
-      "barrel_pct": 20.8,
-      "fb_pct": 40.48,
-      "avg_exit_velo": 91.9,
-      "hard_hit_pct": 48.3,
-      "pitcher_hr_per_9": 0.855,
-      "threshold_count": 3,
-      "threshold_label": "3/3",
-      "base_score": 0.86,
-      "threshold_bonus": 0.1,
-      "final_score": 0.96,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681517/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -102,7 +77,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 699625,
       "player_name": "Jimmy Crooks",
       "team": "St. Louis Cardinals",
@@ -127,7 +102,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -152,7 +127,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -177,7 +152,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 682987,
       "player_name": "Spencer Jones",
       "team": "New York Yankees",
@@ -200,7 +175,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 672960,
       "player_name": "Kazuma Okamoto",
       "team": "Toronto Blue Jays",
@@ -225,7 +200,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 808959,
       "player_name": "Munetaka Murakami",
       "team": "Chicago White Sox",
@@ -250,7 +225,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 624413,
       "player_name": "Pete Alonso",
       "team": "Baltimore Orioles",
@@ -275,7 +250,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 687952,
       "player_name": "Christian Encarnacion-Strand",
       "team": "Baltimore Orioles",
@@ -300,7 +275,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 691718,
       "player_name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
@@ -325,7 +300,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 804668,
       "player_name": "Rafael Flores Jr.",
       "team": "Pittsburgh Pirates",
@@ -350,7 +325,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 669065,
       "player_name": "Kyle Stowers",
       "team": "Miami Marlins",
@@ -375,7 +350,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 663728,
       "player_name": "Cal Raleigh",
       "team": "Seattle Mariners",
@@ -400,7 +375,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -425,7 +400,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 695600,
       "player_name": "Carter Jensen",
       "team": "Kansas City Royals",
@@ -450,7 +425,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 691723,
       "player_name": "Coby Mayo",
       "team": "Baltimore Orioles",
@@ -475,7 +450,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -497,6 +472,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 665052,
+      "player_name": "Griffin Conine",
+      "team": "Miami Marlins",
+      "opposing_pitcher": "Cade Cavalli",
+      "opposing_pitcher_id": 676917.0,
+      "venue_name": "Nationals Park",
+      "barrel_pct": 15.2,
+      "fb_pct": 30.0,
+      "avg_exit_velo": 92.0,
+      "hard_hit_pct": 52.0,
+      "pitcher_hr_per_9": 1.029,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.821,
+      "threshold_bonus": 0.05,
+      "final_score": 0.871,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665052/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676917/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     }
   ]

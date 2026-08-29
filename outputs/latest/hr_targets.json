@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated_at_et": "2026-08-29 10:45:58 EDT",
+  "generated_at_et": "2026-08-29 13:04:36 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 41.67,
       "pitcher_hr_per_9": 1.751,
-      "weather_score": 0.863,
+      "weather_score": 0.852,
       "park_factor": 1.01,
-      "composite_score": 0.89,
+      "composite_score": 0.889,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 51.0,
       "fb_pct": 27.27,
       "pitcher_hr_per_9": 2.139,
-      "weather_score": 0.884,
+      "weather_score": 0.879,
       "park_factor": 1.0,
-      "composite_score": 0.886,
+      "composite_score": 0.885,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 48.7,
       "fb_pct": 39.68,
       "pitcher_hr_per_9": null,
-      "weather_score": 0.63,
+      "weather_score": 0.5,
       "park_factor": 1.18,
-      "composite_score": 0.857,
+      "composite_score": 0.844,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
@@ -126,7 +126,7 @@
       "hard_hit_pct": 57.1,
       "fb_pct": 32.88,
       "pitcher_hr_per_9": 1.694,
-      "weather_score": 0.76,
+      "weather_score": 0.762,
       "park_factor": 0.95,
       "composite_score": 0.818,
       "image_urls": {
@@ -153,7 +153,7 @@
       "hard_hit_pct": 44.6,
       "fb_pct": 25.37,
       "pitcher_hr_per_9": 2.139,
-      "weather_score": 0.884,
+      "weather_score": 0.879,
       "park_factor": 1.0,
       "composite_score": 0.81,
       "image_urls": {
@@ -165,33 +165,6 @@
     },
     {
       "rank": 7,
-      "mlbam_id": 808959,
-      "player_name": "Munetaka Murakami",
-      "team": "Chicago White Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "Bailey Ober",
-      "opposing_pitcher_id": 641927.0,
-      "pitcher_throws": "R",
-      "venue_name": "Target Field",
-      "barrel_pct": 20.0,
-      "iso_overall": 0.284,
-      "iso_split": 0.323,
-      "iso_blended": 0.307,
-      "hard_hit_pct": 58.1,
-      "fb_pct": 31.58,
-      "pitcher_hr_per_9": 1.495,
-      "weather_score": 0.585,
-      "park_factor": 0.97,
-      "composite_score": 0.805,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641927/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
-      }
-    },
-    {
-      "rank": 8,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -207,14 +180,41 @@
       "hard_hit_pct": 45.7,
       "fb_pct": 39.02,
       "pitcher_hr_per_9": 0.936,
-      "weather_score": 0.863,
+      "weather_score": 0.852,
       "park_factor": 1.01,
-      "composite_score": 0.804,
+      "composite_score": 0.803,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/527048/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 808959,
+      "player_name": "Munetaka Murakami",
+      "team": "Chicago White Sox",
+      "bat_side": "L",
+      "opposing_pitcher": "Bailey Ober",
+      "opposing_pitcher_id": 641927.0,
+      "pitcher_throws": "R",
+      "venue_name": "Target Field",
+      "barrel_pct": 20.0,
+      "iso_overall": 0.284,
+      "iso_split": 0.323,
+      "iso_blended": 0.307,
+      "hard_hit_pct": 58.1,
+      "fb_pct": 31.58,
+      "pitcher_hr_per_9": 1.495,
+      "weather_score": 0.5,
+      "park_factor": 0.97,
+      "composite_score": 0.797,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641927/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
       }
     }
   ]

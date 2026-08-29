@@ -1,6 +1,6 @@
 {
   "date": "2026-08-29",
-  "generated_at_et": "2026-08-29 10:48:14 EDT",
+  "generated_at_et": "2026-08-29 13:05:36 EDT",
   "concept": "bvp_splits",
   "items": [
     {
@@ -105,31 +105,6 @@
     },
     {
       "rank": 5,
-      "mlbam_id": 673490,
-      "player_name": "Ha-Seong Kim",
-      "team": "Atlanta Braves",
-      "bat_side": "R",
-      "opposing_pitcher": "Ryan Feltner",
-      "opposing_pitcher_id": 663372,
-      "pitcher_throws": "R",
-      "venue_name": "Truist Park",
-      "career_ab": 8,
-      "career_h": 4,
-      "career_hr": 0,
-      "career_avg": 0.5,
-      "career_ops": 1.125,
-      "career_xbh": 1,
-      "career_rbi": 0,
-      "career_slg": 0.625,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/673490/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 6,
       "mlbam_id": 595978,
       "player_name": "Austin Hedges",
       "team": "Cleveland Guardians",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 683734,
       "player_name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 553993,
       "player_name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
@@ -201,6 +176,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592332/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 668227,
+      "player_name": "Randy Arozarena",
+      "team": "Seattle Mariners",
+      "bat_side": "R",
+      "opposing_pitcher": "Jos\u00e9 Soriano",
+      "opposing_pitcher_id": 667755,
+      "pitcher_throws": "R",
+      "venue_name": "Rogers Centre",
+      "career_ab": 13,
+      "career_h": 5,
+      "career_hr": 0,
+      "career_avg": 0.385,
+      "career_ops": 0.885,
+      "career_xbh": 0,
+      "career_rbi": 1,
+      "career_slg": 0.385,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668227/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/667755/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
       }
     }
   ]
