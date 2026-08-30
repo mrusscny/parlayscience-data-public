@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generated_at_et": "2026-08-30 10:37:29 EDT",
+  "generated_at_et": "2026-08-30 13:21:24 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -330,31 +330,6 @@
     },
     {
       "rank": 14,
-      "batter_mlbam_id": 700250,
-      "batter_name": "Ben Rice",
-      "batter_team": "New York Yankees",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 624133,
-      "pitcher_name": "Ranger Suarez",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.628,
-      "batter_slg": 0.628,
-      "batter_woba_contact": 0.387,
-      "batter_ab_vs_pitch": 94,
-      "batter_barrel_pct": 14.9,
-      "batter_season_slg_overall": 0.527,
-      "matchup_strength": 0.3943,
-      "venue_name": "Yankee Stadium",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624133/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 15,
       "batter_mlbam_id": 671277,
       "batter_name": "Luis Garc\u00eda Jr.",
       "batter_team": "New York Yankees",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "batter_mlbam_id": 701785,
       "batter_name": "Kaelen Culpepper",
       "batter_team": "Minnesota Twins",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "batter_mlbam_id": 664954,
       "batter_name": "Brett Sullivan",
       "batter_team": "Colorado Rockies",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "batter_mlbam_id": 686797,
       "batter_name": "Brooks Lee",
       "batter_team": "Minnesota Twins",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "batter_mlbam_id": 592626,
       "batter_name": "Joc Pederson",
       "batter_team": "Texas Rangers",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "batter_mlbam_id": 701807,
       "batter_name": "Carson Benge",
       "batter_team": "New York Mets",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/814490/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 807712,
+      "batter_name": "Luke Keaschall",
+      "batter_team": "Minnesota Twins",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 663855,
+      "pitcher_name": "Jordan Hicks",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.669,
+      "batter_slg": 0.569,
+      "batter_woba_contact": 0.4,
+      "batter_ab_vs_pitch": 102,
+      "batter_barrel_pct": 3.6,
+      "batter_season_slg_overall": 0.382,
+      "matchup_strength": 0.3802,
+      "venue_name": "Target Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/807712/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663855/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     }
   ]

@@ -1,10 +1,35 @@
 {
   "date": "2026-08-30",
-  "generated_at_et": "2026-08-30 10:36:27 EDT",
+  "generated_at_et": "2026-08-30 13:21:09 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
       "rank": 1,
+      "mlbam_id": 596115,
+      "player_name": "Trevor Story",
+      "team": "Boston Red Sox",
+      "bat_side": "R",
+      "opposing_pitcher": "Will Warren",
+      "opposing_pitcher_id": 701542,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "career_ab": 8,
+      "career_h": 4,
+      "career_hr": 1,
+      "career_avg": 0.5,
+      "career_ops": 1.5,
+      "career_xbh": 2,
+      "career_rbi": 3,
+      "career_slg": 1.0,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/596115/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/701542/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 2,
       "mlbam_id": 682928,
       "player_name": "CJ Abrams",
       "team": "Washington Nationals",
@@ -29,7 +54,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -54,7 +79,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "mlbam_id": 663757,
       "player_name": "Trent Grisham",
       "team": "New York Yankees",
@@ -79,7 +104,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "mlbam_id": 642708,
       "player_name": "Amed Rosario",
       "team": "New York Yankees",
@@ -104,7 +129,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mlbam_id": 665489,
       "player_name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
@@ -129,7 +154,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mlbam_id": 650490,
       "player_name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
@@ -154,7 +179,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mlbam_id": 695657,
       "player_name": "Colson Montgomery",
       "team": "Chicago White Sox",
@@ -179,7 +204,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "mlbam_id": 671732,
       "player_name": "Lawrence Butler",
       "team": "Athletics",
@@ -204,7 +229,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "mlbam_id": 543807,
       "player_name": "George Springer",
       "team": "Toronto Blue Jays",
@@ -229,7 +254,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "mlbam_id": 680757,
       "player_name": "Steven Kwan",
       "team": "Cleveland Guardians",
@@ -254,7 +279,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "mlbam_id": 518595,
       "player_name": "Travis d'Arnaud",
       "team": "Los Angeles Angels",
@@ -279,7 +304,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "mlbam_id": 680869,
       "player_name": "Zack Gelof",
       "team": "Athletics",
@@ -304,7 +329,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "mlbam_id": 668804,
       "player_name": "Bryan Reynolds",
       "team": "Pittsburgh Pirates",
@@ -329,7 +354,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "mlbam_id": 672386,
       "player_name": "Alejandro Kirk",
       "team": "Toronto Blue Jays",
@@ -354,7 +379,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "mlbam_id": 676475,
       "player_name": "Alec Burleson",
       "team": "St. Louis Cardinals",
@@ -379,7 +404,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "mlbam_id": 680776,
       "player_name": "Jarren Duran",
       "team": "Boston Red Sox",
@@ -404,7 +429,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "mlbam_id": 553993,
       "player_name": "Eugenio Su\u00e1rez",
       "team": "Cincinnati Reds",
@@ -429,7 +454,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "mlbam_id": 605141,
       "player_name": "Mookie Betts",
       "team": "Los Angeles Dodgers",
@@ -454,7 +479,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "mlbam_id": 665926,
       "player_name": "Andr\u00e9s Gim\u00e9nez",
       "team": "Toronto Blue Jays",
@@ -476,31 +501,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669302/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 650333,
-      "player_name": "Luis Arraez",
-      "team": "Philadelphia Phillies",
-      "bat_side": "L",
-      "opposing_pitcher": "Yusei Kikuchi",
-      "opposing_pitcher_id": 579328,
-      "pitcher_throws": "L",
-      "venue_name": "Angel Stadium",
-      "career_ab": 10,
-      "career_h": 3,
-      "career_hr": 0,
-      "career_avg": 0.3,
-      "career_ops": 0.664,
-      "career_xbh": 0,
-      "career_rbi": 0,
-      "career_slg": 0.3,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/650333/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/579328/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-30",
-  "generated_at_et": "2026-08-30 10:35:17 EDT",
+  "generated_at_et": "2026-08-30 13:18:57 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 48.6,
       "fb_pct": 35.0,
       "pitcher_hr_per_9": 2.25,
-      "weather_score": 0.635,
+      "weather_score": 0.619,
       "park_factor": 1.06,
-      "composite_score": 0.871,
+      "composite_score": 0.87,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -32,33 +32,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 687952,
-      "player_name": "Christian Encarnacion-Strand",
-      "team": "Baltimore Orioles",
-      "bat_side": "R",
-      "opposing_pitcher": "Jeffrey Springs",
-      "opposing_pitcher_id": 605488,
-      "pitcher_throws": "L",
-      "venue_name": "Sutter Health Park",
-      "barrel_pct": 16.5,
-      "iso_overall": 0.239,
-      "iso_split": 0.405,
-      "iso_blended": 0.339,
-      "hard_hit_pct": 42.4,
-      "fb_pct": 25.86,
-      "pitcher_hr_per_9": 2.282,
-      "weather_score": 0.823,
-      "park_factor": 0.95,
-      "composite_score": 0.863,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687952/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 804668,
       "player_name": "Rafael Flores Jr.",
       "team": "Pittsburgh Pirates",
@@ -85,7 +58,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "mlbam_id": 699013,
       "player_name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
@@ -112,7 +85,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 663728,
       "player_name": "Cal Raleigh",
       "team": "Seattle Mariners",
@@ -139,34 +112,34 @@
       }
     },
     {
-      "rank": 6,
-      "mlbam_id": 691723,
-      "player_name": "Coby Mayo",
+      "rank": 5,
+      "mlbam_id": 687952,
+      "player_name": "Christian Encarnacion-Strand",
       "team": "Baltimore Orioles",
       "bat_side": "R",
       "opposing_pitcher": "Jeffrey Springs",
       "opposing_pitcher_id": 605488,
       "pitcher_throws": "L",
       "venue_name": "Sutter Health Park",
-      "barrel_pct": 12.7,
-      "iso_overall": 0.223,
-      "iso_split": 0.424,
-      "iso_blended": 0.344,
-      "hard_hit_pct": 49.1,
-      "fb_pct": 36.54,
+      "barrel_pct": 16.5,
+      "iso_overall": 0.239,
+      "iso_split": 0.405,
+      "iso_blended": 0.339,
+      "hard_hit_pct": 42.4,
+      "fb_pct": 25.86,
       "pitcher_hr_per_9": 2.282,
-      "weather_score": 0.823,
+      "weather_score": 0.5,
       "park_factor": 0.95,
-      "composite_score": 0.838,
+      "composite_score": 0.83,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691723/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687952/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -182,9 +155,9 @@
       "hard_hit_pct": 45.6,
       "fb_pct": 38.64,
       "pitcher_hr_per_9": 1.217,
-      "weather_score": 0.917,
+      "weather_score": 0.82,
       "park_factor": 1.01,
-      "composite_score": 0.836,
+      "composite_score": 0.827,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -193,7 +166,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -209,14 +182,41 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 39.44,
       "pitcher_hr_per_9": null,
-      "weather_score": 0.917,
+      "weather_score": 0.82,
       "park_factor": 1.01,
-      "composite_score": 0.836,
+      "composite_score": 0.827,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690279/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Yusei Kikuchi",
+      "opposing_pitcher_id": 579328,
+      "pitcher_throws": "L",
+      "venue_name": "Angel Stadium",
+      "barrel_pct": 17.4,
+      "iso_overall": 0.286,
+      "iso_split": 0.255,
+      "iso_blended": 0.267,
+      "hard_hit_pct": 50.5,
+      "fb_pct": 28.99,
+      "pitcher_hr_per_9": 1.25,
+      "weather_score": 0.95,
+      "park_factor": 1.0,
+      "composite_score": 0.821,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/579328/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
       }
     }
   ]
