@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at_et": "2026-08-31 09:53:27 EDT",
+  "generated_at_et": "2026-08-31 15:32:13 EDT",
   "concept": "power_sluggers",
   "items": [
     {
@@ -9,7 +9,7 @@
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
       "opposing_pitcher": "Anthony Molina",
-      "opposing_pitcher_id": 683627.0,
+      "opposing_pitcher_id": 683627,
       "venue_name": "Truist Park",
       "barrel_pct": 15.4,
       "fb_pct": 38.36,
@@ -34,7 +34,7 @@
       "player_name": "Cal Raleigh",
       "team": "Seattle Mariners",
       "opposing_pitcher": "Payton Tolle",
-      "opposing_pitcher_id": 801139.0,
+      "opposing_pitcher_id": 801139,
       "venue_name": "Fenway Park",
       "barrel_pct": 14.7,
       "fb_pct": 48.98,
@@ -55,11 +55,36 @@
     },
     {
       "rank": 3,
+      "mlbam_id": 696100,
+      "player_name": "Hunter Goodman",
+      "team": "Colorado Rockies",
+      "opposing_pitcher": "Cade Povich",
+      "opposing_pitcher_id": 700249,
+      "venue_name": "Coors Field",
+      "barrel_pct": 16.3,
+      "fb_pct": 37.78,
+      "avg_exit_velo": 90.3,
+      "hard_hit_pct": 45.6,
+      "pitcher_hr_per_9": 1.588,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.898,
+      "threshold_bonus": 0.05,
+      "final_score": 0.948,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 4,
       "mlbam_id": 691718,
       "player_name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
       "opposing_pitcher": "Kyle Harrison",
-      "opposing_pitcher_id": 690986.0,
+      "opposing_pitcher_id": 690986,
       "venue_name": "Wrigley Field",
       "barrel_pct": 13.2,
       "fb_pct": 42.68,
@@ -79,12 +104,12 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "mlbam_id": 700250,
       "player_name": "Ben Rice",
       "team": "New York Yankees",
       "opposing_pitcher": "Walbert Ure\u00f1a",
-      "opposing_pitcher_id": 700712.0,
+      "opposing_pitcher_id": 700712,
       "venue_name": "Angel Stadium",
       "barrel_pct": 14.9,
       "fb_pct": 40.62,
@@ -101,31 +126,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700712/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "mlbam_id": 670541,
-      "player_name": "Yordan Alvarez",
-      "team": "Houston Astros",
-      "opposing_pitcher": "Anthony Kay",
-      "opposing_pitcher_id": 641743.0,
-      "venue_name": "Daikin Park",
-      "barrel_pct": 16.8,
-      "fb_pct": 36.99,
-      "avg_exit_velo": 94.5,
-      "hard_hit_pct": 53.6,
-      "pitcher_hr_per_9": 1.227,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.876,
-      "threshold_bonus": 0.05,
-      "final_score": 0.926,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641743/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     }
   ]

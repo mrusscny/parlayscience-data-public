@@ -1,10 +1,35 @@
 {
   "date": "2026-08-31",
-  "generated_at_et": "2026-08-31 09:54:32 EDT",
+  "generated_at_et": "2026-08-31 15:34:03 EDT",
   "concept": "bvp_splits",
   "items": [
     {
       "rank": 1,
+      "mlbam_id": 650333,
+      "player_name": "Luis Arraez",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Brandon Pfaadt",
+      "opposing_pitcher_id": 694297,
+      "pitcher_throws": "R",
+      "venue_name": "Chase Field",
+      "career_ab": 24,
+      "career_h": 13,
+      "career_hr": 1,
+      "career_avg": 0.542,
+      "career_ops": 1.393,
+      "career_xbh": 4,
+      "career_rbi": 3,
+      "career_slg": 0.833,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/650333/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/694297/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 2,
       "mlbam_id": 596115,
       "player_name": "Trevor Story",
       "team": "Boston Red Sox",
@@ -29,7 +54,7 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "mlbam_id": 672695,
       "player_name": "Geraldo Perdomo",
       "team": "Arizona Diamondbacks",
@@ -54,7 +79,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "mlbam_id": 671732,
       "player_name": "Lawrence Butler",
       "team": "Athletics",
@@ -79,7 +104,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "mlbam_id": 680776,
       "player_name": "Jarren Duran",
       "team": "Boston Red Sox",
@@ -104,7 +129,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "mlbam_id": 672515,
       "player_name": "Gabriel Moreno",
       "team": "Arizona Diamondbacks",
@@ -129,7 +154,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mlbam_id": 571448,
       "player_name": "Nolan Arenado",
       "team": "Arizona Diamondbacks",
@@ -151,31 +176,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/605400/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "mlbam_id": 668939,
-      "player_name": "Adley Rutschman",
-      "team": "Boston Red Sox",
-      "bat_side": "S",
-      "opposing_pitcher": "George Kirby",
-      "opposing_pitcher_id": 669923,
-      "pitcher_throws": "R",
-      "venue_name": "Fenway Park",
-      "career_ab": 22,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.182,
-      "career_ops": 0.5,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.318,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668939/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669923/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
       }
     },
     {

@@ -1,6 +1,6 @@
 {
   "date": "2026-08-31",
-  "generated_at_et": "2026-08-31 09:55:21 EDT",
+  "generated_at_et": "2026-08-31 15:34:18 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -155,31 +155,6 @@
     },
     {
       "rank": 7,
-      "batter_mlbam_id": 668723,
-      "batter_name": "Ryan Vilade",
-      "batter_team": "Tampa Bay Rays",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 476594,
-      "pitcher_name": "Robert Stock",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.785,
-      "batter_slg": 0.511,
-      "batter_woba_contact": 0.34,
-      "batter_ab_vs_pitch": 47,
-      "batter_barrel_pct": 7.7,
-      "batter_season_slg_overall": 0.473,
-      "matchup_strength": 0.4007,
-      "venue_name": "Tropicana Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668723/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/476594/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 8,
       "batter_mlbam_id": 646240,
       "batter_name": "Rafael Devers",
       "batter_team": "San Francisco Giants",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 694192,
       "batter_name": "Jackson Chourio",
       "batter_team": "Milwaukee Brewers",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 687401,
       "batter_name": "Joey Ortiz",
       "batter_team": "Milwaukee Brewers",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 670541,
       "batter_name": "Yordan Alvarez",
       "batter_team": "Houston Astros",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 805808,
       "batter_name": "Kevin McGonigle",
       "batter_team": "Detroit Tigers",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 680664,
       "batter_name": "Eduardo Valencia",
       "batter_team": "Detroit Tigers",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 665161,
       "batter_name": "Jeremy Pe\u00f1a",
       "batter_team": "Houston Astros",
@@ -351,6 +326,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641743/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 14,
+      "batter_mlbam_id": 664983,
+      "batter_name": "Jake McCarthy",
+      "batter_team": "Colorado Rockies",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 700249,
+      "pitcher_name": "Cade Povich",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.57,
+      "batter_slg": 0.619,
+      "batter_woba_contact": 0.414,
+      "batter_ab_vs_pitch": 105,
+      "batter_barrel_pct": 5.1,
+      "batter_season_slg_overall": 0.476,
+      "matchup_strength": 0.3531,
+      "venue_name": "Coors Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664983/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {
@@ -405,6 +405,31 @@
     },
     {
       "rank": 17,
+      "batter_mlbam_id": 650489,
+      "batter_name": "Willi Castro",
+      "batter_team": "Colorado Rockies",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 700249,
+      "pitcher_name": "Cade Povich",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.57,
+      "batter_slg": 0.595,
+      "batter_woba_contact": 0.373,
+      "batter_ab_vs_pitch": 79,
+      "batter_barrel_pct": 8.0,
+      "batter_season_slg_overall": 0.418,
+      "matchup_strength": 0.3394,
+      "venue_name": "Coors Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650489/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+      }
+    },
+    {
+      "rank": 18,
       "batter_mlbam_id": 700250,
       "batter_name": "Ben Rice",
       "batter_team": "New York Yankees",
@@ -429,7 +454,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "batter_mlbam_id": 671277,
       "batter_name": "Luis Garc\u00eda Jr.",
       "batter_team": "New York Yankees",
@@ -454,53 +479,28 @@
       }
     },
     {
-      "rank": 19,
-      "batter_mlbam_id": 701785,
-      "batter_name": "Kaelen Culpepper",
-      "batter_team": "Minnesota Twins",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 695549,
-      "pitcher_name": "Jackson Jobe",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.536,
-      "batter_slg": 0.594,
-      "batter_woba_contact": 0.392,
-      "batter_ab_vs_pitch": 32,
-      "batter_barrel_pct": 5.9,
-      "batter_season_slg_overall": 0.478,
-      "matchup_strength": 0.3184,
-      "venue_name": "Target Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701785/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695549/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
       "rank": 20,
-      "batter_mlbam_id": 592626,
-      "batter_name": "Joc Pederson",
-      "batter_team": "Texas Rangers",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 695611,
-      "pitcher_name": "Gage Jump",
+      "batter_mlbam_id": 696100,
+      "batter_name": "Hunter Goodman",
+      "batter_team": "Colorado Rockies",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 700249,
+      "pitcher_name": "Cade Povich",
       "pitcher_throws": "L",
       "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.536,
-      "batter_slg": 0.594,
-      "batter_woba_contact": 0.345,
-      "batter_ab_vs_pitch": 64,
-      "batter_barrel_pct": 11.2,
-      "batter_season_slg_overall": 0.481,
-      "matchup_strength": 0.318,
-      "venue_name": "Globe Life Field",
+      "pitcher_usage_pct": 0.57,
+      "batter_slg": 0.565,
+      "batter_woba_contact": 0.381,
+      "batter_ab_vs_pitch": 69,
+      "batter_barrel_pct": 16.3,
+      "batter_season_slg_overall": 0.542,
+      "matchup_strength": 0.3224,
+      "venue_name": "Coors Field",
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592626/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695611/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     }
   ]
