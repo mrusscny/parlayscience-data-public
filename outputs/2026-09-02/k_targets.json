@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at_et": "2026-09-02 10:00:11 EDT",
+  "generated_at_et": "2026-09-02 13:10:34 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -129,11 +129,11 @@
       "pitcher_name": "Casey Mize",
       "pitcher_team": "San Diego Padres",
       "opposing_team": "Cincinnati Reds",
-      "pitcher_k_per_9": 7.878,
-      "pitcher_k_minus_bb_pct": 0.1547,
-      "opp_k_rate": 0.2588,
-      "opp_games_sample": 28,
-      "score": 0.616,
+      "pitcher_k_per_9": 7.807,
+      "pitcher_k_minus_bb_pct": 0.1533,
+      "opp_k_rate": 0.2578,
+      "opp_games_sample": 29,
+      "score": 0.607,
       "game_pk": 824470,
       "game_time_local": "12:40 PM ET",
       "venue": "Great American Ball Park",

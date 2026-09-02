@@ -1,6 +1,6 @@
 {
   "date": "2026-09-02",
-  "generated_at_et": "2026-09-02 09:58:01 EDT",
+  "generated_at_et": "2026-09-02 13:08:30 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -130,31 +130,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 592626,
-      "player_name": "Joc Pederson",
-      "team": "Texas Rangers",
-      "opposing_pitcher": "Jacob Lopez",
-      "opposing_pitcher_id": 682052.0,
-      "venue_name": "Globe Life Field",
-      "barrel_pct": 11.2,
-      "fb_pct": 46.34,
-      "avg_exit_velo": 92.3,
-      "hard_hit_pct": 51.2,
-      "pitcher_hr_per_9": 1.364,
-      "threshold_count": 3,
-      "threshold_label": "3/3",
-      "base_score": 0.827,
-      "threshold_bonus": 0.1,
-      "final_score": 0.927,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592626/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682052/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 7,
       "mlbam_id": 571970,
       "player_name": "Max Muncy",
       "team": "Los Angeles Dodgers",
@@ -177,7 +152,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 665019,
       "player_name": "Kody Clemens",
       "team": "Minnesota Twins",
@@ -202,7 +177,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 624413,
       "player_name": "Pete Alonso",
       "team": "Baltimore Orioles",
@@ -227,7 +202,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 683748,
       "player_name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
@@ -252,7 +227,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 696100,
       "player_name": "Hunter Goodman",
       "team": "Colorado Rockies",
@@ -277,7 +252,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 691723,
       "player_name": "Coby Mayo",
       "team": "Baltimore Orioles",
@@ -302,7 +277,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -327,7 +302,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 682987,
       "player_name": "Spencer Jones",
       "team": "New York Yankees",
@@ -352,7 +327,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 691718,
       "player_name": "Pete Crow-Armstrong",
       "team": "Chicago Cubs",
@@ -377,7 +352,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 608369,
       "player_name": "Corey Seager",
       "team": "Texas Rangers",
@@ -402,7 +377,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 663886,
       "player_name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
@@ -413,12 +388,12 @@
       "fb_pct": 38.46,
       "avg_exit_velo": 91.2,
       "hard_hit_pct": 45.7,
-      "pitcher_hr_per_9": 0.903,
+      "pitcher_hr_per_9": 0.895,
       "threshold_count": 3,
       "threshold_label": "3/3",
-      "base_score": 0.78,
+      "base_score": 0.779,
       "threshold_bonus": 0.1,
-      "final_score": 0.88,
+      "final_score": 0.879,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663886/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -427,7 +402,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 695600,
       "player_name": "Carter Jensen",
       "team": "Kansas City Royals",
@@ -452,7 +427,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 804668,
       "player_name": "Rafael Flores Jr.",
       "team": "Pittsburgh Pirates",
@@ -477,7 +452,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 682626,
       "player_name": "Francisco Alvarez",
       "team": "New York Mets",
@@ -499,6 +474,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 660271,
+      "player_name": "Shohei Ohtani",
+      "team": "Los Angeles Dodgers",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "venue_name": "UNIQLO Field at Dodger Stadium",
+      "barrel_pct": 15.7,
+      "fb_pct": 25.68,
+      "avg_exit_velo": 93.2,
+      "hard_hit_pct": 51.7,
+      "pitcher_hr_per_9": null,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.815,
+      "threshold_bonus": 0.05,
+      "final_score": 0.865,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     }
   ]
