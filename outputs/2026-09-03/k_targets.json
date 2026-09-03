@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at_et": "2026-09-03 10:11:05 EDT",
+  "generated_at_et": "2026-09-03 13:05:41 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -13,7 +13,7 @@
       "pitcher_k_minus_bb_pct": 0.1547,
       "opp_k_rate": 0.2443,
       "opp_games_sample": 27,
-      "score": 0.8424,
+      "score": 0.8428,
       "game_pk": 823095,
       "game_time_local": "9:40 PM ET",
       "venue": "T-Mobile Park",
@@ -33,7 +33,7 @@
       "pitcher_k_minus_bb_pct": 0.2667,
       "opp_k_rate": 0.2201,
       "opp_games_sample": 27,
-      "score": 0.793,
+      "score": 0.7933,
       "game_pk": 823907,
       "game_time_local": "10:10 PM ET",
       "venue": "UNIQLO Field at Dodger Stadium",
@@ -53,7 +53,7 @@
       "pitcher_k_minus_bb_pct": 0.1235,
       "opp_k_rate": 0.2364,
       "opp_games_sample": 28,
-      "score": 0.717,
+      "score": 0.7174,
       "game_pk": 824144,
       "game_time_local": "2:10 PM ET",
       "venue": "Daikin Park",
@@ -69,11 +69,11 @@
       "pitcher_name": "Lake Bachar",
       "pitcher_team": "Pittsburgh Pirates",
       "opposing_team": "San Francisco Giants",
-      "pitcher_k_per_9": 9.199,
-      "pitcher_k_minus_bb_pct": 0.1526,
-      "opp_k_rate": 0.2312,
-      "opp_games_sample": 27,
-      "score": 0.6494,
+      "pitcher_k_per_9": 9.314,
+      "pitcher_k_minus_bb_pct": 0.1538,
+      "opp_k_rate": 0.232,
+      "opp_games_sample": 28,
+      "score": 0.6673,
       "game_pk": 823337,
       "game_time_local": "12:35 PM ET",
       "venue": "PNC Park",
@@ -85,6 +85,26 @@
     },
     {
       "rank": 5,
+      "pitcher_mlbam_id": 694918,
+      "pitcher_name": "Blade Tidwell",
+      "pitcher_team": "San Francisco Giants",
+      "opposing_team": "Pittsburgh Pirates",
+      "pitcher_k_per_9": 7.681,
+      "pitcher_k_minus_bb_pct": 0.1049,
+      "opp_k_rate": 0.2624,
+      "opp_games_sample": 27,
+      "score": 0.6228,
+      "game_pk": 823337,
+      "game_time_local": "12:35 PM ET",
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694918/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "rank": 6,
       "pitcher_mlbam_id": 592332,
       "pitcher_name": "Kevin Gausman",
       "pitcher_team": "Chicago Cubs",
@@ -93,7 +113,7 @@
       "pitcher_k_minus_bb_pct": 0.1723,
       "opp_k_rate": 0.2277,
       "opp_games_sample": 28,
-      "score": 0.6134,
+      "score": 0.6137,
       "game_pk": 824632,
       "game_time_local": "7:15 PM ET",
       "venue": "Wrigley Field",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 701656,
       "pitcher_name": "Logan Henderson",
       "pitcher_team": "Milwaukee Brewers",
@@ -113,7 +133,7 @@
       "pitcher_k_minus_bb_pct": 0.2517,
       "opp_k_rate": 0.1994,
       "opp_games_sample": 27,
-      "score": 0.6054,
+      "score": 0.6056,
       "game_pk": 824632,
       "game_time_local": "7:15 PM ET",
       "venue": "Wrigley Field",
@@ -121,26 +141,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701656/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "pitcher_mlbam_id": 694918,
-      "pitcher_name": "Blade Tidwell",
-      "pitcher_team": "San Francisco Giants",
-      "opposing_team": "Pittsburgh Pirates",
-      "pitcher_k_per_9": 7.407,
-      "pitcher_k_minus_bb_pct": 0.1169,
-      "opp_k_rate": 0.2625,
-      "opp_games_sample": 26,
-      "score": 0.5904,
-      "game_pk": 823337,
-      "game_time_local": "12:35 PM ET",
-      "venue": "PNC Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694918/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     },
     {
@@ -153,7 +153,7 @@
       "pitcher_k_minus_bb_pct": 0.1395,
       "opp_k_rate": 0.2221,
       "opp_games_sample": 27,
-      "score": 0.4873,
+      "score": 0.4876,
       "game_pk": 822853,
       "game_time_local": "8:05 PM ET",
       "venue": "Globe Life Field",

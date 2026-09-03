@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at_et": "2026-09-03 10:10:05 EDT",
+  "generated_at_et": "2026-09-03 13:04:45 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -205,56 +205,6 @@
     },
     {
       "rank": 9,
-      "mlbam_id": 543807,
-      "player_name": "George Springer",
-      "team": "Toronto Blue Jays",
-      "bat_side": "R",
-      "opposing_pitcher": "Tanner Bibee",
-      "opposing_pitcher_id": 676440,
-      "pitcher_throws": "R",
-      "venue_name": "Progressive Field",
-      "career_ab": 9,
-      "career_h": 2,
-      "career_hr": 1,
-      "career_avg": 0.222,
-      "career_ops": 0.778,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.556,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/543807/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/676440/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 10,
-      "mlbam_id": 701358,
-      "player_name": "Cam Smith",
-      "team": "Houston Astros",
-      "bat_side": "R",
-      "opposing_pitcher": "Luis Castillo",
-      "opposing_pitcher_id": 622491,
-      "pitcher_throws": "R",
-      "venue_name": "Daikin Park",
-      "career_ab": 12,
-      "career_h": 4,
-      "career_hr": 0,
-      "career_avg": 0.333,
-      "career_ops": 0.75,
-      "career_xbh": 1,
-      "career_rbi": 3,
-      "career_slg": 0.417,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/701358/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622491/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 11,
       "mlbam_id": 670623,
       "player_name": "Isaac Paredes",
       "team": "Houston Astros",
@@ -279,7 +229,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "mlbam_id": 668942,
       "player_name": "Josh Rojas",
       "team": "Kansas City Royals",
@@ -304,7 +254,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "mlbam_id": 665161,
       "player_name": "Jeremy Pe\u00f1a",
       "team": "Houston Astros",
@@ -329,7 +279,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "mlbam_id": 596142,
       "player_name": "Gary S\u00e1nchez",
       "team": "Milwaukee Brewers",
@@ -354,7 +304,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "mlbam_id": 602104,
       "player_name": "Ram\u00f3n Ur\u00edas",
       "team": "St. Louis Cardinals",
@@ -379,7 +329,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "mlbam_id": 592885,
       "player_name": "Christian Yelich",
       "team": "Milwaukee Brewers",
@@ -404,57 +354,7 @@
       }
     },
     {
-      "rank": 17,
-      "mlbam_id": 676694,
-      "player_name": "Jake Meyers",
-      "team": "Houston Astros",
-      "bat_side": "R",
-      "opposing_pitcher": "Luis Castillo",
-      "opposing_pitcher_id": 622491,
-      "pitcher_throws": "R",
-      "venue_name": "Daikin Park",
-      "career_ab": 14,
-      "career_h": 3,
-      "career_hr": 0,
-      "career_avg": 0.214,
-      "career_ops": 0.5,
-      "career_xbh": 1,
-      "career_rbi": 0,
-      "career_slg": 0.286,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/676694/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622491/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "mlbam_id": 669397,
-      "player_name": "Nick Allen",
-      "team": "Houston Astros",
-      "bat_side": "R",
-      "opposing_pitcher": "Luis Castillo",
-      "opposing_pitcher_id": 622491,
-      "pitcher_throws": "R",
-      "venue_name": "Daikin Park",
-      "career_ab": 10,
-      "career_h": 2,
-      "career_hr": 0,
-      "career_avg": 0.2,
-      "career_ops": 0.473,
-      "career_xbh": 0,
-      "career_rbi": 1,
-      "career_slg": 0.2,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669397/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622491/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 19,
+      "rank": 15,
       "mlbam_id": 514888,
       "player_name": "Jose Altuve",
       "team": "Houston Astros",
@@ -479,7 +379,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 16,
       "mlbam_id": 666152,
       "player_name": "David Hamilton",
       "team": "Milwaukee Brewers",
@@ -501,6 +401,106 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592332/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 17,
+      "mlbam_id": 673237,
+      "player_name": "Yainer Diaz",
+      "team": "Houston Astros",
+      "bat_side": "R",
+      "opposing_pitcher": "Luis Castillo",
+      "opposing_pitcher_id": 622491,
+      "pitcher_throws": "R",
+      "venue_name": "Daikin Park",
+      "career_ab": 17,
+      "career_h": 3,
+      "career_hr": 0,
+      "career_avg": 0.176,
+      "career_ops": 0.398,
+      "career_xbh": 0,
+      "career_rbi": 2,
+      "career_slg": 0.176,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/673237/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622491/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 18,
+      "mlbam_id": 666018,
+      "player_name": "Jonathan Aranda",
+      "team": "Tampa Bay Rays",
+      "bat_side": "L",
+      "opposing_pitcher": "Cal Quantrill",
+      "opposing_pitcher_id": 615698,
+      "pitcher_throws": "R",
+      "venue_name": "Globe Life Field",
+      "career_ab": 8,
+      "career_h": 1,
+      "career_hr": 0,
+      "career_avg": 0.125,
+      "career_ops": 0.347,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.125,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/666018/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/615698/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 661388,
+      "player_name": "William Contreras",
+      "team": "Milwaukee Brewers",
+      "bat_side": "R",
+      "opposing_pitcher": "Kevin Gausman",
+      "opposing_pitcher_id": 592332,
+      "pitcher_throws": "R",
+      "venue_name": "Wrigley Field",
+      "career_ab": 8,
+      "career_h": 1,
+      "career_hr": 0,
+      "career_avg": 0.125,
+      "career_ops": 0.347,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.125,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/661388/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/592332/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 572233,
+      "player_name": "Christian Walker",
+      "team": "Houston Astros",
+      "bat_side": "R",
+      "opposing_pitcher": "Luis Castillo",
+      "opposing_pitcher_id": 622491,
+      "pitcher_throws": "R",
+      "venue_name": "Daikin Park",
+      "career_ab": 20,
+      "career_h": 2,
+      "career_hr": 0,
+      "career_avg": 0.1,
+      "career_ops": 0.282,
+      "career_xbh": 0,
+      "career_rbi": 2,
+      "career_slg": 0.1,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/572233/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622491/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     }
   ]

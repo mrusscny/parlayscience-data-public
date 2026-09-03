@@ -1,6 +1,6 @@
 {
   "date": "2026-09-03",
-  "generated_at_et": "2026-09-03 10:09:09 EDT",
+  "generated_at_et": "2026-09-03 13:04:16 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -316,7 +316,7 @@
       "streak_hits": 8,
       "streak_at_bats": 17,
       "streak_avg": 0.471,
-      "season_avg": 0.256,
+      "season_avg": 0.255,
       "last_game_date": "2026-09-02",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664040/headshot/67/current",
