@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at_et": "2026-09-04 10:01:15 EDT",
+  "generated_at_et": "2026-09-04 12:55:21 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -405,31 +405,6 @@
     },
     {
       "rank": 17,
-      "batter_mlbam_id": 690993,
-      "batter_name": "Colt Keith",
-      "batter_team": "Detroit Tigers",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 656492,
-      "pitcher_name": "Foster Griffin",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.578,
-      "batter_slg": 0.607,
-      "batter_woba_contact": 0.414,
-      "batter_ab_vs_pitch": 56,
-      "batter_barrel_pct": 7.4,
-      "batter_season_slg_overall": 0.402,
-      "matchup_strength": 0.3509,
-      "venue_name": "Progressive Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690993/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 18,
       "batter_mlbam_id": 679822,
       "batter_name": "Justin Foscue",
       "batter_team": "Texas Rangers",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "batter_mlbam_id": 621438,
       "batter_name": "Tyrone Taylor",
       "batter_team": "Chicago Cubs",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "batter_mlbam_id": 553993,
       "batter_name": "Eugenio Su\u00e1rez",
       "batter_team": "Cincinnati Reds",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/675660/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 543760,
+      "batter_name": "Marcus Semien",
+      "batter_team": "New York Mets",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 683363,
+      "pitcher_name": "Matt Wilkinson",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.602,
+      "batter_slg": 0.574,
+      "batter_woba_contact": 0.381,
+      "batter_ab_vs_pitch": 68,
+      "batter_barrel_pct": 6.1,
+      "batter_season_slg_overall": 0.348,
+      "matchup_strength": 0.3454,
+      "venue_name": "Citi Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543760/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683363/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]
