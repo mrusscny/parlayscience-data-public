@@ -1,6 +1,6 @@
 {
   "date": "2026-09-04",
-  "generated_at_et": "2026-09-04 09:25:37 EDT",
+  "generated_at_et": "2026-09-04 09:55:51 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 48.7,
       "fb_pct": 38.46,
       "pitcher_hr_per_9": 1.682,
-      "weather_score": 0.934,
+      "weather_score": 0.5,
       "park_factor": 1.39,
-      "composite_score": 0.932,
+      "composite_score": 0.889,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695491/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
@@ -47,7 +47,7 @@
       "hard_hit_pct": 56.8,
       "fb_pct": 33.93,
       "pitcher_hr_per_9": 1.527,
-      "weather_score": 0.997,
+      "weather_score": 0.994,
       "park_factor": 1.08,
       "composite_score": 0.886,
       "image_urls": {
@@ -86,33 +86,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 691023,
-      "player_name": "Jordan Walker",
-      "team": "St. Louis Cardinals",
-      "bat_side": "R",
-      "opposing_pitcher": "Ryan Feltner",
-      "opposing_pitcher_id": 663372,
-      "pitcher_throws": "R",
-      "venue_name": "Coors Field",
-      "barrel_pct": 13.5,
-      "iso_overall": 0.217,
-      "iso_split": 0.206,
-      "iso_blended": 0.21,
-      "hard_hit_pct": 48.9,
-      "fb_pct": 28.57,
-      "pitcher_hr_per_9": 1.682,
-      "weather_score": 0.934,
-      "park_factor": 1.39,
-      "composite_score": 0.857,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691023/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 695506,
       "player_name": "Jac Caglianone",
       "team": "Kansas City Royals",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -166,7 +139,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 665019,
       "player_name": "Kody Clemens",
       "team": "Minnesota Twins",
@@ -182,7 +155,7 @@
       "hard_hit_pct": 47.0,
       "fb_pct": 38.46,
       "pitcher_hr_per_9": 1.605,
-      "weather_score": 0.997,
+      "weather_score": 0.994,
       "park_factor": 1.08,
       "composite_score": 0.84,
       "image_urls": {
@@ -190,6 +163,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607200/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 670541,
+      "player_name": "Yordan Alvarez",
+      "team": "Houston Astros",
+      "bat_side": "L",
+      "opposing_pitcher": "Merrill Kelly",
+      "opposing_pitcher_id": 518876,
+      "pitcher_throws": "R",
+      "venue_name": "Daikin Park",
+      "barrel_pct": 16.4,
+      "iso_overall": 0.286,
+      "iso_split": 0.309,
+      "iso_blended": 0.3,
+      "hard_hit_pct": 53.5,
+      "fb_pct": 36.76,
+      "pitcher_hr_per_9": 1.652,
+      "weather_score": 0.5,
+      "park_factor": 1.02,
+      "composite_score": 0.837,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/518876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
       }
     },
     {
@@ -209,9 +209,9 @@
       "hard_hit_pct": 44.1,
       "fb_pct": 32.56,
       "pitcher_hr_per_9": 1.991,
-      "weather_score": 0.626,
+      "weather_score": 0.5,
       "park_factor": 0.89,
-      "composite_score": 0.838,
+      "composite_score": 0.826,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804668/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
