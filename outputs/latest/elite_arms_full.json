@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at_et": "2026-09-07 11:28:10 EDT",
+  "generated_at_et": "2026-09-07 14:16:07 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -110,6 +110,27 @@
     },
     {
       "rank": 6,
+      "pitcher_mlbam_id": 666200,
+      "pitcher_name": "Jes\u00fas Luzardo",
+      "pitcher_team": "Philadelphia Phillies",
+      "next_start_date": "2026-09-07",
+      "opposing_team": "Atlanta Braves",
+      "fip": 2.609,
+      "era_proxy": 2.93,
+      "k_minus_bb_pct": 0.2322,
+      "k_per_9": 11.16,
+      "ip_total": 175.0,
+      "score": 0.5477,
+      "game_pk": 823415,
+      "venue": "Citizens Bank Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 7,
       "pitcher_mlbam_id": 701656,
       "pitcher_name": "Logan Henderson",
       "pitcher_team": "Milwaukee Brewers",
@@ -127,27 +148,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701656/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "pitcher_mlbam_id": 666200,
-      "pitcher_name": "Jes\u00fas Luzardo",
-      "pitcher_team": "Philadelphia Phillies",
-      "next_start_date": "2026-09-07",
-      "opposing_team": "Atlanta Braves",
-      "fip": 2.687,
-      "era_proxy": 3.02,
-      "k_minus_bb_pct": 0.2267,
-      "k_per_9": 11.086,
-      "ip_total": 169.7,
-      "score": 0.5305,
-      "game_pk": 823415,
-      "venue": "Citizens Bank Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
       }
     },
     {

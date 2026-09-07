@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at_et": "2026-09-07 11:26:06 EDT",
+  "generated_at_et": "2026-09-07 14:14:39 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -17,7 +17,7 @@
       "streak_hits": 11,
       "streak_at_bats": 36,
       "streak_avg": 0.306,
-      "season_avg": 0.222,
+      "season_avg": 0.221,
       "last_game_date": "2026-09-06",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691723/headshot/67/current",
@@ -109,7 +109,7 @@
       "streak_hits": 12,
       "streak_at_bats": 28,
       "streak_avg": 0.429,
-      "season_avg": 0.289,
+      "season_avg": 0.29,
       "last_game_date": "2026-09-06",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691594/headshot/67/current",
@@ -132,7 +132,7 @@
       "streak_hits": 12,
       "streak_at_bats": 29,
       "streak_avg": 0.414,
-      "season_avg": 0.237,
+      "season_avg": 0.236,
       "last_game_date": "2026-09-06",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596115/headshot/67/current",
@@ -406,7 +406,7 @@
       "streak_hits": 5,
       "streak_at_bats": 18,
       "streak_avg": 0.278,
-      "season_avg": 0.28,
+      "season_avg": 0.279,
       "last_game_date": "2026-09-06",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691718/headshot/67/current",
@@ -429,7 +429,7 @@
       "streak_hits": 10,
       "streak_at_bats": 17,
       "streak_avg": 0.588,
-      "season_avg": 0.255,
+      "season_avg": 0.254,
       "last_game_date": "2026-09-06",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660670/headshot/67/current",

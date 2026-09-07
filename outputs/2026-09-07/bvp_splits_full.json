@@ -1,35 +1,10 @@
 {
   "date": "2026-09-07",
-  "generated_at_et": "2026-09-07 11:26:46 EDT",
+  "generated_at_et": "2026-09-07 14:15:00 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
       "rank": 1,
-      "mlbam_id": 657041,
-      "player_name": "Lane Thomas",
-      "team": "Atlanta Braves",
-      "bat_side": "R",
-      "opposing_pitcher": "Jes\u00fas Luzardo",
-      "opposing_pitcher_id": 666200,
-      "pitcher_throws": "L",
-      "venue_name": "Citizens Bank Park",
-      "career_ab": 22,
-      "career_h": 9,
-      "career_hr": 4,
-      "career_avg": 0.409,
-      "career_ops": 1.503,
-      "career_xbh": 6,
-      "career_rbi": 6,
-      "career_slg": 1.045,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/657041/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/666200/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 2,
       "mlbam_id": 677800,
       "player_name": "Wilyer Abreu",
       "team": "Boston Red Sox",
@@ -51,6 +26,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/680570/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 657041,
+      "player_name": "Lane Thomas",
+      "team": "Atlanta Braves",
+      "bat_side": "R",
+      "opposing_pitcher": "Jes\u00fas Luzardo",
+      "opposing_pitcher_id": 666200,
+      "pitcher_throws": "L",
+      "venue_name": "Citizens Bank Park",
+      "career_ab": 24,
+      "career_h": 9,
+      "career_hr": 4,
+      "career_avg": 0.375,
+      "career_ops": 1.381,
+      "career_xbh": 6,
+      "career_rbi": 6,
+      "career_slg": 0.958,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/657041/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/666200/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     },
     {
@@ -105,6 +105,31 @@
     },
     {
       "rank": 5,
+      "mlbam_id": 607208,
+      "player_name": "Trea Turner",
+      "team": "Philadelphia Phillies",
+      "bat_side": "R",
+      "opposing_pitcher": "Grant Holmes",
+      "opposing_pitcher_id": 656550,
+      "pitcher_throws": "R",
+      "venue_name": "Citizens Bank Park",
+      "career_ab": 9,
+      "career_h": 2,
+      "career_hr": 1,
+      "career_avg": 0.222,
+      "career_ops": 0.92,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.556,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607208/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656550/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 6,
       "mlbam_id": 683734,
       "player_name": "Andrew Vaughn",
       "team": "Milwaukee Brewers",
@@ -129,7 +154,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "mlbam_id": 666139,
       "player_name": "Josh Lowe",
       "team": "Los Angeles Angels",
@@ -154,7 +179,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "mlbam_id": 666182,
       "player_name": "Bo Bichette",
       "team": "New York Mets",
@@ -179,7 +204,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "mlbam_id": 690993,
       "player_name": "Colt Keith",
       "team": "Detroit Tigers",
@@ -204,7 +229,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
       "mlbam_id": 592885,
       "player_name": "Christian Yelich",
       "team": "Milwaukee Brewers",
@@ -229,7 +254,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 11,
       "mlbam_id": 668930,
       "player_name": "Brice Turang",
       "team": "Milwaukee Brewers",
@@ -254,7 +279,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 12,
       "mlbam_id": 643446,
       "player_name": "Jeff McNeil",
       "team": "Athletics",
@@ -279,7 +304,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 13,
       "mlbam_id": 682985,
       "player_name": "Riley Greene",
       "team": "Detroit Tigers",
@@ -304,7 +329,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 14,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -329,7 +354,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "mlbam_id": 687263,
       "player_name": "Zach Neto",
       "team": "Los Angeles Angels",
@@ -354,7 +379,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "mlbam_id": 660670,
       "player_name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
@@ -379,7 +404,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "mlbam_id": 663586,
       "player_name": "Austin Riley",
       "team": "Atlanta Braves",
@@ -404,7 +429,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "mlbam_id": 671739,
       "player_name": "Michael Harris II",
       "team": "Atlanta Braves",
@@ -429,7 +454,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "mlbam_id": 650333,
       "player_name": "Luis Arraez",
       "team": "Philadelphia Phillies",
@@ -454,7 +479,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "mlbam_id": 645277,
       "player_name": "Ozzie Albies",
       "team": "Atlanta Braves",
@@ -463,44 +488,19 @@
       "opposing_pitcher_id": 666200,
       "pitcher_throws": "L",
       "venue_name": "Citizens Bank Park",
-      "career_ab": 22,
+      "career_ab": 23,
       "career_h": 5,
       "career_hr": 0,
-      "career_avg": 0.227,
-      "career_ops": 0.625,
+      "career_avg": 0.217,
+      "career_ops": 0.598,
       "career_xbh": 3,
       "career_rbi": 0,
-      "career_slg": 0.364,
+      "career_slg": 0.348,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/645277/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/666200/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 681082,
-      "player_name": "Bryson Stott",
-      "team": "Philadelphia Phillies",
-      "bat_side": "L",
-      "opposing_pitcher": "Grant Holmes",
-      "opposing_pitcher_id": 656550,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "career_ab": 8,
-      "career_h": 2,
-      "career_hr": 0,
-      "career_avg": 0.25,
-      "career_ops": 0.583,
-      "career_xbh": 0,
-      "career_rbi": 0,
-      "career_slg": 0.25,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/681082/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656550/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
       }
     }
   ]
