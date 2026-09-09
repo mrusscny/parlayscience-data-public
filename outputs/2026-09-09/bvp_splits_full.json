@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at_et": "2026-09-09 10:05:00 EDT",
+  "generated_at_et": "2026-09-09 13:11:08 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 646240,
-      "player_name": "Rafael Devers",
-      "team": "San Francisco Giants",
-      "bat_side": "L",
-      "opposing_pitcher": "Andre Pallante",
-      "opposing_pitcher_id": 669467,
-      "pitcher_throws": "R",
-      "venue_name": "Oracle Park",
-      "career_ab": 10,
-      "career_h": 2,
-      "career_hr": 1,
-      "career_avg": 0.2,
-      "career_ops": 0.833,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.5,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/646240/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669467/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 663616,
       "player_name": "Trevor Larnach",
       "team": "Minnesota Twins",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 641343,
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 686797,
       "player_name": "Brooks Lee",
       "team": "Minnesota Twins",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 680757,
       "player_name": "Steven Kwan",
       "team": "Cleveland Guardians",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "mlbam_id": 687401,
       "player_name": "Joey Ortiz",
       "team": "Milwaukee Brewers",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "mlbam_id": 596142,
       "player_name": "Gary S\u00e1nchez",
       "team": "Milwaukee Brewers",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "mlbam_id": 592885,
       "player_name": "Christian Yelich",
       "team": "Milwaukee Brewers",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "mlbam_id": 666152,
       "player_name": "David Hamilton",
       "team": "Milwaukee Brewers",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 661388,
       "player_name": "William Contreras",
       "team": "Milwaukee Brewers",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 666176,
       "player_name": "Jo Adell",
       "team": "Cleveland Guardians",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 677951,
       "player_name": "Bobby Witt Jr.",
       "team": "Kansas City Royals",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 502671,
       "player_name": "Paul Goldschmidt",
       "team": "New York Yankees",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 668930,
       "player_name": "Brice Turang",
       "team": "Milwaukee Brewers",

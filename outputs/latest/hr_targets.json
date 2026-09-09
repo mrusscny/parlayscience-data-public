@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at_et": "2026-09-09 10:02:55 EDT",
+  "generated_at_et": "2026-09-09 13:09:01 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 57.6,
       "fb_pct": 35.0,
       "pitcher_hr_per_9": 1.846,
-      "weather_score": 0.717,
+      "weather_score": 0.5,
       "park_factor": 1.18,
-      "composite_score": 0.92,
+      "composite_score": 0.899,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 48.6,
       "fb_pct": 36.23,
       "pitcher_hr_per_9": 1.846,
-      "weather_score": 0.717,
+      "weather_score": 0.5,
       "park_factor": 1.18,
-      "composite_score": 0.909,
+      "composite_score": 0.887,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -59,33 +59,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 682987,
-      "player_name": "Spencer Jones",
-      "team": "New York Yankees",
-      "bat_side": "L",
-      "opposing_pitcher": "Tomoyuki Sugano",
-      "opposing_pitcher_id": 608372.0,
-      "pitcher_throws": "R",
-      "venue_name": "Yankee Stadium",
-      "barrel_pct": 15.8,
-      "iso_overall": 0.198,
-      "iso_split": 0.174,
-      "iso_blended": 0.184,
-      "hard_hit_pct": 55.5,
-      "fb_pct": 32.65,
-      "pitcher_hr_per_9": 1.846,
-      "weather_score": 0.717,
-      "park_factor": 1.18,
-      "composite_score": 0.863,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682987/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -101,14 +74,41 @@
       "hard_hit_pct": 50.5,
       "fb_pct": 38.89,
       "pitcher_hr_per_9": 1.336,
-      "weather_score": 0.988,
+      "weather_score": 0.968,
       "park_factor": 1.01,
-      "composite_score": 0.854,
+      "composite_score": 0.852,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "mlbam_id": 682987,
+      "player_name": "Spencer Jones",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Tomoyuki Sugano",
+      "opposing_pitcher_id": 608372.0,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 15.8,
+      "iso_overall": 0.198,
+      "iso_split": 0.174,
+      "iso_blended": 0.184,
+      "hard_hit_pct": 55.5,
+      "fb_pct": 32.65,
+      "pitcher_hr_per_9": 1.846,
+      "weather_score": 0.5,
+      "park_factor": 1.18,
+      "composite_score": 0.841,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682987/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     },
     {
@@ -128,9 +128,9 @@
       "hard_hit_pct": 57.3,
       "fb_pct": 34.62,
       "pitcher_hr_per_9": 1.506,
-      "weather_score": 0.621,
+      "weather_score": 0.5,
       "park_factor": 1.08,
-      "composite_score": 0.848,
+      "composite_score": 0.836,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -140,60 +140,6 @@
     },
     {
       "rank": 6,
-      "mlbam_id": 696100,
-      "player_name": "Hunter Goodman",
-      "team": "Colorado Rockies",
-      "bat_side": "R",
-      "opposing_pitcher": "Will Warren",
-      "opposing_pitcher_id": 701542.0,
-      "pitcher_throws": "R",
-      "venue_name": "Yankee Stadium",
-      "barrel_pct": 15.4,
-      "iso_overall": 0.283,
-      "iso_split": 0.297,
-      "iso_blended": 0.291,
-      "hard_hit_pct": 45.5,
-      "fb_pct": 23.81,
-      "pitcher_hr_per_9": 1.32,
-      "weather_score": 0.717,
-      "park_factor": 1.18,
-      "composite_score": 0.846,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701542/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 7,
-      "mlbam_id": 671277,
-      "player_name": "Luis Garc\u00eda Jr.",
-      "team": "New York Yankees",
-      "bat_side": "L",
-      "opposing_pitcher": "Tomoyuki Sugano",
-      "opposing_pitcher_id": 608372.0,
-      "pitcher_throws": "R",
-      "venue_name": "Yankee Stadium",
-      "barrel_pct": 12.0,
-      "iso_overall": 0.256,
-      "iso_split": 0.281,
-      "iso_blended": 0.271,
-      "hard_hit_pct": 46.5,
-      "fb_pct": 26.47,
-      "pitcher_hr_per_9": 1.846,
-      "weather_score": 0.717,
-      "park_factor": 1.18,
-      "composite_score": 0.843,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 8,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -209,7 +155,7 @@
       "hard_hit_pct": 49.7,
       "fb_pct": 30.38,
       "pitcher_hr_per_9": 1.034,
-      "weather_score": 0.862,
+      "weather_score": 0.854,
       "park_factor": 1.14,
       "composite_score": 0.833,
       "image_urls": {
@@ -217,6 +163,60 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686613/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 696100,
+      "player_name": "Hunter Goodman",
+      "team": "Colorado Rockies",
+      "bat_side": "R",
+      "opposing_pitcher": "Will Warren",
+      "opposing_pitcher_id": 701542.0,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 15.4,
+      "iso_overall": 0.283,
+      "iso_split": 0.297,
+      "iso_blended": 0.291,
+      "hard_hit_pct": 45.5,
+      "fb_pct": 23.81,
+      "pitcher_hr_per_9": 1.32,
+      "weather_score": 0.5,
+      "park_factor": 1.18,
+      "composite_score": 0.824,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701542/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 671277,
+      "player_name": "Luis Garc\u00eda Jr.",
+      "team": "New York Yankees",
+      "bat_side": "L",
+      "opposing_pitcher": "Tomoyuki Sugano",
+      "opposing_pitcher_id": 608372.0,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 12.0,
+      "iso_overall": 0.256,
+      "iso_split": 0.281,
+      "iso_blended": 0.271,
+      "hard_hit_pct": 46.5,
+      "fb_pct": 26.47,
+      "pitcher_hr_per_9": 1.846,
+      "weather_score": 0.5,
+      "park_factor": 1.18,
+      "composite_score": 0.822,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608372/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]
