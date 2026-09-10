@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at_et": "2026-09-10 09:59:15 EDT",
+  "generated_at_et": "2026-09-10 13:02:13 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -205,31 +205,6 @@
     },
     {
       "rank": 9,
-      "batter_mlbam_id": 669397,
-      "batter_name": "Nick Allen",
-      "batter_team": "Houston Astros",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 554430,
-      "pitcher_name": "Zack Wheeler",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.607,
-      "batter_slg": 0.516,
-      "batter_woba_contact": 0.379,
-      "batter_ab_vs_pitch": 31,
-      "batter_barrel_pct": 1.9,
-      "batter_season_slg_overall": 0.359,
-      "matchup_strength": 0.3133,
-      "venue_name": "Citizens Bank Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669397/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/554430/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 10,
       "batter_mlbam_id": 682987,
       "batter_name": "Spencer Jones",
       "batter_team": "New York Yankees",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 514888,
       "batter_name": "Jose Altuve",
       "batter_team": "Houston Astros",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 681082,
       "batter_name": "Bryson Stott",
       "batter_team": "Philadelphia Phillies",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 656941,
       "batter_name": "Kyle Schwarber",
       "batter_team": "Philadelphia Phillies",
@@ -329,32 +304,7 @@
       }
     },
     {
-      "rank": 14,
-      "batter_mlbam_id": 656537,
-      "batter_name": "Derek Hill",
-      "batter_team": "Philadelphia Phillies",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 664299,
-      "pitcher_name": "Cristian Javier",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.561,
-      "batter_slg": 0.5,
-      "batter_woba_contact": 0.348,
-      "batter_ab_vs_pitch": 30,
-      "batter_barrel_pct": 9.8,
-      "batter_season_slg_overall": 0.439,
-      "matchup_strength": 0.2806,
-      "venue_name": "Citizens Bank Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656537/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664299/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
-      }
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "batter_mlbam_id": 671277,
       "batter_name": "Luis Garc\u00eda Jr.",
       "batter_team": "New York Yankees",
@@ -379,7 +329,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "batter_mlbam_id": 695731,
       "batter_name": "Braden Montgomery",
       "batter_team": "Chicago White Sox",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "batter_mlbam_id": 669224,
       "batter_name": "Austin Wells",
       "batter_team": "New York Yankees",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "batter_mlbam_id": 668227,
       "batter_name": "Randy Arozarena",
       "batter_team": "Seattle Mariners",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "batter_mlbam_id": 592626,
       "batter_name": "Joc Pederson",
       "batter_team": "Texas Rangers",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "batter_mlbam_id": 671976,
       "batter_name": "Tristan Peters",
       "batter_team": "Chicago White Sox",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683003/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 669394,
+      "batter_name": "Jake Burger",
+      "batter_team": "Texas Rangers",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 669302,
+      "pitcher_name": "Logan Gilbert",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.445,
+      "batter_slg": 0.56,
+      "batter_woba_contact": 0.369,
+      "batter_ab_vs_pitch": 84,
+      "batter_barrel_pct": 12.4,
+      "batter_season_slg_overall": 0.436,
+      "matchup_strength": 0.2493,
+      "venue_name": "T-Mobile Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669394/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669302/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 663728,
+      "batter_name": "Cal Raleigh",
+      "batter_team": "Seattle Mariners",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 594798,
+      "pitcher_name": "Jacob deGrom",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.462,
+      "batter_slg": 0.536,
+      "batter_woba_contact": 0.32,
+      "batter_ab_vs_pitch": 84,
+      "batter_barrel_pct": 15.0,
+      "batter_season_slg_overall": 0.376,
+      "matchup_strength": 0.2475,
+      "venue_name": "T-Mobile Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/594798/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
       }
     }
   ]

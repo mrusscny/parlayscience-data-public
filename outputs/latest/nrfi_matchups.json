@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at_et": "2026-09-10 09:59:25 EDT",
+  "generated_at_et": "2026-09-10 13:02:21 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
@@ -59,14 +59,14 @@
       "pitcher_name": "Nick Martinez",
       "pitcher_team": "Tampa Bay Rays",
       "pitcher_throws": "R",
-      "pitcher_first_inning_era": 1.67,
+      "pitcher_first_inning_era": 1.63,
       "pitcher_l10_nrfi_rate": 0.8,
       "pitcher_l10_starts_evaluated": 5,
       "opposing_team": "Atlanta Braves",
       "opposing_team_nrfi_rate": 0.741,
       "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.788,
-      "game_nrfi_score": 0.691,
+      "pitcher_composite_score": 0.79,
+      "game_nrfi_score": 0.696,
       "venue_name": "Truist Park",
       "game_time_et": "12:15 PM ET",
       "image_urls": {
@@ -83,14 +83,14 @@
       "pitcher_name": "Mart\u00edn P\u00e9rez",
       "pitcher_team": "Atlanta Braves",
       "pitcher_throws": "L",
-      "pitcher_first_inning_era": 4.7,
+      "pitcher_first_inning_era": 4.5,
       "pitcher_l10_nrfi_rate": 0.6,
       "pitcher_l10_starts_evaluated": 5,
       "opposing_team": "Tampa Bay Rays",
       "opposing_team_nrfi_rate": 0.741,
       "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.593,
-      "game_nrfi_score": 0.691,
+      "pitcher_composite_score": 0.602,
+      "game_nrfi_score": 0.696,
       "venue_name": "Truist Park",
       "game_time_et": "12:15 PM ET",
       "image_urls": {

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at_et": "2026-09-10 09:56:54 EDT",
+  "generated_at_et": "2026-09-10 13:00:16 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 57.1,
       "fb_pct": 35.0,
       "pitcher_hr_per_9": 1.603,
-      "weather_score": 0.86,
+      "weather_score": 0.832,
       "park_factor": 1.18,
-      "composite_score": 0.911,
+      "composite_score": 0.908,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 49.7,
       "fb_pct": 30.77,
       "pitcher_hr_per_9": 1.631,
-      "weather_score": 0.924,
+      "weather_score": 0.938,
       "park_factor": 1.14,
-      "composite_score": 0.9,
+      "composite_score": 0.901,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 48.3,
       "fb_pct": 36.11,
       "pitcher_hr_per_9": 1.603,
-      "weather_score": 0.86,
+      "weather_score": 0.832,
       "park_factor": 1.18,
-      "composite_score": 0.897,
+      "composite_score": 0.894,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -101,9 +101,9 @@
       "hard_hit_pct": 52.9,
       "fb_pct": 35.71,
       "pitcher_hr_per_9": 1.32,
-      "weather_score": 0.924,
+      "weather_score": 0.938,
       "park_factor": 1.14,
-      "composite_score": 0.879,
+      "composite_score": 0.88,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -128,9 +128,9 @@
       "hard_hit_pct": 55.4,
       "fb_pct": 31.37,
       "pitcher_hr_per_9": 1.603,
-      "weather_score": 0.86,
+      "weather_score": 0.832,
       "park_factor": 1.18,
-      "composite_score": 0.853,
+      "composite_score": 0.85,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682987/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -155,9 +155,9 @@
       "hard_hit_pct": 46.8,
       "fb_pct": 27.14,
       "pitcher_hr_per_9": 1.603,
-      "weather_score": 0.86,
+      "weather_score": 0.832,
       "park_factor": 1.18,
-      "composite_score": 0.839,
+      "composite_score": 0.836,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -182,7 +182,7 @@
       "hard_hit_pct": 57.5,
       "fb_pct": 35.85,
       "pitcher_hr_per_9": 1.373,
-      "weather_score": 0.557,
+      "weather_score": 0.55,
       "park_factor": 1.08,
       "composite_score": 0.83,
       "image_urls": {
@@ -208,10 +208,10 @@
       "iso_blended": 0.263,
       "hard_hit_pct": 50.9,
       "fb_pct": 38.36,
-      "pitcher_hr_per_9": 1.069,
-      "weather_score": 0.89,
+      "pitcher_hr_per_9": 1.049,
+      "weather_score": 0.877,
       "park_factor": 1.01,
-      "composite_score": 0.812,
+      "composite_score": 0.809,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
