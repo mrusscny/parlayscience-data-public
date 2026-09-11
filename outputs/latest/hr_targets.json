@@ -1,6 +1,6 @@
 {
   "date": "2026-09-11",
-  "generated_at_et": "2026-09-11 11:09:32 EDT",
+  "generated_at_et": "2026-09-11 13:00:00 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 37.5,
       "pitcher_hr_per_9": 1.9,
-      "weather_score": 0.607,
+      "weather_score": 0.62,
       "park_factor": 1.04,
-      "composite_score": 0.878,
+      "composite_score": 0.879,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804668/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
@@ -32,33 +32,6 @@
     },
     {
       "rank": 2,
-      "mlbam_id": 621566,
-      "player_name": "Matt Olson",
-      "team": "Atlanta Braves",
-      "bat_side": "L",
-      "opposing_pitcher": "Aaron Nola",
-      "opposing_pitcher_id": 605400.0,
-      "pitcher_throws": "R",
-      "venue_name": "Truist Park",
-      "barrel_pct": 14.6,
-      "iso_overall": 0.254,
-      "iso_split": 0.267,
-      "iso_blended": 0.262,
-      "hard_hit_pct": 51.2,
-      "fb_pct": 38.36,
-      "pitcher_hr_per_9": 1.858,
-      "weather_score": 0.726,
-      "park_factor": 1.01,
-      "composite_score": 0.873,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 699013,
       "player_name": "Esmerlyn Valdez",
       "team": "Pittsburgh Pirates",
@@ -74,14 +47,41 @@
       "hard_hit_pct": 49.6,
       "fb_pct": 28.57,
       "pitcher_hr_per_9": 1.9,
-      "weather_score": 0.607,
+      "weather_score": 0.62,
       "park_factor": 1.04,
-      "composite_score": 0.862,
+      "composite_score": 0.863,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 621566,
+      "player_name": "Matt Olson",
+      "team": "Atlanta Braves",
+      "bat_side": "L",
+      "opposing_pitcher": "Aaron Nola",
+      "opposing_pitcher_id": 605400.0,
+      "pitcher_throws": "R",
+      "venue_name": "Truist Park",
+      "barrel_pct": 14.6,
+      "iso_overall": 0.254,
+      "iso_split": 0.267,
+      "iso_blended": 0.262,
+      "hard_hit_pct": 51.2,
+      "fb_pct": 38.36,
+      "pitcher_hr_per_9": 1.858,
+      "weather_score": 0.569,
+      "park_factor": 1.01,
+      "composite_score": 0.857,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     },
     {
@@ -101,9 +101,9 @@
       "hard_hit_pct": 38.4,
       "fb_pct": 43.64,
       "pitcher_hr_per_9": 2.285,
-      "weather_score": 0.823,
+      "weather_score": 0.835,
       "park_factor": 0.95,
-      "composite_score": 0.828,
+      "composite_score": 0.829,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -128,7 +128,7 @@
       "hard_hit_pct": 47.6,
       "fb_pct": 47.83,
       "pitcher_hr_per_9": 2.634,
-      "weather_score": 0.64,
+      "weather_score": 0.635,
       "park_factor": 0.88,
       "composite_score": 0.827,
       "image_urls": {
@@ -182,7 +182,7 @@
       "hard_hit_pct": 57.1,
       "fb_pct": 35.0,
       "pitcher_hr_per_9": 0.835,
-      "weather_score": 0.655,
+      "weather_score": 0.65,
       "park_factor": 1.18,
       "composite_score": 0.813,
       "image_urls": {
