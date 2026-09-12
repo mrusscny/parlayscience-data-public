@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generated_at_et": "2026-09-12 09:16:36 EDT",
+  "generated_at_et": "2026-09-12 12:10:29 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 57.4,
       "fb_pct": 35.0,
       "pitcher_hr_per_9": 1.492,
-      "weather_score": 0.735,
+      "weather_score": 0.752,
       "park_factor": 1.18,
-      "composite_score": 0.887,
+      "composite_score": 0.889,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592450/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -47,9 +47,9 @@
       "hard_hit_pct": 55.9,
       "fb_pct": 28.3,
       "pitcher_hr_per_9": 1.492,
-      "weather_score": 0.735,
+      "weather_score": 0.752,
       "park_factor": 1.18,
-      "composite_score": 0.874,
+      "composite_score": 0.875,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682987/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -59,33 +59,6 @@
     },
     {
       "rank": 3,
-      "mlbam_id": 700250,
-      "player_name": "Ben Rice",
-      "team": "New York Yankees",
-      "bat_side": "L",
-      "opposing_pitcher": "Zac Thornton",
-      "opposing_pitcher_id": 804267.0,
-      "pitcher_throws": "L",
-      "venue_name": "Yankee Stadium",
-      "barrel_pct": 14.4,
-      "iso_overall": 0.264,
-      "iso_split": 0.205,
-      "iso_blended": 0.229,
-      "hard_hit_pct": 48.0,
-      "fb_pct": 36.84,
-      "pitcher_hr_per_9": 1.492,
-      "weather_score": 0.735,
-      "park_factor": 1.18,
-      "composite_score": 0.862,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804267/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 4,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -101,9 +74,9 @@
       "hard_hit_pct": 47.4,
       "fb_pct": 30.0,
       "pitcher_hr_per_9": 1.378,
-      "weather_score": 0.735,
+      "weather_score": 0.752,
       "park_factor": 1.18,
-      "composite_score": 0.844,
+      "composite_score": 0.845,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
@@ -112,7 +85,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 671218,
       "player_name": "Heliot Ramos",
       "team": "New York Yankees",
@@ -128,9 +101,9 @@
       "hard_hit_pct": 50.0,
       "fb_pct": 36.36,
       "pitcher_hr_per_9": 1.492,
-      "weather_score": 0.735,
+      "weather_score": 0.752,
       "park_factor": 1.18,
-      "composite_score": 0.826,
+      "composite_score": 0.827,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671218/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -155,43 +128,16 @@
       "hard_hit_pct": 51.4,
       "fb_pct": 38.67,
       "pitcher_hr_per_9": null,
-      "weather_score": 0.741,
+      "weather_score": 0.712,
       "park_factor": 1.01,
-      "composite_score": 0.811,
+      "composite_score": 0.808,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
       }
     },
     {
-      "rank": 7,
-      "mlbam_id": 682626,
-      "player_name": "Francisco Alvarez",
-      "team": "New York Mets",
-      "bat_side": "R",
-      "opposing_pitcher": "Gerrit Cole",
-      "opposing_pitcher_id": 543037.0,
-      "pitcher_throws": "R",
-      "venue_name": "Yankee Stadium",
-      "barrel_pct": 15.5,
-      "iso_overall": 0.17,
-      "iso_split": 0.193,
-      "iso_blended": 0.184,
-      "hard_hit_pct": 46.1,
-      "fb_pct": 27.27,
-      "pitcher_hr_per_9": 1.378,
-      "weather_score": 0.735,
-      "park_factor": 1.18,
-      "composite_score": 0.807,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682626/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -215,6 +161,60 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693855/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 682985,
+      "player_name": "Riley Greene",
+      "team": "Detroit Tigers",
+      "bat_side": "L",
+      "opposing_pitcher": "Tanner Gordon",
+      "opposing_pitcher_id": 685299.0,
+      "pitcher_throws": "R",
+      "venue_name": "Comerica Park",
+      "barrel_pct": 15.3,
+      "iso_overall": 0.199,
+      "iso_split": 0.203,
+      "iso_blended": 0.201,
+      "hard_hit_pct": 48.0,
+      "fb_pct": 48.15,
+      "pitcher_hr_per_9": 1.639,
+      "weather_score": 0.735,
+      "park_factor": 0.88,
+      "composite_score": 0.803,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 656941,
+      "player_name": "Kyle Schwarber",
+      "team": "Philadelphia Phillies",
+      "bat_side": "L",
+      "opposing_pitcher": "Tyler Mahle",
+      "opposing_pitcher_id": 641816.0,
+      "pitcher_throws": "R",
+      "venue_name": "Truist Park",
+      "barrel_pct": 16.9,
+      "iso_overall": 0.284,
+      "iso_split": 0.296,
+      "iso_blended": 0.291,
+      "hard_hit_pct": 49.5,
+      "fb_pct": 32.47,
+      "pitcher_hr_per_9": 1.168,
+      "weather_score": 0.712,
+      "park_factor": 1.01,
+      "composite_score": 0.799,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641816/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
       }
     }
   ]

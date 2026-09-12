@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generated_at_et": "2026-09-12 09:20:35 EDT",
+  "generated_at_et": "2026-09-12 12:14:07 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -305,31 +305,6 @@
     },
     {
       "rank": 13,
-      "batter_mlbam_id": 671277,
-      "batter_name": "Luis Garc\u00eda Jr.",
-      "batter_team": "New York Yankees",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 804267,
-      "pitcher_name": "Zac Thornton",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.659,
-      "batter_slg": 0.563,
-      "batter_woba_contact": 0.396,
-      "batter_ab_vs_pitch": 71,
-      "batter_barrel_pct": 12.7,
-      "batter_season_slg_overall": 0.554,
-      "matchup_strength": 0.3714,
-      "venue_name": "Yankee Stadium",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/671277/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804267/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 14,
       "batter_mlbam_id": 677951,
       "batter_name": "Bobby Witt Jr.",
       "batter_team": "Kansas City Royals",
@@ -354,32 +329,7 @@
       }
     },
     {
-      "rank": 15,
-      "batter_mlbam_id": 664954,
-      "batter_name": "Brett Sullivan",
-      "batter_team": "Colorado Rockies",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 808825,
-      "pitcher_name": "Andrew Sears",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.569,
-      "batter_slg": 0.643,
-      "batter_woba_contact": 0.431,
-      "batter_ab_vs_pitch": 42,
-      "batter_barrel_pct": 4.3,
-      "batter_season_slg_overall": 0.418,
-      "matchup_strength": 0.366,
-      "venue_name": "Comerica Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664954/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808825/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "batter_mlbam_id": 691723,
       "batter_name": "Coby Mayo",
       "batter_team": "Baltimore Orioles",
@@ -404,32 +354,7 @@
       }
     },
     {
-      "rank": 17,
-      "batter_mlbam_id": 699013,
-      "batter_name": "Esmerlyn Valdez",
-      "batter_team": "Pittsburgh Pirates",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 605280,
-      "pitcher_name": "Clay Holmes",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.671,
-      "batter_slg": 0.537,
-      "batter_woba_contact": 0.337,
-      "batter_ab_vs_pitch": 80,
-      "batter_barrel_pct": 19.9,
-      "batter_season_slg_overall": 0.51,
-      "matchup_strength": 0.3604,
-      "venue_name": "Wrigley Field",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/699013/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605280/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 15,
       "batter_mlbam_id": 521692,
       "batter_name": "Salvador Perez",
       "batter_team": "Kansas City Royals",
@@ -454,7 +379,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 16,
       "batter_mlbam_id": 669224,
       "batter_name": "Austin Wells",
       "batter_team": "New York Yankees",
@@ -479,7 +404,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 17,
       "batter_mlbam_id": 643446,
       "batter_name": "Jeff McNeil",
       "batter_team": "Athletics",
@@ -501,6 +426,81 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693433/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 18,
+      "batter_mlbam_id": 624413,
+      "batter_name": "Pete Alonso",
+      "batter_team": "Baltimore Orioles",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 693686,
+      "pitcher_name": "Spencer Miles",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.645,
+      "batter_slg": 0.551,
+      "batter_woba_contact": 0.385,
+      "batter_ab_vs_pitch": 107,
+      "batter_barrel_pct": 13.9,
+      "batter_season_slg_overall": 0.494,
+      "matchup_strength": 0.3555,
+      "venue_name": "Rogers Centre",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/624413/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693686/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 571448,
+      "batter_name": "Nolan Arenado",
+      "batter_team": "Arizona Diamondbacks",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 677958,
+      "pitcher_name": "Kumar Rocker",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.586,
+      "batter_slg": 0.605,
+      "batter_woba_contact": 0.38,
+      "batter_ab_vs_pitch": 81,
+      "batter_barrel_pct": 6.4,
+      "batter_season_slg_overall": 0.439,
+      "matchup_strength": 0.3543,
+      "venue_name": "Chase Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571448/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677958/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 694192,
+      "batter_name": "Jackson Chourio",
+      "batter_team": "Milwaukee Brewers",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 663903,
+      "pitcher_name": "Brady Singer",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.604,
+      "batter_slg": 0.581,
+      "batter_woba_contact": 0.404,
+      "batter_ab_vs_pitch": 117,
+      "batter_barrel_pct": 12.4,
+      "batter_season_slg_overall": 0.498,
+      "matchup_strength": 0.351,
+      "venue_name": "American Family Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694192/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663903/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
       }
     }
   ]
