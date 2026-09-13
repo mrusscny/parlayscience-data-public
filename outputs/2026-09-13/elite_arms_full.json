@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at_et": "2026-09-13 10:07:01 EDT",
+  "generated_at_et": "2026-09-13 13:03:03 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -47,6 +47,27 @@
     },
     {
       "rank": 3,
+      "pitcher_mlbam_id": 669373,
+      "pitcher_name": "Tarik Skubal",
+      "pitcher_team": "Los Angeles Dodgers",
+      "next_start_date": "2026-09-14",
+      "opposing_team": "Cincinnati Reds",
+      "fip": 2.477,
+      "era_proxy": 2.84,
+      "k_minus_bb_pct": 0.2555,
+      "k_per_9": 10.568,
+      "ip_total": 139.7,
+      "score": 0.5869,
+      "game_pk": 824465,
+      "venue": "Great American Ball Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669373/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 4,
       "pitcher_mlbam_id": 695505,
       "pitcher_name": "Chase Burns",
       "pitcher_team": "Cincinnati Reds",
@@ -67,7 +88,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -88,7 +109,133 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "pitcher_mlbam_id": 608331,
+      "pitcher_name": "Max Fried",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-09-15",
+      "opposing_team": "Minnesota Twins",
+      "fip": 2.666,
+      "era_proxy": 2.73,
+      "k_minus_bb_pct": 0.1649,
+      "k_per_9": 8.545,
+      "ip_total": 99.0,
+      "score": 0.4878,
+      "game_pk": 823654,
+      "venue": "Target Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608331/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "pitcher_mlbam_id": 808967,
+      "pitcher_name": "Yoshinobu Yamamoto",
+      "pitcher_team": "Los Angeles Dodgers",
+      "next_start_date": "2026-09-15",
+      "opposing_team": "Cincinnati Reds",
+      "fip": 3.228,
+      "era_proxy": 2.62,
+      "k_minus_bb_pct": 0.2006,
+      "k_per_9": 8.948,
+      "ip_total": 172.0,
+      "score": 0.4852,
+      "game_pk": 824466,
+      "venue": "Great American Ball Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808967/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "pitcher_mlbam_id": 672282,
+      "pitcher_name": "Reid Detmers",
+      "pitcher_team": "Los Angeles Angels",
+      "next_start_date": "2026-09-14",
+      "opposing_team": "Seattle Mariners",
+      "fip": 2.945,
+      "era_proxy": 3.32,
+      "k_minus_bb_pct": 0.2173,
+      "k_per_9": 10.232,
+      "ip_total": 168.0,
+      "score": 0.4825,
+      "game_pk": 823981,
+      "venue": "Angel Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672282/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 9,
+      "pitcher_mlbam_id": 676917,
+      "pitcher_name": "Cade Cavalli",
+      "pitcher_team": "Washington Nationals",
+      "next_start_date": "2026-09-16",
+      "opposing_team": "Philadelphia Phillies",
+      "fip": 3.039,
+      "era_proxy": 3.12,
+      "k_minus_bb_pct": 0.2125,
+      "k_per_9": 10.603,
+      "ip_total": 164.7,
+      "score": 0.4822,
+      "game_pk": 822680,
+      "venue": "Nationals Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676917/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 10,
+      "pitcher_mlbam_id": 657746,
+      "pitcher_name": "Joe Ryan",
+      "pitcher_team": "Minnesota Twins",
+      "next_start_date": "2026-09-13",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 3.316,
+      "era_proxy": 3.68,
+      "k_minus_bb_pct": 0.2159,
+      "k_per_9": 10.064,
+      "ip_total": 129.7,
+      "score": 0.4298,
+      "game_pk": 823658,
+      "venue": "Target Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657746/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 11,
+      "pitcher_mlbam_id": 607074,
+      "pitcher_name": "Carlos Rod\u00f3n",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-09-16",
+      "opposing_team": "Minnesota Twins",
+      "fip": 3.484,
+      "era_proxy": 2.94,
+      "k_minus_bb_pct": 0.1483,
+      "k_per_9": 9.981,
+      "ip_total": 70.3,
+      "score": 0.3932,
+      "game_pk": 823655,
+      "venue": "Target Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607074/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 12,
       "pitcher_mlbam_id": 681035,
       "pitcher_name": "Christian Scott",
       "pitcher_team": "New York Mets",
@@ -109,7 +256,28 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 13,
+      "pitcher_mlbam_id": 680732,
+      "pitcher_name": "Sean Burke",
+      "pitcher_team": "Chicago White Sox",
+      "next_start_date": "2026-09-14",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 3.51,
+      "era_proxy": 3.58,
+      "k_minus_bb_pct": 0.1741,
+      "k_per_9": 9.75,
+      "ip_total": 156.0,
+      "score": 0.3785,
+      "game_pk": 824386,
+      "venue": "Progressive Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680732/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 14,
       "pitcher_mlbam_id": 675512,
       "pitcher_name": "Troy Melton",
       "pitcher_team": "Detroit Tigers",
@@ -130,7 +298,28 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 15,
+      "pitcher_mlbam_id": 683003,
+      "pitcher_name": "Jared Jones",
+      "pitcher_team": "Pittsburgh Pirates",
+      "next_start_date": "2026-09-16",
+      "opposing_team": "Milwaukee Brewers",
+      "fip": 3.637,
+      "era_proxy": 4.1,
+      "k_minus_bb_pct": 0.1961,
+      "k_per_9": 10.506,
+      "ip_total": 85.7,
+      "score": 0.3591,
+      "game_pk": 823332,
+      "venue": "PNC Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683003/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 16,
       "pitcher_mlbam_id": 669713,
       "pitcher_name": "Hayden Wesneski",
       "pitcher_team": "Houston Astros",
@@ -151,7 +340,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 17,
       "pitcher_mlbam_id": 593958,
       "pitcher_name": "Eduardo Rodriguez",
       "pitcher_team": "Arizona Diamondbacks",
@@ -172,7 +361,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 18,
       "pitcher_mlbam_id": 687562,
       "pitcher_name": "Jake Bennett",
       "pitcher_team": "Boston Red Sox",
@@ -193,7 +382,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 19,
       "pitcher_mlbam_id": 615698,
       "pitcher_name": "Cal Quantrill",
       "pitcher_team": "Texas Rangers",
@@ -214,7 +403,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 20,
       "pitcher_mlbam_id": 669432,
       "pitcher_name": "Trevor Rogers",
       "pitcher_team": "Baltimore Orioles",
@@ -232,195 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669432/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 12,
-      "pitcher_mlbam_id": 657277,
-      "pitcher_name": "Logan Webb",
-      "pitcher_team": "San Francisco Giants",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "San Diego Padres",
-      "fip": 3.241,
-      "era_proxy": 4.1,
-      "k_minus_bb_pct": 0.1351,
-      "k_per_9": 7.343,
-      "ip_total": 155.7,
-      "score": 0.3298,
-      "game_pk": 823171,
-      "venue": "Oracle Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657277/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
-      }
-    },
-    {
-      "rank": 13,
-      "pitcher_mlbam_id": 702070,
-      "pitcher_name": "Noah Cameron",
-      "pitcher_team": "Kansas City Royals",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "Boston Red Sox",
-      "fip": 3.543,
-      "era_proxy": 3.93,
-      "k_minus_bb_pct": 0.1405,
-      "k_per_9": 8.139,
-      "ip_total": 160.3,
-      "score": 0.3213,
-      "game_pk": 824708,
-      "venue": "Fenway Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702070/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
-      }
-    },
-    {
-      "rank": 14,
-      "pitcher_mlbam_id": 667755,
-      "pitcher_name": "Jos\u00e9 Soriano",
-      "pitcher_team": "Toronto Blue Jays",
-      "next_start_date": "2026-09-14",
-      "opposing_team": "Detroit Tigers",
-      "fip": 3.793,
-      "era_proxy": 3.48,
-      "k_minus_bb_pct": 0.1219,
-      "k_per_9": 8.503,
-      "ip_total": 163.0,
-      "score": 0.3097,
-      "game_pk": 822765,
-      "venue": "Rogers Centre",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/667755/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "rank": 15,
-      "pitcher_mlbam_id": 691587,
-      "pitcher_name": "Eury P\u00e9rez",
-      "pitcher_team": "Miami Marlins",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "Los Angeles Dodgers",
-      "fip": 3.868,
-      "era_proxy": 3.94,
-      "k_minus_bb_pct": 0.1515,
-      "k_per_9": 9.689,
-      "ip_total": 139.3,
-      "score": 0.3057,
-      "game_pk": 823815,
-      "venue": "loanDepot park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691587/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
-      }
-    },
-    {
-      "rank": 16,
-      "pitcher_mlbam_id": 623454,
-      "pitcher_name": "Drew Anderson",
-      "pitcher_team": "Detroit Tigers",
-      "next_start_date": "2026-09-15",
-      "opposing_team": "Toronto Blue Jays",
-      "fip": 4.048,
-      "era_proxy": 3.8,
-      "k_minus_bb_pct": 0.157,
-      "k_per_9": 9.742,
-      "ip_total": 97.0,
-      "score": 0.3052,
-      "game_pk": 822762,
-      "venue": "Rogers Centre",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623454/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
-      }
-    },
-    {
-      "rank": 17,
-      "pitcher_mlbam_id": 682243,
-      "pitcher_name": "Bryce Miller",
-      "pitcher_team": "Seattle Mariners",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "Athletics",
-      "fip": 4.263,
-      "era_proxy": 4.22,
-      "k_minus_bb_pct": 0.1735,
-      "k_per_9": 8.883,
-      "ip_total": 102.3,
-      "score": 0.2793,
-      "game_pk": 824952,
-      "venue": "Sutter Health Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682243/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "pitcher_mlbam_id": 686218,
-      "pitcher_name": "Emmet Sheehan",
-      "pitcher_team": "Los Angeles Dodgers",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "Miami Marlins",
-      "fip": 4.387,
-      "era_proxy": 5.08,
-      "k_minus_bb_pct": 0.2009,
-      "k_per_9": 10.515,
-      "ip_total": 101.0,
-      "score": 0.2499,
-      "game_pk": 823815,
-      "venue": "loanDepot park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686218/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "pitcher_mlbam_id": 688107,
-      "pitcher_name": "Robert Gasser",
-      "pitcher_team": "Milwaukee Brewers",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "Cincinnati Reds",
-      "fip": 4.14,
-      "era_proxy": 4.43,
-      "k_minus_bb_pct": 0.1461,
-      "k_per_9": 8.573,
-      "ip_total": 91.3,
-      "score": 0.2491,
-      "game_pk": 823734,
-      "venue": "American Family Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 571510,
-      "pitcher_name": "Matthew Boyd",
-      "pitcher_team": "Chicago Cubs",
-      "next_start_date": "2026-09-13",
-      "opposing_team": "Pittsburgh Pirates",
-      "fip": 4.216,
-      "era_proxy": 4.03,
-      "k_minus_bb_pct": 0.1178,
-      "k_per_9": 7.079,
-      "ip_total": 109.3,
-      "score": 0.2387,
-      "game_pk": 824628,
-      "venue": "Wrigley Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571510/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
       }
     }
   ]

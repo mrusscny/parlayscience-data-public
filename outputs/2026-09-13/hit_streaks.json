@@ -1,6 +1,6 @@
 {
   "date": "2026-09-13",
-  "generated_at_et": "2026-09-13 10:04:41 EDT",
+  "generated_at_et": "2026-09-13 13:00:59 EDT",
   "concept": "hit_streaks",
   "items": [
     {
@@ -9,9 +9,9 @@
       "player_name": "Nathan Church",
       "team": "St. Louis Cardinals",
       "bat_side": "L",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
+      "opposing_pitcher": "David Sandlin",
+      "opposing_pitcher_id": 689818,
+      "pitcher_throws": "R",
       "venue_name": "Busch Stadium",
       "streak_length": 11,
       "streak_hits": 14,
@@ -21,40 +21,19 @@
       "last_game_date": "2026-09-12",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701675/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/689818/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     },
     {
       "rank": 2,
-      "mlbam_id": 664770,
-      "player_name": "Nathan Lukes",
-      "team": "Toronto Blue Jays",
-      "bat_side": "L",
-      "opposing_pitcher": "Trevor Rogers",
-      "opposing_pitcher_id": 669432.0,
-      "pitcher_throws": "L",
-      "venue_name": "Rogers Centre",
-      "streak_length": 10,
-      "streak_hits": 15,
-      "streak_at_bats": 40,
-      "streak_avg": 0.375,
-      "season_avg": 0.273,
-      "last_game_date": "2026-09-12",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664770/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669432/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 669127,
       "player_name": "Shea Langeliers",
       "team": "Athletics",
       "bat_side": "R",
       "opposing_pitcher": "Bryce Miller",
-      "opposing_pitcher_id": 682243.0,
+      "opposing_pitcher_id": 682243,
       "pitcher_throws": "R",
       "venue_name": "Sutter Health Park",
       "streak_length": 9,
@@ -71,13 +50,13 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "mlbam_id": 683748,
       "player_name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
       "bat_side": "L",
       "opposing_pitcher": "Hayden Wesneski",
-      "opposing_pitcher_id": 669713.0,
+      "opposing_pitcher_id": 669713,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 8,
@@ -94,13 +73,13 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 672640,
       "player_name": "Otto Lopez",
       "team": "Miami Marlins",
       "bat_side": "R",
       "opposing_pitcher": "Emmet Sheehan",
-      "opposing_pitcher_id": 686218.0,
+      "opposing_pitcher_id": 686218,
       "pitcher_throws": "R",
       "venue_name": "loanDepot park",
       "streak_length": 7,
@@ -114,6 +93,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686218/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 664983,
+      "player_name": "Jake McCarthy",
+      "team": "Colorado Rockies",
+      "bat_side": "L",
+      "opposing_pitcher": "Jackson Jobe",
+      "opposing_pitcher_id": 695549,
+      "pitcher_throws": "R",
+      "venue_name": "Comerica Park",
+      "streak_length": 7,
+      "streak_hits": 12,
+      "streak_at_bats": 30,
+      "streak_avg": 0.4,
+      "season_avg": 0.296,
+      "last_game_date": "2026-09-12",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664983/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695549/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
       }
     }
   ]
