@@ -1,13 +1,13 @@
 {
   "date": "2026-09-15",
-  "generated_at_et": "2026-09-15 10:38:46 EDT",
+  "generated_at_et": "2026-09-15 13:42:52 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
       "game_rank": 1,
       "pitcher_role": "away",
       "game_pk": 822762,
-      "pitcher_mlbam_id": 623454.0,
+      "pitcher_mlbam_id": 623454,
       "pitcher_name": "Drew Anderson",
       "pitcher_team": "Detroit Tigers",
       "pitcher_throws": "R",
@@ -31,7 +31,7 @@
       "game_rank": 1,
       "pitcher_role": "home",
       "game_pk": 822762,
-      "pitcher_mlbam_id": 680755.0,
+      "pitcher_mlbam_id": 680755,
       "pitcher_name": "Braydon Fisher",
       "pitcher_team": "Toronto Blue Jays",
       "pitcher_throws": "R",
@@ -54,56 +54,8 @@
     {
       "game_rank": 2,
       "pitcher_role": "away",
-      "game_pk": 824384,
-      "pitcher_mlbam_id": 663436.0,
-      "pitcher_name": "Davis Martin",
-      "pitcher_team": "Chicago White Sox",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 5.54,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 2,
-      "opposing_team": "Cleveland Guardians",
-      "opposing_team_nrfi_rate": 0.667,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.654,
-      "game_nrfi_score": 0.75,
-      "venue_name": "Progressive Field",
-      "game_time_et": "6:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663436/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "game_rank": 2,
-      "pitcher_role": "home",
-      "game_pk": 824384,
-      "pitcher_mlbam_id": 656492.0,
-      "pitcher_name": "Foster Griffin",
-      "pitcher_team": "Cleveland Guardians",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 2.05,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Chicago White Sox",
-      "opposing_team_nrfi_rate": 0.786,
-      "opposing_team_games_evaluated": 28,
-      "pitcher_composite_score": 0.845,
-      "game_nrfi_score": 0.75,
-      "venue_name": "Progressive Field",
-      "game_time_et": "6:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656492/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "game_rank": 3,
-      "pitcher_role": "away",
       "game_pk": 823654,
-      "pitcher_mlbam_id": 608331.0,
+      "pitcher_mlbam_id": 608331,
       "pitcher_name": "Max Fried",
       "pitcher_team": "New York Yankees",
       "pitcher_throws": "L",
@@ -124,10 +76,10 @@
       }
     },
     {
-      "game_rank": 3,
+      "game_rank": 2,
       "pitcher_role": "home",
       "game_pk": 823654,
-      "pitcher_mlbam_id": 641927.0,
+      "pitcher_mlbam_id": 641927,
       "pitcher_name": "Bailey Ober",
       "pitcher_team": "Minnesota Twins",
       "pitcher_throws": "R",
@@ -148,10 +100,10 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 3,
       "pitcher_role": "away",
       "game_pk": 825030,
-      "pitcher_mlbam_id": 676083.0,
+      "pitcher_mlbam_id": 676083,
       "pitcher_name": "Janson Junk",
       "pitcher_team": "Miami Marlins",
       "pitcher_throws": "R",
@@ -172,10 +124,10 @@
       }
     },
     {
-      "game_rank": 4,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 825030,
-      "pitcher_mlbam_id": 647336.0,
+      "pitcher_mlbam_id": 647336,
       "pitcher_name": "Michael Soroka",
       "pitcher_team": "Arizona Diamondbacks",
       "pitcher_throws": "R",
@@ -196,10 +148,10 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 4,
       "pitcher_role": "away",
       "game_pk": 824143,
-      "pitcher_mlbam_id": 608379.0,
+      "pitcher_mlbam_id": 608379,
       "pitcher_name": "Michael Wacha",
       "pitcher_team": "Kansas City Royals",
       "pitcher_throws": "R",
@@ -220,10 +172,10 @@
       }
     },
     {
-      "game_rank": 5,
+      "game_rank": 4,
       "pitcher_role": "home",
       "game_pk": 824143,
-      "pitcher_mlbam_id": 686613.0,
+      "pitcher_mlbam_id": 686613,
       "pitcher_name": "Hunter Brown",
       "pitcher_team": "Houston Astros",
       "pitcher_throws": "R",
@@ -244,10 +196,10 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 5,
       "pitcher_role": "away",
       "game_pk": 822683,
-      "pitcher_mlbam_id": 650911.0,
+      "pitcher_mlbam_id": 650911,
       "pitcher_name": "Cristopher S\u00e1nchez",
       "pitcher_team": "Philadelphia Phillies",
       "pitcher_throws": "L",
@@ -268,10 +220,10 @@
       }
     },
     {
-      "game_rank": 6,
+      "game_rank": 5,
       "pitcher_role": "home",
       "game_pk": 822683,
-      "pitcher_mlbam_id": 800600.0,
+      "pitcher_mlbam_id": 800600,
       "pitcher_name": "Jackson Kent",
       "pitcher_team": "Washington Nationals",
       "pitcher_throws": "L",
@@ -289,6 +241,54 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800600/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "game_rank": 6,
+      "pitcher_role": "away",
+      "game_pk": 823333,
+      "pitcher_mlbam_id": 694819,
+      "pitcher_name": "Jacob Misiorowski",
+      "pitcher_team": "Milwaukee Brewers",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 2.67,
+      "pitcher_l10_nrfi_rate": 0.5,
+      "pitcher_l10_starts_evaluated": 4,
+      "opposing_team": "Pittsburgh Pirates",
+      "opposing_team_nrfi_rate": 0.6,
+      "opposing_team_games_evaluated": 25,
+      "pitcher_composite_score": 0.611,
+      "game_nrfi_score": 0.666,
+      "venue_name": "PNC Park",
+      "game_time_et": "6:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694819/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+      }
+    },
+    {
+      "game_rank": 6,
+      "pitcher_role": "home",
+      "game_pk": 823333,
+      "pitcher_mlbam_id": 669199,
+      "pitcher_name": "Lake Bachar",
+      "pitcher_team": "Pittsburgh Pirates",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 1.8,
+      "pitcher_l10_nrfi_rate": 0.8,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Milwaukee Brewers",
+      "opposing_team_nrfi_rate": 0.538,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.722,
+      "game_nrfi_score": 0.666,
+      "venue_name": "PNC Park",
+      "game_time_et": "6:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669199/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     }
   ]
