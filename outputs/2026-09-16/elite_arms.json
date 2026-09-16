@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at_et": "2026-09-16 10:32:42 EDT",
+  "generated_at_et": "2026-09-16 13:40:55 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 693645,
+      "pitcher_name": "Cam Schlittler",
+      "pitcher_team": "New York Yankees",
+      "next_start_date": "2026-09-19",
+      "opposing_team": "Arizona Diamondbacks",
+      "fip": 2.472,
+      "era_proxy": 1.95,
+      "k_minus_bb_pct": 0.2548,
+      "k_per_9": 11.112,
+      "ip_total": 184.7,
+      "score": 0.64,
+      "game_pk": 825029,
+      "venue": "Chase Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/109.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 656302,
       "pitcher_name": "Dylan Cease",
       "pitcher_team": "Toronto Blue Jays",
@@ -46,7 +67,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "pitcher_mlbam_id": 701656,
       "pitcher_name": "Logan Henderson",
       "pitcher_team": "Milwaukee Brewers",
@@ -67,7 +88,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
@@ -85,27 +106,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "pitcher_mlbam_id": 800048,
-      "pitcher_name": "Parker Messick",
-      "pitcher_team": "Cleveland Guardians",
-      "next_start_date": "2026-09-16",
-      "opposing_team": "Chicago White Sox",
-      "fip": 3.059,
-      "era_proxy": 2.51,
-      "k_minus_bb_pct": 0.1912,
-      "k_per_9": 9.296,
-      "ip_total": 172.3,
-      "score": 0.4959,
-      "game_pk": 824382,
-      "venue": "Progressive Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at_et": "2026-09-16 10:32:37 EDT",
+  "generated_at_et": "2026-09-16 13:40:49 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -49,11 +49,11 @@
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
       "opposing_team": "Chicago White Sox",
-      "pitcher_k_per_9": 9.296,
-      "pitcher_k_minus_bb_pct": 0.1912,
-      "opp_k_rate": 0.2535,
-      "opp_games_sample": 28,
-      "score": 0.6983,
+      "pitcher_k_per_9": 9.396,
+      "pitcher_k_minus_bb_pct": 0.1951,
+      "opp_k_rate": 0.2556,
+      "opp_games_sample": 29,
+      "score": 0.7154,
       "game_pk": 824382,
       "game_time_local": "1:10 PM ET",
       "venue": "Progressive Field",
@@ -105,26 +105,6 @@
     },
     {
       "rank": 6,
-      "pitcher_mlbam_id": 669461,
-      "pitcher_name": "Matthew Liberatore",
-      "pitcher_team": "St. Louis Cardinals",
-      "opposing_team": "San Francisco Giants",
-      "pitcher_k_per_9": 9.167,
-      "pitcher_k_minus_bb_pct": 0.1497,
-      "opp_k_rate": 0.2451,
-      "opp_games_sample": 28,
-      "score": 0.6499,
-      "game_pk": 823004,
-      "game_time_local": "1:15 PM ET",
-      "venue": "Busch Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
-      }
-    },
-    {
-      "rank": 7,
       "pitcher_mlbam_id": 579328,
       "pitcher_name": "Yusei Kikuchi",
       "pitcher_team": "Los Angeles Angels",
@@ -141,6 +121,26 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/579328/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "pitcher_mlbam_id": 669461,
+      "pitcher_name": "Matthew Liberatore",
+      "pitcher_team": "St. Louis Cardinals",
+      "opposing_team": "San Francisco Giants",
+      "pitcher_k_per_9": 9.104,
+      "pitcher_k_minus_bb_pct": 0.1456,
+      "opp_k_rate": 0.2432,
+      "opp_games_sample": 29,
+      "score": 0.6365,
+      "game_pk": 823004,
+      "game_time_local": "1:15 PM ET",
+      "venue": "Busch Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669461/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     },
     {

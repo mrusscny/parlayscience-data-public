@@ -1,6 +1,6 @@
 {
   "date": "2026-09-16",
-  "generated_at_et": "2026-09-16 10:30:14 EDT",
+  "generated_at_et": "2026-09-16 13:38:33 EDT",
   "concept": "hit_streaks",
   "items": [
     {
@@ -86,7 +86,7 @@
       "streak_hits": 14,
       "streak_at_bats": 36,
       "streak_avg": 0.389,
-      "season_avg": 0.279,
+      "season_avg": 0.278,
       "last_game_date": "2026-09-15",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680757/headshot/67/current",
@@ -109,7 +109,7 @@
       "streak_hits": 11,
       "streak_at_bats": 23,
       "streak_avg": 0.478,
-      "season_avg": 0.288,
+      "season_avg": 0.291,
       "last_game_date": "2026-09-15",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
