@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at_et": "2026-09-17 10:34:42 EDT",
+  "generated_at_et": "2026-09-17 13:37:38 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -17,7 +17,7 @@
       "streak_hits": 16,
       "streak_at_bats": 38,
       "streak_avg": 0.421,
-      "season_avg": 0.274,
+      "season_avg": 0.272,
       "last_game_date": "2026-09-16",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804668/headshot/67/current",
@@ -86,7 +86,7 @@
       "streak_hits": 12,
       "streak_at_bats": 27,
       "streak_avg": 0.444,
-      "season_avg": 0.27,
+      "season_avg": 0.269,
       "last_game_date": "2026-09-16",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687401/headshot/67/current",
@@ -235,29 +235,6 @@
     },
     {
       "rank": 11,
-      "mlbam_id": 661388,
-      "player_name": "William Contreras",
-      "team": "Milwaukee Brewers",
-      "bat_side": "R",
-      "opposing_pitcher": "Wilber Dotel",
-      "opposing_pitcher_id": 696062.0,
-      "pitcher_throws": "R",
-      "venue_name": "PNC Park",
-      "streak_length": 6,
-      "streak_hits": 8,
-      "streak_at_bats": 25,
-      "streak_avg": 0.32,
-      "season_avg": 0.271,
-      "last_game_date": "2026-09-16",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/661388/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696062/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
-      }
-    },
-    {
-      "rank": 12,
       "mlbam_id": 643376,
       "player_name": "Danny Jansen",
       "team": "Texas Rangers",
@@ -280,7 +257,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "mlbam_id": 695600,
       "player_name": "Carter Jensen",
       "team": "Kansas City Royals",
@@ -301,7 +278,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "mlbam_id": 678246,
       "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
@@ -324,7 +301,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "mlbam_id": 543760,
       "player_name": "Marcus Semien",
       "team": "New York Mets",
@@ -347,7 +324,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 682877,
       "player_name": "Juan Brito",
       "team": "Cincinnati Reds",
@@ -360,7 +337,7 @@
       "streak_hits": 9,
       "streak_at_bats": 17,
       "streak_avg": 0.529,
-      "season_avg": 0.265,
+      "season_avg": 0.262,
       "last_game_date": "2026-09-16",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682877/headshot/67/current",
@@ -370,7 +347,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -393,7 +370,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "mlbam_id": 679529,
       "player_name": "Spencer Torkelson",
       "team": "Detroit Tigers",
@@ -416,7 +393,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "mlbam_id": 690976,
       "player_name": "Alex Freeland",
       "team": "Los Angeles Dodgers",
@@ -429,7 +406,7 @@
       "streak_hits": 7,
       "streak_at_bats": 17,
       "streak_avg": 0.412,
-      "season_avg": 0.235,
+      "season_avg": 0.233,
       "last_game_date": "2026-09-15",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690976/headshot/67/current",
@@ -439,7 +416,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 693304,
       "player_name": "Nick Gonzales",
       "team": "Pittsburgh Pirates",
@@ -452,13 +429,36 @@
       "streak_hits": 6,
       "streak_at_bats": 18,
       "streak_avg": 0.333,
-      "season_avg": 0.307,
+      "season_avg": 0.305,
       "last_game_date": "2026-09-15",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693304/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 691406,
+      "player_name": "Junior Caminero",
+      "team": "Tampa Bay Rays",
+      "bat_side": "R",
+      "opposing_pitcher": "Jeffrey Springs",
+      "opposing_pitcher_id": 605488.0,
+      "pitcher_throws": "L",
+      "venue_name": "Tropicana Field",
+      "streak_length": 5,
+      "streak_hits": 5,
+      "streak_at_bats": 20,
+      "streak_avg": 0.25,
+      "season_avg": 0.278,
+      "last_game_date": "2026-09-16",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
       }
     }
   ]

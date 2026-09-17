@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at_et": "2026-09-17 10:34:05 EDT",
+  "generated_at_et": "2026-09-17 13:37:11 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -63,12 +63,12 @@
       "fb_pct": 37.74,
       "avg_exit_velo": 90.3,
       "hard_hit_pct": 46.7,
-      "pitcher_hr_per_9": 1.792,
+      "pitcher_hr_per_9": 1.816,
       "threshold_count": 2,
       "threshold_label": "2/3",
-      "base_score": 0.86,
+      "base_score": 0.862,
       "threshold_bonus": 0.05,
-      "final_score": 0.91,
+      "final_score": 0.912,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571970/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
@@ -78,31 +78,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 804668,
-      "player_name": "Rafael Flores Jr.",
-      "team": "Pittsburgh Pirates",
-      "opposing_pitcher": "Kyle Harrison",
-      "opposing_pitcher_id": 690986.0,
-      "venue_name": "PNC Park",
-      "barrel_pct": 14.0,
-      "fb_pct": 33.33,
-      "avg_exit_velo": 90.5,
-      "hard_hit_pct": 47.7,
-      "pitcher_hr_per_9": 1.627,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.852,
-      "threshold_bonus": 0.05,
-      "final_score": 0.902,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804668/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 682626,
       "player_name": "Francisco Alvarez",
       "team": "New York Mets",
@@ -124,6 +99,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605400/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 804668,
+      "player_name": "Rafael Flores Jr.",
+      "team": "Pittsburgh Pirates",
+      "opposing_pitcher": "Kyle Harrison",
+      "opposing_pitcher_id": 690986.0,
+      "venue_name": "PNC Park",
+      "barrel_pct": 14.0,
+      "fb_pct": 33.33,
+      "avg_exit_velo": 90.5,
+      "hard_hit_pct": 47.7,
+      "pitcher_hr_per_9": 1.602,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.851,
+      "threshold_bonus": 0.05,
+      "final_score": 0.901,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804668/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     },
     {
@@ -178,31 +178,6 @@
     },
     {
       "rank": 8,
-      "mlbam_id": 682829,
-      "player_name": "Elly De La Cruz",
-      "team": "Cincinnati Reds",
-      "opposing_pitcher": "Justin Wrobleski",
-      "opposing_pitcher_id": 680736.0,
-      "venue_name": "Great American Ball Park",
-      "barrel_pct": 16.2,
-      "fb_pct": 24.32,
-      "avg_exit_velo": 94.8,
-      "hard_hit_pct": 54.0,
-      "pitcher_hr_per_9": 1.417,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.827,
-      "threshold_bonus": 0.05,
-      "final_score": 0.877,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680736/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
-      }
-    },
-    {
-      "rank": 9,
       "mlbam_id": 701538,
       "player_name": "Jackson Merrill",
       "team": "San Diego Padres",
@@ -224,6 +199,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/685299/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 9,
+      "mlbam_id": 682829,
+      "player_name": "Elly De La Cruz",
+      "team": "Cincinnati Reds",
+      "opposing_pitcher": "Justin Wrobleski",
+      "opposing_pitcher_id": 680736.0,
+      "venue_name": "Great American Ball Park",
+      "barrel_pct": 16.2,
+      "fb_pct": 24.32,
+      "avg_exit_velo": 94.8,
+      "hard_hit_pct": 54.0,
+      "pitcher_hr_per_9": 1.386,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.825,
+      "threshold_bonus": 0.05,
+      "final_score": 0.875,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680736/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     },
     {
@@ -328,31 +328,6 @@
     },
     {
       "rank": 14,
-      "mlbam_id": 696100,
-      "player_name": "Hunter Goodman",
-      "team": "Colorado Rockies",
-      "opposing_pitcher": "Michael King",
-      "opposing_pitcher_id": 650633.0,
-      "venue_name": "Coors Field",
-      "barrel_pct": 14.9,
-      "fb_pct": 29.41,
-      "avg_exit_velo": 90.1,
-      "hard_hit_pct": 44.6,
-      "pitcher_hr_per_9": 1.029,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.811,
-      "threshold_bonus": 0.05,
-      "final_score": 0.861,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650633/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
-      }
-    },
-    {
-      "rank": 15,
       "mlbam_id": 663886,
       "player_name": "Tyler Stephenson",
       "team": "Cincinnati Reds",
@@ -363,12 +338,12 @@
       "fb_pct": 37.04,
       "avg_exit_velo": 91.0,
       "hard_hit_pct": 44.6,
-      "pitcher_hr_per_9": 1.417,
+      "pitcher_hr_per_9": 1.386,
       "threshold_count": 2,
       "threshold_label": "2/3",
-      "base_score": 0.808,
+      "base_score": 0.806,
       "threshold_bonus": 0.05,
-      "final_score": 0.858,
+      "final_score": 0.856,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663886/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
@@ -377,7 +352,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -402,32 +377,7 @@
       }
     },
     {
-      "rank": 17,
-      "mlbam_id": 665833,
-      "player_name": "Oneil Cruz",
-      "team": "Pittsburgh Pirates",
-      "opposing_pitcher": "Kyle Harrison",
-      "opposing_pitcher_id": 690986.0,
-      "venue_name": "PNC Park",
-      "barrel_pct": 16.3,
-      "fb_pct": 16.07,
-      "avg_exit_velo": 94.8,
-      "hard_hit_pct": 54.8,
-      "pitcher_hr_per_9": 1.627,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.802,
-      "threshold_bonus": 0.05,
-      "final_score": 0.852,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665833/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 18,
+      "rank": 16,
       "mlbam_id": 691406,
       "player_name": "Junior Caminero",
       "team": "Tampa Bay Rays",
@@ -438,7 +388,7 @@
       "fb_pct": 20.45,
       "avg_exit_velo": 92.8,
       "hard_hit_pct": 49.9,
-      "pitcher_hr_per_9": 2.2,
+      "pitcher_hr_per_9": 2.173,
       "threshold_count": 2,
       "threshold_label": "2/3",
       "base_score": 0.802,
@@ -452,7 +402,32 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "mlbam_id": 665833,
+      "player_name": "Oneil Cruz",
+      "team": "Pittsburgh Pirates",
+      "opposing_pitcher": "Kyle Harrison",
+      "opposing_pitcher_id": 690986.0,
+      "venue_name": "PNC Park",
+      "barrel_pct": 16.3,
+      "fb_pct": 16.07,
+      "avg_exit_velo": 94.8,
+      "hard_hit_pct": 54.8,
+      "pitcher_hr_per_9": 1.602,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.8,
+      "threshold_bonus": 0.05,
+      "final_score": 0.85,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665833/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "rank": 18,
       "mlbam_id": 683146,
       "player_name": "Brett Baty",
       "team": "New York Mets",
@@ -477,7 +452,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "mlbam_id": 608369,
       "player_name": "Corey Seager",
       "team": "Texas Rangers",
@@ -499,6 +474,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543243/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 664040,
+      "player_name": "Brandon Lowe",
+      "team": "Pittsburgh Pirates",
+      "opposing_pitcher": "Kyle Harrison",
+      "opposing_pitcher_id": 690986.0,
+      "venue_name": "PNC Park",
+      "barrel_pct": 11.6,
+      "fb_pct": 32.73,
+      "avg_exit_velo": 91.0,
+      "hard_hit_pct": 45.2,
+      "pitcher_hr_per_9": 1.602,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.785,
+      "threshold_bonus": 0.05,
+      "final_score": 0.835,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/664040/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690986/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     }
   ]

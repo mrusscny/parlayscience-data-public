@@ -1,6 +1,6 @@
 {
   "date": "2026-09-17",
-  "generated_at_et": "2026-09-17 10:36:04 EDT",
+  "generated_at_et": "2026-09-17 13:39:17 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -430,31 +430,6 @@
     },
     {
       "rank": 18,
-      "batter_mlbam_id": 641343,
-      "batter_name": "Jake Bauers",
-      "batter_team": "Milwaukee Brewers",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 696062,
-      "pitcher_name": "Wilber Dotel",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.712,
-      "batter_slg": 0.5,
-      "batter_woba_contact": 0.334,
-      "batter_ab_vs_pitch": 76,
-      "batter_barrel_pct": 13.9,
-      "batter_season_slg_overall": 0.497,
-      "matchup_strength": 0.3562,
-      "venue_name": "PNC Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696062/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
-      }
-    },
-    {
-      "rank": 19,
       "batter_mlbam_id": 701538,
       "batter_name": "Jackson Merrill",
       "batter_team": "San Diego Padres",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "batter_mlbam_id": 663886,
       "batter_name": "Tyler Stephenson",
       "batter_team": "Cincinnati Reds",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680736/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 665161,
+      "batter_name": "Jeremy Pe\u00f1a",
+      "batter_team": "Houston Astros",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 607625,
+      "pitcher_name": "Seth Lugo",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.496,
+      "batter_slg": 0.67,
+      "batter_woba_contact": 0.442,
+      "batter_ab_vs_pitch": 109,
+      "batter_barrel_pct": 6.6,
+      "batter_season_slg_overall": 0.47,
+      "matchup_strength": 0.3323,
+      "venue_name": "Daikin Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665161/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607625/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
       }
     }
   ]
