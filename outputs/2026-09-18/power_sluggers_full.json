@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at_et": "2026-09-18 10:02:56 EDT",
+  "generated_at_et": "2026-09-18 13:02:35 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -328,31 +328,6 @@
     },
     {
       "rank": 14,
-      "mlbam_id": 682626,
-      "player_name": "Francisco Alvarez",
-      "team": "New York Mets",
-      "opposing_pitcher": "Andrew Painter",
-      "opposing_pitcher_id": 691725.0,
-      "venue_name": "Citi Field",
-      "barrel_pct": 15.3,
-      "fb_pct": 21.05,
-      "avg_exit_velo": 90.2,
-      "hard_hit_pct": 46.3,
-      "pitcher_hr_per_9": 1.483,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.806,
-      "threshold_bonus": 0.05,
-      "final_score": 0.856,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682626/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691725/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 15,
       "mlbam_id": 571970,
       "player_name": "Max Muncy",
       "team": "Los Angeles Dodgers",
@@ -377,7 +352,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "mlbam_id": 669065,
       "player_name": "Kyle Stowers",
       "team": "Miami Marlins",
@@ -399,6 +374,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/601713/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 16,
+      "mlbam_id": 641343,
+      "player_name": "Jake Bauers",
+      "team": "Milwaukee Brewers",
+      "opposing_pitcher": "Cade Povich",
+      "opposing_pitcher_id": 700249.0,
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 13.9,
+      "fb_pct": 26.32,
+      "avg_exit_velo": 92.3,
+      "hard_hit_pct": 52.8,
+      "pitcher_hr_per_9": 1.35,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.798,
+      "threshold_bonus": 0.05,
+      "final_score": 0.848,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {
@@ -453,50 +453,52 @@
     },
     {
       "rank": 19,
-      "mlbam_id": 665742,
-      "player_name": "Juan Soto",
-      "team": "New York Mets",
-      "opposing_pitcher": "Andrew Painter",
-      "opposing_pitcher_id": 691725.0,
-      "venue_name": "Citi Field",
-      "barrel_pct": 13.4,
-      "fb_pct": 25.86,
-      "avg_exit_velo": 92.6,
-      "hard_hit_pct": 48.5,
-      "pitcher_hr_per_9": 1.483,
+      "mlbam_id": 694192,
+      "player_name": "Jackson Chourio",
+      "team": "Milwaukee Brewers",
+      "opposing_pitcher": "Cade Povich",
+      "opposing_pitcher_id": 700249.0,
+      "venue_name": "Oriole Park at Camden Yards",
+      "barrel_pct": 12.2,
+      "fb_pct": 34.78,
+      "avg_exit_velo": 91.6,
+      "hard_hit_pct": 46.7,
+      "pitcher_hr_per_9": 1.35,
       "threshold_count": 2,
       "threshold_label": "2/3",
       "base_score": 0.793,
       "threshold_bonus": 0.05,
       "final_score": 0.843,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665742/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691725/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694192/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {
       "rank": 20,
-      "mlbam_id": 641343,
-      "player_name": "Jake Bauers",
-      "team": "Milwaukee Brewers",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 13.9,
-      "fb_pct": 26.32,
-      "avg_exit_velo": 92.3,
-      "hard_hit_pct": 52.8,
-      "pitcher_hr_per_9": null,
+      "mlbam_id": 804668,
+      "player_name": "Rafael Flores Jr.",
+      "team": "Pittsburgh Pirates",
+      "opposing_pitcher": "Randy Dobnak",
+      "opposing_pitcher_id": 677976.0,
+      "venue_name": "PNC Park",
+      "barrel_pct": 13.8,
+      "fb_pct": 33.93,
+      "avg_exit_velo": 90.5,
+      "hard_hit_pct": 47.1,
+      "pitcher_hr_per_9": 0.779,
       "threshold_count": 2,
       "threshold_label": "2/3",
       "base_score": 0.787,
       "threshold_bonus": 0.05,
       "final_score": 0.837,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804668/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/677976/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
       }
     }
   ]

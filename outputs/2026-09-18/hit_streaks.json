@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at_et": "2026-09-18 10:03:53 EDT",
+  "generated_at_et": "2026-09-18 13:03:10 EDT",
   "concept": "hit_streaks",
   "items": [
     {
@@ -78,9 +78,9 @@
       "player_name": "Joey Ortiz",
       "team": "Milwaukee Brewers",
       "bat_side": "R",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
+      "opposing_pitcher": "Cade Povich",
+      "opposing_pitcher_id": 700249.0,
+      "pitcher_throws": "L",
       "venue_name": "Oriole Park at Camden Yards",
       "streak_length": 8,
       "streak_hits": 13,
@@ -90,7 +90,9 @@
       "last_game_date": "2026-09-17",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687401/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700249/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
     {
