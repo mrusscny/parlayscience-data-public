@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated_at_et": "2026-09-20 09:54:37 EDT",
+  "generated_at_et": "2026-09-20 12:51:26 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 519242,
+      "pitcher_name": "Chris Sale",
+      "pitcher_team": "Atlanta Braves",
+      "next_start_date": "2026-09-23",
+      "opposing_team": "Cincinnati Reds",
+      "fip": 2.017,
+      "era_proxy": 2.18,
+      "k_minus_bb_pct": 0.2536,
+      "k_per_9": 10.892,
+      "ip_total": 157.0,
+      "score": 0.6614,
+      "game_pk": 824868,
+      "venue": "Truist Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/519242/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 650911,
       "pitcher_name": "Cristopher S\u00e1nchez",
       "pitcher_team": "Philadelphia Phillies",
@@ -46,66 +67,45 @@
       }
     },
     {
-      "rank": 3,
-      "pitcher_mlbam_id": 693686,
-      "pitcher_name": "Spencer Miles",
-      "pitcher_team": "Toronto Blue Jays",
-      "next_start_date": "2026-09-20",
-      "opposing_team": "Texas Rangers",
-      "fip": 2.696,
-      "era_proxy": 2.65,
-      "k_minus_bb_pct": 0.1703,
-      "k_per_9": 8.542,
-      "ip_total": 91.7,
-      "score": 0.4956,
-      "game_pk": 822844,
-      "venue": "Globe Life Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693686/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
-      }
-    },
-    {
       "rank": 4,
-      "pitcher_mlbam_id": 594798,
-      "pitcher_name": "Jacob deGrom",
-      "pitcher_team": "Texas Rangers",
-      "next_start_date": "2026-09-20",
-      "opposing_team": "Toronto Blue Jays",
-      "fip": 3.029,
-      "era_proxy": 3.79,
-      "k_minus_bb_pct": 0.2492,
-      "k_per_9": 11.313,
-      "ip_total": 154.3,
-      "score": 0.4795,
-      "game_pk": 822844,
-      "venue": "Globe Life Field",
+      "pitcher_mlbam_id": 801139,
+      "pitcher_name": "Payton Tolle",
+      "pitcher_team": "Boston Red Sox",
+      "next_start_date": "2026-09-22",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 2.939,
+      "era_proxy": 3.02,
+      "k_minus_bb_pct": 0.2226,
+      "k_per_9": 10.448,
+      "ip_total": 143.0,
+      "score": 0.5063,
+      "game_pk": 824709,
+      "venue": "Fenway Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/594798/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 668909,
-      "pitcher_name": "Gavin Williams",
+      "pitcher_mlbam_id": 800048,
+      "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
-      "next_start_date": "2026-09-20",
-      "opposing_team": "Athletics",
-      "fip": 3.382,
-      "era_proxy": 3.78,
-      "k_minus_bb_pct": 0.2539,
-      "k_per_9": 12.155,
-      "ip_total": 174.0,
-      "score": 0.4565,
-      "game_pk": 824381,
-      "venue": "Progressive Field",
+      "next_start_date": "2026-09-22",
+      "opposing_team": "Boston Red Sox",
+      "fip": 3.044,
+      "era_proxy": 2.57,
+      "k_minus_bb_pct": 0.1955,
+      "k_per_9": 9.387,
+      "ip_total": 178.3,
+      "score": 0.4978,
+      "game_pk": 824709,
+      "venue": "Fenway Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/133.svg"
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
       }
     }
   ]

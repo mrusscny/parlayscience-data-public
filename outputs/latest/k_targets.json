@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated_at_et": "2026-09-20 09:54:33 EDT",
+  "generated_at_et": "2026-09-20 12:51:22 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -65,6 +65,26 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 656849,
+      "pitcher_name": "David Peterson",
+      "pitcher_team": "Chicago Cubs",
+      "opposing_team": "Cincinnati Reds",
+      "pitcher_k_per_9": 8.126,
+      "pitcher_k_minus_bb_pct": 0.0997,
+      "opp_k_rate": 0.2522,
+      "opp_games_sample": 27,
+      "score": 0.5833,
+      "game_pk": 824462,
+      "game_time_local": "1:40 PM ET",
+      "venue": "Great American Ball Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 675512,
       "pitcher_name": "Troy Melton",
       "pitcher_team": "Detroit Tigers",
@@ -84,7 +104,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 686613,
       "pitcher_name": "Hunter Brown",
       "pitcher_team": "Houston Astros",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 663623,
       "pitcher_name": "Jake Irvin",
       "pitcher_team": "Washington Nationals",
@@ -124,7 +144,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 650911,
       "pitcher_name": "Cristopher S\u00e1nchez",
       "pitcher_team": "Philadelphia Phillies",
@@ -141,26 +161,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650911/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "pitcher_mlbam_id": 643377,
-      "pitcher_name": "Griffin Jax",
-      "pitcher_team": "Tampa Bay Rays",
-      "opposing_team": "Boston Red Sox",
-      "pitcher_k_per_9": 9.489,
-      "pitcher_k_minus_bb_pct": 0.1791,
-      "opp_k_rate": 0.2151,
-      "opp_games_sample": 28,
-      "score": 0.4918,
-      "game_pk": 822922,
-      "game_time_local": "1:40 PM ET",
-      "venue": "Tropicana Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
       }
     }
   ]

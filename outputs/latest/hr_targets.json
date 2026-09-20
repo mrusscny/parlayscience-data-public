@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated_at_et": "2026-09-20 09:50:58 EDT",
+  "generated_at_et": "2026-09-20 12:47:08 EDT",
   "concept": "hr_targets",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 39.4,
       "fb_pct": 44.44,
       "pitcher_hr_per_9": 1.956,
-      "weather_score": 0.602,
+      "weather_score": 0.527,
       "park_factor": 1.39,
-      "composite_score": 0.904,
+      "composite_score": 0.896,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663728/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 45.1,
       "fb_pct": 30.51,
       "pitcher_hr_per_9": 1.421,
-      "weather_score": 0.602,
+      "weather_score": 0.527,
       "park_factor": 1.39,
-      "composite_score": 0.859,
+      "composite_score": 0.852,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696100/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/115.svg",
@@ -101,9 +101,9 @@
       "hard_hit_pct": 49.2,
       "fb_pct": 29.55,
       "pitcher_hr_per_9": 1.303,
-      "weather_score": 0.96,
+      "weather_score": 0.912,
       "park_factor": 1.24,
-      "composite_score": 0.853,
+      "composite_score": 0.849,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691718/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
@@ -117,23 +117,25 @@
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
       "bat_side": "S",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849.0,
+      "pitcher_throws": "L",
       "venue_name": "Great American Ball Park",
       "barrel_pct": 16.0,
       "iso_overall": 0.231,
-      "iso_split": null,
-      "iso_blended": 0.231,
+      "iso_split": 0.288,
+      "iso_blended": 0.265,
       "hard_hit_pct": 53.7,
       "fb_pct": 25.35,
-      "pitcher_hr_per_9": null,
-      "weather_score": 0.96,
+      "pitcher_hr_per_9": 0.917,
+      "weather_score": 0.912,
       "park_factor": 1.24,
-      "composite_score": 0.851,
+      "composite_score": 0.834,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682829/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     },
     {
@@ -153,9 +155,9 @@
       "hard_hit_pct": 44.9,
       "fb_pct": 26.25,
       "pitcher_hr_per_9": 1.956,
-      "weather_score": 0.602,
+      "weather_score": 0.527,
       "park_factor": 1.39,
-      "composite_score": 0.834,
+      "composite_score": 0.826,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686527/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",

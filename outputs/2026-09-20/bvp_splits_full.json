@@ -1,6 +1,6 @@
 {
   "date": "2026-09-20",
-  "generated_at_et": "2026-09-20 09:53:11 EDT",
+  "generated_at_et": "2026-09-20 12:50:19 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -80,6 +80,31 @@
     },
     {
       "rank": 4,
+      "mlbam_id": 668709,
+      "player_name": "JJ Bleday",
+      "team": "Cincinnati Reds",
+      "bat_side": "L",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
+      "pitcher_throws": "L",
+      "venue_name": "Great American Ball Park",
+      "career_ab": 15,
+      "career_h": 7,
+      "career_hr": 1,
+      "career_avg": 0.467,
+      "career_ops": 1.134,
+      "career_xbh": 1,
+      "career_rbi": 4,
+      "career_slg": 0.667,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668709/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 5,
       "mlbam_id": 660670,
       "player_name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
@@ -104,7 +129,32 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "mlbam_id": 663886,
+      "player_name": "Tyler Stephenson",
+      "team": "Cincinnati Reds",
+      "bat_side": "R",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
+      "pitcher_throws": "L",
+      "venue_name": "Great American Ball Park",
+      "career_ab": 15,
+      "career_h": 7,
+      "career_hr": 0,
+      "career_avg": 0.467,
+      "career_ops": 1.1,
+      "career_xbh": 2,
+      "career_rbi": 5,
+      "career_slg": 0.6,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663886/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 7,
       "mlbam_id": 593428,
       "player_name": "Xander Bogaerts",
       "team": "San Diego Padres",
@@ -129,7 +179,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 8,
       "mlbam_id": 668901,
       "player_name": "Mark Vientos",
       "team": "New York Mets",
@@ -154,7 +204,57 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "mlbam_id": 667472,
+      "player_name": "Dane Myers",
+      "team": "Cincinnati Reds",
+      "bat_side": "R",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
+      "pitcher_throws": "L",
+      "venue_name": "Great American Ball Park",
+      "career_ab": 10,
+      "career_h": 4,
+      "career_hr": 0,
+      "career_avg": 0.4,
+      "career_ops": 1.0,
+      "career_xbh": 1,
+      "career_rbi": 1,
+      "career_slg": 0.5,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/667472/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 10,
+      "mlbam_id": 663647,
+      "player_name": "Ke'Bryan Hayes",
+      "team": "Cincinnati Reds",
+      "bat_side": "R",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
+      "pitcher_throws": "L",
+      "venue_name": "Great American Ball Park",
+      "career_ab": 10,
+      "career_h": 4,
+      "career_hr": 0,
+      "career_avg": 0.4,
+      "career_ops": 0.962,
+      "career_xbh": 1,
+      "career_rbi": 2,
+      "career_slg": 0.5,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663647/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 11,
       "mlbam_id": 682985,
       "player_name": "Riley Greene",
       "team": "Detroit Tigers",
@@ -179,7 +279,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 12,
       "mlbam_id": 671277,
       "player_name": "Luis Garc\u00eda Jr.",
       "team": "New York Yankees",
@@ -204,32 +304,7 @@
       }
     },
     {
-      "rank": 9,
-      "mlbam_id": 677800,
-      "player_name": "Wilyer Abreu",
-      "team": "Boston Red Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "Griffin Jax",
-      "opposing_pitcher_id": 643377,
-      "pitcher_throws": "R",
-      "venue_name": "Tropicana Field",
-      "career_ab": 10,
-      "career_h": 3,
-      "career_hr": 1,
-      "career_avg": 0.3,
-      "career_ops": 0.9,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.6,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/677800/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/643377/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "rank": 10,
+      "rank": 13,
       "mlbam_id": 676609,
       "player_name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
@@ -254,7 +329,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 14,
       "mlbam_id": 665489,
       "player_name": "Vladimir Guerrero Jr.",
       "team": "Toronto Blue Jays",
@@ -279,7 +354,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 15,
       "mlbam_id": 514888,
       "player_name": "Jose Altuve",
       "team": "Houston Astros",
@@ -304,7 +379,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 16,
       "mlbam_id": 665742,
       "player_name": "Juan Soto",
       "team": "New York Mets",
@@ -329,7 +404,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 17,
       "mlbam_id": 669720,
       "player_name": "Austin Hays",
       "team": "San Diego Padres",
@@ -354,7 +429,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 18,
       "mlbam_id": 502671,
       "player_name": "Paul Goldschmidt",
       "team": "New York Yankees",
@@ -379,128 +454,53 @@
       }
     },
     {
-      "rank": 16,
-      "mlbam_id": 545361,
-      "player_name": "Mike Trout",
-      "team": "Los Angeles Angels",
-      "bat_side": "R",
-      "opposing_pitcher": "Dean Kremer",
-      "opposing_pitcher_id": 665152,
-      "pitcher_throws": "R",
-      "venue_name": "Angel Stadium",
-      "career_ab": 8,
-      "career_h": 1,
-      "career_hr": 1,
-      "career_avg": 0.125,
-      "career_ops": 0.722,
-      "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.5,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/545361/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665152/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
-      }
-    },
-    {
-      "rank": 17,
-      "mlbam_id": 670541,
-      "player_name": "Yordan Alvarez",
-      "team": "Houston Astros",
-      "bat_side": "L",
-      "opposing_pitcher": "Mart\u00edn P\u00e9rez",
-      "opposing_pitcher_id": 527048,
-      "pitcher_throws": "L",
-      "venue_name": "Daikin Park",
-      "career_ab": 16,
-      "career_h": 3,
-      "career_hr": 1,
-      "career_avg": 0.188,
-      "career_ops": 0.716,
-      "career_xbh": 2,
-      "career_rbi": 3,
-      "career_slg": 0.438,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/670541/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/527048/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "mlbam_id": 596019,
-      "player_name": "Francisco Lindor",
-      "team": "New York Mets",
-      "bat_side": "S",
-      "opposing_pitcher": "Cristopher S\u00e1nchez",
-      "opposing_pitcher_id": 650911,
-      "pitcher_throws": "L",
-      "venue_name": "Citi Field",
-      "career_ab": 17,
-      "career_h": 5,
-      "career_hr": 0,
-      "career_avg": 0.294,
-      "career_ops": 0.694,
-      "career_xbh": 0,
-      "career_rbi": 1,
-      "career_slg": 0.294,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/596019/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/650911/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
       "rank": 19,
-      "mlbam_id": 669397,
-      "player_name": "Nick Allen",
-      "team": "Houston Astros",
-      "bat_side": "R",
-      "opposing_pitcher": "Mart\u00edn P\u00e9rez",
-      "opposing_pitcher_id": 527048,
+      "mlbam_id": 682829,
+      "player_name": "Elly De La Cruz",
+      "team": "Cincinnati Reds",
+      "bat_side": "S",
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
       "pitcher_throws": "L",
-      "venue_name": "Daikin Park",
-      "career_ab": 11,
-      "career_h": 3,
+      "venue_name": "Great American Ball Park",
+      "career_ab": 12,
+      "career_h": 4,
       "career_hr": 0,
-      "career_avg": 0.273,
-      "career_ops": 0.637,
+      "career_avg": 0.333,
+      "career_ops": 0.75,
       "career_xbh": 1,
-      "career_rbi": 1,
-      "career_slg": 0.364,
+      "career_rbi": 3,
+      "career_slg": 0.417,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669397/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/527048/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/682829/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     },
     {
       "rank": 20,
-      "mlbam_id": 679529,
-      "player_name": "Spencer Torkelson",
-      "team": "Detroit Tigers",
+      "mlbam_id": 680574,
+      "player_name": "Matt McLain",
+      "team": "Cincinnati Reds",
       "bat_side": "R",
-      "opposing_pitcher": "Davis Martin",
-      "opposing_pitcher_id": 663436,
-      "pitcher_throws": "R",
-      "venue_name": "Rate Field",
-      "career_ab": 19,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.211,
-      "career_ops": 0.632,
-      "career_xbh": 2,
-      "career_rbi": 1,
-      "career_slg": 0.421,
+      "opposing_pitcher": "David Peterson",
+      "opposing_pitcher_id": 656849,
+      "pitcher_throws": "L",
+      "venue_name": "Great American Ball Park",
+      "career_ab": 9,
+      "career_h": 3,
+      "career_hr": 0,
+      "career_avg": 0.333,
+      "career_ops": 0.733,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.333,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/679529/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663436/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/680574/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/656849/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     }
   ]
