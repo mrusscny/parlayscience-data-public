@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at_et": "2026-09-22 10:20:16 EDT",
+  "generated_at_et": "2026-09-22 13:41:35 EDT",
   "concept": "k_targets",
   "items": [
     {
@@ -13,7 +13,7 @@
       "pitcher_k_minus_bb_pct": 0.174,
       "opp_k_rate": 0.2406,
       "opp_games_sample": 28,
-      "score": 0.8178,
+      "score": 0.8179,
       "game_pk": 823166,
       "game_time_local": "9:45 PM ET",
       "venue": "Oracle Park",
@@ -65,6 +65,26 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 683000,
+      "pitcher_name": "Riley Cornelio",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Detroit Tigers",
+      "pitcher_k_per_9": 9.562,
+      "pitcher_k_minus_bb_pct": 0.0634,
+      "opp_k_rate": 0.2418,
+      "opp_games_sample": 28,
+      "score": 0.7483,
+      "game_pk": 824222,
+      "game_time_local": "6:40 PM ET",
+      "venue": "Comerica Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683000/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 669302,
       "pitcher_name": "Logan Gilbert",
       "pitcher_team": "Seattle Mariners",
@@ -73,7 +93,7 @@
       "pitcher_k_minus_bb_pct": 0.2076,
       "opp_k_rate": 0.2299,
       "opp_games_sample": 26,
-      "score": 0.7149,
+      "score": 0.715,
       "game_pk": 823089,
       "game_time_local": "9:40 PM ET",
       "venue": "T-Mobile Park",
@@ -84,7 +104,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 702275,
       "pitcher_name": "JR Ritchie",
       "pitcher_team": "Atlanta Braves",
@@ -93,7 +113,7 @@
       "pitcher_k_minus_bb_pct": 0.0719,
       "opp_k_rate": 0.2573,
       "opp_games_sample": 26,
-      "score": 0.7088,
+      "score": 0.7092,
       "game_pk": 824867,
       "game_time_local": "7:15 PM ET",
       "venue": "Truist Park",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 579328,
       "pitcher_name": "Yusei Kikuchi",
       "pitcher_team": "Los Angeles Angels",
@@ -113,7 +133,7 @@
       "pitcher_k_minus_bb_pct": 0.1154,
       "opp_k_rate": 0.2339,
       "opp_games_sample": 26,
-      "score": 0.6697,
+      "score": 0.67,
       "game_pk": 824953,
       "game_time_local": "9:40 PM ET",
       "venue": "Sutter Health Park",
@@ -124,7 +144,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 623454,
       "pitcher_name": "Drew Anderson",
       "pitcher_team": "Detroit Tigers",
@@ -133,7 +153,7 @@
       "pitcher_k_minus_bb_pct": 0.1521,
       "opp_k_rate": 0.2219,
       "opp_games_sample": 26,
-      "score": 0.6602,
+      "score": 0.6604,
       "game_pk": 824222,
       "game_time_local": "6:40 PM ET",
       "venue": "Comerica Park",
@@ -141,26 +161,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623454/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
-      }
-    },
-    {
-      "rank": 8,
-      "pitcher_mlbam_id": 800048,
-      "pitcher_name": "Parker Messick",
-      "pitcher_team": "Cleveland Guardians",
-      "opposing_team": "Boston Red Sox",
-      "pitcher_k_per_9": 9.387,
-      "pitcher_k_minus_bb_pct": 0.1955,
-      "opp_k_rate": 0.2215,
-      "opp_games_sample": 27,
-      "score": 0.6374,
-      "game_pk": 824709,
-      "game_time_local": "6:45 PM ET",
-      "venue": "Fenway Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
       }
     }
   ]

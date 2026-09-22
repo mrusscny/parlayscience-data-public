@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at_et": "2026-09-22 10:20:01 EDT",
+  "generated_at_et": "2026-09-22 13:41:24 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -105,31 +105,6 @@
     },
     {
       "rank": 5,
-      "batter_mlbam_id": 669224,
-      "batter_name": "Austin Wells",
-      "batter_team": "New York Yankees",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 656876,
-      "pitcher_name": "Drew Rasmussen",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.815,
-      "batter_slg": 0.576,
-      "batter_woba_contact": 0.371,
-      "batter_ab_vs_pitch": 66,
-      "batter_barrel_pct": 7.4,
-      "batter_season_slg_overall": 0.326,
-      "matchup_strength": 0.4693,
-      "venue_name": "Yankee Stadium",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669224/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "rank": 6,
       "batter_mlbam_id": 620443,
       "batter_name": "Luis Torrens",
       "batter_team": "New York Mets",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "batter_mlbam_id": 696100,
       "batter_name": "Hunter Goodman",
       "batter_team": "Colorado Rockies",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "batter_mlbam_id": 681393,
       "batter_name": "Connor Norby",
       "batter_team": "Colorado Rockies",
@@ -204,7 +179,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 8,
       "batter_mlbam_id": 664954,
       "batter_name": "Brett Sullivan",
       "batter_team": "Colorado Rockies",
@@ -229,7 +204,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 9,
       "batter_mlbam_id": 671277,
       "batter_name": "Luis Garc\u00eda Jr.",
       "batter_team": "New York Yankees",
@@ -254,7 +229,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 10,
       "batter_mlbam_id": 641355,
       "batter_name": "Cody Bellinger",
       "batter_team": "New York Yankees",
@@ -279,7 +254,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 11,
       "batter_mlbam_id": 800050,
       "batter_name": "Chase DeLauter",
       "batter_team": "Cleveland Guardians",
@@ -304,7 +279,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 12,
       "batter_mlbam_id": 664983,
       "batter_name": "Jake McCarthy",
       "batter_team": "Colorado Rockies",
@@ -329,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 13,
       "batter_mlbam_id": 691720,
       "batter_name": "Kyle Karros",
       "batter_team": "Colorado Rockies",
@@ -354,7 +329,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 14,
       "batter_mlbam_id": 547180,
       "batter_name": "Bryce Harper",
       "batter_team": "Philadelphia Phillies",
@@ -379,7 +354,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 15,
       "batter_mlbam_id": 701350,
       "batter_name": "Roman Anthony",
       "batter_team": "Boston Red Sox",
@@ -404,7 +379,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 16,
       "batter_mlbam_id": 596142,
       "batter_name": "Gary S\u00e1nchez",
       "batter_team": "Milwaukee Brewers",
@@ -429,7 +404,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 17,
       "batter_mlbam_id": 683748,
       "batter_name": "Victor Mesa Jr.",
       "batter_team": "Tampa Bay Rays",
@@ -454,7 +429,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 18,
       "batter_mlbam_id": 669394,
       "batter_name": "Jake Burger",
       "batter_team": "Texas Rangers",
@@ -479,7 +454,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 19,
       "batter_mlbam_id": 608369,
       "batter_name": "Corey Seager",
       "batter_team": "Texas Rangers",
@@ -501,6 +476,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/640455/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 571448,
+      "batter_name": "Nolan Arenado",
+      "batter_team": "Arizona Diamondbacks",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 607536,
+      "pitcher_name": "Kyle Freeland",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.576,
+      "batter_slg": 0.602,
+      "batter_woba_contact": 0.37,
+      "batter_ab_vs_pitch": 83,
+      "batter_barrel_pct": 6.3,
+      "batter_season_slg_overall": 0.455,
+      "matchup_strength": 0.3469,
+      "venue_name": "Coors Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571448/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607536/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     }
   ]

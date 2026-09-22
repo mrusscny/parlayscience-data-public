@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at_et": "2026-09-22 10:20:18 EDT",
+  "generated_at_et": "2026-09-22 13:41:37 EDT",
   "concept": "k_targets_full",
   "items": [
     {
@@ -13,7 +13,7 @@
       "pitcher_k_minus_bb_pct": 0.174,
       "opp_k_rate": 0.2406,
       "opp_games_sample": 28,
-      "score": 0.8178,
+      "score": 0.8179,
       "game_pk": 823166,
       "game_time_local": "9:45 PM ET",
       "venue": "Oracle Park",
@@ -65,6 +65,26 @@
     },
     {
       "rank": 4,
+      "pitcher_mlbam_id": 683000,
+      "pitcher_name": "Riley Cornelio",
+      "pitcher_team": "Washington Nationals",
+      "opposing_team": "Detroit Tigers",
+      "pitcher_k_per_9": 9.562,
+      "pitcher_k_minus_bb_pct": 0.0634,
+      "opp_k_rate": 0.2418,
+      "opp_games_sample": 28,
+      "score": 0.7483,
+      "game_pk": 824222,
+      "game_time_local": "6:40 PM ET",
+      "venue": "Comerica Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683000/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "rank": 5,
       "pitcher_mlbam_id": 669302,
       "pitcher_name": "Logan Gilbert",
       "pitcher_team": "Seattle Mariners",
@@ -73,7 +93,7 @@
       "pitcher_k_minus_bb_pct": 0.2076,
       "opp_k_rate": 0.2299,
       "opp_games_sample": 26,
-      "score": 0.7149,
+      "score": 0.715,
       "game_pk": 823089,
       "game_time_local": "9:40 PM ET",
       "venue": "T-Mobile Park",
@@ -84,7 +104,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "pitcher_mlbam_id": 702275,
       "pitcher_name": "JR Ritchie",
       "pitcher_team": "Atlanta Braves",
@@ -93,7 +113,7 @@
       "pitcher_k_minus_bb_pct": 0.0719,
       "opp_k_rate": 0.2573,
       "opp_games_sample": 26,
-      "score": 0.7088,
+      "score": 0.7092,
       "game_pk": 824867,
       "game_time_local": "7:15 PM ET",
       "venue": "Truist Park",
@@ -104,7 +124,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 7,
       "pitcher_mlbam_id": 579328,
       "pitcher_name": "Yusei Kikuchi",
       "pitcher_team": "Los Angeles Angels",
@@ -113,7 +133,7 @@
       "pitcher_k_minus_bb_pct": 0.1154,
       "opp_k_rate": 0.2339,
       "opp_games_sample": 26,
-      "score": 0.6697,
+      "score": 0.67,
       "game_pk": 824953,
       "game_time_local": "9:40 PM ET",
       "venue": "Sutter Health Park",
@@ -124,7 +144,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 8,
       "pitcher_mlbam_id": 623454,
       "pitcher_name": "Drew Anderson",
       "pitcher_team": "Detroit Tigers",
@@ -133,7 +153,7 @@
       "pitcher_k_minus_bb_pct": 0.1521,
       "opp_k_rate": 0.2219,
       "opp_games_sample": 26,
-      "score": 0.6602,
+      "score": 0.6604,
       "game_pk": 824222,
       "game_time_local": "6:40 PM ET",
       "venue": "Comerica Park",
@@ -144,7 +164,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 9,
       "pitcher_mlbam_id": 800048,
       "pitcher_name": "Parker Messick",
       "pitcher_team": "Cleveland Guardians",
@@ -153,7 +173,7 @@
       "pitcher_k_minus_bb_pct": 0.1955,
       "opp_k_rate": 0.2215,
       "opp_games_sample": 27,
-      "score": 0.6374,
+      "score": 0.6376,
       "game_pk": 824709,
       "game_time_local": "6:45 PM ET",
       "venue": "Fenway Park",
@@ -164,7 +184,27 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 10,
+      "pitcher_mlbam_id": 684007,
+      "pitcher_name": "Shota Imanaga",
+      "pitcher_team": "Chicago Cubs",
+      "opposing_team": "Miami Marlins",
+      "pitcher_k_per_9": 8.768,
+      "pitcher_k_minus_bb_pct": 0.1859,
+      "opp_k_rate": 0.2328,
+      "opp_games_sample": 26,
+      "score": 0.6344,
+      "game_pk": 824624,
+      "game_time_local": "7:40 PM ET",
+      "venue": "Wrigley Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
+      }
+    },
+    {
+      "rank": 11,
       "pitcher_mlbam_id": 453286,
       "pitcher_name": "Max Scherzer",
       "pitcher_team": "Toronto Blue Jays",
@@ -173,7 +213,7 @@
       "pitcher_k_minus_bb_pct": 0.073,
       "opp_k_rate": 0.2713,
       "opp_games_sample": 27,
-      "score": 0.6254,
+      "score": 0.626,
       "game_pk": 824785,
       "game_time_local": "6:35 PM ET",
       "venue": "Oriole Park at Camden Yards",
@@ -184,7 +224,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 12,
       "pitcher_mlbam_id": 647336,
       "pitcher_name": "Michael Soroka",
       "pitcher_team": "Arizona Diamondbacks",
@@ -193,7 +233,7 @@
       "pitcher_k_minus_bb_pct": 0.1748,
       "opp_k_rate": 0.2308,
       "opp_games_sample": 27,
-      "score": 0.6196,
+      "score": 0.6199,
       "game_pk": 824302,
       "game_time_local": "8:40 PM ET",
       "venue": "Coors Field",
@@ -204,16 +244,16 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 13,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
       "opposing_team": "New York Yankees",
       "pitcher_k_per_9": 8.873,
       "pitcher_k_minus_bb_pct": 0.2078,
-      "opp_k_rate": 0.2262,
-      "opp_games_sample": 26,
-      "score": 0.6127,
+      "opp_k_rate": 0.2258,
+      "opp_games_sample": 27,
+      "score": 0.6112,
       "game_pk": 823494,
       "game_time_local": "7:05 PM ET",
       "venue": "Yankee Stadium",
@@ -224,7 +264,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 14,
       "pitcher_mlbam_id": 664299,
       "pitcher_name": "Cristian Javier",
       "pitcher_team": "Houston Astros",
@@ -233,7 +273,7 @@
       "pitcher_k_minus_bb_pct": 0.1161,
       "opp_k_rate": 0.2339,
       "opp_games_sample": 26,
-      "score": 0.6067,
+      "score": 0.6071,
       "game_pk": 823089,
       "game_time_local": "9:40 PM ET",
       "venue": "T-Mobile Park",
@@ -244,7 +284,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 15,
       "pitcher_mlbam_id": 669022,
       "pitcher_name": "MacKenzie Gore",
       "pitcher_team": "Texas Rangers",
@@ -253,7 +293,7 @@
       "pitcher_k_minus_bb_pct": 0.1431,
       "opp_k_rate": 0.2129,
       "opp_games_sample": 26,
-      "score": 0.5933,
+      "score": 0.5935,
       "game_pk": 822840,
       "game_time_local": "8:05 PM ET",
       "venue": "Globe Life Field",
@@ -264,7 +304,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 16,
       "pitcher_mlbam_id": 669620,
       "pitcher_name": "Brady Basso",
       "pitcher_team": "Athletics",
@@ -273,7 +313,7 @@
       "pitcher_k_minus_bb_pct": 0.118,
       "opp_k_rate": 0.2712,
       "opp_games_sample": 26,
-      "score": 0.5897,
+      "score": 0.5904,
       "game_pk": 824953,
       "game_time_local": "9:40 PM ET",
       "venue": "Sutter Health Park",
@@ -284,7 +324,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 17,
       "pitcher_mlbam_id": 640455,
       "pitcher_name": "Sean Manaea",
       "pitcher_team": "New York Mets",
@@ -293,7 +333,7 @@
       "pitcher_k_minus_bb_pct": 0.1514,
       "opp_k_rate": 0.2252,
       "opp_games_sample": 26,
-      "score": 0.5803,
+      "score": 0.5807,
       "game_pk": 822840,
       "game_time_local": "8:05 PM ET",
       "venue": "Globe Life Field",
@@ -304,27 +344,7 @@
       }
     },
     {
-      "rank": 16,
-      "pitcher_mlbam_id": 800600,
-      "pitcher_name": "Jackson Kent",
-      "pitcher_team": "Washington Nationals",
-      "opposing_team": "Detroit Tigers",
-      "pitcher_k_per_9": 7.516,
-      "pitcher_k_minus_bb_pct": 0.0265,
-      "opp_k_rate": 0.2418,
-      "opp_games_sample": 28,
-      "score": 0.5626,
-      "game_pk": 824222,
-      "game_time_local": "6:40 PM ET",
-      "venue": "Comerica Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800600/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 801139,
       "pitcher_name": "Payton Tolle",
       "pitcher_team": "Boston Red Sox",
@@ -344,7 +364,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 663738,
       "pitcher_name": "Daniel Lynch IV",
       "pitcher_team": "Kansas City Royals",
@@ -353,7 +373,7 @@
       "pitcher_k_minus_bb_pct": 0.0929,
       "opp_k_rate": 0.2583,
       "opp_games_sample": 27,
-      "score": 0.5117,
+      "score": 0.5124,
       "game_pk": 824061,
       "game_time_local": "7:40 PM ET",
       "venue": "Kauffman Stadium",
@@ -364,16 +384,16 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 607074,
       "pitcher_name": "Carlos Rod\u00f3n",
       "pitcher_team": "New York Yankees",
       "opposing_team": "Tampa Bay Rays",
-      "pitcher_k_per_9": 9.786,
-      "pitcher_k_minus_bb_pct": 0.1429,
-      "opp_k_rate": 0.1779,
-      "opp_games_sample": 26,
-      "score": 0.4698,
+      "pitcher_k_per_9": 9.797,
+      "pitcher_k_minus_bb_pct": 0.1486,
+      "opp_k_rate": 0.1803,
+      "opp_games_sample": 27,
+      "score": 0.4822,
       "game_pk": 823543,
       "game_time_local": "1:05 PM ET",
       "venue": "Yankee Stadium",
@@ -381,26 +401,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607074/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 669160,
-      "pitcher_name": "Dustin May",
-      "pitcher_team": "Milwaukee Brewers",
-      "opposing_team": "Philadelphia Phillies",
-      "pitcher_k_per_9": 8.765,
-      "pitcher_k_minus_bb_pct": 0.1503,
-      "opp_k_rate": 0.1977,
-      "opp_games_sample": 26,
-      "score": 0.4698,
-      "game_pk": 823412,
-      "game_time_local": "6:40 PM ET",
-      "venue": "Citizens Bank Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
       }
     }
   ]

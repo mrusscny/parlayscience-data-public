@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at_et": "2026-09-22 10:17:29 EDT",
+  "generated_at_et": "2026-09-22 13:39:24 EDT",
   "concept": "power_sluggers_full",
   "items": [
     {
@@ -205,6 +205,81 @@
     },
     {
       "rank": 9,
+      "mlbam_id": 665052,
+      "player_name": "Griffin Conine",
+      "team": "Miami Marlins",
+      "opposing_pitcher": "Shota Imanaga",
+      "opposing_pitcher_id": 684007.0,
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 15.1,
+      "fb_pct": 23.21,
+      "avg_exit_velo": 91.4,
+      "hard_hit_pct": 50.0,
+      "pitcher_hr_per_9": 1.818,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.845,
+      "threshold_bonus": 0.05,
+      "final_score": 0.895,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665052/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 10,
+      "mlbam_id": 681715,
+      "player_name": "Heriberto Hern\u00e1ndez",
+      "team": "Miami Marlins",
+      "opposing_pitcher": "Shota Imanaga",
+      "opposing_pitcher_id": 684007.0,
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 12.8,
+      "fb_pct": 35.14,
+      "avg_exit_velo": 91.1,
+      "hard_hit_pct": 47.0,
+      "pitcher_hr_per_9": 1.818,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.845,
+      "threshold_bonus": 0.05,
+      "final_score": 0.895,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/681715/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 11,
+      "mlbam_id": 669065,
+      "player_name": "Kyle Stowers",
+      "team": "Miami Marlins",
+      "opposing_pitcher": "Shota Imanaga",
+      "opposing_pitcher_id": 684007.0,
+      "venue_name": "Wrigley Field",
+      "barrel_pct": 12.4,
+      "fb_pct": 35.85,
+      "avg_exit_velo": 92.4,
+      "hard_hit_pct": 56.4,
+      "pitcher_hr_per_9": 1.818,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.841,
+      "threshold_bonus": 0.05,
+      "final_score": 0.891,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669065/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 12,
       "mlbam_id": 682829,
       "player_name": "Elly De La Cruz",
       "team": "Cincinnati Reds",
@@ -229,7 +304,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 13,
       "mlbam_id": 669257,
       "player_name": "Will Smith",
       "team": "Los Angeles Dodgers",
@@ -254,7 +329,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 14,
       "mlbam_id": 682998,
       "player_name": "Corbin Carroll",
       "team": "Arizona Diamondbacks",
@@ -279,7 +354,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 15,
       "mlbam_id": 686948,
       "player_name": "Drake Baldwin",
       "team": "Atlanta Braves",
@@ -304,7 +379,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 16,
       "mlbam_id": 608369,
       "player_name": "Corey Seager",
       "team": "Texas Rangers",
@@ -329,7 +404,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 17,
       "mlbam_id": 808959,
       "player_name": "Munetaka Murakami",
       "team": "Chicago White Sox",
@@ -354,7 +429,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 18,
       "mlbam_id": 669394,
       "player_name": "Jake Burger",
       "team": "Texas Rangers",
@@ -379,32 +454,32 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 19,
       "mlbam_id": 682985,
       "player_name": "Riley Greene",
       "team": "Detroit Tigers",
-      "opposing_pitcher": "Jackson Kent",
-      "opposing_pitcher_id": 800600.0,
+      "opposing_pitcher": "Riley Cornelio",
+      "opposing_pitcher_id": 683000.0,
       "venue_name": "Comerica Park",
       "barrel_pct": 15.2,
       "fb_pct": 34.55,
       "avg_exit_velo": 90.1,
       "hard_hit_pct": 46.7,
-      "pitcher_hr_per_9": 0.557,
+      "pitcher_hr_per_9": 0.562,
       "threshold_count": 2,
       "threshold_label": "2/3",
-      "base_score": 0.804,
+      "base_score": 0.805,
       "threshold_bonus": 0.05,
-      "final_score": 0.854,
+      "final_score": 0.855,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682985/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800600/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683000/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     },
     {
-      "rank": 17,
+      "rank": 20,
       "mlbam_id": 804668,
       "player_name": "Rafael Flores Jr.",
       "team": "Pittsburgh Pirates",
@@ -426,81 +501,6 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669467/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "mlbam_id": 663886,
-      "player_name": "Tyler Stephenson",
-      "team": "Cincinnati Reds",
-      "opposing_pitcher": "JR Ritchie",
-      "opposing_pitcher_id": 702275.0,
-      "venue_name": "Truist Park",
-      "barrel_pct": 12.1,
-      "fb_pct": 33.93,
-      "avg_exit_velo": 91.0,
-      "hard_hit_pct": 44.5,
-      "pitcher_hr_per_9": 1.58,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.802,
-      "threshold_bonus": 0.05,
-      "final_score": 0.852,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/663886/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/113.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/702275/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 19,
-      "mlbam_id": 656941,
-      "player_name": "Kyle Schwarber",
-      "team": "Philadelphia Phillies",
-      "opposing_pitcher": "Dustin May",
-      "opposing_pitcher_id": 669160.0,
-      "venue_name": "Citizens Bank Park",
-      "barrel_pct": 16.0,
-      "fb_pct": 29.41,
-      "avg_exit_velo": 92.3,
-      "hard_hit_pct": 49.3,
-      "pitcher_hr_per_9": 0.768,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.799,
-      "threshold_bonus": 0.05,
-      "final_score": 0.849,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669160/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "mlbam_id": 672960,
-      "player_name": "Kazuma Okamoto",
-      "team": "Toronto Blue Jays",
-      "opposing_pitcher": "Chris Bassitt",
-      "opposing_pitcher_id": 605135.0,
-      "venue_name": "Oriole Park at Camden Yards",
-      "barrel_pct": 13.2,
-      "fb_pct": 37.31,
-      "avg_exit_velo": 90.6,
-      "hard_hit_pct": 44.2,
-      "pitcher_hr_per_9": 0.928,
-      "threshold_count": 2,
-      "threshold_label": "2/3",
-      "base_score": 0.799,
-      "threshold_bonus": 0.05,
-      "final_score": 0.849,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/672960/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/141.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605135/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     }
   ]

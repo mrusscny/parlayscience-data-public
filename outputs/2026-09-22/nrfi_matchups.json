@@ -1,10 +1,58 @@
 {
   "date": "2026-09-22",
-  "generated_at_et": "2026-09-22 10:20:10 EDT",
+  "generated_at_et": "2026-09-22 13:41:30 EDT",
   "concept": "nrfi_matchups",
   "items": [
     {
       "game_rank": 1,
+      "pitcher_role": "away",
+      "game_pk": 824222,
+      "pitcher_mlbam_id": 683000.0,
+      "pitcher_name": "Riley Cornelio",
+      "pitcher_team": "Washington Nationals",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 0.0,
+      "pitcher_l10_nrfi_rate": 1.0,
+      "pitcher_l10_starts_evaluated": 2,
+      "opposing_team": "Detroit Tigers",
+      "opposing_team_nrfi_rate": 0.607,
+      "opposing_team_games_evaluated": 28,
+      "pitcher_composite_score": 0.882,
+      "game_nrfi_score": 0.855,
+      "venue_name": "Comerica Park",
+      "game_time_et": "6:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683000/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+      }
+    },
+    {
+      "game_rank": 1,
+      "pitcher_role": "home",
+      "game_pk": 824222,
+      "pitcher_mlbam_id": 623454.0,
+      "pitcher_name": "Drew Anderson",
+      "pitcher_team": "Detroit Tigers",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 0.9,
+      "pitcher_l10_nrfi_rate": 0.75,
+      "pitcher_l10_starts_evaluated": 4,
+      "opposing_team": "Washington Nationals",
+      "opposing_team_nrfi_rate": 0.808,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.827,
+      "game_nrfi_score": 0.855,
+      "venue_name": "Comerica Park",
+      "game_time_et": "6:40 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623454/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
+      }
+    },
+    {
+      "game_rank": 2,
       "pitcher_role": "away",
       "game_pk": 823494,
       "pitcher_mlbam_id": 656876.0,
@@ -28,7 +76,7 @@
       }
     },
     {
-      "game_rank": 1,
+      "game_rank": 2,
       "pitcher_role": "home",
       "game_pk": 823494,
       "pitcher_mlbam_id": 608331.0,
@@ -52,7 +100,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "away",
       "game_pk": 823543,
       "pitcher_mlbam_id": 607259.0,
@@ -76,7 +124,7 @@
       }
     },
     {
-      "game_rank": 2,
+      "game_rank": 3,
       "pitcher_role": "home",
       "game_pk": 823543,
       "pitcher_mlbam_id": 607074.0,
@@ -97,54 +145,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607074/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "game_rank": 3,
-      "pitcher_role": "away",
-      "game_pk": 824222,
-      "pitcher_mlbam_id": 800600.0,
-      "pitcher_name": "Jackson Kent",
-      "pitcher_team": "Washington Nationals",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 3.86,
-      "pitcher_l10_nrfi_rate": 0.6,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Detroit Tigers",
-      "opposing_team_nrfi_rate": 0.607,
-      "opposing_team_games_evaluated": 28,
-      "pitcher_composite_score": 0.591,
-      "game_nrfi_score": 0.709,
-      "venue_name": "Comerica Park",
-      "game_time_et": "6:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800600/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
-      }
-    },
-    {
-      "game_rank": 3,
-      "pitcher_role": "home",
-      "game_pk": 824222,
-      "pitcher_mlbam_id": 623454.0,
-      "pitcher_name": "Drew Anderson",
-      "pitcher_team": "Detroit Tigers",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 0.9,
-      "pitcher_l10_nrfi_rate": 0.75,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "Washington Nationals",
-      "opposing_team_nrfi_rate": 0.808,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.827,
-      "game_nrfi_score": 0.709,
-      "venue_name": "Comerica Park",
-      "game_time_et": "6:40 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/623454/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/116.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/120.svg"
       }
     },
     {
@@ -246,49 +246,49 @@
     {
       "game_rank": 6,
       "pitcher_role": "away",
-      "game_pk": 823328,
-      "pitcher_mlbam_id": 669467.0,
-      "pitcher_name": "Andre Pallante",
-      "pitcher_team": "St. Louis Cardinals",
+      "game_pk": 824624,
+      "pitcher_mlbam_id": 676083.0,
+      "pitcher_name": "Janson Junk",
+      "pitcher_team": "Miami Marlins",
       "pitcher_throws": "R",
-      "pitcher_first_inning_era": 5.67,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 3,
-      "opposing_team": "Pittsburgh Pirates",
-      "opposing_team_nrfi_rate": 0.76,
-      "opposing_team_games_evaluated": 25,
-      "pitcher_composite_score": 0.376,
-      "game_nrfi_score": 0.616,
-      "venue_name": "PNC Park",
-      "game_time_et": "6:40 PM ET",
+      "pitcher_first_inning_era": 3.13,
+      "pitcher_l10_nrfi_rate": 0.8,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Chicago Cubs",
+      "opposing_team_nrfi_rate": 0.654,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.697,
+      "game_nrfi_score": 0.659,
+      "venue_name": "Wrigley Field",
+      "game_time_et": "7:40 PM ET",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669467/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/138.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/134.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676083/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
       }
     },
     {
       "game_rank": 6,
       "pitcher_role": "home",
-      "game_pk": 823328,
-      "pitcher_mlbam_id": 683003.0,
-      "pitcher_name": "Jared Jones",
-      "pitcher_team": "Pittsburgh Pirates",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 1.89,
-      "pitcher_l10_nrfi_rate": 1.0,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "St. Louis Cardinals",
-      "opposing_team_nrfi_rate": 0.8,
-      "opposing_team_games_evaluated": 25,
-      "pitcher_composite_score": 0.856,
-      "game_nrfi_score": 0.616,
-      "venue_name": "PNC Park",
-      "game_time_et": "6:40 PM ET",
+      "game_pk": 824624,
+      "pitcher_mlbam_id": 684007.0,
+      "pitcher_name": "Shota Imanaga",
+      "pitcher_team": "Chicago Cubs",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 4.8,
+      "pitcher_l10_nrfi_rate": 0.6,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Miami Marlins",
+      "opposing_team_nrfi_rate": 0.846,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.621,
+      "game_nrfi_score": 0.659,
+      "venue_name": "Wrigley Field",
+      "game_time_et": "7:40 PM ET",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683003/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/684007/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
       }
     }
   ]
