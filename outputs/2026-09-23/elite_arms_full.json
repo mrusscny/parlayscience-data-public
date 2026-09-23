@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at_et": "2026-09-23 10:39:38 EDT",
+  "generated_at_et": "2026-09-23 13:53:17 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -236,6 +236,48 @@
     },
     {
       "rank": 12,
+      "pitcher_mlbam_id": 674841,
+      "pitcher_name": "Andrew Alvarez",
+      "pitcher_team": "Washington Nationals",
+      "next_start_date": "2026-09-25",
+      "opposing_team": "New York Mets",
+      "fip": 3.054,
+      "era_proxy": 3.17,
+      "k_minus_bb_pct": 0.1311,
+      "k_per_9": 8.917,
+      "ip_total": 108.0,
+      "score": 0.3966,
+      "game_pk": 822681,
+      "venue": "Nationals Park",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674841/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
+      }
+    },
+    {
+      "rank": 13,
+      "pitcher_mlbam_id": 657746,
+      "pitcher_name": "Joe Ryan",
+      "pitcher_team": "Minnesota Twins",
+      "next_start_date": "2026-09-25",
+      "opposing_team": "Texas Rangers",
+      "fip": 3.54,
+      "era_proxy": 3.83,
+      "k_minus_bb_pct": 0.2058,
+      "k_per_9": 9.8,
+      "ip_total": 138.7,
+      "score": 0.3928,
+      "game_pk": 823652,
+      "venue": "Target Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/657746/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "rank": 14,
       "pitcher_mlbam_id": 700712,
       "pitcher_name": "Walbert Ure\u00f1a",
       "pitcher_team": "Los Angeles Angels",
@@ -256,7 +298,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 15,
       "pitcher_mlbam_id": 543037,
       "pitcher_name": "Gerrit Cole",
       "pitcher_team": "New York Yankees",
@@ -277,7 +319,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 16,
       "pitcher_mlbam_id": 681517,
       "pitcher_name": "Kyle Leahy",
       "pitcher_team": "St. Louis Cardinals",
@@ -298,28 +340,7 @@
       }
     },
     {
-      "rank": 15,
-      "pitcher_mlbam_id": 693855,
-      "pitcher_name": "Ian Seymour",
-      "pitcher_team": "Tampa Bay Rays",
-      "next_start_date": "2026-09-23",
-      "opposing_team": "New York Yankees",
-      "fip": 4.066,
-      "era_proxy": 4.38,
-      "k_minus_bb_pct": 0.2228,
-      "k_per_9": 10.956,
-      "ip_total": 127.3,
-      "score": 0.3347,
-      "game_pk": 823492,
-      "venue": "Yankee Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693855/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 656492,
       "pitcher_name": "Foster Griffin",
       "pitcher_team": "Cleveland Guardians",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 593958,
       "pitcher_name": "Eduardo Rodriguez",
       "pitcher_team": "Arizona Diamondbacks",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 641816,
       "pitcher_name": "Tyler Mahle",
       "pitcher_team": "Atlanta Braves",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 592332,
       "pitcher_name": "Kevin Gausman",
       "pitcher_team": "Chicago Cubs",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592332/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 669199,
-      "pitcher_name": "Lake Bachar",
-      "pitcher_team": "Pittsburgh Pirates",
-      "next_start_date": "2026-09-23",
-      "opposing_team": "St. Louis Cardinals",
-      "fip": 4.3,
-      "era_proxy": 3.56,
-      "k_minus_bb_pct": 0.1507,
-      "k_per_9": 9.396,
-      "ip_total": 83.3,
-      "score": 0.2931,
-      "game_pk": 823327,
-      "venue": "PNC Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669199/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/138.svg"
       }
     }
   ]

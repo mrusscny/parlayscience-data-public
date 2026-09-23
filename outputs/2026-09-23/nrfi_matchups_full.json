@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at_et": "2026-09-23 10:39:29 EDT",
+  "generated_at_et": "2026-09-23 13:53:08 EDT",
   "concept": "nrfi_matchups_full",
   "items": [
     {
@@ -294,54 +294,6 @@
     {
       "game_rank": 7,
       "pitcher_role": "away",
-      "game_pk": 823492,
-      "pitcher_mlbam_id": 693855.0,
-      "pitcher_name": "Ian Seymour",
-      "pitcher_team": "Tampa Bay Rays",
-      "pitcher_throws": "L",
-      "pitcher_first_inning_era": 2.4,
-      "pitcher_l10_nrfi_rate": 0.5,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "New York Yankees",
-      "opposing_team_nrfi_rate": 0.704,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.654,
-      "game_nrfi_score": 0.651,
-      "venue_name": "Yankee Stadium",
-      "game_time_et": "7:05 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693855/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "game_rank": 7,
-      "pitcher_role": "home",
-      "game_pk": 823492,
-      "pitcher_mlbam_id": 543037.0,
-      "pitcher_name": "Gerrit Cole",
-      "pitcher_team": "New York Yankees",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 3.0,
-      "pitcher_l10_nrfi_rate": 0.6,
-      "pitcher_l10_starts_evaluated": 5,
-      "opposing_team": "Tampa Bay Rays",
-      "opposing_team_nrfi_rate": 0.667,
-      "opposing_team_games_evaluated": 27,
-      "pitcher_composite_score": 0.647,
-      "game_nrfi_score": 0.651,
-      "venue_name": "Yankee Stadium",
-      "game_time_et": "7:05 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
-      }
-    },
-    {
-      "game_rank": 8,
-      "pitcher_role": "away",
       "game_pk": 824868,
       "pitcher_mlbam_id": 671096.0,
       "pitcher_name": "Andrew Abbott",
@@ -364,7 +316,7 @@
       }
     },
     {
-      "game_rank": 8,
+      "game_rank": 7,
       "pitcher_role": "home",
       "game_pk": 824868,
       "pitcher_mlbam_id": 519242.0,
@@ -388,7 +340,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 8,
       "pitcher_role": "away",
       "game_pk": 824951,
       "pitcher_mlbam_id": 700712.0,
@@ -412,7 +364,7 @@
       }
     },
     {
-      "game_rank": 9,
+      "game_rank": 8,
       "pitcher_role": "home",
       "game_pk": 824951,
       "pitcher_mlbam_id": 605488.0,
@@ -433,6 +385,54 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605488/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/133.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    },
+    {
+      "game_rank": 9,
+      "pitcher_role": "away",
+      "game_pk": 822841,
+      "pitcher_mlbam_id": 690997.0,
+      "pitcher_name": "Nolan McLean",
+      "pitcher_team": "New York Mets",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 3.3,
+      "pitcher_l10_nrfi_rate": 0.5,
+      "pitcher_l10_starts_evaluated": 4,
+      "opposing_team": "Texas Rangers",
+      "opposing_team_nrfi_rate": 0.692,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.611,
+      "game_nrfi_score": 0.612,
+      "venue_name": "Globe Life Field",
+      "game_time_et": "8:05 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
+      }
+    },
+    {
+      "game_rank": 9,
+      "pitcher_role": "home",
+      "game_pk": 822841,
+      "pitcher_mlbam_id": 674003.0,
+      "pitcher_name": "Cody Bradford",
+      "pitcher_team": "Texas Rangers",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 3.86,
+      "pitcher_l10_nrfi_rate": 0.667,
+      "pitcher_l10_starts_evaluated": 3,
+      "opposing_team": "New York Mets",
+      "opposing_team_nrfi_rate": 0.615,
+      "opposing_team_games_evaluated": 26,
+      "pitcher_composite_score": 0.613,
+      "game_nrfi_score": 0.612,
+      "venue_name": "Globe Life Field",
+      "game_time_et": "8:05 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/674003/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
     },
     {
@@ -630,52 +630,6 @@
     {
       "game_rank": 14,
       "pitcher_role": "away",
-      "game_pk": 822841,
-      "pitcher_mlbam_id": 690997.0,
-      "pitcher_name": "Nolan McLean",
-      "pitcher_team": "New York Mets",
-      "pitcher_throws": "R",
-      "pitcher_first_inning_era": 3.3,
-      "pitcher_l10_nrfi_rate": 0.5,
-      "pitcher_l10_starts_evaluated": 4,
-      "opposing_team": "Texas Rangers",
-      "opposing_team_nrfi_rate": 0.692,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.611,
-      "game_nrfi_score": 0.498,
-      "venue_name": "Globe Life Field",
-      "game_time_et": "8:05 PM ET",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/690997/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/140.svg"
-      }
-    },
-    {
-      "game_rank": 14,
-      "pitcher_role": "home",
-      "game_pk": 822841,
-      "pitcher_mlbam_id": null,
-      "pitcher_name": "TBD",
-      "pitcher_team": "Texas Rangers",
-      "pitcher_throws": "U",
-      "pitcher_first_inning_era": 4.5,
-      "pitcher_l10_nrfi_rate": 0.0,
-      "pitcher_l10_starts_evaluated": 0,
-      "opposing_team": "New York Mets",
-      "opposing_team_nrfi_rate": 0.615,
-      "opposing_team_games_evaluated": 26,
-      "pitcher_composite_score": 0.385,
-      "game_nrfi_score": 0.498,
-      "venue_name": "Globe Life Field",
-      "game_time_et": "8:05 PM ET",
-      "image_urls": {
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "game_rank": 15,
-      "pitcher_role": "away",
       "game_pk": 824785,
       "pitcher_mlbam_id": 453286.0,
       "pitcher_name": "Max Scherzer",
@@ -698,7 +652,7 @@
       }
     },
     {
-      "game_rank": 15,
+      "game_rank": 14,
       "pitcher_role": "home",
       "game_pk": 824785,
       "pitcher_mlbam_id": 605135.0,
@@ -719,6 +673,54 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605135/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/141.svg"
+      }
+    },
+    {
+      "game_rank": 15,
+      "pitcher_role": "away",
+      "game_pk": 823492,
+      "pitcher_mlbam_id": 669438.0,
+      "pitcher_name": "Mason Englert",
+      "pitcher_team": "Tampa Bay Rays",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 9.0,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "New York Yankees",
+      "opposing_team_nrfi_rate": 0.704,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.211,
+      "game_nrfi_score": 0.429,
+      "venue_name": "Yankee Stadium",
+      "game_time_et": "7:05 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669438/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
+      }
+    },
+    {
+      "game_rank": 15,
+      "pitcher_role": "home",
+      "game_pk": 823492,
+      "pitcher_mlbam_id": 543037.0,
+      "pitcher_name": "Gerrit Cole",
+      "pitcher_team": "New York Yankees",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 3.0,
+      "pitcher_l10_nrfi_rate": 0.6,
+      "pitcher_l10_starts_evaluated": 5,
+      "opposing_team": "Tampa Bay Rays",
+      "opposing_team_nrfi_rate": 0.667,
+      "opposing_team_games_evaluated": 27,
+      "pitcher_composite_score": 0.647,
+      "game_nrfi_score": 0.429,
+      "venue_name": "Yankee Stadium",
+      "game_time_et": "7:05 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/543037/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
