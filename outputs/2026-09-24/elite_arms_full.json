@@ -1,6 +1,6 @@
 {
   "date": "2026-09-24",
-  "generated_at_et": "2026-09-24 10:36:14 EDT",
+  "generated_at_et": "2026-09-24 13:55:51 EDT",
   "concept": "elite_arms_full",
   "items": [
     {
@@ -136,12 +136,12 @@
       "pitcher_team": "Pittsburgh Pirates",
       "next_start_date": "2026-09-24",
       "opposing_team": "St. Louis Cardinals",
-      "fip": 3.124,
-      "era_proxy": 3.91,
-      "k_minus_bb_pct": 0.2104,
-      "k_per_9": 10.286,
-      "ip_total": 168.0,
-      "score": 0.4259,
+      "fip": 3.152,
+      "era_proxy": 3.86,
+      "k_minus_bb_pct": 0.2122,
+      "k_per_9": 10.393,
+      "ip_total": 172.3,
+      "score": 0.4284,
       "game_pk": 823326,
       "venue": "PNC Park",
       "image_urls": {
@@ -257,6 +257,27 @@
     },
     {
       "rank": 13,
+      "pitcher_mlbam_id": 680732,
+      "pitcher_name": "Sean Burke",
+      "pitcher_team": "Chicago White Sox",
+      "next_start_date": "2026-09-25",
+      "opposing_team": "Colorado Rockies",
+      "fip": 3.465,
+      "era_proxy": 3.4,
+      "k_minus_bb_pct": 0.1683,
+      "k_per_9": 9.593,
+      "ip_total": 167.0,
+      "score": 0.3871,
+      "game_pk": 824544,
+      "venue": "Rate Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680732/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 14,
       "pitcher_mlbam_id": 669302,
       "pitcher_name": "Logan Gilbert",
       "pitcher_team": "Seattle Mariners",
@@ -277,7 +298,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 15,
       "pitcher_mlbam_id": 643377,
       "pitcher_name": "Griffin Jax",
       "pitcher_team": "Tampa Bay Rays",
@@ -298,18 +319,18 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 16,
       "pitcher_mlbam_id": 681517,
       "pitcher_name": "Kyle Leahy",
       "pitcher_team": "St. Louis Cardinals",
       "next_start_date": "2026-09-24",
       "opposing_team": "Pittsburgh Pirates",
-      "fip": 3.535,
-      "era_proxy": 3.65,
-      "k_minus_bb_pct": 0.1499,
-      "k_per_9": 8.413,
-      "ip_total": 138.0,
-      "score": 0.3481,
+      "fip": 3.486,
+      "era_proxy": 3.66,
+      "k_minus_bb_pct": 0.1527,
+      "k_per_9": 8.486,
+      "ip_total": 140.0,
+      "score": 0.3542,
       "game_pk": 823326,
       "venue": "PNC Park",
       "image_urls": {
@@ -319,7 +340,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 17,
       "pitcher_mlbam_id": 693855,
       "pitcher_name": "Ian Seymour",
       "pitcher_team": "Tampa Bay Rays",
@@ -340,7 +361,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 18,
       "pitcher_mlbam_id": 663567,
       "pitcher_name": "Peter Lambert",
       "pitcher_team": "Houston Astros",
@@ -361,7 +382,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 19,
       "pitcher_mlbam_id": 593958,
       "pitcher_name": "Eduardo Rodriguez",
       "pitcher_team": "Arizona Diamondbacks",
@@ -382,7 +403,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 20,
       "pitcher_mlbam_id": 641816,
       "pitcher_name": "Tyler Mahle",
       "pitcher_team": "Atlanta Braves",
@@ -400,27 +421,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641816/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/113.svg"
-      }
-    },
-    {
-      "rank": 20,
-      "pitcher_mlbam_id": 807739,
-      "pitcher_name": "Kade Anderson",
-      "pitcher_team": "Seattle Mariners",
-      "next_start_date": "2026-09-26",
-      "opposing_team": "Los Angeles Angels",
-      "fip": 3.719,
-      "era_proxy": 4.18,
-      "k_minus_bb_pct": 0.1527,
-      "k_per_9": 7.794,
-      "ip_total": 32.3,
-      "score": 0.3044,
-      "game_pk": 823083,
-      "venue": "T-Mobile Park",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/807739/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
       }
     }
   ]
