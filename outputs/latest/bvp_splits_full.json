@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at_et": "2026-09-25 10:56:47 EDT",
+  "generated_at_et": "2026-09-25 13:58:49 EDT",
   "concept": "bvp_splits_full",
   "items": [
     {
@@ -480,27 +480,27 @@
     },
     {
       "rank": 20,
-      "mlbam_id": 502671,
-      "player_name": "Paul Goldschmidt",
-      "team": "New York Yankees",
+      "mlbam_id": 521692,
+      "player_name": "Salvador Perez",
+      "team": "Kansas City Royals",
       "bat_side": "R",
-      "opposing_pitcher": "Trevor Rogers",
-      "opposing_pitcher_id": 669432,
-      "pitcher_throws": "L",
-      "venue_name": "Yankee Stadium",
-      "career_ab": 13,
-      "career_h": 3,
-      "career_hr": 1,
-      "career_avg": 0.231,
-      "career_ops": 0.837,
+      "opposing_pitcher": "Gavin Williams",
+      "opposing_pitcher_id": 668909,
+      "pitcher_throws": "R",
+      "venue_name": "Kauffman Stadium",
+      "career_ab": 20,
+      "career_h": 7,
+      "career_hr": 0,
+      "career_avg": 0.35,
+      "career_ops": 0.781,
       "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.462,
+      "career_rbi": 3,
+      "career_slg": 0.4,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/502671/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669432/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/521692/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/668909/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
       }
     }
   ]

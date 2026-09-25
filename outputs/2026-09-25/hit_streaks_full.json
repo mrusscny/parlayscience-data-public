@@ -1,6 +1,6 @@
 {
   "date": "2026-09-25",
-  "generated_at_et": "2026-09-25 10:55:55 EDT",
+  "generated_at_et": "2026-09-25 13:58:02 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -199,7 +199,7 @@
       "streak_hits": 9,
       "streak_at_bats": 26,
       "streak_avg": 0.346,
-      "season_avg": 0.27,
+      "season_avg": 0.269,
       "last_game_date": "2026-09-24",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/673548/headshot/67/current",
@@ -394,9 +394,9 @@
       "player_name": "George Lombard Jr.",
       "team": "New York Yankees",
       "bat_side": "R",
-      "opposing_pitcher": "Trevor Rogers",
-      "opposing_pitcher_id": 669432.0,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "Brandon Young",
+      "opposing_pitcher_id": 687064.0,
+      "pitcher_throws": "R",
       "venue_name": "Yankee Stadium",
       "streak_length": 5,
       "streak_hits": 7,
@@ -407,7 +407,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/806146/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669432/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687064/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/110.svg"
       }
     },
