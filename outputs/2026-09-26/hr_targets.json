@@ -1,64 +1,10 @@
 {
   "date": "2026-09-26",
-  "generated_at_et": "2026-09-26 10:00:31 EDT",
+  "generated_at_et": "2026-09-26 13:00:47 EDT",
   "concept": "hr_targets",
   "items": [
     {
       "rank": 1,
-      "mlbam_id": 808959,
-      "player_name": "Munetaka Murakami",
-      "team": "Chicago White Sox",
-      "bat_side": "L",
-      "opposing_pitcher": "Jose Quintana",
-      "opposing_pitcher_id": 500779.0,
-      "pitcher_throws": "L",
-      "venue_name": "Rate Field",
-      "barrel_pct": 20.2,
-      "iso_overall": 0.274,
-      "iso_split": 0.197,
-      "iso_blended": 0.228,
-      "hard_hit_pct": 56.5,
-      "fb_pct": 40.0,
-      "pitcher_hr_per_9": 1.6,
-      "weather_score": 0.5,
-      "park_factor": 1.08,
-      "composite_score": 0.838,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/500779/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 2,
-      "mlbam_id": 678246,
-      "player_name": "Miguel Vargas",
-      "team": "Chicago White Sox",
-      "bat_side": "R",
-      "opposing_pitcher": "Jose Quintana",
-      "opposing_pitcher_id": 500779.0,
-      "pitcher_throws": "L",
-      "venue_name": "Rate Field",
-      "barrel_pct": 13.1,
-      "iso_overall": 0.225,
-      "iso_split": 0.266,
-      "iso_blended": 0.25,
-      "hard_hit_pct": 44.0,
-      "fb_pct": 33.75,
-      "pitcher_hr_per_9": 1.6,
-      "weather_score": 0.5,
-      "park_factor": 1.08,
-      "composite_score": 0.805,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/500779/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 670541,
       "player_name": "Yordan Alvarez",
       "team": "Houston Astros",
@@ -74,9 +20,9 @@
       "hard_hit_pct": 53.8,
       "fb_pct": 34.78,
       "pitcher_hr_per_9": 1.552,
-      "weather_score": 0.5,
+      "weather_score": 0.725,
       "park_factor": 0.95,
-      "composite_score": 0.803,
+      "composite_score": 0.826,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670541/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
@@ -85,7 +31,34 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "mlbam_id": 808959,
+      "player_name": "Munetaka Murakami",
+      "team": "Chicago White Sox",
+      "bat_side": "L",
+      "opposing_pitcher": "Jose Quintana",
+      "opposing_pitcher_id": 500779.0,
+      "pitcher_throws": "L",
+      "venue_name": "Rate Field",
+      "barrel_pct": 20.2,
+      "iso_overall": 0.274,
+      "iso_split": 0.197,
+      "iso_blended": 0.228,
+      "hard_hit_pct": 56.5,
+      "fb_pct": 40.0,
+      "pitcher_hr_per_9": 1.6,
+      "weather_score": 0.218,
+      "park_factor": 1.08,
+      "composite_score": 0.81,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/500779/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
+      }
+    },
+    {
+      "rank": 3,
       "mlbam_id": 621566,
       "player_name": "Matt Olson",
       "team": "Atlanta Braves",
@@ -112,7 +85,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "mlbam_id": 656941,
       "player_name": "Kyle Schwarber",
       "team": "Philadelphia Phillies",
@@ -128,9 +101,9 @@
       "hard_hit_pct": 49.6,
       "fb_pct": 28.99,
       "pitcher_hr_per_9": 1.235,
-      "weather_score": 0.157,
+      "weather_score": 0.143,
       "park_factor": 1.14,
-      "composite_score": 0.78,
+      "composite_score": 0.779,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656941/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/143.svg",
@@ -139,7 +112,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 695600,
       "player_name": "Carter Jensen",
       "team": "Kansas City Royals",
@@ -155,7 +128,7 @@
       "hard_hit_pct": 44.4,
       "fb_pct": 46.03,
       "pitcher_hr_per_9": 1.434,
-      "weather_score": 0.539,
+      "weather_score": 0.541,
       "park_factor": 1.03,
       "composite_score": 0.778,
       "image_urls": {
@@ -166,34 +139,34 @@
       }
     },
     {
-      "rank": 7,
-      "mlbam_id": 545341,
-      "player_name": "Randal Grichuk",
+      "rank": 6,
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
       "team": "Chicago White Sox",
       "bat_side": "R",
       "opposing_pitcher": "Jose Quintana",
       "opposing_pitcher_id": 500779.0,
       "pitcher_throws": "L",
       "venue_name": "Rate Field",
-      "barrel_pct": 10.9,
-      "iso_overall": 0.275,
-      "iso_split": 0.317,
-      "iso_blended": 0.3,
-      "hard_hit_pct": 49.8,
-      "fb_pct": 32.65,
+      "barrel_pct": 13.1,
+      "iso_overall": 0.225,
+      "iso_split": 0.266,
+      "iso_blended": 0.25,
+      "hard_hit_pct": 44.0,
+      "fb_pct": 33.75,
       "pitcher_hr_per_9": 1.6,
-      "weather_score": 0.5,
+      "weather_score": 0.218,
       "park_factor": 1.08,
-      "composite_score": 0.759,
+      "composite_score": 0.777,
       "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/500779/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/115.svg"
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 663728,
       "player_name": "Cal Raleigh",
       "team": "Seattle Mariners",
@@ -217,6 +190,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696270/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 660271,
+      "player_name": "Shohei Ohtani",
+      "team": "Los Angeles Dodgers",
+      "bat_side": "L",
+      "opposing_pitcher": "Matt Wilkinson",
+      "opposing_pitcher_id": 683363.0,
+      "pitcher_throws": "L",
+      "venue_name": "Oracle Park",
+      "barrel_pct": 16.5,
+      "iso_overall": 0.241,
+      "iso_split": 0.261,
+      "iso_blended": 0.253,
+      "hard_hit_pct": 52.4,
+      "fb_pct": 30.0,
+      "pitcher_hr_per_9": 1.459,
+      "weather_score": 0.445,
+      "park_factor": 0.8,
+      "composite_score": 0.75,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/660271/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683363/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]

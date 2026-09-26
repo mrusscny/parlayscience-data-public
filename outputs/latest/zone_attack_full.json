@@ -1,6 +1,6 @@
 {
   "date": "2026-09-26",
-  "generated_at_et": "2026-09-26 10:04:35 EDT",
+  "generated_at_et": "2026-09-26 13:03:08 EDT",
   "concept": "zone_attack_full",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "batter_mlbam_id": 688363,
-      "batter_name": "Graham Pauley",
-      "batter_team": "Miami Marlins",
-      "bat_side": "L",
-      "pitcher_mlbam_id": 608718,
-      "pitcher_name": "Brent Suter",
-      "pitcher_throws": "L",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.698,
-      "batter_slg": 0.6,
-      "batter_woba_contact": 0.385,
-      "batter_ab_vs_pitch": 30,
-      "batter_barrel_pct": 6.7,
-      "batter_season_slg_overall": 0.377,
-      "matchup_strength": 0.4187,
-      "venue_name": "loanDepot park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688363/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/146.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608718/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
-      }
-    },
-    {
-      "rank": 5,
       "batter_mlbam_id": 679529,
       "batter_name": "Spencer Torkelson",
       "batter_team": "Detroit Tigers",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "batter_mlbam_id": 682985,
       "batter_name": "Riley Greene",
       "batter_team": "Detroit Tigers",
@@ -154,32 +129,7 @@
       }
     },
     {
-      "rank": 7,
-      "batter_mlbam_id": 665953,
-      "batter_name": "Andr\u00e9s Chaparro",
-      "batter_team": "Washington Nationals",
-      "bat_side": "R",
-      "pitcher_mlbam_id": 804636,
-      "pitcher_name": "Jonah Tong",
-      "pitcher_throws": "R",
-      "pitch_type": "Fastball",
-      "pitcher_usage_pct": 0.672,
-      "batter_slg": 0.609,
-      "batter_woba_contact": 0.411,
-      "batter_ab_vs_pitch": 64,
-      "batter_barrel_pct": 12.1,
-      "batter_season_slg_overall": 0.495,
-      "matchup_strength": 0.4093,
-      "venue_name": "Nationals Park",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/665953/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804636/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "batter_mlbam_id": 571970,
       "batter_name": "Max Muncy",
       "batter_team": "Los Angeles Dodgers",
@@ -204,7 +154,7 @@
       }
     },
     {
-      "rank": 9,
+      "rank": 7,
       "batter_mlbam_id": 665052,
       "batter_name": "Griffin Conine",
       "batter_team": "Miami Marlins",
@@ -229,7 +179,7 @@
       }
     },
     {
-      "rank": 10,
+      "rank": 8,
       "batter_mlbam_id": 695336,
       "batter_name": "Thomas Saggese",
       "batter_team": "St. Louis Cardinals",
@@ -254,7 +204,7 @@
       }
     },
     {
-      "rank": 11,
+      "rank": 9,
       "batter_mlbam_id": 672515,
       "batter_name": "Gabriel Moreno",
       "batter_team": "Arizona Diamondbacks",
@@ -279,7 +229,7 @@
       }
     },
     {
-      "rank": 12,
+      "rank": 10,
       "batter_mlbam_id": 699024,
       "batter_name": "Leo Bernal",
       "batter_team": "St. Louis Cardinals",
@@ -304,7 +254,7 @@
       }
     },
     {
-      "rank": 13,
+      "rank": 11,
       "batter_mlbam_id": 682998,
       "batter_name": "Corbin Carroll",
       "batter_team": "Arizona Diamondbacks",
@@ -329,7 +279,7 @@
       }
     },
     {
-      "rank": 14,
+      "rank": 12,
       "batter_mlbam_id": 606192,
       "batter_name": "Teoscar Hern\u00e1ndez",
       "batter_team": "Los Angeles Dodgers",
@@ -354,7 +304,7 @@
       }
     },
     {
-      "rank": 15,
+      "rank": 13,
       "batter_mlbam_id": 695506,
       "batter_name": "Jac Caglianone",
       "batter_team": "Kansas City Royals",
@@ -379,7 +329,7 @@
       }
     },
     {
-      "rank": 16,
+      "rank": 14,
       "batter_mlbam_id": 605141,
       "batter_name": "Mookie Betts",
       "batter_team": "Los Angeles Dodgers",
@@ -404,7 +354,7 @@
       }
     },
     {
-      "rank": 17,
+      "rank": 15,
       "batter_mlbam_id": 805300,
       "batter_name": "Jakob Marsee",
       "batter_team": "Miami Marlins",
@@ -429,7 +379,7 @@
       }
     },
     {
-      "rank": 18,
+      "rank": 16,
       "batter_mlbam_id": 691783,
       "batter_name": "Jordan Lawlar",
       "batter_team": "Arizona Diamondbacks",
@@ -454,7 +404,7 @@
       }
     },
     {
-      "rank": 19,
+      "rank": 17,
       "batter_mlbam_id": 691182,
       "batter_name": "Adael Amador",
       "batter_team": "Colorado Rockies",
@@ -479,7 +429,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "batter_mlbam_id": 677951,
       "batter_name": "Bobby Witt Jr.",
       "batter_team": "Kansas City Royals",
@@ -501,6 +451,56 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/118.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676440/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "batter_mlbam_id": 682657,
+      "batter_name": "Angel Mart\u00ednez",
+      "batter_team": "Cleveland Guardians",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 608379,
+      "pitcher_name": "Michael Wacha",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.546,
+      "batter_slg": 0.624,
+      "batter_woba_contact": 0.438,
+      "batter_ab_vs_pitch": 85,
+      "batter_barrel_pct": 7.4,
+      "batter_season_slg_overall": 0.475,
+      "matchup_strength": 0.3408,
+      "venue_name": "Kauffman Stadium",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/608379/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/118.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "batter_mlbam_id": 695734,
+      "batter_name": "Daylen Lile",
+      "batter_team": "Washington Nationals",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 804636,
+      "pitcher_name": "Jonah Tong",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.672,
+      "batter_slg": 0.506,
+      "batter_woba_contact": 0.327,
+      "batter_ab_vs_pitch": 89,
+      "batter_barrel_pct": 9.7,
+      "batter_season_slg_overall": 0.434,
+      "matchup_strength": 0.3396,
+      "venue_name": "Nationals Park",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695734/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/120.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/804636/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/121.svg"
       }
     }
   ]
