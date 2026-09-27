@@ -1,6 +1,6 @@
 {
   "date": "2026-09-27",
-  "generated_at_et": "2026-09-27 11:01:41 EDT",
+  "generated_at_et": "2026-09-27 13:43:54 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -89,23 +89,23 @@
     },
     {
       "rank": 5,
-      "pitcher_mlbam_id": 683003,
-      "pitcher_name": "Jared Jones",
-      "pitcher_team": "Pittsburgh Pirates",
+      "pitcher_mlbam_id": 676263,
+      "pitcher_name": "Jack Dreyer",
+      "pitcher_team": "Los Angeles Dodgers",
       "next_start_date": "2026-09-27",
-      "opposing_team": "Detroit Tigers",
-      "fip": 3.233,
-      "era_proxy": 3.87,
-      "k_minus_bb_pct": 0.2164,
-      "k_per_9": 10.874,
-      "ip_total": 97.7,
-      "score": 0.4256,
-      "game_pk": 824217,
-      "venue": "Comerica Park",
+      "opposing_team": "San Francisco Giants",
+      "fip": 3.387,
+      "era_proxy": 3.16,
+      "k_minus_bb_pct": 0.189,
+      "k_per_9": 10.197,
+      "ip_total": 62.7,
+      "score": 0.4284,
+      "game_pk": 823164,
+      "venue": "Oracle Park",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683003/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/134.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/116.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676263/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/137.svg"
       }
     }
   ]

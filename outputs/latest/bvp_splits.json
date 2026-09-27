@@ -1,60 +1,10 @@
 {
   "date": "2026-09-27",
-  "generated_at_et": "2026-09-27 11:00:29 EDT",
+  "generated_at_et": "2026-09-27 13:42:36 EDT",
   "concept": "bvp_splits",
   "items": [
     {
       "rank": 1,
-      "mlbam_id": 650490,
-      "player_name": "Yandy D\u00edaz",
-      "team": "Tampa Bay Rays",
-      "bat_side": "R",
-      "opposing_pitcher": "Zack Wheeler",
-      "opposing_pitcher_id": 554430,
-      "pitcher_throws": "R",
-      "venue_name": "Citizens Bank Park",
-      "career_ab": 8,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.5,
-      "career_ops": 1.431,
-      "career_xbh": 1,
-      "career_rbi": 3,
-      "career_slg": 0.875,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/650490/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/554430/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
-      }
-    },
-    {
-      "rank": 2,
-      "mlbam_id": 660670,
-      "player_name": "Ronald Acu\u00f1a Jr.",
-      "team": "Atlanta Braves",
-      "bat_side": "R",
-      "opposing_pitcher": "Janson Junk",
-      "opposing_pitcher_id": 676083,
-      "pitcher_throws": "R",
-      "venue_name": "loanDepot park",
-      "career_ab": 8,
-      "career_h": 4,
-      "career_hr": 1,
-      "career_avg": 0.5,
-      "career_ops": 1.375,
-      "career_xbh": 1,
-      "career_rbi": 2,
-      "career_slg": 0.875,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/660670/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/676083/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/146.svg"
-      }
-    },
-    {
-      "rank": 3,
       "mlbam_id": 671056,
       "player_name": "Iv\u00e1n Herrera",
       "team": "St. Louis Cardinals",
@@ -79,7 +29,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
       "mlbam_id": 669224,
       "player_name": "Austin Wells",
       "team": "New York Yankees",
@@ -104,7 +54,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 3,
       "mlbam_id": 694192,
       "player_name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
@@ -129,7 +79,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
       "mlbam_id": 665862,
       "player_name": "Jazz Chisholm Jr.",
       "team": "New York Yankees",
@@ -154,32 +104,7 @@
       }
     },
     {
-      "rank": 7,
-      "mlbam_id": 545361,
-      "player_name": "Mike Trout",
-      "team": "Los Angeles Angels",
-      "bat_side": "R",
-      "opposing_pitcher": "Logan Gilbert",
-      "opposing_pitcher_id": 669302,
-      "pitcher_throws": "R",
-      "venue_name": "T-Mobile Park",
-      "career_ab": 13,
-      "career_h": 4,
-      "career_hr": 2,
-      "career_avg": 0.308,
-      "career_ops": 1.203,
-      "career_xbh": 3,
-      "career_rbi": 4,
-      "career_slg": 0.846,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/545361/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669302/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
-      }
-    },
-    {
-      "rank": 8,
+      "rank": 5,
       "mlbam_id": 666139,
       "player_name": "Josh Lowe",
       "team": "Los Angeles Angels",
@@ -201,6 +126,81 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/108.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/669302/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/136.svg"
+      }
+    },
+    {
+      "rank": 6,
+      "mlbam_id": 608369,
+      "player_name": "Corey Seager",
+      "team": "Texas Rangers",
+      "bat_side": "L",
+      "opposing_pitcher": "Dean Kremer",
+      "opposing_pitcher_id": 665152,
+      "pitcher_throws": "R",
+      "venue_name": "Target Field",
+      "career_ab": 8,
+      "career_h": 4,
+      "career_hr": 0,
+      "career_avg": 0.5,
+      "career_ops": 1.056,
+      "career_xbh": 0,
+      "career_rbi": 0,
+      "career_slg": 0.5,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608369/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/140.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/665152/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/142.svg"
+      }
+    },
+    {
+      "rank": 7,
+      "mlbam_id": 672515,
+      "player_name": "Gabriel Moreno",
+      "team": "Arizona Diamondbacks",
+      "bat_side": "R",
+      "opposing_pitcher": "Randy V\u00e1squez",
+      "opposing_pitcher_id": 681190,
+      "pitcher_throws": "R",
+      "venue_name": "Petco Park",
+      "career_ab": 9,
+      "career_h": 2,
+      "career_hr": 1,
+      "career_avg": 0.222,
+      "career_ops": 1.031,
+      "career_xbh": 2,
+      "career_rbi": 2,
+      "career_slg": 0.667,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/672515/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/109.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/681190/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 663728,
+      "player_name": "Cal Raleigh",
+      "team": "Seattle Mariners",
+      "bat_side": "S",
+      "opposing_pitcher": "Yusei Kikuchi",
+      "opposing_pitcher_id": 579328,
+      "pitcher_throws": "L",
+      "venue_name": "T-Mobile Park",
+      "career_ab": 11,
+      "career_h": 4,
+      "career_hr": 0,
+      "career_avg": 0.364,
+      "career_ops": 0.974,
+      "career_xbh": 2,
+      "career_rbi": 2,
+      "career_slg": 0.545,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/663728/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/136.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/579328/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/108.svg"
       }
     }
   ]
