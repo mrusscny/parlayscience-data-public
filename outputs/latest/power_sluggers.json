@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-29",
+  "generated_at_et": "2026-09-29 12:14:52 EDT",
+  "concept": "power_sluggers",
+  "items": [
+    {
+      "rank": 1,
+      "mlbam_id": 808959,
+      "player_name": "Munetaka Murakami",
+      "team": "Chicago White Sox",
+      "opposing_pitcher": "AJ Blubaugh",
+      "opposing_pitcher_id": 805123,
+      "venue_name": "Daikin Park",
+      "barrel_pct": 20.5,
+      "fb_pct": 43.75,
+      "avg_exit_velo": 93.9,
+      "hard_hit_pct": 56.8,
+      "pitcher_hr_per_9": 1.219,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.908,
+      "threshold_bonus": 0.1,
+      "final_score": 1.0,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805123/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 682987,
+      "player_name": "Spencer Jones",
+      "team": "New York Yankees",
+      "opposing_pitcher": "Payton Tolle",
+      "opposing_pitcher_id": 801139,
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 15.9,
+      "fb_pct": 48.98,
+      "avg_exit_velo": 94.1,
+      "hard_hit_pct": 55.1,
+      "pitcher_hr_per_9": 0.908,
+      "threshold_count": 3,
+      "threshold_label": "3/3",
+      "base_score": 0.911,
+      "threshold_bonus": 0.1,
+      "final_score": 1.0,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682987/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 700250,
+      "player_name": "Ben Rice",
+      "team": "New York Yankees",
+      "opposing_pitcher": "Payton Tolle",
+      "opposing_pitcher_id": 801139,
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 14.3,
+      "fb_pct": 33.85,
+      "avg_exit_velo": 91.9,
+      "hard_hit_pct": 48.6,
+      "pitcher_hr_per_9": 0.908,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.812,
+      "threshold_bonus": 0.05,
+      "final_score": 0.862,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/700250/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/801139/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/111.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "mlbam_id": 621566,
+      "player_name": "Matt Olson",
+      "team": "Atlanta Braves",
+      "opposing_pitcher": "Jes\u00fas Luzardo",
+      "opposing_pitcher_id": 666200,
+      "venue_name": "Truist Park",
+      "barrel_pct": 14.1,
+      "fb_pct": 36.25,
+      "avg_exit_velo": 92.5,
+      "hard_hit_pct": 52.0,
+      "pitcher_hr_per_9": 0.751,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.808,
+      "threshold_bonus": 0.05,
+      "final_score": 0.858,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621566/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666200/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/143.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 678246,
+      "player_name": "Miguel Vargas",
+      "team": "Chicago White Sox",
+      "opposing_pitcher": "AJ Blubaugh",
+      "opposing_pitcher_id": 805123,
+      "venue_name": "Daikin Park",
+      "barrel_pct": 13.0,
+      "fb_pct": 35.53,
+      "avg_exit_velo": 90.1,
+      "hard_hit_pct": 43.8,
+      "pitcher_hr_per_9": 1.219,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.805,
+      "threshold_bonus": 0.05,
+      "final_score": 0.855,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/805123/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/117.svg"
+      }
+    }
+  ]
+}
