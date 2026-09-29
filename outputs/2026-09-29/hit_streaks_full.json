@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generated_at_et": "2026-09-29 12:15:19 EDT",
+  "generated_at_et": "2026-09-29 14:32:56 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -419,29 +419,6 @@
     },
     {
       "rank": 19,
-      "mlbam_id": 669397,
-      "player_name": "Nick Allen",
-      "team": "Houston Astros",
-      "bat_side": "R",
-      "opposing_pitcher": "Hagen Smith",
-      "opposing_pitcher_id": 696146,
-      "pitcher_throws": "L",
-      "venue_name": "Daikin Park",
-      "streak_length": 2,
-      "streak_hits": 3,
-      "streak_at_bats": 5,
-      "streak_avg": 0.6,
-      "season_avg": 0.283,
-      "last_game_date": "2026-09-27",
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669397/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/117.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/696146/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg"
-      }
-    },
-    {
-      "rank": 20,
       "mlbam_id": 666023,
       "player_name": "Freddy Fermin",
       "team": "San Diego Padres",
@@ -461,6 +438,29 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/571510/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/112.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 668939,
+      "player_name": "Adley Rutschman",
+      "team": "Boston Red Sox",
+      "bat_side": "S",
+      "opposing_pitcher": "Cam Schlittler",
+      "opposing_pitcher_id": 693645,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "streak_length": 2,
+      "streak_hits": 3,
+      "streak_at_bats": 6,
+      "streak_avg": 0.5,
+      "season_avg": 0.242,
+      "last_game_date": "2026-09-27",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668939/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/111.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/693645/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     }
   ]
