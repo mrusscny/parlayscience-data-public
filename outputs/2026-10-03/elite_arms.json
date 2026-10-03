@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at_et": "2026-10-03 10:32:02 EDT",
+  "generated_at_et": "2026-10-03 13:10:12 EDT",
   "concept": "elite_arms",
   "items": [
     {
@@ -26,6 +26,27 @@
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 605483,
+      "pitcher_name": "Blake Snell",
+      "pitcher_team": "Los Angeles Dodgers",
+      "next_start_date": "2026-10-04",
+      "opposing_team": "Atlanta Braves",
+      "fip": 1.647,
+      "era_proxy": 1.9,
+      "k_minus_bb_pct": 0.2254,
+      "k_per_9": 11.601,
+      "ip_total": 42.7,
+      "score": 0.6796,
+      "game_pk": 849823,
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605483/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 693645,
       "pitcher_name": "Cam Schlittler",
       "pitcher_team": "New York Yankees",
@@ -46,7 +67,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "pitcher_mlbam_id": 669373,
       "pitcher_name": "Tarik Skubal",
       "pitcher_team": "Los Angeles Dodgers",
@@ -67,7 +88,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "pitcher_mlbam_id": 656876,
       "pitcher_name": "Drew Rasmussen",
       "pitcher_team": "Tampa Bay Rays",
@@ -85,27 +106,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
-      }
-    },
-    {
-      "rank": 5,
-      "pitcher_mlbam_id": 701656,
-      "pitcher_name": "Logan Henderson",
-      "pitcher_team": "Milwaukee Brewers",
-      "next_start_date": "2026-10-04",
-      "opposing_team": "San Diego Padres",
-      "fip": 3.293,
-      "era_proxy": 2.47,
-      "k_minus_bb_pct": 0.2453,
-      "k_per_9": 10.068,
-      "ip_total": 98.3,
-      "score": 0.5337,
-      "game_pk": 849825,
-      "venue": "American Family Field",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701656/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     }
   ]
