@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at_et": "2026-10-07 13:06:07 EDT",
+  "generated_at_et": "2026-10-07 15:19:05 EDT",
   "concept": "bvp_splits",
   "items": [
     {
@@ -80,31 +80,6 @@
     },
     {
       "rank": 4,
-      "mlbam_id": 642133,
-      "player_name": "Rowdy Tellez",
-      "team": "Atlanta Braves",
-      "bat_side": "L",
-      "opposing_pitcher": "Tyler Glasnow",
-      "opposing_pitcher_id": 607192,
-      "pitcher_throws": "R",
-      "venue_name": "Truist Park",
-      "career_ab": 19,
-      "career_h": 5,
-      "career_hr": 2,
-      "career_avg": 0.263,
-      "career_ops": 0.947,
-      "career_xbh": 4,
-      "career_rbi": 4,
-      "career_slg": 0.684,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/642133/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607192/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
-      }
-    },
-    {
-      "rank": 5,
       "mlbam_id": 670764,
       "player_name": "Taylor Walls",
       "team": "Tampa Bay Rays",
@@ -129,7 +104,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "mlbam_id": 641355,
       "player_name": "Cody Bellinger",
       "team": "New York Yankees",
@@ -154,7 +129,7 @@
       }
     },
     {
-      "rank": 7,
+      "rank": 6,
       "mlbam_id": 571970,
       "player_name": "Max Muncy",
       "team": "Los Angeles Dodgers",
@@ -179,7 +154,7 @@
       }
     },
     {
-      "rank": 8,
+      "rank": 7,
       "mlbam_id": 676609,
       "player_name": "Jos\u00e9 Caballero",
       "team": "New York Yankees",
@@ -201,6 +176,31 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/607259/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 8,
+      "mlbam_id": 622761,
+      "player_name": "Jorge Mateo",
+      "team": "Tampa Bay Rays",
+      "bat_side": "R",
+      "opposing_pitcher": "Max Fried",
+      "opposing_pitcher_id": 608331,
+      "pitcher_throws": "L",
+      "venue_name": "Yankee Stadium",
+      "career_ab": 10,
+      "career_h": 2,
+      "career_hr": 1,
+      "career_avg": 0.2,
+      "career_ops": 0.7,
+      "career_xbh": 1,
+      "career_rbi": 3,
+      "career_slg": 0.5,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/622761/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/w_300,h_300,c_thumb,g_face,q_auto:best/v1/people/608331/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/147.svg"
       }
     }
   ]

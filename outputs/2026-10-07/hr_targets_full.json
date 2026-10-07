@@ -1,6 +1,6 @@
 {
   "date": "2026-10-07",
-  "generated_at_et": "2026-10-07 13:05:26 EDT",
+  "generated_at_et": "2026-10-07 15:18:38 EDT",
   "concept": "hr_targets_full",
   "items": [
     {
@@ -20,9 +20,9 @@
       "hard_hit_pct": 56.8,
       "fb_pct": 39.02,
       "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.48,
+      "weather_score": 0.5,
       "park_factor": 1.08,
-      "composite_score": 0.868,
+      "composite_score": 0.87,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/808959/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -74,9 +74,9 @@
       "hard_hit_pct": 43.8,
       "fb_pct": 33.33,
       "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.48,
+      "weather_score": 0.5,
       "park_factor": 1.08,
-      "composite_score": 0.788,
+      "composite_score": 0.79,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/678246/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -182,9 +182,9 @@
       "hard_hit_pct": 40.9,
       "fb_pct": 40.0,
       "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.48,
+      "weather_score": 0.5,
       "park_factor": 1.08,
-      "composite_score": 0.77,
+      "composite_score": 0.772,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/695657/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -209,9 +209,9 @@
       "hard_hit_pct": 49.8,
       "fb_pct": 24.49,
       "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.48,
+      "weather_score": 0.5,
       "park_factor": 1.08,
-      "composite_score": 0.746,
+      "composite_score": 0.748,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/545341/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -344,9 +344,9 @@
       "hard_hit_pct": 47.1,
       "fb_pct": 26.32,
       "pitcher_hr_per_9": 1.761,
-      "weather_score": 0.48,
+      "weather_score": 0.5,
       "park_factor": 1.08,
-      "composite_score": 0.714,
+      "composite_score": 0.716,
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691019/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
@@ -356,33 +356,6 @@
     },
     {
       "rank": 14,
-      "mlbam_id": 641343,
-      "player_name": "Jake Bauers",
-      "team": "Milwaukee Brewers",
-      "bat_side": "L",
-      "opposing_pitcher": "Walker Buehler",
-      "opposing_pitcher_id": 621111.0,
-      "pitcher_throws": "R",
-      "venue_name": "Petco Park",
-      "barrel_pct": 13.9,
-      "iso_overall": 0.218,
-      "iso_split": 0.202,
-      "iso_blended": 0.208,
-      "hard_hit_pct": 51.9,
-      "fb_pct": 21.21,
-      "pitcher_hr_per_9": 1.289,
-      "weather_score": 0.72,
-      "park_factor": 0.88,
-      "composite_score": 0.697,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
-      }
-    },
-    {
-      "rank": 15,
       "mlbam_id": 669257,
       "player_name": "Will Smith",
       "team": "Los Angeles Dodgers",
@@ -406,6 +379,33 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641816/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/144.svg"
+      }
+    },
+    {
+      "rank": 15,
+      "mlbam_id": 641343,
+      "player_name": "Jake Bauers",
+      "team": "Milwaukee Brewers",
+      "bat_side": "L",
+      "opposing_pitcher": "Walker Buehler",
+      "opposing_pitcher_id": 621111.0,
+      "pitcher_throws": "R",
+      "venue_name": "Petco Park",
+      "barrel_pct": 13.9,
+      "iso_overall": 0.218,
+      "iso_split": 0.202,
+      "iso_blended": 0.208,
+      "hard_hit_pct": 51.9,
+      "fb_pct": 21.21,
+      "pitcher_hr_per_9": 1.289,
+      "weather_score": 0.5,
+      "park_factor": 0.88,
+      "composite_score": 0.675,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
       }
     },
     {
@@ -437,58 +437,6 @@
     },
     {
       "rank": 17,
-      "mlbam_id": 694192,
-      "player_name": "Jackson Chourio",
-      "team": "Milwaukee Brewers",
-      "bat_side": "R",
-      "opposing_pitcher": "Walker Buehler",
-      "opposing_pitcher_id": 621111.0,
-      "pitcher_throws": "R",
-      "venue_name": "Petco Park",
-      "barrel_pct": 12.3,
-      "iso_overall": 0.196,
-      "iso_split": 0.176,
-      "iso_blended": 0.184,
-      "hard_hit_pct": 47.0,
-      "fb_pct": 32.31,
-      "pitcher_hr_per_9": 1.289,
-      "weather_score": 0.72,
-      "park_factor": 0.88,
-      "composite_score": 0.667,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694192/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/621111/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
-      }
-    },
-    {
-      "rank": 18,
-      "mlbam_id": 701538,
-      "player_name": "Jackson Merrill",
-      "team": "San Diego Padres",
-      "bat_side": "L",
-      "opposing_pitcher": "TBD",
-      "opposing_pitcher_id": null,
-      "pitcher_throws": "U",
-      "venue_name": "Petco Park",
-      "barrel_pct": 12.4,
-      "iso_overall": 0.186,
-      "iso_split": null,
-      "iso_blended": 0.186,
-      "hard_hit_pct": 48.7,
-      "fb_pct": 28.99,
-      "pitcher_hr_per_9": null,
-      "weather_score": 0.72,
-      "park_factor": 0.88,
-      "composite_score": 0.655,
-      "image_urls": {
-        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701538/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/135.svg"
-      }
-    },
-    {
-      "rank": 19,
       "mlbam_id": 691406,
       "player_name": "Junior Caminero",
       "team": "Tampa Bay Rays",
@@ -515,7 +463,7 @@
       }
     },
     {
-      "rank": 20,
+      "rank": 18,
       "mlbam_id": 660670,
       "player_name": "Ronald Acu\u00f1a Jr.",
       "team": "Atlanta Braves",
@@ -539,6 +487,60 @@
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607192/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 19,
+      "mlbam_id": 686948,
+      "player_name": "Drake Baldwin",
+      "team": "Atlanta Braves",
+      "bat_side": "L",
+      "opposing_pitcher": "Tyler Glasnow",
+      "opposing_pitcher_id": 607192.0,
+      "pitcher_throws": "R",
+      "venue_name": "Truist Park",
+      "barrel_pct": 12.9,
+      "iso_overall": 0.175,
+      "iso_split": 0.197,
+      "iso_blended": 0.188,
+      "hard_hit_pct": 50.6,
+      "fb_pct": 30.26,
+      "pitcher_hr_per_9": 0.851,
+      "weather_score": 0.5,
+      "park_factor": 1.01,
+      "composite_score": 0.65,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/686948/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/144.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607192/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
+      }
+    },
+    {
+      "rank": 20,
+      "mlbam_id": 502671,
+      "player_name": "Paul Goldschmidt",
+      "team": "New York Yankees",
+      "bat_side": "R",
+      "opposing_pitcher": "Nick Martinez",
+      "opposing_pitcher_id": 607259.0,
+      "pitcher_throws": "R",
+      "venue_name": "Yankee Stadium",
+      "barrel_pct": 9.9,
+      "iso_overall": 0.2,
+      "iso_split": 0.138,
+      "iso_blended": 0.163,
+      "hard_hit_pct": 35.9,
+      "fb_pct": 33.33,
+      "pitcher_hr_per_9": 1.1,
+      "weather_score": 0.5,
+      "park_factor": 1.18,
+      "composite_score": 0.649,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/502671/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/147.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607259/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     }
   ]
