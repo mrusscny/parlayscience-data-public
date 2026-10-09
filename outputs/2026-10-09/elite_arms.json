@@ -1,6 +1,28 @@
 {
   "date": "2026-10-09",
-  "generated_at_et": "2026-10-09 12:42:00 EDT",
+  "generated_at_et": "2026-10-09 14:44:17 EDT",
   "concept": "elite_arms",
-  "items": []
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 680732,
+      "pitcher_name": "Sean Burke",
+      "pitcher_team": "Chicago White Sox",
+      "next_start_date": "2026-10-10",
+      "opposing_team": "Cleveland Guardians",
+      "fip": 3.466,
+      "era_proxy": 3.34,
+      "k_minus_bb_pct": 0.1718,
+      "k_per_9": 9.662,
+      "ip_total": 172.3,
+      "score": 0.3941,
+      "game_pk": 849831,
+      "venue": "Progressive Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/680732/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/145.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    }
+  ]
 }
