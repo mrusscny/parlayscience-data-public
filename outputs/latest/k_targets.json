@@ -1,46 +1,46 @@
 {
-  "date": "2026-10-13",
-  "generated_at_et": "2026-10-13 15:50:45 EDT",
+  "date": "2026-10-14",
+  "generated_at_et": "2026-10-14 10:47:56 EDT",
   "concept": "k_targets",
   "items": [
     {
       "rank": 1,
-      "pitcher_mlbam_id": 800048,
-      "pitcher_name": "Parker Messick",
-      "pitcher_team": "Cleveland Guardians",
-      "opposing_team": "Tampa Bay Rays",
-      "pitcher_k_per_9": 9.322,
-      "pitcher_k_minus_bb_pct": 0.1928,
-      "opp_k_rate": 0.2293,
-      "opp_games_sample": 14,
+      "pitcher_mlbam_id": 605483,
+      "pitcher_name": "Blake Snell",
+      "pitcher_team": "Los Angeles Dodgers",
+      "opposing_team": "Milwaukee Brewers",
+      "pitcher_k_per_9": 11.601,
+      "pitcher_k_minus_bb_pct": 0.2254,
+      "opp_k_rate": 0.2719,
+      "opp_games_sample": 12,
       "score": 1.0,
-      "game_pk": 849813,
+      "game_pk": 849811,
       "game_time_local": "8:00 PM ET",
-      "venue": "Tropicana Field",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605483/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     },
     {
       "rank": 2,
-      "pitcher_mlbam_id": 642547,
-      "pitcher_name": "Freddy Peralta",
-      "pitcher_team": "Tampa Bay Rays",
-      "opposing_team": "Cleveland Guardians",
-      "pitcher_k_per_9": 8.308,
-      "pitcher_k_minus_bb_pct": 0.1274,
-      "opp_k_rate": 0.1551,
+      "pitcher_mlbam_id": 688107,
+      "pitcher_name": "Robert Gasser",
+      "pitcher_team": "Milwaukee Brewers",
+      "opposing_team": "Los Angeles Dodgers",
+      "pitcher_k_per_9": 8.479,
+      "pitcher_k_minus_bb_pct": 0.1469,
+      "opp_k_rate": 0.1874,
       "opp_games_sample": 13,
       "score": 0.0,
-      "game_pk": 849813,
+      "game_pk": 849811,
       "game_time_local": "8:00 PM ET",
-      "venue": "Tropicana Field",
+      "venue": "UNIQLO Field at Dodger Stadium",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     }
   ]
