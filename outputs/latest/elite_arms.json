@@ -1,31 +1,52 @@
 {
-  "date": "2026-10-14",
-  "generated_at_et": "2026-10-14 10:47:59 EDT",
+  "date": "2026-10-15",
+  "generated_at_et": "2026-10-15 10:32:52 EDT",
   "concept": "elite_arms",
   "items": [
     {
       "rank": 1,
-      "pitcher_mlbam_id": 605483,
-      "pitcher_name": "Blake Snell",
+      "pitcher_mlbam_id": 607192,
+      "pitcher_name": "Tyler Glasnow",
       "pitcher_team": "Los Angeles Dodgers",
-      "next_start_date": "2026-10-14",
+      "next_start_date": "2026-10-15",
       "opposing_team": "Milwaukee Brewers",
-      "fip": 1.647,
-      "era_proxy": 1.9,
-      "k_minus_bb_pct": 0.2254,
-      "k_per_9": 11.601,
-      "ip_total": 42.7,
-      "score": 0.6796,
-      "game_pk": 849811,
+      "fip": 2.695,
+      "era_proxy": 3.53,
+      "k_minus_bb_pct": 0.2535,
+      "k_per_9": 11.919,
+      "ip_total": 74.0,
+      "score": 0.5261,
+      "game_pk": 849810,
       "venue": "UNIQLO Field at Dodger Stadium",
       "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/605483/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607192/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
       }
     },
     {
       "rank": 2,
+      "pitcher_mlbam_id": 668909,
+      "pitcher_name": "Gavin Williams",
+      "pitcher_team": "Cleveland Guardians",
+      "next_start_date": "2026-10-15",
+      "opposing_team": "Tampa Bay Rays",
+      "fip": 3.377,
+      "era_proxy": 3.76,
+      "k_minus_bb_pct": 0.2507,
+      "k_per_9": 12.109,
+      "ip_total": 184.3,
+      "score": 0.4549,
+      "game_pk": 849818,
+      "venue": "Progressive Field",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668909/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 3,
       "pitcher_mlbam_id": 643377,
       "pitcher_name": "Griffin Jax",
       "pitcher_team": "Tampa Bay Rays",
@@ -43,27 +64,6 @@
         "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
         "opposing_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
-      }
-    },
-    {
-      "rank": 3,
-      "pitcher_mlbam_id": 688107,
-      "pitcher_name": "Robert Gasser",
-      "pitcher_team": "Milwaukee Brewers",
-      "next_start_date": "2026-10-14",
-      "opposing_team": "Los Angeles Dodgers",
-      "fip": 3.96,
-      "era_proxy": 3.87,
-      "k_minus_bb_pct": 0.1469,
-      "k_per_9": 8.479,
-      "ip_total": 109.3,
-      "score": 0.2979,
-      "game_pk": 849811,
-      "venue": "UNIQLO Field at Dodger Stadium",
-      "image_urls": {
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/119.svg"
       }
     }
   ]

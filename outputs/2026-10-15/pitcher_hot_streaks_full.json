@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-15",
+  "generated_at_et": "2026-10-15 10:32:56 EDT",
+  "concept": "pitcher_hot_streaks_full",
+  "items": [
+    {
+      "rank": 1,
+      "pitcher_mlbam_id": 607192,
+      "pitcher_name": "Tyler Glasnow",
+      "pitcher_team": "Los Angeles Dodgers",
+      "opposing_team": "Milwaukee Brewers",
+      "active_qs_streak": 2,
+      "last_start_date": "2026-09-24",
+      "season_qs_total": 7,
+      "season_starts_total": 13,
+      "fip": 2.695,
+      "k_per_9": 11.919,
+      "game_pk": 849810,
+      "game_time_local": "8:00 PM ET",
+      "venue": "UNIQLO Field at Dodger Stadium",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/607192/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/119.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    }
+  ]
+}
