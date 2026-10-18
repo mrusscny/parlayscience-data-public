@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-18",
+  "generated_at_et": "2026-10-18 09:41:41 EDT",
+  "concept": "zone_attack_full",
+  "items": [
+    {
+      "rank": 1,
+      "batter_mlbam_id": 800050,
+      "batter_name": "Chase DeLauter",
+      "batter_team": "Cleveland Guardians",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 656876,
+      "pitcher_name": "Drew Rasmussen",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.791,
+      "batter_slg": 0.614,
+      "batter_woba_contact": 0.405,
+      "batter_ab_vs_pitch": 57,
+      "batter_barrel_pct": 6.3,
+      "batter_season_slg_overall": 0.457,
+      "matchup_strength": 0.4857,
+      "venue_name": "Progressive Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800050/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "batter_mlbam_id": 682657,
+      "batter_name": "Angel Mart\u00ednez",
+      "batter_team": "Cleveland Guardians",
+      "bat_side": "S",
+      "pitcher_mlbam_id": 656876,
+      "pitcher_name": "Drew Rasmussen",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.791,
+      "batter_slg": 0.607,
+      "batter_woba_contact": 0.417,
+      "batter_ab_vs_pitch": 61,
+      "batter_barrel_pct": 7.2,
+      "batter_season_slg_overall": 0.465,
+      "matchup_strength": 0.4798,
+      "venue_name": "Progressive Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/682657/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "batter_mlbam_id": 683748,
+      "batter_name": "Victor Mesa Jr.",
+      "batter_team": "Tampa Bay Rays",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 800048,
+      "pitcher_name": "Parker Messick",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.625,
+      "batter_slg": 0.721,
+      "batter_woba_contact": 0.492,
+      "batter_ab_vs_pitch": 43,
+      "batter_barrel_pct": 10.8,
+      "batter_season_slg_overall": 0.498,
+      "matchup_strength": 0.4505,
+      "venue_name": "Progressive Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683748/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "batter_mlbam_id": 683953,
+      "batter_name": "Travis Bazzana",
+      "batter_team": "Cleveland Guardians",
+      "bat_side": "L",
+      "pitcher_mlbam_id": 656876,
+      "pitcher_name": "Drew Rasmussen",
+      "pitcher_throws": "R",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.791,
+      "batter_slg": 0.5,
+      "batter_woba_contact": 0.333,
+      "batter_ab_vs_pitch": 66,
+      "batter_barrel_pct": 5.2,
+      "batter_season_slg_overall": 0.408,
+      "matchup_strength": 0.3955,
+      "venue_name": "Progressive Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683953/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "batter_mlbam_id": 691406,
+      "batter_name": "Junior Caminero",
+      "batter_team": "Tampa Bay Rays",
+      "bat_side": "R",
+      "pitcher_mlbam_id": 800048,
+      "pitcher_name": "Parker Messick",
+      "pitcher_throws": "L",
+      "pitch_type": "Fastball",
+      "pitcher_usage_pct": 0.625,
+      "batter_slg": 0.545,
+      "batter_woba_contact": 0.359,
+      "batter_ab_vs_pitch": 66,
+      "batter_barrel_pct": 13.1,
+      "batter_season_slg_overall": 0.524,
+      "matchup_strength": 0.3408,
+      "venue_name": "Progressive Field",
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800048/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    }
+  ]
+}
