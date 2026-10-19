@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-19",
+  "generated_at_et": "2026-10-19 12:41:50 EDT",
+  "concept": "power_sluggers",
+  "items": [
+    {
+      "rank": 1,
+      "mlbam_id": 691406,
+      "player_name": "Junior Caminero",
+      "team": "Tampa Bay Rays",
+      "opposing_pitcher": "Shawn Armstrong",
+      "opposing_pitcher_id": 542888,
+      "venue_name": "Tropicana Field",
+      "barrel_pct": 13.1,
+      "fb_pct": 18.6,
+      "avg_exit_velo": 92.7,
+      "hard_hit_pct": 49.7,
+      "pitcher_hr_per_9": 1.019,
+      "threshold_count": 2,
+      "threshold_label": "2/3",
+      "base_score": 0.714,
+      "threshold_bonus": 0.05,
+      "final_score": 0.764,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/691406/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/542888/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 2,
+      "mlbam_id": 666018,
+      "player_name": "Jonathan Aranda",
+      "team": "Tampa Bay Rays",
+      "opposing_pitcher": "Shawn Armstrong",
+      "opposing_pitcher_id": 542888,
+      "venue_name": "Tropicana Field",
+      "barrel_pct": 9.9,
+      "fb_pct": 35.9,
+      "avg_exit_velo": 91.1,
+      "hard_hit_pct": 46.0,
+      "pitcher_hr_per_9": 1.019,
+      "threshold_count": 1,
+      "threshold_label": "1/3",
+      "base_score": 0.712,
+      "threshold_bonus": 0.0,
+      "final_score": 0.712,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666018/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/542888/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 3,
+      "mlbam_id": 666176,
+      "player_name": "Jo Adell",
+      "team": "Cleveland Guardians",
+      "opposing_pitcher": "Freddy Peralta",
+      "opposing_pitcher_id": 642547,
+      "venue_name": "Tropicana Field",
+      "barrel_pct": 8.9,
+      "fb_pct": 32.65,
+      "avg_exit_velo": 90.4,
+      "hard_hit_pct": 44.9,
+      "pitcher_hr_per_9": 1.225,
+      "threshold_count": 1,
+      "threshold_label": "1/3",
+      "base_score": 0.683,
+      "threshold_bonus": 0.0,
+      "final_score": 0.683,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666176/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/114.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "rank": 4,
+      "mlbam_id": 683748,
+      "player_name": "Victor Mesa Jr.",
+      "team": "Tampa Bay Rays",
+      "opposing_pitcher": "Shawn Armstrong",
+      "opposing_pitcher_id": 542888,
+      "venue_name": "Tropicana Field",
+      "barrel_pct": 10.8,
+      "fb_pct": 25.0,
+      "avg_exit_velo": 89.4,
+      "hard_hit_pct": 42.2,
+      "pitcher_hr_per_9": 1.019,
+      "threshold_count": 1,
+      "threshold_label": "1/3",
+      "base_score": 0.678,
+      "threshold_bonus": 0.0,
+      "final_score": 0.678,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683748/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/542888/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    },
+    {
+      "rank": 5,
+      "mlbam_id": 650490,
+      "player_name": "Yandy D\u00edaz",
+      "team": "Tampa Bay Rays",
+      "opposing_pitcher": "Shawn Armstrong",
+      "opposing_pitcher_id": 542888,
+      "venue_name": "Tropicana Field",
+      "barrel_pct": 7.1,
+      "fb_pct": 27.08,
+      "avg_exit_velo": 90.9,
+      "hard_hit_pct": 48.1,
+      "pitcher_hr_per_9": 1.019,
+      "threshold_count": 1,
+      "threshold_label": "1/3",
+      "base_score": 0.593,
+      "threshold_bonus": 0.0,
+      "final_score": 0.593,
+      "image_urls": {
+        "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650490/headshot/67/current",
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/542888/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/114.svg"
+      }
+    }
+  ]
+}
