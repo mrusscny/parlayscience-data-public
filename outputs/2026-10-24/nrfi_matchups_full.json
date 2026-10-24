@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-24",
+  "generated_at_et": "2026-10-24 09:44:10 EDT",
+  "concept": "nrfi_matchups_full",
+  "items": [
+    {
+      "game_rank": 1,
+      "pitcher_role": "away",
+      "game_pk": 849802,
+      "pitcher_mlbam_id": 656876,
+      "pitcher_name": "Drew Rasmussen",
+      "pitcher_team": "Tampa Bay Rays",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 2.7,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Milwaukee Brewers",
+      "opposing_team_nrfi_rate": 0.615,
+      "opposing_team_games_evaluated": 13,
+      "pitcher_composite_score": 0.465,
+      "game_nrfi_score": 0.507,
+      "venue_name": "American Family Field",
+      "game_time_et": "8:00 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656876/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    },
+    {
+      "game_rank": 1,
+      "pitcher_role": "home",
+      "game_pk": 849802,
+      "pitcher_mlbam_id": 701656,
+      "pitcher_name": "Logan Henderson",
+      "pitcher_team": "Milwaukee Brewers",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 1.0,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Tampa Bay Rays",
+      "opposing_team_nrfi_rate": 0.643,
+      "opposing_team_games_evaluated": 14,
+      "pitcher_composite_score": 0.548,
+      "game_nrfi_score": 0.507,
+      "venue_name": "American Family Field",
+      "game_time_et": "8:00 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/701656/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    }
+  ]
+}
