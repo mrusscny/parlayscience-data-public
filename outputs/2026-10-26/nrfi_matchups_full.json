@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-26",
+  "generated_at_et": "2026-10-26 12:23:23 EDT",
+  "concept": "nrfi_matchups_full",
+  "items": [
+    {
+      "game_rank": 1,
+      "pitcher_role": "away",
+      "game_pk": 849804,
+      "pitcher_mlbam_id": 688107,
+      "pitcher_name": "Robert Gasser",
+      "pitcher_team": "Milwaukee Brewers",
+      "pitcher_throws": "L",
+      "pitcher_first_inning_era": 2.61,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Tampa Bay Rays",
+      "opposing_team_nrfi_rate": 0.615,
+      "opposing_team_games_evaluated": 13,
+      "pitcher_composite_score": 0.469,
+      "game_nrfi_score": 0.402,
+      "venue_name": "Tropicana Field",
+      "game_time_et": "8:00 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
+      }
+    },
+    {
+      "game_rank": 1,
+      "pitcher_role": "home",
+      "game_pk": 849804,
+      "pitcher_mlbam_id": 642547,
+      "pitcher_name": "Freddy Peralta",
+      "pitcher_team": "Tampa Bay Rays",
+      "pitcher_throws": "R",
+      "pitcher_first_inning_era": 5.4,
+      "pitcher_l10_nrfi_rate": 0.0,
+      "pitcher_l10_starts_evaluated": 0,
+      "opposing_team": "Milwaukee Brewers",
+      "opposing_team_nrfi_rate": 0.583,
+      "opposing_team_games_evaluated": 12,
+      "pitcher_composite_score": 0.335,
+      "game_nrfi_score": 0.402,
+      "venue_name": "Tropicana Field",
+      "game_time_et": "8:00 PM ET",
+      "image_urls": {
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
+        "opposing_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+      }
+    }
+  ]
+}
