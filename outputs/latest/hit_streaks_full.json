@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-26",
-  "generated_at_et": "2026-10-26 15:07:43 EDT",
+  "date": "2026-10-27",
+  "generated_at_et": "2026-10-27 11:36:32 EDT",
   "concept": "hit_streaks_full",
   "items": [
     {
@@ -9,8 +9,8 @@
       "player_name": "Brice Turang",
       "team": "Milwaukee Brewers",
       "bat_side": "L",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 6,
@@ -22,7 +22,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/668930/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -32,8 +32,8 @@
       "player_name": "Jackson Chourio",
       "team": "Milwaukee Brewers",
       "bat_side": "R",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 5,
@@ -45,7 +45,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/694192/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -55,9 +55,9 @@
       "player_name": "Jonny DeLuca",
       "team": "Tampa Bay Rays",
       "bat_side": "R",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 5,
       "streak_hits": 8,
@@ -67,9 +67,7 @@
       "last_game_date": "2026-09-27",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/676356/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -78,9 +76,9 @@
       "player_name": "Cedric Mullins",
       "team": "Tampa Bay Rays",
       "bat_side": "L",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 4,
       "streak_hits": 4,
@@ -90,9 +88,7 @@
       "last_game_date": "2026-09-27",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/656775/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -101,9 +97,9 @@
       "player_name": "Victor Mesa Jr.",
       "team": "Tampa Bay Rays",
       "bat_side": "L",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 3,
       "streak_hits": 6,
@@ -113,9 +109,7 @@
       "last_game_date": "2026-09-27",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/683748/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -124,9 +118,9 @@
       "player_name": "Taylor Walls",
       "team": "Tampa Bay Rays",
       "bat_side": "S",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 3,
       "streak_hits": 5,
@@ -136,9 +130,7 @@
       "last_game_date": "2026-09-26",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/670764/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -147,8 +139,8 @@
       "player_name": "David Hamilton",
       "team": "Milwaukee Brewers",
       "bat_side": "L",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 3,
@@ -160,7 +152,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666152/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -170,8 +162,8 @@
       "player_name": "Joey Ortiz",
       "team": "Milwaukee Brewers",
       "bat_side": "R",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 3,
@@ -183,7 +175,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/687401/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -193,9 +185,9 @@
       "player_name": "Liam Hicks",
       "team": "Tampa Bay Rays",
       "bat_side": "L",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 2,
       "streak_hits": 4,
@@ -205,9 +197,7 @@
       "last_game_date": "2026-09-27",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/689414/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -216,8 +206,8 @@
       "player_name": "Cooper Pratt",
       "team": "Milwaukee Brewers",
       "bat_side": "R",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 2,
@@ -229,7 +219,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/806198/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -239,8 +229,8 @@
       "player_name": "William Contreras",
       "team": "Milwaukee Brewers",
       "bat_side": "R",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 2,
@@ -252,7 +242,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/661388/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -262,9 +252,9 @@
       "player_name": "Yandy D\u00edaz",
       "team": "Tampa Bay Rays",
       "bat_side": "R",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
       "streak_hits": 3,
@@ -274,9 +264,7 @@
       "last_game_date": "2026-09-26",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/650490/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -285,9 +273,9 @@
       "player_name": "Jonathan Aranda",
       "team": "Tampa Bay Rays",
       "bat_side": "L",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
       "streak_hits": 1,
@@ -297,9 +285,7 @@
       "last_game_date": "2026-09-27",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/666018/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -308,8 +294,8 @@
       "player_name": "Garrett Mitchell",
       "team": "Milwaukee Brewers",
       "bat_side": "L",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
@@ -321,7 +307,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/669003/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -331,9 +317,9 @@
       "player_name": "Jorge Mateo",
       "team": "Tampa Bay Rays",
       "bat_side": "R",
-      "opposing_pitcher": "Robert Gasser",
-      "opposing_pitcher_id": 688107,
-      "pitcher_throws": "L",
+      "opposing_pitcher": "TBD",
+      "opposing_pitcher_id": null,
+      "pitcher_throws": "U",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
       "streak_hits": 1,
@@ -343,9 +329,7 @@
       "last_game_date": "2026-09-27",
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/622761/headshot/67/current",
-        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/688107/headshot/67/current",
-        "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/158.svg"
+        "batter_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
     {
@@ -354,8 +338,8 @@
       "player_name": "Christian Yelich",
       "team": "Milwaukee Brewers",
       "bat_side": "L",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
@@ -367,7 +351,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/592885/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -377,8 +361,8 @@
       "player_name": "Gary S\u00e1nchez",
       "team": "Milwaukee Brewers",
       "bat_side": "R",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
@@ -390,7 +374,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/596142/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -400,8 +384,8 @@
       "player_name": "Jake Bauers",
       "team": "Milwaukee Brewers",
       "bat_side": "L",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
@@ -413,7 +397,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/641343/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     },
@@ -423,8 +407,8 @@
       "player_name": "Luis Lara",
       "team": "Milwaukee Brewers",
       "bat_side": "S",
-      "opposing_pitcher": "Freddy Peralta",
-      "opposing_pitcher_id": 642547,
+      "opposing_pitcher": "Griffin Jax",
+      "opposing_pitcher_id": 643377.0,
       "pitcher_throws": "R",
       "venue_name": "Tropicana Field",
       "streak_length": 1,
@@ -436,7 +420,7 @@
       "image_urls": {
         "batter_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/800325/headshot/67/current",
         "batter_team_logo": "https://www.mlbstatic.com/team-logos/158.svg",
-        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/642547/headshot/67/current",
+        "pitcher_headshot": "https://img.mlbstatic.com/mlb-photos/image/upload/d_people:generic:headshot:67:current.png/w_213,q_auto:best/v1/people/643377/headshot/67/current",
         "pitcher_team_logo": "https://www.mlbstatic.com/team-logos/139.svg"
       }
     }
